@@ -10,12 +10,16 @@ Reconhece cadeias como:
 Cada remissão fica gravada no próprio dispositivo de origem (posição no texto e alvo)
 e numa lista de arestas (quem cita quem), usada para gerar os "citado por".
 
+Depois da detecção, aplica as decisões da revisão humana (pipeline/revisoes.csv; ver revisoes.py).
+
 Saída: dados/<id>.estrutura.json atualizado + dados/remissoes.json + dados/nao_resolvidas.csv
+       + dados/revisoes_aplicadas.json
 """
 import csv
 import json
 import re
 
+import revisoes
 from comum import romano_para_int
 
 N_ART = r"\d{1,3}(?:\s?[º°o](?!\w))?(?:-[A-Z]\b)?"
@@ -365,7 +369,7 @@ def resolver_documento(idx, d, parte_id, art_origem, unidade, chave):
                 refs.append({"ini": m.start(), "fim": m.end(), "doc": alvo_doc, "disp": None, "conf": "documento"})
                 arestas.append({"de_doc": d["id"], "de": unidade.get("id"), "de_art": art_origem["id"] if art_origem else None,
                                 "para_doc": alvo_doc, "para": None, "para_art": None, "conf": "documento",
-                                "trecho": texto[max(0, m.start() - 60):m.end() + 40]})
+                                "trecho": texto[max(0, m.start() - 60):m.end() + 40], "citacao": texto[m.start():m.end()]})
             elif rot_ext:
                 refs.append({"ini": m.start(), "fim": m.end(), "externo": rot_ext, "url": url_ext, "conf": "externo"})
             continue
@@ -466,7 +470,7 @@ def resolver_documento(idx, d, parte_id, art_origem, unidade, chave):
                 arestas.append({"de_doc": d["id"], "de": unidade.get("id"), "de_art": art_origem["id"] if art_origem else None,
                                 "para_doc": alvo_doc, "para": disp, "para_art": aid,
                                 "conf": "inferido" if inferido else conf, "tipo": tipo_aresta,
-                                "trecho": texto[max(0, ini - 60):fim + 40]})
+                                "trecho": texto[max(0, ini - 60):fim + 40], "citacao": texto[ini:fim]})
     # remove sobreposições (mantém a primeira)
     refs.sort(key=lambda r: (r["ini"], -r["fim"]))
     limpo, fim_ant = [], -1
@@ -480,18 +484,21 @@ def resolver_documento(idx, d, parte_id, art_origem, unidade, chave):
 def executar(docs_meta, pasta_dados):
     docs = [json.loads((pasta_dados / f"{d['id']}.estrutura.json").read_text(encoding="utf-8")) for d in docs_meta]
     idx = Indice(docs)
+    rev = revisoes.Aplicador(revisoes.carregar(), docs)   # decisões da revisão humana (revisoes.csv)
     todas, pend = [], []
     for d in docs:
         n_ref = 0
         for parte_id, art, unidade, chave in unidades(d):
             refs, arestas, pendentes = resolver_documento(idx, d, parte_id, art, unidade, chave)
+            de = unidade.get("id") or ("preambulo" if parte_id == "corpo" else parte_id)
+            if unidade.get("id") is None and art is None:
+                for a in arestas:
+                    a["de"] = de
+            refs, arestas = rev.aplicar(d["id"], de, art, texto_de(unidade, chave), refs, arestas)
             if chave[0] == "linhas":
                 unidade.setdefault("refs_linhas", {})[str(chave[1])] = refs
             else:
                 unidade["refs"] = refs
-            if unidade.get("id") is None and art is None:
-                for a in arestas:
-                    a["de"] = "preambulo" if parte_id == "corpo" else parte_id
             todas += arestas
             pend += pendentes
             n_ref += len(refs)
@@ -505,4 +512,5 @@ def executar(docs_meta, pasta_dados):
         w.writeheader()
         w.writerows(pend)
     print(f"  total de arestas: {len(todas)}  |  não resolvidas: {len(pend)}")
+    rev.gravar(pasta_dados / "revisoes_aplicadas.json")
     return todas, pend

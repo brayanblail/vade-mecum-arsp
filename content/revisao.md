@@ -2,7 +2,7 @@
 title: Remissões a conferir
 ---
 
-Lista gerada automaticamente. **Parcial**: o dispositivo citado não existe no ato de destino (possível erro na norma ou numeração alterada); o link vai para o artigo. **Inferido**: o texto não diz de qual ato é o artigo; foi usado o ato padrão do documento.
+Lista gerada automaticamente. **Parcial**: o dispositivo citado não existe no ato de destino (possível erro na norma ou numeração alterada); o link vai para o artigo. **Inferido**: o texto não diz de qual ato é o artigo; foi usado o ato padrão do documento. As decisões da revisão ficam em `pipeline/revisoes.csv` (comando `/revisar`).
 
 ## Parciais (1)
 

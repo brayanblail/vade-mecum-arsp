@@ -7,7 +7,8 @@
     python .claude/skills/nova-resolucao/apoio.py validar
         Confere o documentos.csv (16 colunas, ids únicos, PDFs existentes...). Sai com código 1 se houver erro.
     python .claude/skills/nova-resolucao/apoio.py comparar [--rev HEAD]
-        Compara as contagens de dados/ com as de uma versão do git: artigos, remissões, novas parciais e inferidas.
+        Compara as contagens de dados/ com as de uma versão do git: artigos, remissões, novas parciais e inferidas,
+        decisões da revisão (revisoes.csv). Remissões tiradas ou trocadas por decisão da revisão não contam como regressão.
 
 Opção comum: --pdfs "D:\\Claude\\Resoluções ARSP"
 """
@@ -283,6 +284,17 @@ def chave(x):
     return (x["de_doc"], x["de"], x["para_doc"], x["para"], x["conf"])
 
 
+def revisoes_aplicadas(rev=None):
+    """Decisões da revisão aplicadas na execução gravada (dados/revisoes_aplicadas.json)."""
+    return json.loads(ler("dados/revisoes_aplicadas.json", rev) or '{"aplicadas": [], "orfas": []}')
+
+
+def explicada(x, decs):
+    """A remissão sumiu ou mudou por causa de uma decisão da revisão (sem_link ou corrigir)?"""
+    return any(d["doc"] == x["de_doc"] and d["dispositivo"] == x["de"] and d["decisao"] != "aceitar"
+               and (x.get("citacao") == d["citacao"] or d["citacao"] in x.get("trecho", "")) for d in decs)
+
+
 def cmd_comparar(a):
     antes, ar_a, nr_a = contagens(a.rev)
     depois, ar_d, nr_d = contagens(None)
@@ -307,10 +319,30 @@ def cmd_comparar(a):
     ca, cd = Counter(x["conf"] for x in ar_a), Counter(x["conf"] for x in ar_d)
     print("por nível: " + ", ".join(f"{k} {ca[k]} -> {cd[k]}" for k in sorted(set(ca) | set(cd))))
 
+    rv_a, rv_d = revisoes_aplicadas(a.rev), revisoes_aplicadas(None)
+    k_rv = lambda d: (d["doc"], d["dispositivo"], d["citacao"], d["decisao"], d.get("novo_alvo", ""))
+    ja = {k_rv(d) for d in rv_a["aplicadas"]}
+    novas_rv = [d for d in rv_d["aplicadas"] if k_rv(d) not in ja]
+    agora = {k_rv(d) for d in rv_d["aplicadas"]}
+    saiu_rv = [d for d in rv_a["aplicadas"] if k_rv(d) not in agora]
+    print(f"revisões aplicadas: {len(rv_a['aplicadas'])} -> {len(rv_d['aplicadas'])}"
+          f" | sem correspondência: {len(rv_d['orfas'])}")
+    for titulo, lst in (("Decisões da revisão novas ou mudadas", novas_rv), ("Decisões da revisão retiradas", saiu_rv)):
+        if lst:
+            print(f"\n{titulo} ({len(lst)}):")
+            for d in lst:
+                alvo = f" -> {d['novo_alvo']}" if d.get("novo_alvo") else ""
+                print(f"  {d['doc']} {d['dispositivo']} “{d['citacao']}”: {d['decisao']}{alvo}")
+    if rv_d["orfas"]:
+        print(f"\nATENÇÃO: {len(rv_d['orfas'])} decisões da revisão não acharam a remissão (o texto mudou?):")
+        for d in rv_d["orfas"]:
+            print(f"  {d['doc']} {d['dispositivo']} “{d['citacao']}”: {d['decisao']}")
+
     ka = {chave(x) for x in ar_a}
     kd = {chave(x) for x in ar_d}
     novas = [x for x in ar_d if chave(x) not in ka]
-    sumiram = [x for x in ar_a if chave(x) not in kd and x["de_doc"] in depois]
+    sumiram = [x for x in ar_a if chave(x) not in kd and x["de_doc"] in depois
+               and not explicada(x, rv_d["aplicadas"]) and not explicada(x, saiu_rv)]
     for nivel in ("parcial", "inferido"):
         lst = [x for x in novas if x["conf"] == nivel]
         if lst:

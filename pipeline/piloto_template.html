@@ -16,6 +16,7 @@
   --marca:rgba(255,210,0,.42); --marca-borda:#e0b400;
   --alerta:#9c4310; --alerta-fundo:rgba(156,67,16,.09);
   --inferido:#5a49b0; --inferido-fundo:rgba(90,73,176,.10);
+  --revisado:#1d7348; --revisado-fundo:rgba(29,115,72,.10);
   --sombra:0 10px 30px rgba(20,30,45,.16), 0 2px 6px rgba(20,30,45,.08);
   --f-texto:"Literata", Georgia, "Times New Roman", serif;
   --f-ui:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -28,6 +29,7 @@
   --marca:rgba(255,210,0,.22); --marca-borda:#c9a200;
   --alerta:#f2a56c; --alerta-fundo:rgba(242,165,108,.12);
   --inferido:#b6aaff; --inferido-fundo:rgba(182,170,255,.12);
+  --revisado:#7fd3a5; --revisado-fundo:rgba(127,211,165,.12);
   --sombra:0 12px 34px rgba(0,0,0,.5), 0 2px 6px rgba(0,0,0,.4);
   color-scheme:dark;
 }}
@@ -37,6 +39,7 @@
   --marca:rgba(255,210,0,.22); --marca-borda:#c9a200;
   --alerta:#f2a56c; --alerta-fundo:rgba(242,165,108,.12);
   --inferido:#b6aaff; --inferido-fundo:rgba(182,170,255,.12);
+  --revisado:#7fd3a5; --revisado-fundo:rgba(127,211,165,.12);
   --sombra:0 12px 34px rgba(0,0,0,.5), 0 2px 6px rgba(0,0,0,.4);
   color-scheme:dark;
 }
@@ -171,6 +174,8 @@ a.ref{color:var(--caneta);text-decoration:underline;text-decoration-thickness:1p
 a.ref:hover{background:var(--caneta-fundo);text-decoration-color:var(--caneta)}
 a.ref.inferido{text-decoration-style:dashed;color:var(--inferido);text-decoration-color:var(--inferido)}
 a.ref.parcial{text-decoration-style:wavy;text-decoration-color:var(--alerta)}
+a.ref.corrigido{color:var(--revisado);text-decoration-color:var(--revisado)}
+span.ref.semlink{border-bottom:1px dotted var(--revisado);cursor:help}
 a.ref.doc{font-weight:500}
 a.ref.ext{color:var(--sub);text-decoration-style:dotted}
 span.ref.fora{border-bottom:1px dotted var(--fio-forte)}
@@ -183,6 +188,7 @@ span.ref.fora{border-bottom:1px dotted var(--fio-forte)}
 .aviso{flex-basis:100%;font-size:.78rem;padding:.3rem .5rem;border-radius:5px;margin-top:.2rem}
 .aviso.inferido{background:var(--inferido-fundo);color:var(--inferido)}
 .aviso.parcial{background:var(--alerta-fundo);color:var(--alerta)}
+.aviso.corrigido,.aviso.conferido{background:var(--revisado-fundo);color:var(--revisado)}
 .pop-corpo{overflow:auto;padding:.4rem .9rem .3rem;overscroll-behavior:contain}
 .pop-corpo .art{border-top:0;grid-template-columns:4.2rem minmax(0,1fr);gap:0 .7rem;padding:.4rem 0}
 .pop-corpo .art-c{font-size:.92rem;line-height:1.55}
@@ -238,8 +244,39 @@ body{padding-bottom:var(--respiro,0px)}
 .legenda{font-size:.84rem;color:var(--sub);margin-top:.6rem;max-width:48rem}
 
 /* revisão */
-.rev-item{border-top:1px solid var(--fio);padding:.7rem 0;max-width:52rem}
-.rev-item .tr{font-family:var(--f-texto);color:var(--sub);font-size:.9rem;display:block;margin-top:.2rem}
+.rev-item{border-top:1px solid var(--fio);padding:.8rem 0;max-width:52rem}
+.rev-item .tr{font-family:var(--f-texto);color:var(--sub);font-size:.9rem;display:block;margin-top:.25rem}
+.rev-item .tr mark{background:var(--marca);color:inherit;border-radius:2px;padding:0 .1em}
+.rev-cab{display:flex;flex-wrap:wrap;gap:.2rem .5rem;align-items:baseline}
+.rev-tag{font-size:.72rem;font-weight:600;padding:.05rem .5rem;border-radius:999px}
+.rev-tag.parcial{background:var(--alerta-fundo);color:var(--alerta)}
+.rev-tag.inferido{background:var(--inferido-fundo);color:var(--inferido)}
+.rev-tag.feita{background:var(--revisado-fundo);color:var(--revisado)}
+.rev-acoes{display:flex;flex-wrap:wrap;gap:.4rem;margin-top:.55rem;align-items:center}
+.rev-mais{display:contents}
+.rev-b{border:1px solid var(--fio-forte);background:var(--folha);border-radius:6px;padding:.25rem .7rem;font-size:.84rem;cursor:pointer;color:var(--tinta)}
+.rev-b:hover:not(:disabled){border-color:var(--caneta);color:var(--caneta);background:var(--caneta-fundo)}
+.rev-b.forte{background:var(--caneta);border-color:var(--caneta);color:var(--folha);font-weight:500}
+.rev-b.forte:hover:not(:disabled){background:var(--caneta);color:var(--folha);filter:brightness(1.12)}
+.rev-b.mudo{border-color:transparent;background:none;color:var(--sub);padding-inline:.35rem}
+.rev-b:disabled{opacity:.4;cursor:default}
+.rev-rasc{margin-top:.55rem;background:var(--caneta-fundo);border-radius:6px;padding:.5rem .7rem;font-size:.88rem;display:flex;flex-wrap:wrap;gap:.4rem .7rem;align-items:center}
+.rev-rasc b{color:var(--caneta);font-weight:600}
+.rev-nota,.rev-destino,.rev-nota-nova{font:inherit;font-size:.86rem;padding:.3rem .55rem;border:1px solid var(--fio-forte);border-radius:6px;background:var(--folha);color:var(--tinta);min-width:0}
+.rev-nota{flex:1 1 16rem}
+.rev-form{margin-top:.55rem;border:1px solid var(--fio);border-radius:8px;padding:.7rem .8rem;display:flex;flex-direction:column;gap:.55rem;background:var(--folha)}
+.rev-form label{font-size:.78rem;font-weight:600;color:var(--sub);display:flex;flex-direction:column;gap:.2rem}
+.rev-form .rev-acoes{margin-top:0}
+.rev-prev{font-size:.84rem;color:var(--sub);min-height:1.3em}
+.rev-prev b{color:var(--tinta);font-weight:600}
+.rev-prev .t{display:block;font-family:var(--f-texto);margin-top:.15rem}
+.rev-prev.erro{color:var(--alerta)}
+.rev-feita{font-size:.88rem;margin-top:.35rem}
+.rev-feita .nt{color:var(--sub)}
+.rev-vazio{color:var(--sub);font-size:.9rem}
+.rev-barra{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--topo) + .5rem);z-index:5;max-width:52rem;margin:0 0 1rem;background:var(--folha);border:1px solid var(--caneta);border-radius:8px;padding:.7rem .9rem;box-shadow:var(--sombra);display:flex;flex-wrap:wrap;gap:.5rem .8rem;align-items:center;font-size:.9rem}
+.rev-barra p{flex-basis:100%;margin:0;color:var(--sub);font-size:.82rem}
+.rev-barra textarea{flex-basis:100%;font-family:var(--f-mono);font-size:.74rem;min-height:7rem;border:1px solid var(--fio-forte);border-radius:6px;background:var(--papel);color:var(--tinta);padding:.5rem}
 
 .toast{position:fixed;left:50%;bottom:calc(1.2rem + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--tinta);color:var(--folha);padding:.5rem .9rem;border-radius:6px;font-size:.86rem;z-index:60;max-width:calc(100vw - 32px)}
 
@@ -339,6 +376,12 @@ for (const d of D.docs) (d.rel || "").split(",").filter(Boolean).forEach(r => { 
 const nDisp = D.docs.reduce((n, d) => n + d.partes.reduce((m, p) => m + p.B.filter(b => b.k === "a").length, 0), 0);
 
 /* ---------- texto com remissões ---------- */
+function origemRotulo(o){   // destino que o detector tinha achado antes da correção
+  if (!o) return "";
+  if (o.s) return `${DOCS.get(o.d) ? DOCS.get(o.d).sigla : o.d}, ${rotulo(o.d, o.s)}`;
+  if (o.d) return DOCS.get(o.d) ? DOCS.get(o.d).sigla : o.d;
+  return o.x || "ato fora do piloto";
+}
 function txt(t, R){
   if (!R || !R.length) return esc(t);
   let out = "", pos = 0;
@@ -346,8 +389,11 @@ function txt(t, R){
     if (r.i < pos) continue;
     out += esc(t.slice(pos, r.i));
     const s = esc(t.slice(r.i, r.f));
-    if (r.s) out += `<a class="ref${r.S ? " multi" : ""} ${r.c || ""}" href="#${r.d}--${h(r.s)}" data-d="${r.d}" data-s="${esc(r.s)}"${r.S ? ` data-ss="${esc(r.S.join(","))}"` : ""} data-c="${r.c || ""}"${r.S ? ` title="Cita ${r.S.length} dispositivos"` : ""}>${s}</a>`;
-    else if (r.d) out += `<a class="ref doc" href="#${r.d}" data-d="${r.d}" title="${esc(DOCS.get(r.d).sigla)}">${s}</a>`;
+    // revisão humana: data-o = destino antes da correção, data-n = nota, data-v = link conferido e mantido
+    const rv = (r.o ? ` data-o="${esc(origemRotulo(r.o))}"` : "") + (r.n ? ` data-n="${esc(r.n)}"` : "") + (r.v ? ` data-v="1"` : "");
+    if (r.c === "sem_link") out += `<span class="ref semlink" title="Sem link por decisão da revisão${r.n ? ": " + esc(r.n) : ""}">${s}</span>`;
+    else if (r.s) out += `<a class="ref${r.S ? " multi" : ""} ${r.c || ""}" href="#${r.d}--${h(r.s)}" data-d="${r.d}" data-s="${esc(r.s)}"${r.S ? ` data-ss="${esc(r.S.join(","))}"` : ""} data-c="${r.c || ""}"${rv}${r.S ? ` title="Cita ${r.S.length} dispositivos"` : ""}>${s}</a>`;
+    else if (r.d) out += `<a class="ref doc${r.c === "corrigido" ? " corrigido" : ""}" href="#${r.d}" data-d="${r.d}" title="${esc(DOCS.get(r.d).sigla)}${r.c === "corrigido" ? " (link corrigido na revisão)" : ""}">${s}</a>`;
     else if (r.u) out += `<a class="ref ext" href="${esc(r.u)}" target="_blank" rel="noopener" title="${esc(r.x)}: abre no LexML">${s}</a>`;
     else out += `<span class="ref fora" title="${esc(r.x)}: fora do piloto">${s}</span>`;
     pos = r.f;
@@ -409,7 +455,7 @@ function cartao(d){
 }
 function inicio(){
   docAtual = null; indice("inicio");
-  const parcial = D.arestas.filter(e => e.g === "parcial");
+  const parcial = PEND.filter(e => e.g === "parcial");
   let s = `<div class="abre"><h1>Normas de gás canalizado da ARSP, ligadas dispositivo a dispositivo</h1>
     <p>Cada remissão do tipo “§ 7º do art. 43 da Resolução ARSP nº 46/2021” virou link para o parágrafo exato. Passe o mouse para ver o artigo inteiro; no pé de cada artigo aparece quem o cita.</p></div>
     <div class="numeros"><div><b>${D.docs.length}</b><span>documentos</span></div><div><b>${nDisp}</b><span>artigos e cláusulas</span></div><div><b>${D.arestas.length}</b><span>remissões ligadas</span></div><div><b>${[...DOC_CITA.values()].reduce((n, m) => n + m.size, 0)}</b><span>ligações entre atos</span></div></div>
@@ -549,15 +595,186 @@ function mapa(){
   scrollTo(0, 0);
 }
 
-function revisao(){
-  docAtual = null; indice("revisao");
-  const item = e => `<div class="rev-item"><a href="#${e.a}--${h(e.b || "")}">${esc(DOCS.get(e.a).sigla)}, ${esc(rotulo(e.a, e.b) || "preâmbulo")}</a> → <a class="ref ${e.g}" href="#${e.d}--${h(e.e)}" data-d="${e.d}" data-s="${esc(e.e)}" data-c="${e.g}">${esc(DOCS.get(e.d).sigla)}, ${esc(rotulo(e.d, e.e))}</a><span class="tr">“…${esc(e.h)}…”</span></div>`;
-  const par = D.arestas.filter(e => e.g === "parcial"), inf = D.arestas.filter(e => e.g === "inferido");
-  vista.innerHTML = `<div class="abre"><h1>Remissões a conferir</h1><p>O detector marca dois casos para revisão humana. <b>Parcial</b>: o dispositivo citado não existe no ato de destino (erro na norma ou numeração alterada); o link vai para o artigo. <b>Inferido</b>: o texto não diz de qual ato é o artigo, e foi usado o ato padrão do documento.</p></div>
-    <section class="grupo"><h2>Parciais (${par.length})</h2>${par.map(item).join("")}</section>
-    <section class="grupo"><h2>Inferidas (${inf.length}): nota técnica da CP 004/2026 → minuta</h2>${inf.map(item).join("")}</section>`;
-  scrollTo(0, 0);
+/* ---------- revisão das remissões (aba "A conferir") ----------
+   As decisões ficam guardadas neste navegador até serem copiadas para o comando /revisar do
+   Claude Code, que as grava em pipeline/revisoes.csv; o pipeline aplica e o site é gerado de novo. */
+const REV_COLS = "doc;dispositivo;citacao;decisao;novo_alvo;nota;data";
+const REV_NOMES = {aceitar: "Aceitar o link", sem_link: "Tirar o link", corrigir: "Corrigir o link", desfazer: "Voltar a pendente"};
+const REV_LS = "vm-arsp:revisao-rascunho";
+const kRev = (a, b, x) => `${a}|${b}|${x}`;
+const REV_FEITAS = new Map((D.revisoes || []).map(r => [kRev(r.a, r.b, r.x), r]));
+const alvoTxt = p => p ? (p.e ? `${p.d}--${h(p.e)}` : p.d) : "";
+function itensRev(){   // remissões parciais e inferidas ainda sem decisão, uma por citação
+  const m = new Map();
+  for (const e of D.arestas){
+    const k = kRev(e.a, e.b, e.x);
+    if (!m.has(k)) m.set(k, {k, a: e.a, b: e.b, x: e.x, h: e.h, g: null, alvos: []});
+    const it = m.get(k);
+    if (e.g === "parcial" || (e.g === "inferido" && it.g !== "parcial")) it.g = e.g;
+    if (!it.alvos.some(t => t.d === e.d && t.e === e.e)) it.alvos.push({d: e.d, e: e.e, g: e.g});
+  }
+  return [...m.values()].filter(it => it.g && !REV_FEITAS.has(it.k));
 }
+const PEND = itensRev();
+let RASC = (() => { try { const v = JSON.parse(localStorage.getItem(REV_LS) || "[]"); return Array.isArray(v) ? v : []; } catch (_){ return []; } })();
+let avisouLS = false;
+function gravarRasc(){
+  try { localStorage.setItem(REV_LS, JSON.stringify(RASC)); }
+  catch (_){ if (!avisouLS){ avisouLS = true; avisar("Este navegador não deixou guardar as decisões: copie-as antes de fechar a página."); } }
+}
+{ // rascunhos que o site já incorporou (depois do /revisar) ou que não existem mais saem da lista
+  const vivos = new Set([...PEND.map(i => i.k), ...REV_FEITAS.keys()]), n = RASC.length;
+  RASC = RASC.filter(r => {
+    if (!r || !vivos.has(r.k)) return false;
+    const f = REV_FEITAS.get(r.k);
+    if (r.decisao === "desfazer") return !!f;
+    return !(f && f.k === r.decisao && (r.decisao !== "corrigir" || alvoTxt(f.p) === r.novo)); });
+  if (RASC.length !== n) try { localStorage.setItem(REV_LS, JSON.stringify(RASC)); } catch (_){}
+}
+function hoje(){ const d = new Date(); return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, "0")}-${String(d.getDate()).padStart(2, "0")}`; }
+function guardarRasc(k, decisao, alvo, nota){
+  const [a, b, ...xs] = k.split("|");
+  RASC = RASC.filter(r => r.k !== k);
+  RASC.push({k, doc: a, de: b, cit: xs.join("|"), decisao, novo: alvo ? alvo.novo : "", rot: alvo ? alvo.rot : "", nota: nota || "", data: hoje()});
+  gravarRasc(); revisao(true);
+}
+function textoRasc(){
+  const limpa = s => String(s || "").replace(/\s*[;\r\n]+\s*/g, ", ").trim();
+  return ["/revisar", REV_COLS, ...RASC.map(r => [r.doc, r.de, r.cit, r.decisao, r.novo, limpa(r.nota), r.data].join(";"))].join("\n");
+}
+function copiarRasc(){
+  const t = textoRasc(), n = RASC.length;
+  const mostra = () => { const area = $("#rev-texto"); area.hidden = false; area.value = t; area.focus(); area.select(); avisar("Copie o texto selecionado (Ctrl+C) e cole no Claude Code."); };
+  if (navigator.clipboard && navigator.clipboard.writeText)
+    navigator.clipboard.writeText(t).then(() => avisar(`${n} ${n === 1 ? "decisão copiada" : "decisões copiadas"}. Cole no Claude Code aberto na pasta do projeto.`), mostra);
+  else mostra();
+}
+function resolverDestino(v){   // "046 art 43 §7", "#res-arsp-046-2021--art43-par7" ou o endereço inteiro
+  v = v.trim();
+  if (!v) return null;
+  const ato = id => ({d: id, s: null, novo: id, rot: DOCS.get(id).sigla + " (o ato inteiro)"});
+  if (DOCS.has(v)) return ato(v);
+  if (v.includes("#") || v.includes("--")){
+    let hsh = v.slice(v.lastIndexOf("#") + 1);
+    try { hsh = decodeURIComponent(hsh); } catch (_){}
+    const [doc, disp] = hsh.split("--");
+    if (!DOCS.has(doc)) return null;
+    if (!disp) return ato(doc);
+    const s = HASH.get(doc + "|" + disp);
+    return s ? {d: doc, s, novo: `${doc}--${h(s)}`, rot: `${DOCS.get(doc).sigla} · ${rotulo(doc, s)}`} : null;
+  }
+  const r = salto(v);
+  return r ? {d: r.d, s: r.s, novo: `${r.d}--${h(r.s)}`, rot: r.rot} : null;
+}
+function previaDestino(form){
+  const v = form.querySelector(".rev-destino").value.trim(), r = resolverDestino(v);
+  const prev = form.querySelector(".rev-prev");
+  form._alvo = r;
+  form.querySelector('[data-acao="guardar-correcao"]').disabled = !r;
+  prev.classList.toggle("erro", !r && !!v);
+  if (!r){ prev.textContent = v ? "Não encontrei esse dispositivo." : "Escreva como na busca do topo (ex.: 046 art 43 §7) ou cole o endereço de um dispositivo."; return; }
+  const u = r.s ? (IDX.get(r.d + "|" + r.s) || {}).u : null;
+  const t = u ? (u.t || (u.C && u.C.t) || "") : "";
+  prev.innerHTML = `<b>${esc(r.rot)}</b>${t ? `<span class="t">${esc(t.length > 260 ? t.slice(0, 260) + "…" : t)}</span>` : ""}`;
+}
+const origemRev = it => `<a href="#${it.a}--${h(it.b && it.b !== "preambulo" ? it.b : "")}">${esc(DOCS.get(it.a).sigla)}, ${esc(rotulo(it.a, it.b) || "preâmbulo")}</a>`;
+function destinoRev(t, x){
+  if (!t.d || !DOCS.has(t.d)) return esc(t.x || "ato fora do piloto");
+  if (!t.e) return `<a href="#${t.d}">${esc(DOCS.get(t.d).sigla)}</a>`;
+  return `<a class="ref ${t.g || ""}" href="#${t.d}--${h(t.e)}" data-d="${t.d}" data-s="${esc(t.e)}" data-c="${t.g || ""}" data-t="${esc(x || "")}">${esc(DOCS.get(t.d).sigla)}, ${esc(rotulo(t.d, t.e))}</a>`;
+}
+function trechoRev(hh, x){
+  const i = x ? hh.indexOf(x) : -1;
+  return i < 0 ? esc(hh) : esc(hh.slice(0, i)) + `<mark>${esc(x)}</mark>` + esc(hh.slice(i + x.length));
+}
+function acoesRev(it, feita){
+  const k = esc(it.k), r = RASC.find(x => x.k === it.k);
+  if (r){
+    const oque = r.decisao === "corrigir" ? `corrigir o link para <b>${esc(r.rot || r.novo)}</b>` : `<b>${REV_NOMES[r.decisao].toLowerCase()}</b>`;
+    return `<div class="rev-rasc"><span>Decisão guardada: ${oque}.</span>
+      <input class="rev-nota" data-k="${k}" value="${esc(r.nota || "")}" placeholder="Nota (opcional): o motivo da decisão" aria-label="Nota da decisão">
+      <button type="button" class="rev-b mudo" data-acao="descartar" data-k="${k}">Desfazer</button></div>`;
+  }
+  const bts = `<button type="button" class="rev-b" data-acao="aceitar" data-k="${k}">Aceitar o link</button>
+    <button type="button" class="rev-b" data-acao="sem_link" data-k="${k}">Tirar o link</button>
+    <button type="button" class="rev-b" data-acao="corrigir" data-k="${k}">Corrigir…</button>`;
+  if (!feita) return `<div class="rev-acoes">${bts}</div>`;
+  return `<div class="rev-acoes"><button type="button" class="rev-b mudo" data-acao="mudar" aria-expanded="false">Mudar decisão</button>
+    <span class="rev-mais" hidden>${bts}<button type="button" class="rev-b" data-acao="desfazer" data-k="${k}">Voltar a pendente</button></span></div>`;
+}
+function itemPend(it){
+  return `<div class="rev-item"><div class="rev-cab"><span class="rev-tag ${it.g}">${it.g === "parcial" ? "Parcial" : "Inferida"}</span>${origemRev(it)} → ${it.alvos.map(t => destinoRev(t, it.x)).join(", ")}</div>
+    <span class="tr">“…${trechoRev(it.h, it.x)}…”</span>${acoesRev(it, false)}<div class="rev-slot"></div></div>`;
+}
+function itemFeita(r){
+  const it = {k: kRev(r.a, r.b, r.x), a: r.a, b: r.b, x: r.x};
+  const antes = r.o.map(t => destinoRev(t, r.x)).join(", ") || "nenhum";
+  const oque = r.k === "aceitar" ? `Link mantido: ${antes}.`
+    : r.k === "sem_link" ? `Link retirado; antes ia para ${antes}.`
+    : `Link corrigido para ${destinoRev({d: r.p.d, e: r.p.e, g: "corrigido"}, r.x)}; antes ia para ${antes}.`;
+  return `<div class="rev-item"><div class="rev-cab"><span class="rev-tag feita">${{aceitar: "Aceita", sem_link: "Sem link", corrigir: "Corrigida"}[r.k]}</span>${origemRev(it)}</div>
+    <span class="tr">“…${trechoRev(r.h, r.x)}…”</span>
+    <div class="rev-feita">${oque}${r.n ? ` <span class="nt">${esc(r.n)}</span>` : ""}${r.dt ? ` <span class="nt">(${dataBR(r.dt)})</span>` : ""}</div>
+    ${acoesRev(it, true)}<div class="rev-slot"></div></div>`;
+}
+function barraRev(){
+  const n = RASC.length;
+  if (!n) return "";
+  return `<div class="rev-barra"><span><b>${n} ${n === 1 ? "decisão guardada" : "decisões guardadas"}</b> neste navegador, ainda não ${n === 1 ? "aplicada" : "aplicadas"} ao site.</span>
+    <button type="button" class="rev-b forte" data-acao="copiar">Copiar para o Claude Code</button>
+    <button type="button" class="rev-b" data-acao="ver-texto">Ver o texto</button>
+    <button type="button" class="rev-b mudo" data-acao="descartar-tudo">Descartar todas</button>
+    <p>Cole o texto no Claude Code aberto na pasta do projeto. O comando /revisar grava as decisões em pipeline/revisoes.csv, atualiza o site e, com o seu OK, publica.</p>
+    <textarea id="rev-texto" readonly hidden aria-label="Texto das decisões"></textarea></div>`;
+}
+function revisao(manter){
+  const y = scrollY;
+  docAtual = null; indice("revisao");
+  const par = PEND.filter(i => i.g === "parcial"), inf = PEND.filter(i => i.g === "inferido"), feitas = [...REV_FEITAS.values()];
+  const vazio = `<p class="rev-vazio">Nenhuma pendente.</p>`;
+  vista.innerHTML = `<div class="abre"><h1>Remissões a conferir</h1><p>O detector marca dois casos para revisão humana. <b>Parcial</b>: o dispositivo citado não existe no ato de destino (erro na norma ou numeração alterada); o link vai para o artigo. <b>Inferida</b>: o texto não diz de qual ato é o artigo, e foi usado o ato padrão do documento.</p>
+    <p>Para cada uma, escolha <b>Aceitar o link</b> (fica como está), <b>Tirar o link</b> (o trecho vira texto simples) ou <b>Corrigir…</b> (aponte o dispositivo certo). O texto da norma nunca muda, só o link.</p></div>
+    ${barraRev()}
+    <section class="grupo"><h2>Parciais (${par.length})</h2>${par.map(itemPend).join("") || vazio}</section>
+    <section class="grupo"><h2>Inferidas (${inf.length})</h2>${inf.map(itemPend).join("") || vazio}</section>
+    <section class="grupo"><h2>Conferidas (${feitas.length})</h2>${feitas.map(itemFeita).join("") || `<p class="rev-vazio">Nenhuma decisão aplicada ainda.</p>`}</section>`;
+  scrollTo(0, manter ? y : 0);
+}
+vista.addEventListener("click", e => {
+  const bt = e.target.closest(".rev-b");
+  if (!bt) return;
+  const acao = bt.dataset.acao, k = bt.dataset.k, item = bt.closest(".rev-item");
+  if (acao === "aceitar" || acao === "sem_link" || acao === "desfazer") guardarRasc(k, acao);
+  else if (acao === "corrigir"){
+    const slot = item.querySelector(".rev-slot");
+    if (!slot.innerHTML) slot.innerHTML = `<div class="rev-form">
+        <label>Dispositivo certo<input class="rev-destino" autocomplete="off" placeholder="Ex.: 046 art 43 §7, ou cole o endereço (#res-arsp-046-2021--art43-par7)"></label>
+        <div class="rev-prev" aria-live="polite"></div>
+        <label>Nota (opcional)<input class="rev-nota-nova" placeholder="O motivo da correção"></label>
+        <div class="rev-acoes"><button type="button" class="rev-b forte" data-acao="guardar-correcao" data-k="${esc(k)}" disabled>Guardar a correção</button><button type="button" class="rev-b mudo" data-acao="cancelar">Cancelar</button></div></div>`;
+    previaDestino(slot.querySelector(".rev-form"));
+    slot.querySelector(".rev-destino").focus();
+  }
+  else if (acao === "guardar-correcao"){ const f = bt.closest(".rev-form"); if (f._alvo) guardarRasc(k, "corrigir", f._alvo, f.querySelector(".rev-nota-nova").value); }
+  else if (acao === "cancelar") item.querySelector(".rev-slot").innerHTML = "";
+  else if (acao === "descartar"){ RASC = RASC.filter(r => r.k !== k); gravarRasc(); revisao(true); }
+  else if (acao === "mudar"){ const mais = item.querySelector(".rev-mais"); mais.hidden = !mais.hidden; bt.setAttribute("aria-expanded", String(!mais.hidden)); }
+  else if (acao === "copiar") copiarRasc();
+  else if (acao === "ver-texto"){ const area = $("#rev-texto"); area.hidden = !area.hidden; area.value = textoRasc(); }
+  else if (acao === "descartar-tudo" && confirm(`Descartar as ${RASC.length} decisões guardadas neste navegador?`)){ RASC = []; gravarRasc(); revisao(true); }
+});
+vista.addEventListener("input", e => {
+  if (e.target.classList.contains("rev-destino")) previaDestino(e.target.closest(".rev-form"));
+  else if (e.target.classList.contains("rev-nota")){
+    const r = RASC.find(x => x.k === e.target.dataset.k);
+    if (r){ r.nota = e.target.value; gravarRasc(); const area = $("#rev-texto"); if (area && !area.hidden) area.value = textoRasc(); }
+  }
+});
+vista.addEventListener("keydown", e => {
+  if (e.key !== "Enter" || !e.target.closest(".rev-form")) return;
+  const bt = e.target.closest(".rev-form").querySelector('[data-acao="guardar-correcao"]');
+  if (!bt.disabled){ e.preventDefault(); bt.click(); }
+});
 
 function rota(){
   fecharPop(true); fecharBusca();
@@ -579,7 +796,7 @@ medeTopo(); if (window.ResizeObserver) new ResizeObserver(medeTopo).observe(topo
 // Estado de uma caixinha: ato, lista de dispositivos citados e qual está à vista.
 function estadoDoLink(a){
   return {d: a.dataset.d, alvos: a.dataset.ss ? a.dataset.ss.split(",") : [a.dataset.s], i: 0,
-          c: a.dataset.c || "", texto: a.textContent};
+          c: a.dataset.c || "", texto: a.dataset.t || a.textContent, o: a.dataset.o || "", n: a.dataset.n || "", v: !!a.dataset.v};
 }
 function rotulosCurtos(doc, alvos){
   // "Anexo I, Art. 60, § 2º" e "Anexo I, Art. 60, § 3º" -> "§ 2º", "§ 3º"
@@ -594,6 +811,8 @@ function conteudo(st, fixa){
   let aviso = "";
   if (st.c === "inferido") aviso = `<span class="aviso inferido">Vínculo inferido: o texto não diz de qual ato é este artigo; usamos ${esc(d.sigla)}.</span>`;
   if (st.c === "parcial") aviso = `<span class="aviso parcial">O texto cita “${esc(st.texto)}”, mas esse dispositivo não existe aqui. Mostrando o artigo.</span>`;
+  if (st.c === "corrigido") aviso = `<span class="aviso corrigido">Link corrigido na revisão${st.o ? `: o detector ligava a ${esc(st.o)}` : ""}.${st.n ? " " + esc(st.n) : ""}</span>`;
+  if (st.v) aviso += `<span class="aviso conferido">Conferido na revisão: link mantido.${st.n ? " " + esc(st.n) : ""}</span>`;
   const n = st.alvos.length, pg = info.u.p || info.b.p;
   const nav = n < 2 ? "" : `<div class="jn-nav" role="group" aria-label="Dispositivos citados nesta remissão">
       <button type="button" class="jn-b jn-ant" aria-label="Dispositivo anterior"${st.i === 0 ? " disabled" : ""}>‹</button>
@@ -653,7 +872,7 @@ function abrirJanela(st, perto){
   w.className = "pop janela";
   w.setAttribute("role", "dialog");
   w.tabIndex = -1;
-  w._st = {d: st.d, alvos: [...st.alvos], i: st.i, c: st.c, texto: st.texto};
+  w._st = {...st, alvos: [...st.alvos]};
   w.innerHTML = conteudo(w._st, true);
   w.setAttribute("aria-label", rotulo(st.d, st.alvos[st.i]));
   $("#janelas").appendChild(w);
@@ -794,7 +1013,7 @@ document.addEventListener("click", e => {
       lista.innerHTML = (CITADO.get(cit.dataset.k) || []).filter(x => { const k = x.a + x.b + x.e; if (vistos.has(k)) return false; vistos.add(k); return true; })
         .sort((x, y) => (x.a === doc) - (y.a === doc) || x.a.localeCompare(y.a))
         .map(x => `<div class="cit-item"><a class="o" href="#${x.a}--${h(x.b && x.b !== "preambulo" ? x.b : "")}">${esc(DOCS.get(x.a).sigla)}${x.a === doc ? " (esta norma)" : ""}, ${esc(rotulo(x.a, x.b) || "preâmbulo")}</a>
-          <span class="para">cita ${esc(rotulo(x.d, x.e))}${x.g === "inferido" ? " · vínculo inferido" : ""}${x.g === "parcial" ? " · dispositivo inexistente" : ""}</span><span class="tr">“…${esc(x.h)}…”</span></div>`).join("");
+          <span class="para">cita ${esc(rotulo(x.d, x.e))}${x.g === "inferido" ? " · vínculo inferido" : ""}${x.g === "parcial" ? " · dispositivo inexistente" : ""}${x.g === "corrigido" ? " · link corrigido na revisão" : ""}</span><span class="tr">“…${esc(x.h)}…”</span></div>`).join("");
     }
     lista.hidden = aberto; cit.setAttribute("aria-expanded", String(!aberto));
     return;

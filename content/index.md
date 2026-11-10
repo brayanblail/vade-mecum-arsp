@@ -5,7 +5,7 @@ title: Normas de gás canalizado – ARSP/ES
 Resoluções, leis e consultas públicas da ARSP com **link direto para cada artigo, parágrafo, inciso e alínea**. Passe o mouse sobre uma remissão para ver o dispositivo; no fim de cada artigo aparece quem o cita.
 
 > [!warning] Piloto
-> 15 documentos, 347 remissões detectadas automaticamente em 09/11/2026. Em caso de dúvida, vale o PDF original. Veja [[revisao|o que conferir]].
+> 15 documentos, 347 remissões detectadas automaticamente em 10/11/2026. Em caso de dúvida, vale o PDF original. Veja [[revisao|o que conferir]].
 
 ## Leis
 

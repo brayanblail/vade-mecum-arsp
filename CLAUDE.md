@@ -9,13 +9,14 @@ O piloto foi construído numa conversa no app do Claude e validado com 15 docume
 ```powershell
 python pipeline\construir.py --pdfs "D:\Claude\Resoluções ARSP"
 python pipeline\construir.py --pdfs "D:\Claude\Resoluções ARSP" --so remissoes   # extrair | estruturar | remissoes | quartz | piloto
+python pipeline\construir.py --pdfs "D:\Claude\Resoluções ARSP" --desde remissoes  # da etapa 3 até o fim
 ```
 
 Saídas (todas regeneradas a cada execução; **nunca edite à mão**, mude o pipeline e rode de novo):
 
 - `site-piloto/index.html` + `site-piloto/pdf/`: site de página única com caixinha, janelas fixas, busca, mapa e aba "A conferir".
 - `content/`: notas Markdown para Quartz v5 e Obsidian (uma nota por artigo, block refs `^par7`).
-- `dados/`: `*.estrutura.json`, `remissoes.json`, `nao_resolvidas.csv`.
+- `dados/`: `*.estrutura.json`, `remissoes.json`, `nao_resolvidas.csv`, `revisoes_aplicadas.json`.
 
 Depois de qualquer mudança, confira `content/revisao.md` (parciais e inferidas) e `dados/nao_resolvidas.csv`, e compare as contagens com as anteriores: `python .claude\skills\nova-resolucao\apoio.py comparar` mostra, ato por ato, o que mudou em relação ao último commit e avisa se alguma remissão sumiu.
 
@@ -23,12 +24,20 @@ Depois de qualquer mudança, confira `content/revisao.md` (parciais e inferidas)
 
 - O site de página única é publicado em https://brayanblail.github.io/vade-mecum-arsp/ pelo workflow `.github/workflows/pages.yml`, a cada push na `main` que altere `site-piloto/`.
 - Para incluir uma resolução ARSP ou uma decisão ARSP/DG nova, use `/nova-resolucao` (`.claude/skills/nova-resolucao/`). Atos da ASPE ainda não são suportados: o `remissoes.py` registra toda resolução como ARSP.
+- Para aplicar as decisões da aba "A conferir" (aceitar, tirar ou corrigir um link), use `/revisar` (`.claude/skills/revisar/`). O site guarda as decisões no navegador, e o botão "Copiar para o Claude Code" gera o texto que o comando recebe.
+
+## Revisão humana das remissões
+
+- As decisões ficam em `pipeline/revisoes.csv` (separador `;`, 7 colunas: `doc;dispositivo;citacao;decisao;novo_alvo;nota;data`). É entrada do pipeline, como o `documentos.csv`: edite pelo `/revisar` ou por `python pipeline\revisoes.py mesclar <arquivo>`.
+- A remissão é achada pelo ato e dispositivo de origem e pelo texto exato da citação. Se o texto mudar, a decisão fica "sem correspondência": a etapa 3 avisa, e o `revisoes.py validar` e o `apoio.py comparar` acusam.
+- `decisao`: `aceitar` (o link fica e sai dos pendentes), `sem_link` (o trecho vira texto simples) ou `corrigir` (o link vai para `novo_alvo`, no formato do endereço do site, como `res-arsp-046-2021--art43-par7`).
+- O texto da norma nunca muda, só o link. Link corrigido é verde, e a caixinha diz para onde o detector ligava antes.
 
 ## Etapas do pipeline
 
 1. `extrair.py`: PyMuPDF. Filtra cabeçalho e rodapé, agrupa spans na mesma linha de base (colunas justificadas do DIO) e descarta texto tachado (redações revogadas da LC 827).
 2. `estruturar.py`: artigos, parágrafos, incisos e alíneas, com validação da sequência numérica. Anexos com prefixo `anx1_`. Linhas de assinatura encerram o artigo.
-3. `remissoes.py`: cadeias de citação (art, §, inciso, alínea, "deste artigo", "Resolução ARSP nº N/AAAA", leis, decretos, códigos). Intervalos e listas ("artigos 37 a 39", "§§ 2º e 3º") geram uma remissão com `alvos` (todos os dispositivos), `arts` e `spans` (posição de cada número no texto).
+3. `remissoes.py`: cadeias de citação (art, §, inciso, alínea, "deste artigo", "Resolução ARSP nº N/AAAA", leis, decretos, códigos). Intervalos e listas ("artigos 37 a 39", "§§ 2º e 3º") geram uma remissão com `alvos` (todos os dispositivos), `arts` e `spans` (posição de cada número no texto). Cada aresta guarda a `citacao` (texto exato). No fim, aplica as decisões do `revisoes.csv` (`revisoes.py`).
 4. `gerar_quartz.py`: `content/`. Remissões múltiplas viram um link por número.
 5. `gerar_piloto.py` + `piloto_template.html`: o site de página única, com os dados embutidos em JSON.
 
@@ -46,21 +55,24 @@ Depois de qualquer mudança, confira `content/revisao.md` (parciais e inferidas)
   - `parcial`: o dispositivo citado não existe no destino;
   - `inferido`: "art. N" sem dizer o ato; usa `alvo_padrao` do CSV;
   - `documento`: link só para o ato;
-  - `externo`: ato fora do cadastro, com LexML quando conhecido.
+  - `externo`: ato fora do cadastro, com LexML quando conhecido;
+  - `corrigido` e `sem_link`: decisões da revisão humana (`revisoes.csv`).
 - PDFs com camada de texto corrompida: OCR com Tesseract (`por`, `--psm 6`), arquivos em `ocr/p<numero>-NN.txt` e `ocr=sim` no CSV.
 
 ## Teste do site de página única
 
-Abra `site-piloto/index.html` no navegador (ou com Playwright) e confira:
+Abra `site-piloto/index.html` no navegador (ou com Playwright). No painel do navegador do app, o `.claude/launch.json` serve o site em http://localhost:8765 (`preview_start` com o nome `site-piloto`). Confira:
 
 - Res. 046/2021, art. 43, § 7º: "artigos 37 a 39" tem sublinhado duplo. A caixinha mostra ‹ › e os botões Art. 37, Art. 38 e Art. 39.
 - O clique abre uma janela que se arrasta pelo título, redimensiona pelo canto e encaixa em Topo/Base.
 - Esc ou × fecha a janela; o limite é de 6 janelas, e elas continuam abertas ao trocar de ato.
+- Aba "A conferir": Aceitar, Tirar o link e Corrigir… guardam a decisão (sobrevive ao recarregar), e "Ver o texto" mostra as linhas para o `/revisar`.
 - Sem rolagem horizontal a 390 px de largura e sem erros no console.
 
 ## Pendências conhecidas
 
-- CUSD (Res. 053/2021), cláusula 5.3.1: cita "§7º, art. 42" da Res. 046, que não existe. Pelo assunto, o certo parece ser o art. 43, § 7º. Aparece como `parcial`.
+- CUSD (Res. 053/2021), cláusula 5.3.1: cita "§7º, art. 42" da Res. 046, que não existe. Pelo assunto, o certo parece ser o art. 43, § 7º. Aparece como `parcial`; a decisão é do usuário, na aba "A conferir".
+- NT GGN 001/2026, item 2: o "Art. 25 (...) § 2º" transcreve a Constituição Federal, mas está ligado por inferência ao art. 25 da minuta.
 - Res. 061/2023, preâmbulo: "art. 43 da Resolução ARSP Nº 046/2021" liga só ao ato, não ao artigo.
 - Remissões a CLÁUSULAS do CUSD e ao contrato de concessão ainda não viram link.
 - Res. 048/2021 vem de OCR: vale conferir com o PDF.

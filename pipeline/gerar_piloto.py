@@ -14,16 +14,38 @@ AQUI = Path(__file__).resolve().parent
 
 def ref_compacta(r):
     o = {"i": r["ini"], "f": r["fim"], "c": r.get("conf", "")}
-    if r.get("disp"):
+    if r.get("conf") == "sem_link":
+        pass
+    elif r.get("disp"):
         o["d"], o["s"] = r["doc"], r["disp"]
         if r.get("alvos"):
             o["S"] = r["alvos"]
-    elif r.get("conf") == "documento":
+    elif r.get("doc"):
         o["d"] = r["doc"]
     else:
         o["x"] = r.get("externo", "")
         if r.get("url"):
             o["u"] = r["url"]
+    # revisão humana: "v" = link conferido e mantido; "o" = destino antes da correção; "n" = nota
+    if r.get("rev") == "aceitar":
+        o["v"] = 1
+    if r.get("orig"):
+        x = r["orig"]
+        o["o"] = {"d": x.get("doc"), "s": x.get("disp")} if x.get("doc") else {"x": x.get("externo") or ""}
+    if r.get("nota"):
+        o["n"] = r["nota"]
+    return o
+
+
+def revisao_compacta(r):
+    o = {"a": r["doc"], "b": r["dispositivo"], "x": r["citacao"], "k": r["decisao"], "h": r.get("trecho", ""),
+         "o": [{"d": x.get("para_doc"), "e": x.get("para"), "g": x.get("conf"), "x": x.get("externo")} for x in r.get("antes", [])]}
+    if r.get("depois"):
+        o["p"] = {"d": r["depois"]["para_doc"], "e": r["depois"]["para"]}
+    if r.get("nota"):
+        o["n"] = r["nota"]
+    if r.get("data"):
+        o["dt"] = r["data"]
     return o
 
 
@@ -57,7 +79,7 @@ def bloco(b):
     return o
 
 
-def executar(docs, arestas, pasta_out, pasta_pdfs):
+def executar(docs, arestas, pasta_out, pasta_pdfs, revisoes=()):
     m = Mapa(docs)
     if pasta_out.exists():
         shutil.rmtree(pasta_out)
@@ -73,8 +95,9 @@ def executar(docs, arestas, pasta_out, pasta_pdfs):
         shutil.copy(pasta_pdfs / d["arquivo"], pasta_out / "pdf" / f"{d['id']}.pdf")
     rotulos = {f"{k[0]}|{k[1]}": v["rotulo"] for k, v in m.disp.items()}
     ar = [{"a": a["de_doc"], "b": a["de"], "c": a["de_art"], "d": a["para_doc"], "e": a["para"], "f": a["para_art"],
-           "g": a["conf"], "t": a.get("tipo", "documento"), "h": a["trecho"].strip()[:220]} for a in arestas]
-    dados = {"docs": dados_docs, "arestas": ar, "rotulos": rotulos}
+           "g": a["conf"], "t": a.get("tipo", "documento"), "h": a["trecho"].strip()[:220], "x": a.get("citacao", "")}
+          for a in arestas]
+    dados = {"docs": dados_docs, "arestas": ar, "rotulos": rotulos, "revisoes": [revisao_compacta(r) for r in revisoes]}
     js = json.dumps(dados, ensure_ascii=False, separators=(",", ":")).replace("</", "<\\/")
     html = (AQUI / "piloto_template.html").read_text(encoding="utf-8").replace("/*__DADOS__*/{}", js)
     (pasta_out / "index.html").write_text(html, encoding="utf-8")

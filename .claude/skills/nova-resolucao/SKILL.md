@@ -72,6 +72,7 @@ Rode `apoio.py comparar`, que compara a pasta com o último commit. Analise:
 - **Atos novos:** a linha marcada com `+`.
 - **Atos que já existiam:** só a coluna "citado por" deve mudar, nos atos citados pelo novo. Se mudarem artigos ou remissões de um ato antigo, é suspeito. Investigue.
 - **"ATENÇÃO … sumiram":** possível regressão. Investigue antes de seguir.
+- **Decisões da revisão sem correspondência:** uma remissão já revisada (`pipeline/revisoes.csv`) mudou de texto. Avise o usuário: a decisão tem de ser refeita na aba "A conferir" e aplicada com `/revisar`.
 - **Novas `parcial`:** confira no PDF.
   - Se o erro é da norma, registre em "Pendências conhecidas" no `CLAUDE.md`.
   - Se o erro é do pipeline, corrija.

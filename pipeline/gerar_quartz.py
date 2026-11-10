@@ -34,10 +34,12 @@ def alias(t):
 
 
 class Gerador:
-    def __init__(self, docs, arestas, pasta_out, pasta_pdfs):
+    def __init__(self, docs, arestas, pasta_out, pasta_pdfs, revisoes=()):
         self.docs = docs
         self.m = Mapa(docs)
         self.arestas = arestas
+        self.revisoes = list(revisoes)
+        self.revisadas = {(r["doc"], r["dispositivo"], r["citacao"]) for r in self.revisoes}
         self.out = pasta_out
         self.pdfs = pasta_pdfs
         self.citado_por = defaultdict(list)   # (doc, art_id) -> arestas
@@ -70,6 +72,22 @@ class Gerador:
             return self.link_doc(a["de_doc"], self.m.docs[a["de_doc"]]["sigla"] + " · preâmbulo")
         return self.link_disp(a["de_doc"], a["de"], self.m.rotulo_completo(a["de_doc"], a["de"]))
 
+    def rotulo_orig(self, o):
+        """Destino que o detector tinha achado antes da correção."""
+        if o.get("disp"):
+            return self.m.rotulo_completo(o["doc"], o["disp"])
+        if o.get("doc"):
+            return self.m.docs[o["doc"]]["sigla"] if o["doc"] in self.m.docs else o["doc"]
+        return o.get("externo") or "nenhum dispositivo"
+
+    def marca_corrigido(self, r):
+        if r.get("conf") != "corrigido":
+            return ""
+        dica = f"Link corrigido na revisão; o detector ligava a {self.rotulo_orig(r.get('orig') or {})}."
+        if r.get("nota"):
+            dica += " " + r["nota"]
+        return f'<sup title="{dica.replace(chr(34), chr(39))}">†</sup>'
+
     def com_links(self, texto, refs):
         out, pos = [], 0
         for r in sorted(refs or [], key=lambda r: r["ini"]):
@@ -88,9 +106,9 @@ class Gerador:
                     out.append(self.link_disp(r["doc"], alvo, texto[a0:a1]))
                     p = a1
             elif r.get("disp"):
-                out.append(self.link_disp(r["doc"], r["disp"], trecho))
-            elif r.get("conf") == "documento":
-                out.append(self.link_doc(r["doc"], trecho))
+                out.append(self.link_disp(r["doc"], r["disp"], trecho) + self.marca_corrigido(r))
+            elif r.get("doc"):
+                out.append(self.link_doc(r["doc"], trecho) + self.marca_corrigido(r))
             elif r.get("url"):
                 out.append(f"[{alias(trecho)}]({r['url']})")
             else:
@@ -150,6 +168,7 @@ class Gerador:
                 alvo = self.m.disp.get((a["para_doc"], a["para"]), {}).get("rotulo", "")
                 marca = " *(vínculo inferido)*" if a["conf"] == "inferido" else ""
                 marca += " *(dispositivo citado não existe; ligado ao artigo)*" if a["conf"] == "parcial" else ""
+                marca += " *(link corrigido na revisão)*" if a["conf"] == "corrigido" else ""
                 L.append(f"- {self.link_origem(a)} → {esc(alvo)}{marca}")
             L.append("")
         return "\n".join(L)
@@ -245,14 +264,35 @@ class Gerador:
         L = ["---", "title: Remissões a conferir", "---", "",
              "Lista gerada automaticamente. **Parcial**: o dispositivo citado não existe no ato de destino "
              "(possível erro na norma ou numeração alterada); o link vai para o artigo. "
-             "**Inferido**: o texto não diz de qual ato é o artigo; foi usado o ato padrão do documento.", ""]
+             "**Inferido**: o texto não diz de qual ato é o artigo; foi usado o ato padrão do documento. "
+             "As decisões da revisão ficam em `pipeline/revisoes.csv` (comando `/revisar`).", ""]
         for conf, titulo in [("parcial", "Parciais"), ("inferido", "Inferidas")]:
-            xs = [a for a in self.arestas if a["conf"] == conf]
+            xs = [a for a in self.arestas if a["conf"] == conf
+                  and (a["de_doc"], a["de"], a.get("citacao")) not in self.revisadas]
             L.append(f"## {titulo} ({len(xs)})")
             L.append("")
             for a in xs:
                 L.append(f"- {self.link_origem(a)} → {self.link_disp(a['para_doc'], a['para'], self.m.rotulo_completo(a['para_doc'], a['para']))}"
                          f" — “…{esc(a['trecho'].strip()[:160])}…”")
+            L.append("")
+        if self.revisoes:
+            L.append(f"## Conferidas ({len(self.revisoes)})")
+            L.append("")
+            for r in self.revisoes:
+                origem = self.link_origem({"de_doc": r["doc"], "de": r["dispositivo"]})
+                antes = ", ".join(self.rotulo_orig({"doc": x.get("para_doc"), "disp": x.get("para"), "externo": x.get("externo")})
+                                  for x in r.get("antes", [])) or "—"
+                if r["decisao"] == "aceitar":
+                    o_que = f"link mantido ({esc(antes)})"
+                elif r["decisao"] == "sem_link":
+                    o_que = f"sem link (antes: {esc(antes)})"
+                else:
+                    doc, alvo = r["depois"]["para_doc"], r["depois"]["para"]
+                    novo = self.link_disp(doc, alvo, self.m.rotulo_completo(doc, alvo)) if alvo else self.link_doc(doc)
+                    o_que = f"link corrigido para {novo} (antes: {esc(antes)})"
+                nota = f" {esc(r['nota'])}" if r.get("nota") else ""
+                data = f" *({r['data'][8:10]}/{r['data'][5:7]}/{r['data'][:4]})*" if r.get("data") else ""
+                L.append(f"- {origem}, “{esc(r['citacao'])}”: {o_que}.{nota}{data}")
             L.append("")
         return "\n".join(L)
 
@@ -277,5 +317,5 @@ class Gerador:
         print(f"  content/: {len(self.docs)} documentos, {n} notas de artigo")
 
 
-def executar(docs, arestas, pasta_out, pasta_pdfs):
-    Gerador(docs, arestas, pasta_out, pasta_pdfs).executar()
+def executar(docs, arestas, pasta_out, pasta_pdfs, revisoes=()):
+    Gerador(docs, arestas, pasta_out, pasta_pdfs, revisoes).executar()

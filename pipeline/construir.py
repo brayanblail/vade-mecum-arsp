@@ -5,6 +5,7 @@ Uso (na pasta do kit):
 
 Etapas: extrair -> estruturar -> remissoes -> quartz -> piloto
   --so quartz            roda só a geração do content/ (usa dados/ já existentes)
+  --desde remissoes      roda da etapa 3 até o fim (basta depois de mudar o revisoes.csv)
   --sem-piloto           não gera o site-piloto/index.html
 """
 import argparse
@@ -20,6 +21,7 @@ import gerar_piloto  # noqa: E402
 import gerar_quartz  # noqa: E402
 import indice  # noqa: E402
 import remissoes  # noqa: E402
+import revisoes  # noqa: E402
 
 ETAPAS = ["extrair", "estruturar", "remissoes", "quartz", "piloto"]
 
@@ -29,6 +31,7 @@ def main():
     ap.add_argument("--pdfs", required=True, help="pasta 'Resoluções ARSP' com os PDFs (caminhos do documentos.csv)")
     ap.add_argument("--csv", default=str(comum.RAIZ / "pipeline" / "documentos.csv"))
     ap.add_argument("--so", choices=ETAPAS, help="rodar apenas uma etapa")
+    ap.add_argument("--desde", choices=ETAPAS, help="rodar desta etapa até o fim (ex.: --desde remissoes)")
     ap.add_argument("--sem-piloto", action="store_true")
     a = ap.parse_args()
 
@@ -43,6 +46,8 @@ def main():
         sys.exit(1)
 
     etapas = [a.so] if a.so else [e for e in ETAPAS if not (a.sem_piloto and e == "piloto")]
+    if a.desde and not a.so:
+        etapas = [e for e in etapas if ETAPAS.index(e) >= ETAPAS.index(a.desde)]
     if "extrair" in etapas:
         print("1/5 Extraindo texto dos PDFs")
         extrair.executar(docs, pdfs, dados)
@@ -54,12 +59,13 @@ def main():
         remissoes.executar(docs, dados)
     if "quartz" in etapas or "piloto" in etapas:
         est, arestas = indice.carregar(docs, dados)
+        rev = revisoes.carregar_aplicadas(dados)["aplicadas"]
         if "quartz" in etapas:
             print("4/5 Gerando content/ para o Quartz e o Obsidian")
-            gerar_quartz.executar(est, arestas, comum.RAIZ / "content", pdfs)
+            gerar_quartz.executar(est, arestas, comum.RAIZ / "content", pdfs, rev)
         if "piloto" in etapas:
             print("5/5 Gerando site-piloto/index.html")
-            gerar_piloto.executar(est, arestas, comum.RAIZ / "site-piloto", pdfs)
+            gerar_piloto.executar(est, arestas, comum.RAIZ / "site-piloto", pdfs, rev)
     print("Pronto. Revise dados/nao_resolvidas.csv e content/revisao.md.")
 
 
