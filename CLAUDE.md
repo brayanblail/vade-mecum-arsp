@@ -25,6 +25,7 @@ Depois de qualquer mudança, confira `content/revisao.md` (parciais e inferidas)
 - O site de página única é publicado em https://brayanblail.github.io/vade-mecum-arsp/ pelo workflow `.github/workflows/pages.yml`, a cada push na `main` que altere `site-piloto/`.
 - Para incluir uma resolução ARSP ou uma decisão ARSP/DG nova, use `/nova-resolucao` (`.claude/skills/nova-resolucao/`). Atos da ASPE ainda não são suportados: o `remissoes.py` registra toda resolução como ARSP.
 - Para aplicar as decisões da aba "A conferir" (aceitar, tirar ou corrigir um link), use `/revisar` (`.claude/skills/revisar/`). O site guarda as decisões no navegador, e o botão "Copiar para o Claude Code" gera o texto que o comando recebe.
+- A aba "A conferir" é só do mantenedor. No site publicado ela fica escondida e aparece apenas no navegador que abriu o endereço uma vez com `?revisor` (`?revisor=nao` desliga). Na cópia local (arquivo ou localhost) aparece sempre. Isso só esconde a aba: quem a abrir não muda nada no site, porque as decisões só valem depois do `/revisar`.
 
 ## Revisão humana das remissões
 
@@ -66,7 +67,7 @@ Abra `site-piloto/index.html` no navegador (ou com Playwright). No painel do nav
 - Res. 046/2021, art. 43, § 7º: "artigos 37 a 39" tem sublinhado duplo. A caixinha mostra ‹ › e os botões Art. 37, Art. 38 e Art. 39.
 - O clique abre uma janela que se arrasta pelo título, redimensiona pelo canto e encaixa em Topo/Base.
 - Esc ou × fecha a janela; o limite é de 6 janelas, e elas continuam abertas ao trocar de ato.
-- Aba "A conferir": Aceitar, Tirar o link e Corrigir… guardam a decisão (sobrevive ao recarregar), e "Ver o texto" mostra as linhas para o `/revisar`.
+- Aba "A conferir" (no localhost aparece sempre; no site publicado, só com `?revisor`): Aceitar, Tirar o link e Corrigir… guardam a decisão (sobrevive ao recarregar), e "Ver o texto" mostra as linhas para o `/revisar`.
 - Sem rolagem horizontal a 390 px de largura e sem erros no console.
 
 ## Pendências conhecidas

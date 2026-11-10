@@ -71,7 +71,7 @@ Rode `python .claude\skills\nova-resolucao\apoio.py comparar`. Confira:
 
 1. Rode `gh run list -R brayanblail/vade-mecum-arsp --workflow pages.yml --limit 1 --json databaseId,headSha` e confira que o `headSha` é o do commit.
 2. Rode `gh run watch <id> -R brayanblail/vade-mecum-arsp --exit-status`.
-3. No navegador do app, abra `https://brayanblail.github.io/vade-mecum-arsp/?v=<hash curto>#revisao`. Confira:
+3. No navegador do app, abra `https://brayanblail.github.io/vade-mecum-arsp/?v=<hash curto>&revisor#revisao`. Sem o `?revisor`, a aba fica escondida, como para os visitantes. Confira:
    - as decisões aparecem em "Conferidas";
    - num link corrigido, a caixinha mostra o aviso verde "Link corrigido na revisão";
    - o console não tem erros.

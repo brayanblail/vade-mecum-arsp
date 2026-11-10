@@ -314,7 +314,7 @@ body{padding-bottom:var(--respiro,0px)}
     <nav class="nav" aria-label="Seções">
       <a href="#inicio" data-v="inicio">Início</a>
       <a href="#mapa" data-v="mapa">Mapa</a>
-      <a href="#revisao" data-v="revisao">A conferir</a>
+      <a href="#revisao" data-v="revisao" id="nav-revisao" hidden>A conferir</a>
     </nav>
   </div>
 </header>
@@ -468,7 +468,7 @@ function inicio(){
     const ds = D.docs.filter(d => d.grupo === g).sort((a, b) => b.data.localeCompare(a.data));
     if (ds.length) s += `<section class="grupo"><h2>${g}</h2><div class="lista-docs">${ds.map(cartao).join("")}</div></section>`;
   }
-  if (parcial.length){
+  if (parcial.length && REVISOR){
     const e = parcial[0];
     s += `<div class="achado"><b>Remissão que não confere.</b> ${esc(DOCS.get(e.a).sigla)}, ${esc(rotulo(e.a, e.b))}, cita “…${esc(e.h.slice(30, 130))}…”, mas o dispositivo não existe no destino. <a href="#revisao">Ver lista a conferir</a>.</div>`;
   }
@@ -594,6 +594,31 @@ function mapa(){
   });
   scrollTo(0, 0);
 }
+
+/* ---------- modo revisor ----------
+   A aba "A conferir" é de quem mantém o site, não de quem consulta. No site publicado ela só aparece
+   no navegador em que o endereço foi aberto uma vez com ?revisor (?revisor=nao desliga); na cópia
+   local (arquivo ou localhost) aparece sempre, salvo ?revisor=nao. Isto só esconde a aba: as decisões
+   ficam no navegador de quem as tomou e só mudam o site pelo /revisar. */
+const REV_MODO = "vm-arsp:revisor";
+const LOCAL = location.protocol === "file:" || /^(localhost|127\.0\.0\.1|\[::1\])$/.test(location.hostname);
+function modoRevisor(ligar){
+  try { localStorage.setItem(REV_MODO, ligar ? "1" : "0"); return true; } catch (_){ return false; }
+}
+let REVISOR = (() => { try { return (localStorage.getItem(REV_MODO) ?? (LOCAL ? "1" : "0")) === "1"; } catch (_){ return LOCAL; } })();
+{
+  const p = new URLSearchParams(location.search);
+  if (p.has("revisor")){
+    REVISOR = !/^(0|n|nao|não|off)$/i.test(p.get("revisor").trim());
+    if (modoRevisor(REVISOR)){   // tira o ?revisor do endereço, para não ser copiado junto num link
+      p.delete("revisor");
+      const s = p.toString();
+      history.replaceState(null, "", location.pathname + (s ? "?" + s : "") + location.hash);
+    }
+    avisar(REVISOR ? "Modo revisor ligado neste navegador: a aba A conferir aparece só aqui." : "Modo revisor desligado: a aba A conferir sumiu deste navegador.");
+  }
+}
+$("#nav-revisao").hidden = !REVISOR;
 
 /* ---------- revisão das remissões (aba "A conferir") ----------
    As decisões ficam guardadas neste navegador até serem copiadas para o comando /revisar do
@@ -781,7 +806,7 @@ function rota(){
   const hsh = decodeURIComponent(location.hash.slice(1));
   if (!hsh || hsh === "inicio") return inicio();
   if (hsh === "mapa") return mapa();
-  if (hsh === "revisao") return revisao();
+  if (hsh === "revisao") return REVISOR ? revisao() : inicio();
   const [doc, disp] = hsh.split("--");
   if (DOCS.has(doc)) return documento(doc, disp ? HASH.get(doc + "|" + disp) : null);
   inicio();
