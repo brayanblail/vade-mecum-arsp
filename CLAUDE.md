@@ -17,7 +17,12 @@ Saídas (todas regeneradas a cada execução; **nunca edite à mão**, mude o pi
 - `content/`: notas Markdown para Quartz v5 e Obsidian (uma nota por artigo, block refs `^par7`).
 - `dados/`: `*.estrutura.json`, `remissoes.json`, `nao_resolvidas.csv`.
 
-Depois de qualquer mudança, confira `content/revisao.md` (parciais e inferidas) e `dados/nao_resolvidas.csv`, e compare as contagens impressas com as anteriores.
+Depois de qualquer mudança, confira `content/revisao.md` (parciais e inferidas) e `dados/nao_resolvidas.csv`, e compare as contagens com as anteriores: `python .claude\skills\nova-resolucao\apoio.py comparar` mostra, ato por ato, o que mudou em relação ao último commit e avisa se alguma remissão sumiu.
+
+## Publicação e atos novos
+
+- O site de página única é publicado em https://brayanblail.github.io/vade-mecum-arsp/ pelo workflow `.github/workflows/pages.yml`, a cada push na `main` que altere `site-piloto/`.
+- Para incluir uma resolução ARSP ou uma decisão ARSP/DG nova, use `/nova-resolucao` (`.claude/skills/nova-resolucao/`). Atos da ASPE ainda não são suportados: o `remissoes.py` registra toda resolução como ARSP.
 
 ## Etapas do pipeline
 
