@@ -1,0 +1,2498 @@
+[
+{
+"pag": 1,
+"texto": "GERÊNCIA DE REGULAÇÃO DE GÁS NATURAL"
+},
+{
+"pag": 1,
+"texto": "NOTA TÉCNICA – NT/ARSP/GGN/Nº 01/2026"
+},
+{
+"pag": 1,
+"texto": "Local e Data: 29/04/2026 – Vitória/ES"
+},
+{
+"pag": 1,
+"texto": "PROCESSO: 2024-JXH7T"
+},
+{
+"pag": 1,
+"texto": "1. DO OBJETO"
+},
+{
+"pag": 1,
+"texto": "A presente Nota Técnica tem por objeto subsidiar a proposta de Minuta de Resolução que"
+},
+{
+"pag": 1,
+"texto": "dispõe sobre as Condições Gerais da Prestação dos Serviços Locais de Gás Canalizado no"
+},
+{
+"pag": 1,
+"texto": "Estado do Espírito Santo."
+},
+{
+"pag": 1,
+"texto": "2. DOS FUNDAMENTOS LEGAIS"
+},
+{
+"pag": 1,
+"texto": "A legalidade do assunto encontra amparo nos seguintes dispositivos e normativos:"
+},
+{
+"pag": 1,
+"texto": "a) Constituição Federal:"
+},
+{
+"pag": 1,
+"texto": "“Art. 25 (...)"
+},
+{
+"pag": 1,
+"texto": "§ 2º Cabe aos Estados explorar diretamente, ou mediante concessão, os"
+},
+{
+"pag": 1,
+"texto": "serviços locais de gás canalizado, na forma da lei, vedada a edição de medida"
+},
+{
+"pag": 1,
+"texto": "provisória para a sua regulamentação.”"
+},
+{
+"pag": 1,
+"texto": "b) Lei Complementar Nº 827, de 30 de junho de 2016, que criou a Agência de"
+},
+{
+"pag": 1,
+"texto": "Regulação de Serviços Públicos do Espírito Santo – ARSP:"
+},
+{
+"pag": 1,
+"texto": "“Art. 5º Na realização das competências definidas nesta Lei Complementar, a"
+},
+{
+"pag": 1,
+"texto": "ARSP reger-se-á pelas seguintes diretrizes:"
+},
+{
+"pag": 1,
+"texto": "I - garantir o cumprimento das exigências de regularidade, eficiência, segurança,"
+},
+{
+"pag": 1,
+"texto": "atualidade, generalidade e cortesia na prestação dos serviços públicos concedidos,"
+},
+{
+"pag": 1,
+"texto": "permitidos e autorizados, submetidos a sua regulação, controle e fiscalização;"
+},
+{
+"pag": 1,
+"texto": "II - assegurar o cumprimento das normas legais, regulamentares e contratuais, o"
+},
+{
+"pag": 1,
+"texto": "atendimento do interesse público e o respeito aos direitos dos usuários;"
+},
+{
+"pag": 1,
+"texto": "(...)"
+},
+{
+"pag": 1,
+"texto": "V - proteger o consumidor no que diz respeito a preços, continuidade e qualidade"
+},
+{
+"pag": 1,
+"texto": "da prestação dos serviços públicos concedidos; (...)”"
+},
+{
+"pag": 2,
+"texto": "c) Contrato de Concessão para exploração do serviço público de distribuição de gás"
+},
+{
+"pag": 2,
+"texto": "canalizado celebrado, em 22 de julho de 2020, entre Estado do Espírito Santo e a"
+},
+{
+"pag": 2,
+"texto": "ES Gás."
+},
+{
+"pag": 2,
+"texto": "3. DA CONTEXTUALIZAÇÃO"
+},
+{
+"pag": 2,
+"texto": "A Resolução ASPE Nº 005/2007, que estabelece as disposições relativas às Condições"
+},
+{
+"pag": 2,
+"texto": "Gerais a serem observadas na prestação dos serviços públicos de distribuição de gás canalizado"
+},
+{
+"pag": 2,
+"texto": "pela concessionária e na sua utilização pelos usuários no Estado do Espírito Santo, foi"
+},
+{
+"pag": 2,
+"texto": "concebida em 2007, desde sua publicação, a referida resolução foi alterada pelas seguintes"
+},
+{
+"pag": 2,
+"texto": "normas:"
+},
+{
+"pag": 2,
+"texto": "•"
+},
+{
+"pag": 2,
+"texto": "Resolução ASPE – Nº. 005/2008, de 29 de maio de 2008, que dispõe sobre"
+},
+{
+"pag": 2,
+"texto": "segmentos de usuários de gás canalizado, bem como sobre a estrutura tarifária e"
+},
+{
+"pag": 2,
+"texto": "valores das tabelas tarifárias a serem aplicados pela concessionária de distribuição,"
+},
+{
+"pag": 2,
+"texto": "BR – Petrobrás Distribuidora S/A, em sua área de concessão, bem como altera o"
+},
+{
+"pag": 2,
+"texto": "Artigo 17 da Resolução Aspe nº. 005/2007, que dispõe sobre as Condições Gerais"
+},
+{
+"pag": 2,
+"texto": "de Fornecimento de Gás Canalizado no Estado do Espírito Santo."
+},
+{
+"pag": 2,
+"texto": "•"
+},
+{
+"pag": 2,
+"texto": "Resolução ASPE – Nº. 003/2011, de 15 de junho de 2011, que altera o Artigo 60"
+},
+{
+"pag": 2,
+"texto": "da Resolução Aspe nº. 005/2007, que dispõe sobre as Condições Gerais de"
+},
+{
+"pag": 2,
+"texto": "Fornecimento de Gás Canalizado no Estado do Espírito Santo."
+},
+{
+"pag": 2,
+"texto": "No decorrer do tempo, ocorreram mudanças estruturantes no setor, tornando o ambiente"
+},
+{
+"pag": 2,
+"texto": "atual significativamente distinto daquele anteriormente vigente, quando da publicação e das"
+},
+{
+"pag": 2,
+"texto": "alterações da referida resolução, tanto sob o ponto de vista institucional quanto sob as"
+},
+{
+"pag": 2,
+"texto": "perspectivas contratual, legal e de mercado do gás canalizado, conforme se passa a descrever."
+},
+{
+"pag": 2,
+"texto": "Em 01 de julho de 2016, foi publicada a Lei Complementar nº 827, que criou a Agência de"
+},
+{
+"pag": 2,
+"texto": "Regulação de Serviços Públicos – ARSP, decorrente da fusão da ARSI e da ASPE. A referida lei"
+},
+{
+"pag": 2,
+"texto": "e suas alterações atribuíram à ARSP a competência para editar normas, resoluções, instruções,"
+},
+{
+"pag": 2,
+"texto": "recomendações técnicas e procedimentos relativos aos serviços regulados, bem como definir"
+},
+{
+"pag": 2,
+"texto": "tarifas, reajustes e revisões tarifárias."
+},
+{
+"pag": 2,
+"texto": "A ARSP passou a agregar os serviços então regulados pelas antigas agências, em um novo"
+},
+{
+"pag": 2,
+"texto": "arranjo institucional voltado ao fortalecimento do ambiente regulatório estadual."
+},
+{
+"pag": 2,
+"texto": "Até 31 de julho de 2020, a concessionária responsável pela prestação do serviço era a"
+},
+{
+"pag": 2,
+"texto": "Petrobras Distribuidora S/A. A partir de 01 de agosto de 2020, a Companhia de Gás do Estado"
+},
+{
+"pag": 2,
+"texto": "do Espírito Santo – ES Gás iniciou efetivamente a prestação do serviço de distribuição de gás"
+},
+{
+"pag": 2,
+"texto": "canalizado, nos termos do Contrato de Concessão assinado em 22 de julho de 2020."
+},
+{
+"pag": 2,
+"texto": "Ressalta-se que, em 2023, a ES Gás foi desestatizada, passando a integrar o Grupo"
+},
+{
+"pag": 2,
+"texto": "Energisa, sem que houvesse alteração contratual até a presente data."
+},
+{
+"pag": 2,
+"texto": "O novo contrato de concessão estabelece o objeto da concessão, a delimitação da área"
+},
+{
+"pag": 2,
+"texto": "concedida, a forma e período de exploração dos serviços, bem como os direitos e deveres das"
+},
+{
+"pag": 2,
+"texto": "partes envolvidas. Dentre as obrigações da concessionária, destaca-se a prestação de serviço"
+},
+{
+"pag": 3,
+"texto": "adequado, conforme definido no art. 6º, §1º da Lei nº 8.987/1995, na cláusula 8.2.1 do"
+},
+{
+"pag": 3,
+"texto": "contrato de concessão e no art. 7º da Lei Estadual nº 5.720/1998."
+},
+{
+"pag": 3,
+"texto": "O contrato também estabelece diretrizes quanto ao modo, forma e condições da prestação"
+},
+{
+"pag": 3,
+"texto": "dos serviços, abrangendo o planejamento, construção, operação, manutenção do sistema de"
+},
+{
+"pag": 3,
+"texto": "distribuição e as medições desde as estações de transferência de custódia até os pontos de"
+},
+{
+"pag": 3,
+"texto": "entrega do gás aos usuários cativos e agentes livres de mercado."
+},
+{
+"pag": 3,
+"texto": "No ano de 2020, foi editada a Lei Estadual nº 11.173, de 25 de setembro de 2020, que"
+},
+{
+"pag": 3,
+"texto": "dispõe sobre normas para o mercado livre de gás canalizado no âmbito do Estado do Espírito"
+},
+{
+"pag": 3,
+"texto": "Santo. A referida lei estabeleceu as bases legais para a implementação do mercado livre no"
+},
+{
+"pag": 3,
+"texto": "Estado, disciplinando as condições de acesso à rede de distribuição e reforçando a necessária"
+},
+{
+"pag": 3,
+"texto": "separação entre as atividades de comercialização e de prestação do serviço de distribuição. Esse"
+},
+{
+"pag": 3,
+"texto": "marco estadual contribuiu para a consolidação do novo arranjo regulatório do setor no Espírito"
+},
+{
+"pag": 3,
+"texto": "Santo, com reflexos diretos na forma de prestação e na regulação do serviço de distribuição de"
+},
+{
+"pag": 3,
+"texto": "gás canalizado."
+},
+{
+"pag": 3,
+"texto": "No ano seguinte, em 2021, foram publicadas a Lei Federal nº 14.134/2021 (Nova Lei do"
+},
+{
+"pag": 3,
+"texto": "Gás) e o Decreto Federal nº 10.712/2021, marcos relevantes para a abertura do mercado de"
+},
+{
+"pag": 3,
+"texto": "gás natural no Brasil. Essa legislação promoveu mudanças estruturantes no setor, com o"
+},
+{
+"pag": 3,
+"texto": "objetivo de ampliar a concorrência e assegurar o acesso de novos agentes supridores à"
+},
+{
+"pag": 3,
+"texto": "infraestrutura essencial, como gasodutos e unidades de processamento, promovendo maior"
+},
+{
+"pag": 3,
+"texto": "competição e, consequentemente, possibilitando a redução dos preços do gás."
+},
+{
+"pag": 3,
+"texto": "A regulação do mercado livre foi desenvolvida no Espírito Santo, de modo que o mercado"
+},
+{
+"pag": 3,
+"texto": "de gás canalizado passou a conviver com uma nova realidade operacional, decorrente desse"
+},
+{
+"pag": 3,
+"texto": "modelo, com impactos diretos na prestação do serviço de distribuição."
+},
+{
+"pag": 3,
+"texto": "Diante desse contexto, verifica-se que a Resolução ASPE nº 005/2007 foi elaborada sob"
+},
+{
+"pag": 3,
+"texto": "outro contrato de concessão, outra estrutura institucional, outra concessionária e outra lógica"
+},
+{
+"pag": 3,
+"texto": "de mercado."
+},
+{
+"pag": 3,
+"texto": "Com o intuito de aprimorar sua atuação regulatória e em atendimento ao princípio da"
+},
+{
+"pag": 3,
+"texto": "transparência e da participação social, a ARSP realizou a Tomada de Subsídios ARSP nº"
+},
+{
+"pag": 3,
+"texto": "003/2024, disponibilizando formulário eletrônico, a Nota Técnica ARSP/DG/GGN nº"
+},
+{
+"pag": 3,
+"texto": "03/2024 e a Resolução ASPE nº 005/2007 com suas alterações."
+},
+{
+"pag": 3,
+"texto": "Essa iniciativa teve como objetivo coletar contribuições da sociedade e das partes"
+},
+{
+"pag": 3,
+"texto": "interessadas para o aprimoramento da referida resolução. O período de participação ocorreu"
+},
+{
+"pag": 3,
+"texto": "de 09/12/2024 a 21/02/2025, permitindo a ampla manifestação dos interessados."
+},
+{
+"pag": 3,
+"texto": "A Tomada de Subsídios recebeu contribuições dos participantes, entre eles a ES Gás, que"
+},
+{
+"pag": 3,
+"texto": "encaminhou, além das manifestações relacionadas a Tomada de Subsídios, a Carta ES"
+},
+{
+"pag": 3,
+"texto": "GAS/DAC/GREG nº 022/2025 e seu Anexo I, contendo proposta de revisão da Resolução"
+},
+{
+"pag": 3,
+"texto": "ASPE Nº 005/2007, apresentada em formato tricolunado e acompanhada das respectivas"
+},
+{
+"pag": 3,
+"texto": "justificativas."
+},
+{
+"pag": 3,
+"texto": "As contribuições recebidas foram analisadas e consideradas na elaboração da proposta de"
+},
+{
+"pag": 3,
+"texto": "minuta de resolução."
+},
+{
+"pag": 4,
+"texto": "Nesse contexto, a Resolução ARSP nº 083/2025, que instituiu a Agenda Regulatória 2025–"
+},
+{
+"pag": 4,
+"texto": "2027, previu expressamente a revisão das Condições Gerais de Fornecimento de Gás"
+},
+{
+"pag": 4,
+"texto": "Canalizado, com o objetivo atualizar e aprimorar o regramento de modo a alinhar com o atual"
+},
+{
+"pag": 4,
+"texto": "contrato de concessão."
+},
+{
+"pag": 4,
+"texto": "Assim, iniciam-se as análises técnicas que subsidiam a proposta de minuta."
+},
+{
+"pag": 4,
+"texto": "4. DA ANÁLISE TÉCNICA"
+},
+{
+"pag": 4,
+"texto": "A Resolução ASPE nº 005/2007 e suas alterações não refletem integralmente a conjuntura"
+},
+{
+"pag": 4,
+"texto": "atual do setor. Desde sua publicação, ocorreram significativas evoluções regulatórias,"
+},
+{
+"pag": 4,
+"texto": "contratuais e operacionais, além da abertura do mercado de gás natural, conforme mencionado"
+},
+{
+"pag": 4,
+"texto": "na contextualização da presente Nota Técnica."
+},
+{
+"pag": 4,
+"texto": "Sob a ótica de gestão do estoque regulatório e em consonância com boas práticas de"
+},
+{
+"pag": 4,
+"texto": "consolidação normativa, propõe-se a revogação das Resoluções ASPE Nº 005/2007, Nº"
+},
+{
+"pag": 4,
+"texto": "005/2008 e Nº 003/2011, substituindo-as por instrumento normativo único e atualizado."
+},
+{
+"pag": 4,
+"texto": "A minuta proposta consolida e aprimora as regras relativas às Condições Gerais da"
+},
+{
+"pag": 4,
+"texto": "Prestação dos Serviços Locais de Gás Canalizado no Estado do Espírito Santo, disciplinando"
+},
+{
+"pag": 4,
+"texto": "de forma coerente e integrada os direitos, deveres, responsabilidades, procedimentos"
+},
+{
+"pag": 4,
+"texto": "operacionais, limites técnicos, critérios comerciais e parâmetros de segurança aplicáveis à"
+},
+{
+"pag": 4,
+"texto": "prestação do serviço, tanto aos usuários do mercado cativo quanto aos agentes do mercado"
+},
+{
+"pag": 4,
+"texto": "livre, em consonância com o contexto contratual, legal, institucional e de mercado atualmente"
+},
+{
+"pag": 4,
+"texto": "vigente no Estado."
+},
+{
+"pag": 4,
+"texto": "A proposta compatibiliza o normativo com:"
+},
+{
+"pag": 4,
+"texto": "•"
+},
+{
+"pag": 4,
+"texto": "O contrato de concessão vigente, suprimindo referências ao contrato anteriormente"
+},
+{
+"pag": 4,
+"texto": "existente;"
+},
+{
+"pag": 4,
+"texto": "•"
+},
+{
+"pag": 4,
+"texto": "A Lei Complementar nº 827/2016, como fundamento legal da atuação regulatória da"
+},
+{
+"pag": 4,
+"texto": "ARSP, promovendo a atualização institucional do texto com a substituição das"
+},
+{
+"pag": 4,
+"texto": "referências à ASPE por ARSP;"
+},
+{
+"pag": 4,
+"texto": "•"
+},
+{
+"pag": 4,
+"texto": "A realidade operacional da concessionária;"
+},
+{
+"pag": 4,
+"texto": "•"
+},
+{
+"pag": 4,
+"texto": "A existência do mercado livre de gás canalizado, foram sugeridos ajustes textuais com"
+},
+{
+"pag": 4,
+"texto": "o objetivo de compatibilizar a redação com a realidade do mercado livre;"
+},
+{
+"pag": 4,
+"texto": "•"
+},
+{
+"pag": 4,
+"texto": "Gestão do estoque regulatório, alinhada às boas práticas regulatórias de consolidação e"
+},
+{
+"pag": 4,
+"texto": "de clareza normativa."
+},
+{
+"pag": 4,
+"texto": "No próximo tópico, serão detalhados os principais pontos da proposta de minuta de"
+},
+{
+"pag": 4,
+"texto": "resolução por capítulo."
+},
+{
+"pag": 5,
+"texto": "4.1. DA ANÁLISE DO CAPÍTULO - DO OBJETIVO"
+},
+{
+"pag": 5,
+"texto": "Entende-se pertinente a inclusão de dispositivo que explicite a abrangência da norma tanto"
+},
+{
+"pag": 5,
+"texto": "aos usuários do mercado cativo quanto aos do mercado livre, em consonância com a realidade"
+},
+{
+"pag": 5,
+"texto": "do mercado de gás canalizado e com o item 4.4 do contrato de concessão vigente."
+},
+{
+"pag": 5,
+"texto": "“4.4. O SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO terá como"
+},
+{
+"pag": 5,
+"texto": "destinatários todos os USUÁRIOS do Estado do Espírito Santo, abarcando, portanto,"
+},
+{
+"pag": 5,
+"texto": "USUÁRIOS CATIVOS e AGENTES LIVRES DE MERCADO.”"
+},
+{
+"pag": 5,
+"texto": "4.2. DA ANÁLISE DO CAPÍTULO - DAS DEFINIÇÕES"
+},
+{
+"pag": 5,
+"texto": "O capítulo de definições é muito importante na proposta de atualização normativa. Nele,"
+},
+{
+"pag": 5,
+"texto": "são propostas inclusões, exclusões e ajustes conceituais com o objetivo de conferir maior"
+},
+{
+"pag": 5,
+"texto": "clareza ao regramento, reforçar a segurança jurídica, prevenir conflitos interpretativos,"
+},
+{
+"pag": 5,
+"texto": "esclarecer a distinção entre termos e delimitar os limites de responsabilidade da concessionária"
+},
+{
+"pag": 5,
+"texto": "e dos usuários."
+},
+{
+"pag": 5,
+"texto": "Podem ser citadas como principais alterações:"
+},
+{
+"pag": 5,
+"texto": "➢ Inclusão de definições:"
+},
+{
+"pag": 5,
+"texto": "•"
+},
+{
+"pag": 5,
+"texto": "Termos relacionados ao mercado livre de gás canalizado: Agente Livre de Mercado,"
+},
+{
+"pag": 5,
+"texto": "Contrato de Uso do Serviço de Distribuição – CUSD e Mercado Livre;"
+},
+{
+"pag": 5,
+"texto": "•"
+},
+{
+"pag": 5,
+"texto": "Classe ou Classe Volumétrica, termo utilizado ao longo do regulamento;"
+},
+{
+"pag": 5,
+"texto": "•"
+},
+{
+"pag": 5,
+"texto": "Contrato de Prestação do Serviço de Distribuição, abrangendo tanto as relações do"
+},
+{
+"pag": 5,
+"texto": "mercado cativo quanto do mercado livre;"
+},
+{
+"pag": 5,
+"texto": "•"
+},
+{
+"pag": 5,
+"texto": "Instalação Interna, com o propósito de esclarecer os limites de propriedade e de"
+},
+{
+"pag": 5,
+"texto": "responsabilidade;"
+},
+{
+"pag": 5,
+"texto": "•"
+},
+{
+"pag": 5,
+"texto": "Segmentos de Usuários; esclarecendo que é a classificação das Unidades Usuárias por"
+},
+{
+"pag": 5,
+"texto": "atividade ou por uso de Gás;"
+},
+{
+"pag": 5,
+"texto": "•"
+},
+{
+"pag": 5,
+"texto": "Serviço Público de Distribuição de Gás Canalizado, conforme definição constante no"
+},
+{
+"pag": 5,
+"texto": "contrato de concessão;"
+},
+{
+"pag": 5,
+"texto": "•"
+},
+{
+"pag": 5,
+"texto": "Serviços Acessórios e Correlatos, de modo a diferenciar e delimitar esses conceitos;"
+},
+{
+"pag": 5,
+"texto": "•"
+},
+{
+"pag": 5,
+"texto": "Unidade de Medição Fiscal ou Medidor, esclarecendo que o equipamento é de"
+},
+{
+"pag": 5,
+"texto": "propriedade e responsabilidade da concessionária e se destina à medição e apuração do"
+},
+{
+"pag": 5,
+"texto": "volume de gás para fins de faturamento."
+},
+{
+"pag": 5,
+"texto": "➢ Exclusão de definições:"
+},
+{
+"pag": 5,
+"texto": "•"
+},
+{
+"pag": 5,
+"texto": "Ramal de Serviço, por não constar no corpo do texto normativo;"
+},
+{
+"pag": 5,
+"texto": "•"
+},
+{
+"pag": 5,
+"texto": "Classe de Usuários, termo suprimido por não ser utilizado no regulamento. Porém foi"
+},
+{
+"pag": 5,
+"texto": "incluído na minuta os termos Classe ou Classe Volumétrica e Segmentos de Usuários."
+},
+{
+"pag": 6,
+"texto": "➢ Ajustes de definições:"
+},
+{
+"pag": 6,
+"texto": "•"
+},
+{
+"pag": 6,
+"texto": "Concessionária, Gás e Poder Concedente, com adequações para aderência ao contrato"
+},
+{
+"pag": 6,
+"texto": "de concessão vigente;"
+},
+{
+"pag": 6,
+"texto": "•"
+},
+{
+"pag": 6,
+"texto": "Contrato de Adesão, com ajuste na definição para permitir sua atualização pela"
+},
+{
+"pag": 6,
+"texto": "concessionária, nos limites legais e mediante prévia aprovação da ARSP, evitando a"
+},
+{
+"pag": 6,
+"texto": "necessidade de edição de nova resolução a cada atualização do modelo contratual;"
+},
+{
+"pag": 6,
+"texto": "•"
+},
+{
+"pag": 6,
+"texto": "Ponto de Entrega, com ajustes redacionais para torná-lo aderente ao regulamento,"
+},
+{
+"pag": 6,
+"texto": "considerando que o contrato de concessão remete o conceito à regulamentação"
+},
+{
+"pag": 6,
+"texto": "aplicável;"
+},
+{
+"pag": 6,
+"texto": "•"
+},
+{
+"pag": 6,
+"texto": "Ramal Externo, com ajuste para esclarecer a distinção em relação ao ramal interno;"
+},
+{
+"pag": 6,
+"texto": "•"
+},
+{
+"pag": 6,
+"texto": "Ramal Interno, com ajuste para estabelecer que a responsabilidade do usuário se inicia"
+},
+{
+"pag": 6,
+"texto": "após a última válvula de bloqueio localizada após o Conjunto de Regulagem (CR),"
+},
+{
+"pag": 6,
+"texto": "Conjunto de Regulagem e Medição (CRM) ou Conjunto de Medição (CM), prevalecendo"
+},
+{
+"pag": 6,
+"texto": "o que estiver mais próximo da divisa de propriedade;"
+},
+{
+"pag": 6,
+"texto": "•"
+},
+{
+"pag": 6,
+"texto": "Rede de Distribuição, com adequação à definição do contrato de concessão e supressão"
+},
+{
+"pag": 6,
+"texto": "do termo “construído”, considerando a possibilidade de reclassificação de gasodutos"
+},
+{
+"pag": 6,
+"texto": "que passem a integrar a rede de distribuição sem terem sido originalmente construídos"
+},
+{
+"pag": 6,
+"texto": "pela concessionária;"
+},
+{
+"pag": 6,
+"texto": "•"
+},
+{
+"pag": 6,
+"texto": "Usuário, em aderência à definição constante no contrato de concessão."
+},
+{
+"pag": 6,
+"texto": "4.3. DA ANÁLISE DO CAPÍTULO - DOS DIREITOS E OBRIGAÇÕES DOS"
+},
+{
+"pag": 6,
+"texto": "USUÁRIOS"
+},
+{
+"pag": 6,
+"texto": "Entende-se pertinente explicitar, no regulamento, o conceito de serviço adequado, em"
+},
+{
+"pag": 6,
+"texto": "consonância com o disposto na cláusula 8.2.1 do contrato de concessão, de modo a reforçar,"
+},
+{
+"pag": 6,
+"texto": "no âmbito das Condições Gerais, os parâmetros que devem nortear a prestação do serviço pela"
+},
+{
+"pag": 6,
+"texto": "concessionária e a relação com os usuários."
+},
+{
+"pag": 6,
+"texto": "Propõe-se, ainda, a inclusão de dispositivo que estabeleça como obrigação dos usuários a"
+},
+{
+"pag": 6,
+"texto": "manutenção de seus dados cadastrais devidamente atualizados junto à concessionária, medida"
+},
+{
+"pag": 6,
+"texto": "que contribui para a adequada comunicação entre as partes e para a correta gestão contratual."
+},
+{
+"pag": 6,
+"texto": "4.4. DA ANÁLISE DO CAPÍTULO - DO PEDIDO DE LIGAÇÃO AO SISTEMA DE"
+},
+{
+"pag": 6,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO"
+},
+{
+"pag": 6,
+"texto": "Dentre as principais alterações promovidas no Capítulo IV, destacam-se modificações"
+},
+{
+"pag": 6,
+"texto": "relevantes voltadas à melhoria da segurança jurídica, à clareza quanto aos limites de"
+},
+{
+"pag": 6,
+"texto": "responsabilidade e à adequação do regramento à realidade operacional da prestação do"
+},
+{
+"pag": 6,
+"texto": "serviço."
+},
+{
+"pag": 6,
+"texto": "Inicialmente, observa-se a supressão da necessidade de aprovação prévia, pela Agência"
+},
+{
+"pag": 6,
+"texto": "Reguladora, dos Padrões Técnicos estabelecidos pela Concessionária. A alteração decorre do"
+},
+{
+"pag": 6,
+"texto": "reconhecimento de que a concessionária detém a expertise técnica necessária para a definição"
+},
+{
+"pag": 7,
+"texto": "desses padrões, sendo responsável direta pela prestação do serviço adequado, bem como pela"
+},
+{
+"pag": 7,
+"texto": "segurança, operação e manutenção do sistema de distribuição. A medida evita entraves"
+},
+{
+"pag": 7,
+"texto": "administrativos desnecessários, sem prejuízo da plena competência regulatória da ARSP no"
+},
+{
+"pag": 7,
+"texto": "exercício de sua atividade fiscalizatória."
+},
+{
+"pag": 7,
+"texto": "No art. 5º, propôs-se a retirada da menção ao ramal interno, uma vez que as definições de"
+},
+{
+"pag": 7,
+"texto": "ramal externo, ramal interno e instalação interna foram consolidadas no capítulo inicial da"
+},
+{
+"pag": 7,
+"texto": "minuta, onde já se encontram claramente estabelecidos os limites de responsabilidade entre"
+},
+{
+"pag": 7,
+"texto": "concessionária e usuário. Assim, mantém-se apenas a referência à instalação interna, por se"
+},
+{
+"pag": 7,
+"texto": "tratar da infraestrutura de responsabilidade do usuário."
+},
+{
+"pag": 7,
+"texto": "Ainda no art. 5º, merecem destaque duas inclusões relevantes:"
+},
+{
+"pag": 7,
+"texto": "-Alínea e), que passa a prever de forma expressa a obrigação do usuário de ceder"
+},
+{
+"pag": 7,
+"texto": "gratuitamente o espaço necessário à instalação dos equipamentos de regulagem, medição e"
+},
+{
+"pag": 7,
+"texto": "demais aparelhos da concessionária, medida que busca prevenir conflitos futuros quanto ao"
+},
+{
+"pag": 7,
+"texto": "uso do espaço e eventual ressarcimento pela ocupação;"
+},
+{
+"pag": 7,
+"texto": "-Alínea f), que estabelece a obrigação de celebração de instrumento contratual específico"
+},
+{
+"pag": 7,
+"texto": "prevendo cláusula penal nos casos em que, após a execução de obras de conversão custeadas"
+},
+{
+"pag": 7,
+"texto": "pela concessionária, o usuário solicite o desligamento antes de remunerar adequadamente o"
+},
+{
+"pag": 7,
+"texto": "investimento realizado. Tal previsão resguarda o equilíbrio econômico-financeiro da"
+},
+{
+"pag": 7,
+"texto": "concessão, desestimula comportamentos oportunísticos e afasta situações de enriquecimento"
+},
+{
+"pag": 7,
+"texto": "sem causa."
+},
+{
+"pag": 7,
+"texto": "Em observância ao contrato de concessão, foi ajustado o dispositivo referente à viabilidade"
+},
+{
+"pag": 7,
+"texto": "econômica para expansão da rede. Passa-se a prever expressamente que, na hipótese de não"
+},
+{
+"pag": 7,
+"texto": "comprovação da viabilidade econômica, a expansão poderá ser realizada desde que o"
+},
+{
+"pag": 7,
+"texto": "interessado assuma a parcela do investimento considerada inviável, observados os critérios"
+},
+{
+"pag": 7,
+"texto": "técnicos e econômicos e as regras para participação financeira de terceiros, a serem definidos"
+},
+{
+"pag": 7,
+"texto": "em procedimento da concessionária previamente aprovado pela ARSP."
+},
+{
+"pag": 7,
+"texto": "A minuta também incorpora atualização compatível com a realidade tecnológica atual ao"
+},
+{
+"pag": 7,
+"texto": "prever que o Contrato de Adesão seja permanentemente disponibilizado no sítio eletrônico da"
+},
+{
+"pag": 7,
+"texto": "concessionária, devendo ser encaminhado por meio eletrônico ao usuário quando solicitado,"
+},
+{
+"pag": 7,
+"texto": "assegurado o direito ao envio de via física às expensas da concessionária. A medida confere"
+},
+{
+"pag": 7,
+"texto": "maior praticidade ao usuário e reduz custos operacionais."
+},
+{
+"pag": 7,
+"texto": "Outra alteração relevante refere-se à possibilidade de desligamento da unidade usuária"
+},
+{
+"pag": 7,
+"texto": "quando houver alteração de titularidade e inexistir responsável devidamente identificado e"
+},
+{
+"pag": 7,
+"texto": "cadastrado. Tal ajuste foi proposto, pois pode haver responsável identificado que, contudo, não"
+},
+{
+"pag": 7,
+"texto": "esteja formalmente cadastrado por não ter apresentado a documentação necessária à"
+},
+{
+"pag": 7,
+"texto": "formalização contratual e ao faturamento."
+},
+{
+"pag": 7,
+"texto": "Por fim, foi promovido ajuste no §2º do art. 6º para esclarecer as modalidades de garantias"
+},
+{
+"pag": 7,
+"texto": "que podem ser exigidas quando previstas em norma, incluindo referência expressa às situações"
+},
+{
+"pag": 7,
+"texto": "relacionadas ao mercado livre ao incluir ‘consumo por volume’, reforçando a compatibilidade"
+},
+{
+"pag": 7,
+"texto": "do dispositivo com a nova realidade do setor."
+},
+{
+"pag": 8,
+"texto": "4.5. DA ANÁLISE DO CAPÍTULO - DOS LIMITES DE PRESSÃO DE ENTREGA"
+},
+{
+"pag": 8,
+"texto": "Em razão da existência do mercado livre de gás canalizado, propôs-se a substituição da"
+},
+{
+"pag": 8,
+"texto": "expressão “fornecimento de gás” por “entrega de gás” ao longo do capítulo."
+},
+{
+"pag": 8,
+"texto": "A alteração, embora redacional, possui relevante impacto conceitual, pois a expressão"
+},
+{
+"pag": 8,
+"texto": "“fornecimento” está associada à relação típica do mercado cativo, enquanto a expressão"
+},
+{
+"pag": 8,
+"texto": "“entrega” é tecnicamente mais adequada para abranger tanto as situações do mercado cativo"
+},
+{
+"pag": 8,
+"texto": "quanto as do mercado livre, nas quais a concessionária realiza a entrega física do gás ao"
+},
+{
+"pag": 8,
+"texto": "usuário, independentemente da titularidade da molécula."
+},
+{
+"pag": 8,
+"texto": "Dessa forma, a redação passa a refletir com maior precisão a realidade operacional e"
+},
+{
+"pag": 8,
+"texto": "contratual atualmente vigente no setor."
+},
+{
+"pag": 8,
+"texto": "4.6. DA ANÁLISE DO CAPÍTULO - DO PONTO DE ENTREGA DO GÁS"
+},
+{
+"pag": 8,
+"texto": "CANALIZADO"
+},
+{
+"pag": 8,
+"texto": "No §6º do art. 9º, foi proposto ajuste redacional com a retirada da expressão “multa”,"
+},
+{
+"pag": 8,
+"texto": "deixando expresso que eventual pagamento devido ao usuário decorre de valores associados a"
+},
+{
+"pag": 8,
+"texto": "erros de faturamento, leitura ou medição."
+},
+{
+"pag": 8,
+"texto": "No art. 10, observa-se ajuste regulatório, ao especificar que a responsabilidade da"
+},
+{
+"pag": 8,
+"texto": "concessionária se estende até o Ramal Interno. O texto anterior vinculava o limite de"
+},
+{
+"pag": 8,
+"texto": "responsabilidade da concessionária ao ponto de entrega, o que se mostrava inadequado, pois"
+},
+{
+"pag": 8,
+"texto": "esse ponto pode estar localizado em trecho da instalação ao qual a concessionária não possui"
+},
+{
+"pag": 8,
+"texto": "acesso irrestrito para fins de operação e manutenção. A adequação promovida alinha o"
+},
+{
+"pag": 8,
+"texto": "regulamento a realidade operacional do sistema de distribuição, conferindo maior coerência"
+},
+{
+"pag": 8,
+"texto": "técnica e jurídica à delimitação entre bens reversíveis, instalações de responsabilidade da"
+},
+{
+"pag": 8,
+"texto": "concessionária e infraestrutura pertencente ao usuário."
+},
+{
+"pag": 8,
+"texto": "Na minuta, o trecho compreendido entre o ramal interno e o ponto de entrega passa a ser"
+},
+{
+"pag": 8,
+"texto": "caracterizado como Instalação Interna, de responsabilidade do usuário. Ademais, trata-se de"
+},
+{
+"pag": 8,
+"texto": "infraestrutura que não possui natureza reversível ao Poder Concedente ao término da"
+},
+{
+"pag": 8,
+"texto": "concessão, reforçando a inadequação de sua vinculação à responsabilidade da concessionária."
+},
+{
+"pag": 8,
+"texto": "O parágrafo único do artigo foi suprimido, uma vez que o conceito de Instalação Interna"
+},
+{
+"pag": 8,
+"texto": "foi estabelecido no dispositivo de definições, tornando desnecessária sua repetição."
+},
+{
+"pag": 8,
+"texto": "4.7. DA ANÁLISE DO CAPÍTULO - DO USUÁRIO E DA UNIDADE USUÁRIA"
+},
+{
+"pag": 8,
+"texto": "No art. 11, foi promovido ajuste para deixar expresso que a utilização do serviço público de"
+},
+{
+"pag": 8,
+"texto": "distribuição de gás canalizado pelos usuários sujeita-se ao faturamento pela concessionária,"
+},
+{
+"pag": 8,
+"texto": "nos termos da regulamentação da ARSP. O ajuste é relevante porque evidencia que a tarifa do"
+},
+{
+"pag": 8,
+"texto": "serviço público, especialmente no que se refere ao termo fixo, pode ser devida"
+},
+{
+"pag": 8,
+"texto": "independentemente da existência de consumo de gás."
+},
+{
+"pag": 8,
+"texto": "O parágrafo único anteriormente existente, que previa que os usuários adquiririam gás da"
+},
+{
+"pag": 8,
+"texto": "concessionária durante todo o período da concessão, foi suprimido. Com a dinâmica do"
+},
+{
+"pag": 9,
+"texto": "mercado livre, tal previsão deixou de refletir a realidade do setor, na qual a concessionária"
+},
+{
+"pag": 9,
+"texto": "realiza a entrega do gás, mas a aquisição da molécula pode ocorrer pelos agentes livre de"
+},
+{
+"pag": 9,
+"texto": "mercado."
+},
+{
+"pag": 9,
+"texto": "O §2º do art. 12 foi suprimido em razão da constatação de que, em empreendimentos"
+},
+{
+"pag": 9,
+"texto": "imobiliários de padrão econômico, existem modelos construtivos que inviabilizam"
+},
+{
+"pag": 9,
+"texto": "tecnicamente a medição individualizada, tornando o dispositivo incompatível com a realidade"
+},
+{
+"pag": 9,
+"texto": "prática."
+},
+{
+"pag": 9,
+"texto": "O inciso II do art. 13 foi suprimido, pois a previsão relacionada ao rateio da fatura entre os"
+},
+{
+"pag": 9,
+"texto": "integrantes da unidade usuária coletiva, por se tratar de matéria de gestão interna dos"
+},
+{
+"pag": 9,
+"texto": "usuários, não cabendo sua disciplina em regulamento da Agência."
+},
+{
+"pag": 9,
+"texto": "Da mesma forma, foi suprimido o §2º do art. 13, que vedava à entidade representativa do"
+},
+{
+"pag": 9,
+"texto": "condomínio ou conjunto de edificações a interrupção, suspensão ou interferência na utilização"
+},
+{
+"pag": 9,
+"texto": "do gás pelas unidades autônomas. Entende-se que tal matéria possui natureza privada, não se"
+},
+{
+"pag": 9,
+"texto": "inserindo no âmbito regulatório da ARSP."
+},
+{
+"pag": 9,
+"texto": "O art. 14 também foi ajustado com o objetivo de conferir maior clareza à redação. Foram"
+},
+{
+"pag": 9,
+"texto": "excluídos os §§1º e 5º, bem como suprimido o trecho que condicionava a aplicação do"
+},
+{
+"pag": 9,
+"texto": "dispositivo à semelhança dos perfis de consumo dos usuários. Considerou-se que, na prática,"
+},
+{
+"pag": 9,
+"texto": "sempre haverá diferenças entre perfis de consumo, e que o eventual rateio do valor faturado"
+},
+{
+"pag": 9,
+"texto": "é realizado pelo próprio condomínio, com base nos critérios por ele definidos."
+},
+{
+"pag": 9,
+"texto": "O antigo §2º foi renumerado como §1º e teve suprimida a expressão que atribuía à"
+},
+{
+"pag": 9,
+"texto": "concessionária o rateio do valor devido entre as unidades imobiliárias, sem custo adicional,"
+},
+{
+"pag": 9,
+"texto": "uma vez que tal rateio não é realizado pela concessionária."
+},
+{
+"pag": 9,
+"texto": "4.8. DA ANÁLISE DO CAPÍTULO - DA CLASSIFICAÇÃO E CADASTRO"
+},
+{
+"pag": 9,
+"texto": "O Capítulo VIII da minuta, que compreende os arts. 15 a 19, trata da classificação das"
+},
+{
+"pag": 9,
+"texto": "unidades usuárias e das regras de cadastro junto à concessionária."
+},
+{
+"pag": 9,
+"texto": "No parágrafo único do art. 15, sugere-se ajuste redacional para deixar expresso que,"
+},
+{
+"pag": 9,
+"texto": "sempre que houver viabilidade técnica e econômica devidamente justificada, nas hipóteses em"
+},
+{
+"pag": 9,
+"texto": "que, em um mesmo imóvel, sejam exercidas mais de uma atividade, cada uma deverá constituir"
+},
+{
+"pag": 9,
+"texto": "Unidade Usuária distinta."
+},
+{
+"pag": 9,
+"texto": "No art. 18, foi promovida alteração pontual com a substituição da expressão “classes de"
+},
+{
+"pag": 9,
+"texto": "fornecimento” por “classes”, conferindo coerência aos conceitos definidos na minuta."
+},
+{
+"pag": 9,
+"texto": "No art. 19, foram realizados ajustes redacionais de modo a compatibilizar o dispositivo com"
+},
+{
+"pag": 9,
+"texto": "a existência do mercado livre e com a terminologia adotada ao longo da minuta, substituindo"
+},
+{
+"pag": 9,
+"texto": "as expressões “início do fornecimento” por “início da prestação do serviço”, “pressão de"
+},
+{
+"pag": 9,
+"texto": "fornecimento” por “pressão de entrega” e “volume nominal do fornecimento contratado” por"
+},
+{
+"pag": 9,
+"texto": "“volume nominal contratado”."
+},
+{
+"pag": 10,
+"texto": "4.9. DA ANÁLISE DO CAPÍTULO - DO CONTRATO DE PRESTAÇÃO DO"
+},
+{
+"pag": 10,
+"texto": "SERVIÇO DE DISTRIBUIÇÃO"
+},
+{
+"pag": 10,
+"texto": "Vale destacar que com a inclusão da definição ‘Contrato de Prestação do Serviço de"
+},
+{
+"pag": 10,
+"texto": "Distribuição’ abrangendo tanto as relações do mercado cativo quanto do mercado livre, o nome"
+},
+{
+"pag": 10,
+"texto": "do capítulo também foi alterado."
+},
+{
+"pag": 10,
+"texto": "No art. 20, foi promovido ajuste com a substituição da expressão “fornecimento de Gás”"
+},
+{
+"pag": 10,
+"texto": "por “fornecimento do Serviço de Distribuição de Gás”, com o objetivo de deixar claro que o"
+},
+{
+"pag": 10,
+"texto": "dispositivo se aplica tanto ao mercado cativo quanto ao mercado livre. O §1º foi suprimido em"
+},
+{
+"pag": 10,
+"texto": "razão da evolução do mercado, no qual um mesmo usuário pode manter múltiplos contratos."
+},
+{
+"pag": 10,
+"texto": "Os parágrafos subsequentes foram renumerados e ajustados para reforçar a necessidade de"
+},
+{
+"pag": 10,
+"texto": "que cada usuário possua um contrato específico para cada segmento de atendimento. Também"
+},
+{
+"pag": 10,
+"texto": "foi promovido ajuste para incluir referência expressa ao mercado livre, mediante a menção a"
+},
+{
+"pag": 10,
+"texto": "consumo por volume."
+},
+{
+"pag": 10,
+"texto": "No art. 21, foram realizados ajustes para explicitar que a contratação não precisa"
+},
+{
+"pag": 10,
+"texto": "permanecer inalterada durante todo o período contratual, admitindo expressamente que a"
+},
+{
+"pag": 10,
+"texto": "capacidade requerida e os volumes contratados possam ser definidos por períodos específicos"
+},
+{
+"pag": 10,
+"texto": "previamente estabelecidos em contrato, bem como as respectivas condições de revisão. O"
+},
+{
+"pag": 10,
+"texto": "inciso VII foi excluído, uma vez que a exclusividade do serviço de distribuição já se encontra"
+},
+{
+"pag": 10,
+"texto": "assegurada pelo contrato de concessão."
+},
+{
+"pag": 10,
+"texto": "Foi incluída cláusula que condiciona a eficácia jurídica do contrato à homologação pela"
+},
+{
+"pag": 10,
+"texto": "ARSP, com a alteração do patamar de volumes médios mensais distribuídos de 50.000 m³"
+},
+{
+"pag": 10,
+"texto": "(cinquenta mil metros cúbicos) para 100.000 m³ (cem mil metros cúbicos) de gás, refletida"
+},
+{
+"pag": 10,
+"texto": "também no §3º do artigo."
+},
+{
+"pag": 10,
+"texto": "O §1º do art. 21 foi ajustado com a supressão do prazo anteriormente previsto para"
+},
+{
+"pag": 10,
+"texto": "devolução do contrato pela ARSP à concessionária, considerando que o trâmite atualmente"
+},
+{
+"pag": 10,
+"texto": "ocorre por meio digital. Ademais, foi incluída a exigência de checklist que indique a"
+},
+{
+"pag": 10,
+"texto": "correspondência entre as cláusulas contratuais e os dispositivos do artigo, conferindo maior"
+},
+{
+"pag": 10,
+"texto": "objetividade à análise regulatória."
+},
+{
+"pag": 10,
+"texto": "Também foi incluído dispositivo estabelecendo que o Contrato de Uso do Serviço de"
+},
+{
+"pag": 10,
+"texto": "Distribuição (CUSD) deverá observar o disposto em regulamento específico."
+},
+{
+"pag": 10,
+"texto": "No art. 22, foi ajustada a terminologia, substituindo-se “Contratos de Fornecimento de"
+},
+{
+"pag": 10,
+"texto": "Gás” por “Contratos de Prestação de Serviço de Distribuição”, de modo a contemplar"
+},
+{
+"pag": 10,
+"texto": "adequadamente a realidade do mercado livre. Acrescentou-se, ainda, a referência expressa à"
+},
+{
+"pag": 10,
+"texto": "observância do equilíbrio econômico-financeiro, com o propósito de evitar impactos relevantes"
+},
+{
+"pag": 10,
+"texto": "à concessão."
+},
+{
+"pag": 10,
+"texto": "4.10. DA ANÁLISE DO CAPÍTULO - DOS PRAZOS PERTINENTES À"
+},
+{
+"pag": 10,
+"texto": "LIGAÇÃO"
+},
+{
+"pag": 10,
+"texto": "No art. 23, propõe-se a fixação de prazo máximo de 90 (noventa) dias para a construção e"
+},
+{
+"pag": 10,
+"texto": "entrada em operação dos Ramais Externos e Internos. Paralelamente, sugere-se a exclusão"
+},
+{
+"pag": 11,
+"texto": "dos prazos anteriormente associados à extensão de rede de distribuição, uma vez que tais"
+},
+{
+"pag": 11,
+"texto": "intervenções dependem de prévia análise de viabilidade técnica, econômica e ambiental, razão"
+},
+{
+"pag": 11,
+"texto": "pela qual a adoção de prazo padrão pode não ser a alternativa mais adequada."
+},
+{
+"pag": 11,
+"texto": "Importa esclarecer que a proposta não elimina a previsibilidade regulatória relacionada"
+},
+{
+"pag": 11,
+"texto": "aos prazos de atendimento ao pedido de ligação. O prazo para resposta técnica ao usuário"
+},
+{
+"pag": 11,
+"texto": "permanece disciplinado no dispositivo, preservando a obrigação da concessionária de se"
+},
+{
+"pag": 11,
+"texto": "manifestar no prazo. O ajuste promovido concentra-se especificamente na etapa de execução"
+},
+{
+"pag": 11,
+"texto": "das obras, distinguindo, os casos de construção de ramais, daqueles que envolvem extensão"
+},
+{
+"pag": 11,
+"texto": "de rede de distribuição, cuja variabilidade técnica, econômica e ambiental dificulta a adoção"
+},
+{
+"pag": 11,
+"texto": "de critério uniforme sem risco de gerar distorções regulatórias. Assim, a alteração não"
+},
+{
+"pag": 11,
+"texto": "representa supressão de direito do usuário, mas sim aprimoramento da técnica regulatória ao"
+},
+{
+"pag": 11,
+"texto": "tratar de forma distinta situações de natureza diversa."
+},
+{
+"pag": 11,
+"texto": "No §1º do referido artigo, estabelece-se que, nos casos em que forem pactuados prazos"
+},
+{
+"pag": 11,
+"texto": "distintos, prevalecerão aqueles definidos no respectivo instrumento contratual."
+},
+{
+"pag": 11,
+"texto": "4.11. DA ANÁLISE DO CAPÍTULO - DA ALTERAÇÃO DO VOLUME"
+},
+{
+"pag": 11,
+"texto": "A redação do art. 25 foi ajustada de modo a contemplar tanto as situações relacionadas ao"
+},
+{
+"pag": 11,
+"texto": "mercado cativo quanto aquelas inerentes ao mercado livre, assegurando a adequada"
+},
+{
+"pag": 11,
+"texto": "abrangência do regramento à realidade atual do setor."
+},
+{
+"pag": 11,
+"texto": "4.12. DA ANÁLISE DO CAPÍTULO - DA MEDIÇÃO"
+},
+{
+"pag": 11,
+"texto": "No decorrer do capítulo, a palavra “Medidor” foi grafada em maiúscula por se referir"
+},
+{
+"pag": 11,
+"texto": "diretamente à definição incluída na minuta de resolução como “Unidade de Medição Fiscal ou"
+},
+{
+"pag": 11,
+"texto": "Medidor”."
+},
+{
+"pag": 11,
+"texto": "Foi reforçado que o Usuário deve atender aos requisitos previstos na legislação aplicável e"
+},
+{
+"pag": 11,
+"texto": "nos Padrões Técnicos definidos pela Concessionária no que se refere à construção e à segurança"
+},
+{
+"pag": 11,
+"texto": "das Instalações Internas da Unidade Usuária. Esclarece-se, por sua vez, que o ramal interno"
+},
+{
+"pag": 11,
+"texto": "permanece sob a responsabilidade da concessionária, em consonância com os limites de"
+},
+{
+"pag": 11,
+"texto": "responsabilidade."
+},
+{
+"pag": 11,
+"texto": "Propôs-se a previsão de situação excepcional para os casos de eventual escassez de"
+},
+{
+"pag": 11,
+"texto": "equipamentos de medição no mercado, hipótese em que a Concessionária poderá invocar a"
+},
+{
+"pag": 11,
+"texto": "indisponibilidade desses equipamentos como justificativa para negar ou postergar a ligação e"
+},
+{
+"pag": 11,
+"texto": "o início da prestação do serviço."
+},
+{
+"pag": 11,
+"texto": "Também foi proposta disciplina específica para a hipótese de retirada do Medidor em razão"
+},
+{
+"pag": 11,
+"texto": "de quebra ou falha. Nesses casos, a Unidade Usuária poderá permanecer, excepcionalmente,"
+},
+{
+"pag": 11,
+"texto": "por até 90 (noventa) dias sem medição direta. Nesse período, o consumo será apurado,"
+},
+{
+"pag": 11,
+"texto": "preferencialmente, com base em registros de equipamentos de medição de propriedade do"
+},
+{
+"pag": 11,
+"texto": "Usuário, desde que devidamente certificados por agente acreditado junto ao órgão metrológico"
+},
+{
+"pag": 11,
+"texto": "oficial e aceitos pela Concessionária. Não sendo utilizado medidor do Usuário, o consumo será"
+},
+{
+"pag": 12,
+"texto": "apurado por estimativa, com base na média dos últimos 6 (seis) meses apurados, período"
+},
+{
+"pag": 12,
+"texto": "considerado mais representativo em relação à redação anterior, que previa 3 (três) meses."
+},
+{
+"pag": 12,
+"texto": "O dispositivo estabelece salvaguardas ao priorizar a utilização de equipamento de medição"
+},
+{
+"pag": 12,
+"texto": "do próprio usuário, desde que certificado por agente acreditado junto ao órgão metrológico"
+},
+{
+"pag": 12,
+"texto": "oficial e aceito pela concessionária. Apenas subsidiariamente admite-se a apuração por"
+},
+{
+"pag": 12,
+"texto": "estimativa, com base em período representativo de histórico de consumo. Trata-se, portanto,"
+},
+{
+"pag": 12,
+"texto": "de solução transitória."
+},
+{
+"pag": 12,
+"texto": "O §8º do art. 26 passou a deixar expresso que os custos decorrentes de perícia dessas"
+},
+{
+"pag": 12,
+"texto": "situações serão suportados pela Unidade Usuária."
+},
+{
+"pag": 12,
+"texto": "No art. 28, foi substituída a expressão “gás fornecido” por “gás entregue”, de modo a"
+},
+{
+"pag": 12,
+"texto": "compatibilizar o texto com a realidade do mercado livre."
+},
+{
+"pag": 12,
+"texto": "Foi incluído dispositivo que, em razão do avanço tecnológico dos equipamentos, prevê que"
+},
+{
+"pag": 12,
+"texto": "a Concessionária poderá instalar, a seu exclusivo critério, Medidor com capacidade de leitura"
+},
+{
+"pag": 12,
+"texto": "remota."
+},
+{
+"pag": 12,
+"texto": "Por fim, o art. 34 foi ajustado para ampliar os prazos destinados à aferição dos medidores,"
+},
+{
+"pag": 12,
+"texto": "considerando a dependência de serviços de terceiros tecnicamente capacitados para a"
+},
+{
+"pag": 12,
+"texto": "realização dessas aferições."
+},
+{
+"pag": 12,
+"texto": "4.13. DA ANÁLISE DO CAPÍTULO - DO CALENDÁRIO"
+},
+{
+"pag": 12,
+"texto": "No decorrer do capítulo, a palavra “Medidor” foi grafada em maiúscula por se referir"
+},
+{
+"pag": 12,
+"texto": "diretamente à definição incluída na minuta de resolução como “Unidade de Medição Fiscal ou"
+},
+{
+"pag": 12,
+"texto": "Medidor”."
+},
+{
+"pag": 12,
+"texto": "4.14. DA ANÁLISE DO CAPÍTULO - DA LEITURA E DO FATURAMENTO"
+},
+{
+"pag": 12,
+"texto": "Ao longo do capítulo foram sugeridos ajustes textuais com o objetivo de compatibilizar a"
+},
+{
+"pag": 12,
+"texto": "redação com a realidade do mercado livre. Dentre eles, destacam-se a substituição da"
+},
+{
+"pag": 12,
+"texto": "expressão “fornecimento” por “entrega”, de “Contrato de Fornecimento” por apenas"
+},
+{
+"pag": 12,
+"texto": "“Contrato”, de “os fornecimentos” por “os volumes” adequando a terminologia à lógica atual"
+},
+{
+"pag": 12,
+"texto": "da prestação do serviço de distribuição."
+},
+{
+"pag": 12,
+"texto": "Também foi proposto ajuste para esclarecer que o termo fixo da tarifa será cobrado"
+},
+{
+"pag": 12,
+"texto": "proporcionalmente ao período de vigência da respectiva tabela tarifária."
+},
+{
+"pag": 12,
+"texto": "Passou-se a deixar expresso que, para os usuários do mercado livre, o faturamento será"
+},
+{
+"pag": 12,
+"texto": "calculado com base na TUSD-Gás (Tarifa de Uso do Sistema de Distribuição de Gás"
+},
+{
+"pag": 12,
+"texto": "Canalizado) ou na TUSDE-Gás, no caso de usuários atendidos por ramal dedicado."
+},
+{
+"pag": 12,
+"texto": "No art. 46, que trata das devoluções ao usuário de valores referentes a erros de"
+},
+{
+"pag": 12,
+"texto": "faturamento, leitura ou medição, foi sugerida alteração para prever que a devolução se dará"
+},
+{
+"pag": 12,
+"texto": "por meio de crédito em conta, em razão da maior simplicidade e segurança operacional."
+},
+{
+"pag": 12,
+"texto": "Incluiu-se, ainda, que os valores devolvidos deverão ser acrescidos de atualização monetária e"
+},
+{
+"pag": 13,
+"texto": "juros legais, ressalvada a hipótese de engano justificável, em consonância com o Código de"
+},
+{
+"pag": 13,
+"texto": "Defesa do Consumidor. Foram propostos acréscimos de parágrafos com o objetivo de"
+},
+{
+"pag": 13,
+"texto": "esclarecer que o engano justificável funciona como exceção à devolução em dobro e seu"
+},
+{
+"pag": 13,
+"texto": "reconhecimento depende de demonstração concreta, pelo fornecedor, de que a cobrança"
+},
+{
+"pag": 13,
+"texto": "indevida decorreu de erro escusável, alheio a desorganização administrativa, falha rotineira de"
+},
+{
+"pag": 13,
+"texto": "processo ou violação da boa-fé objetiva."
+},
+{
+"pag": 13,
+"texto": "4.15. DA ANÁLISE DO CAPÍTULO - DA FATURA DO SERVIÇO E SEU"
+},
+{
+"pag": 13,
+"texto": "PAGAMENTO"
+},
+{
+"pag": 13,
+"texto": "Ao longo do capítulo, foram sugeridos ajustes textuais com o objetivo de compatibilizar a"
+},
+{
+"pag": 13,
+"texto": "redação com a realidade do mercado livre. Dentre eles, destacam-se a substituição das"
+},
+{
+"pag": 13,
+"texto": "expressões “volume do gás fornecido” por “volume do gás” e “fatura do gás” por apenas"
+},
+{
+"pag": 13,
+"texto": "“fatura”."
+},
+{
+"pag": 13,
+"texto": "Propõe-se que a fatura passe a conter informações mais detalhadas quanto ao valor total a"
+},
+{
+"pag": 13,
+"texto": "pagar, discriminando os componentes do preço final, tais como margem de distribuição,"
+},
+{
+"pag": 13,
+"texto": "transporte, molécula, parcela de recuperação, encargos, entre outros, conferindo maior"
+},
+{
+"pag": 13,
+"texto": "informação e transparência ao usuário."
+},
+{
+"pag": 13,
+"texto": "Sugere-se, ainda, dispositivo expresso prevendo que, mediante solicitação ou autorização"
+},
+{
+"pag": 13,
+"texto": "do usuário, a fatura e sua segunda via sejam encaminhadas exclusivamente em formato"
+},
+{
+"pag": 13,
+"texto": "eletrônico, reconhecendo que a forma de recebimento constitui opção do usuário."
+},
+{
+"pag": 13,
+"texto": "Quanto à emissão de segunda via, foi acrescida redação para explicitar que ela poderá ser"
+},
+{
+"pag": 13,
+"texto": "obtida pelos canais de atendimento disponibilizados pela concessionária, inclusive por meio"
+},
+{
+"pag": 13,
+"texto": "eletrônico, sendo vedada a cobrança de qualquer taxa por emissão de segunda via de fatura."
+},
+{
+"pag": 13,
+"texto": "4.16. DA ANÁLISE DO CAPÍTULO - DAS MULTAS E PENALIDADES"
+},
+{
+"pag": 13,
+"texto": "Propõe-se previsão de que o descumprimento, pela concessionária, dos termos da"
+},
+{
+"pag": 13,
+"texto": "Resolução a sujeita às penalidades cabíveis, podendo, conforme o caso, o valor da multa ser"
+},
+{
+"pag": 13,
+"texto": "revertido em favor dos usuários, segundo critérios a serem aprovados pela ARSP."
+},
+{
+"pag": 13,
+"texto": "4.17. DA ANÁLISE DO CAPÍTULO - DA SUSPENSÃO DA PRESTAÇÃO DOS"
+},
+{
+"pag": 13,
+"texto": "SERVIÇOS"
+},
+{
+"pag": 13,
+"texto": "Também neste capítulo foram realizados ajustes textuais para compatibilização com a"
+},
+{
+"pag": 13,
+"texto": "realidade do mercado livre, destacando-se a substituição de expressões como “contrato de"
+},
+{
+"pag": 13,
+"texto": "fornecimento” por “contratos”, “condições de fornecimento” por “condições de fornecimento"
+},
+{
+"pag": 13,
+"texto": "ou distribuição”, “fatura do gás” por “fatura” e “fornecimento” por “entrega de gás”."
+},
+{
+"pag": 13,
+"texto": "Em relação ao §13 do art. 60, propõe-se que, quando a suspensão, prevista no §13 do artigo"
+},
+{
+"pag": 13,
+"texto": "60, tiver perspectiva de se prolongar por mais de 1 (um) dia, a concessionária deve apresentar"
+},
+{
+"pag": 13,
+"texto": "à ARSP, até o dia seguinte à ocorrência, o planejamento das atividades a serem executadas para"
+},
+{
+"pag": 13,
+"texto": "enfrentamento da situação, permitindo o conhecimento e acompanhamento pela ARSP."
+},
+{
+"pag": 14,
+"texto": "No art. 61, foram realizados ajustes no caput e incluídos parágrafos com o objetivo de"
+},
+{
+"pag": 14,
+"texto": "detalhar as hipóteses em que a concessionária deve interromper a entrega de gás e os prazos"
+},
+{
+"pag": 14,
+"texto": "para restabelecimento do serviço. Estabeleceu-se prazo padrão de 4 (quatro) horas para o"
+},
+{
+"pag": 14,
+"texto": "restabelecimento. Caso haja impedimentos para cumprimento desse prazo, a concessionária"
+},
+{
+"pag": 14,
+"texto": "deverá comunicar à ARSP, em até 2 (duas) horas, o novo prazo previsto para a normalização"
+},
+{
+"pag": 14,
+"texto": "com indicação dos motivos. Nessa hipótese específica, não há obrigação de aviso prévio da"
+},
+{
+"pag": 14,
+"texto": "interrupção."
+},
+{
+"pag": 14,
+"texto": "4.18. DA ANÁLISE DO CAPÍTULO - DAS RESPONSABILIDADES"
+},
+{
+"pag": 14,
+"texto": "Propõe-se deixar expresso que é de responsabilidade da concessionária a reposição de"
+},
+{
+"pag": 14,
+"texto": "pavimentos públicos e de terceiros quando os danos decorrerem diretamente de obras por ela"
+},
+{
+"pag": 14,
+"texto": "executadas."
+},
+{
+"pag": 14,
+"texto": "No art. 65, foi sugerida a retirada da previsão de recebimento de valores de faturas em"
+},
+{
+"pag": 14,
+"texto": "estruturas físicas de atendimento, em razão dos riscos de segurança associados e da ampla"
+},
+{
+"pag": 14,
+"texto": "disponibilidade de meios tecnológicos alternativos para pagamento."
+},
+{
+"pag": 14,
+"texto": "Sugere-se, ainda, ajuste para esclarecer que a estrutura de atendimento adequada é aquela"
+},
+{
+"pag": 14,
+"texto": "que possibilite ao usuário ser atendido por meios remotos de comunicação ou presencialmente"
+},
+{
+"pag": 14,
+"texto": "quando aplicável, para todas as suas solicitações e reclamações, sem a necessidade de"
+},
+{
+"pag": 14,
+"texto": "deslocamento para outro município, em consonância com o disposto no art. 80 e seus"
+},
+{
+"pag": 14,
+"texto": "parágrafos, que detalham o assunto."
+},
+{
+"pag": 14,
+"texto": "Por fim, no art. 66, sugere-se deixar expresso que as instalações internas são de"
+},
+{
+"pag": 14,
+"texto": "responsabilidade do usuário, em conformidade com as definições estabelecidas na Resolução."
+},
+{
+"pag": 14,
+"texto": "4.19. DA ANÁLISE DO CAPÍTULO - DA RELIGAÇÃO"
+},
+{
+"pag": 14,
+"texto": "Ajustes textuais foram promovidos ao longo do capítulo, com a substituição de expressões"
+},
+{
+"pag": 14,
+"texto": "como “fornecimento de gás” por “entrega de gás”, “fatura de gás” por “fatura” e “Contrato de"
+},
+{
+"pag": 14,
+"texto": "Fornecimento” por “Contrato de Prestação do Serviço de Distribuição” ou apenas “contrato”,"
+},
+{
+"pag": 14,
+"texto": "de modo a compatibilizar a redação com a realidade do mercado livre."
+},
+{
+"pag": 14,
+"texto": "No art. 70, propõe-se que, quando a suspensão da entrega de gás ocorrer por falta de"
+},
+{
+"pag": 14,
+"texto": "pagamento, os prazos para religação passem a ser contados a partir da data em que o usuário"
+},
+{
+"pag": 14,
+"texto": "comprovar o respectivo pagamento e solicitar a religação."
+},
+{
+"pag": 14,
+"texto": "No art. 71, sugere-se a substituição da expressão “valor de fornecimento de um período"
+},
+{
+"pag": 14,
+"texto": "equivalente a até 3 (três) meses de consumo” por “valor de até 3 (três) meses de faturamento”,"
+},
+{
+"pag": 14,
+"texto": "para que fique claro que a garantia pode se referir ao serviço de distribuição tanto no mercado"
+},
+{
+"pag": 14,
+"texto": "cativo quanto no mercado livre. No inciso II, foi excluída a condição de atraso superior a 15"
+},
+{
+"pag": 14,
+"texto": "dias, por se entender que qualquer atraso deve ser considerado, evitando comportamento"
+},
+{
+"pag": 14,
+"texto": "reiterado de inadimplência sem possibilidade de atuação da concessionária."
+},
+{
+"pag": 15,
+"texto": "No §6º, propõe-se ajuste para permitir segurança financeira à concessionária também nos"
+},
+{
+"pag": 15,
+"texto": "CUSDs, substituindo a referência específica ao “Segmento de Usuários Termoelétrico e"
+},
+{
+"pag": 15,
+"texto": "Cogeração” por “usuários signatários do Contrato de Prestação do Serviço de Distribuição”."
+},
+{
+"pag": 15,
+"texto": "No art. 73, foi sugerido o trecho “sem prejuízo de eventual ressarcimento individual,"
+},
+{
+"pag": 15,
+"texto": "quando devidamente comprovado”, considerando que a previsão do artigo pressupõe a"
+},
+{
+"pag": 15,
+"texto": "existência de algo a ser ressarcido, devendo eventual pleito do usuário ser analisado caso a"
+},
+{
+"pag": 15,
+"texto": "caso, à luz dos elementos apresentados."
+},
+{
+"pag": 15,
+"texto": "4.20. DA ANÁLISE DO CAPÍTULO - DAS OUTRAS OBRIGAÇÕES DA"
+},
+{
+"pag": 15,
+"texto": "CONCESSIONÁRIA"
+},
+{
+"pag": 15,
+"texto": "Não foram propostas alterações neste capítulo, mantendo-se a redação vigente."
+},
+{
+"pag": 15,
+"texto": "4.21. DA ANÁLISE DO CAPÍTULO - DA COBRANÇA DOS SERVIÇOS"
+},
+{
+"pag": 15,
+"texto": "Dispositivo esclarecendo que os valores relativos aos serviços correlatos e acessórios, bem"
+},
+{
+"pag": 15,
+"texto": "como às taxas cobradas dos interessados ou usuários, são estabelecidos em resolução específica"
+},
+{
+"pag": 15,
+"texto": "aprovada pela ARSP, ou outra que venha a substituí-la, com atualização monetária anual pelo"
+},
+{
+"pag": 15,
+"texto": "IGP-M. Entende-se razoável que essa atualização esteja prevista em norma, evitando a"
+},
+{
+"pag": 15,
+"texto": "necessidade de edição anual de novo ato regulatório para reajustar os valores desses serviços."
+},
+{
+"pag": 15,
+"texto": "4.22. DA ANÁLISE DO CAPÍTULO - DA SEGURANÇA E PREVENÇÃO"
+},
+{
+"pag": 15,
+"texto": "QUANTO A RISCOS"
+},
+{
+"pag": 15,
+"texto": "No art. 77, propõe-se ajuste para que fique expresso que a concessionária, quando"
+},
+{
+"pag": 15,
+"texto": "solicitada e constatado o vazamento, é obrigada a executar os serviços de bloqueio de"
+},
+{
+"pag": 15,
+"texto": "vazamento de gás nas unidades usuárias, cabendo aos usuários assumir os custos decorrentes"
+},
+{
+"pag": 15,
+"texto": "de vazamentos e respectivos reparos nas suas Instalações Internas. A inclusão da expressão"
+},
+{
+"pag": 15,
+"texto": "“constatado o vazamento” visa evitar bloqueios indevidos, e a utilização do termo “Instalações"
+},
+{
+"pag": 15,
+"texto": "Internas” reforça a delimitação de responsabilidade."
+},
+{
+"pag": 15,
+"texto": "4.23. DA ANÁLISE DO CAPÍTULO - DAS DISPOSIÇÕES GERAIS"
+},
+{
+"pag": 15,
+"texto": "No art. 78, sugere-se ajuste para que a informação ali prevista passe a ser encaminhada à"
+},
+{
+"pag": 15,
+"texto": "ARSP."
+},
+{
+"pag": 15,
+"texto": "No art. 79, propõe-se a incorporação do conteúdo do parágrafo único ao caput, com a"
+},
+{
+"pag": 15,
+"texto": "consequente supressão do parágrafo."
+},
+{
+"pag": 15,
+"texto": "No art. 80, foram sugeridos ajustes para tornar mais objetiva a definição de onde deverá"
+},
+{
+"pag": 15,
+"texto": "haver atendimento presencial, deixando de abranger todos os municípios com segmento"
+},
+{
+"pag": 15,
+"texto": "residencial e passando a exigir tal atendimento nos municípios que possuam quantidade"
+},
+{
+"pag": 15,
+"texto": "mínima de Unidades Usuárias do segmento residencial (1.000) ou comercial (100). O ajuste"
+},
+{
+"pag": 15,
+"texto": "promovido nos critérios de exigência de atendimento presencial implica na adequação do"
+},
+{
+"pag": 16,
+"texto": "regramento à realidade atual de digitalização dos canais de atendimento e à distribuição"
+},
+{
+"pag": 16,
+"texto": "geográfica das unidades usuárias. A proposta substitui o critério atualmente vigente por"
+},
+{
+"pag": 16,
+"texto": "parâmetro proporcional à base de Unidades Usuárias, de modo que a obrigação de manutenção"
+},
+{
+"pag": 16,
+"texto": "de estrutura física de atendimento passe a estar associada à quantidade de usuários existentes"
+},
+{
+"pag": 16,
+"texto": "no município."
+},
+{
+"pag": 16,
+"texto": "Também se propõe que não haja necessidade de aprovação prévia da ARSP quanto à"
+},
+{
+"pag": 16,
+"texto": "localização das agências, devendo a concessionária apenas informar previamente a localização"
+},
+{
+"pag": 16,
+"texto": "e a tipologia da instalação."
+},
+{
+"pag": 16,
+"texto": "Alguns dispositivos foram excluídos por desuso ou por não mais se adequarem ao"
+},
+{
+"pag": 16,
+"texto": "regramento atual, como os §§1º e 2º do art. 83 e o art. 84. Este último foi substituído por"
+},
+{
+"pag": 16,
+"texto": "dispositivo voltado ao fortalecimento dos instrumentos de acompanhamento e fiscalização"
+},
+{
+"pag": 16,
+"texto": "pela ARSP, prevendo a manutenção, pela concessionária, de base de dados estruturada e"
+},
+{
+"pag": 16,
+"texto": "atualizada. O dispositivo não cria novas obrigações, mas organiza de forma sistematizada"
+},
+{
+"pag": 16,
+"texto": "informações já inerentes à execução do serviço, preservando a possibilidade de requisição de"
+},
+{
+"pag": 16,
+"texto": "detalhamento individualizado pela Agência, quando necessário."
+},
+{
+"pag": 16,
+"texto": "O art. 85 recebeu ajuste para explicitar a regra geral de contagem de prazos, a regra"
+},
+{
+"pag": 16,
+"texto": "aplicável aos dias úteis e a prorrogação quando o prazo se encerrar em dia não útil."
+},
+{
+"pag": 16,
+"texto": "O art. 86 foi ajustado para prever que casos omissos na aplicação e interpretação da"
+},
+{
+"pag": 16,
+"texto": "Resolução serão resolvidos pela Diretoria Colegiada da ARSP, em consonância com a Lei"
+},
+{
+"pag": 16,
+"texto": "Complementar nº 827/2016."
+},
+{
+"pag": 16,
+"texto": "Sob a ótica da gestão do estoque regulatório e em consonância com boas práticas de"
+},
+{
+"pag": 16,
+"texto": "consolidação normativa, foi incluído, no art. 88 da minuta, dispositivo que estabelece a"
+},
+{
+"pag": 16,
+"texto": "revogação expressa da Resolução ASPE nº 005/2007, da Resolução ASPE nº 005/2008 e da"
+},
+{
+"pag": 16,
+"texto": "Resolução ASPE nº 003/2011, resultando na consolidação do regramento em instrumento"
+},
+{
+"pag": 16,
+"texto": "normativo único, atualizado e coerente com o contrato de concessão vigente e com a legislação"
+},
+{
+"pag": 16,
+"texto": "superveniente, eliminando sobreposições e dispositivos desatualizados, conferindo maior"
+},
+{
+"pag": 16,
+"texto": "clareza normativa, segurança jurídica e facilidade de compreensão tanto para os usuários"
+},
+{
+"pag": 16,
+"texto": "quanto para a concessionária, bem como para a própria atuação fiscalizatória da ARSP"
+},
+{
+"pag": 16,
+"texto": "Por fim, sugere-se prazo de 60 (sessenta) dias para a entrada em vigor do novo regramento,"
+},
+{
+"pag": 16,
+"texto": "entendendo-se que esse período é razoável para permitir a adequada adaptação operacional da"
+},
+{
+"pag": 16,
+"texto": "concessionária."
+},
+{
+"pag": 16,
+"texto": "5. DAS CONSIDERAÇÕES FINAIS"
+},
+{
+"pag": 16,
+"texto": "A Resolução ARSP nº 083/2025, que instituiu a Agenda Regulatória 2025–2027,"
+},
+{
+"pag": 16,
+"texto": "estabelece a revisão das Condições Gerais de Gás Canalizado com o objetivo atualizar e"
+},
+{
+"pag": 16,
+"texto": "aprimorar o regramento de modo a alinhar com o atual contrato de concessão."
+},
+{
+"pag": 16,
+"texto": "A atualização e consolidação do regramento em instrumento normativo único observam a"
+},
+{
+"pag": 16,
+"texto": "gestão do estoque regulatório, eliminam sobreposições e dispositivos desatualizados e"
+},
+{
+"pag": 16,
+"texto": "promovem maior coerência ao arcabouço normativo, bem como a simplificação regulatória."
+},
+{
+"pag": 17,
+"texto": "Tal medida fortalece a clareza normativa, a segurança jurídica e a eficiência da atuação"
+},
+{
+"pag": 17,
+"texto": "regulatória, em alinhamento ao cenário atual do setor de gás canalizado no Espírito Santo."
+},
+{
+"pag": 17,
+"texto": "Nesse contexto, foi elaborada a presente Nota Técnica, sob a ótica da regulação estadual,"
+},
+{
+"pag": 17,
+"texto": "com a finalidade de subsidiar a proposta de Minuta de Resolução que dispõe sobre as"
+},
+{
+"pag": 17,
+"texto": "Condições Gerais da Prestação dos Serviços Locais de Gás Canalizado no Estado do Espírito"
+},
+{
+"pag": 17,
+"texto": "Santo."
+},
+{
+"pag": 17,
+"texto": "Diante do exposto, recomenda-se a submissão da minuta de Resolução à Consulta Pública,"
+},
+{
+"pag": 17,
+"texto": "contemplando as considerações apresentadas nesta Nota Técnica, possibilitando a"
+},
+{
+"pag": 17,
+"texto": "participação social qualificada e a coleta de contribuições devidamente fundamentadas pelos"
+},
+{
+"pag": 17,
+"texto": "interessados."
+},
+{
+"pag": 17,
+"texto": "Este é o entendimento, s.m.j."
+},
+{
+"pag": 17,
+"texto": "(assinado eletronicamente)"
+},
+{
+"pag": 17,
+"texto": "ALBERTO CESAR DE LIMA"
+},
+{
+"pag": 17,
+"texto": "Gerente de Regulação de Gás Natural"
+},
+{
+"pag": 17,
+"texto": "GGN/ARSP"
+},
+{
+"pag": 17,
+"texto": "(assinado eletronicamente)"
+},
+{
+"pag": 17,
+"texto": "HEVERSON MORAIS ALVARENGA"
+},
+{
+"pag": 17,
+"texto": "Coordenador de Regulação"
+},
+{
+"pag": 17,
+"texto": "GGN/ARSP"
+},
+{
+"pag": 17,
+"texto": "(assinado eletronicamente)"
+},
+{
+"pag": 17,
+"texto": "PATRÍCIA KROHLING"
+},
+{
+"pag": 17,
+"texto": "Especialista em Regulação e Fiscalização"
+},
+{
+"pag": 17,
+"texto": "GGN/ARSP"
+}
+]

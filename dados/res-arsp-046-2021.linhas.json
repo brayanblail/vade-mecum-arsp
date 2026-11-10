@@ -1,0 +1,2546 @@
+[
+{
+"pag": 1,
+"texto": "RESOLUÇÃO ARSP Nº 046, de 31/03/2021"
+},
+{
+"pag": 1,
+"texto": "Dispõe sobre as regras para o Mercado"
+},
+{
+"pag": 1,
+"texto": "Livre de Gás Canalizado e as"
+},
+{
+"pag": 1,
+"texto": "condições para a prestação do Serviço"
+},
+{
+"pag": 1,
+"texto": "Público de Distribuição de Gás"
+},
+{
+"pag": 1,
+"texto": "Canalizado aos Agentes Livres de"
+},
+{
+"pag": 1,
+"texto": "Mercado no âmbito do Estado do"
+},
+{
+"pag": 1,
+"texto": "Espírito Santo e revoga a Resolução"
+},
+{
+"pag": 1,
+"texto": "ASPE n° 004/2011."
+},
+{
+"pag": 1,
+"texto": "A DIRETORIA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DO ESPÍRITO SANTO-"
+},
+{
+"pag": 1,
+"texto": "ARSP, no uso de suas atribuições regimentais, à vista do disposto na Lei Complementar nº 827, de"
+},
+{
+"pag": 1,
+"texto": "30 de junho de 2016, alterada pela Lei Complementar nº 954, de 02 de setembro de 2020;"
+},
+{
+"pag": 1,
+"texto": "CONSIDERANDO que, nos termos do artigo 25, parágrafo 2º da Constituição Federal, cabe ao"
+},
+{
+"pag": 1,
+"texto": "Estado do Espírito Santo, diretamente ou mediante CONCESSÃO, explorar os serviços locais de"
+},
+{
+"pag": 1,
+"texto": "GÁS CANALIZADO em seu território;"
+},
+{
+"pag": 1,
+"texto": "CONSIDERANDO que a ARSP tem por finalidade, regular, controlar e fiscalizar, no âmbito do Estado"
+},
+{
+"pag": 1,
+"texto": "do Espírito Santo, os SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 1,
+"texto": "CONSIDERANDO que é diretriz da ARSP incentivar o desenvolvimento da indústria de GÁS,"
+},
+{
+"pag": 1,
+"texto": "estabelecendo normas no sentido de promover a ampliação do uso deste energético com"
+},
+{
+"pag": 1,
+"texto": "competitividade e eficiência;"
+},
+{
+"pag": 1,
+"texto": "CONSIDERANDO a Lei Estadual Nº 11.173, de 25 de setembro de 2020 que estabelece normas para"
+},
+{
+"pag": 1,
+"texto": "o MERCADO LIVRE DE GÁS CANALIZADO no âmbito do Estado do Espírito Santo e dá outras"
+},
+{
+"pag": 1,
+"texto": "providências."
+},
+{
+"pag": 1,
+"texto": "CONSIDERANDO que é diretriz para o MERCADO LIVRE DE GÁS CANALIZADO no âmbito do"
+},
+{
+"pag": 1,
+"texto": "Estado do Espírito Santo a promoção do livre mercado; transparência, eficiência e estrutura tarifária"
+},
+{
+"pag": 1,
+"texto": "adequada; tratamento tarifário isonômico ao CONSUMIDOR LIVRE, ao AUTOPRODUTOR e ao"
+},
+{
+"pag": 1,
+"texto": "AUTOIMPORTADOR e ampliação da REDE DE DISTRIBUIÇÃO de GÁS CANALIZADO;"
+},
+{
+"pag": 1,
+"texto": "CONSIDERANDO que o CONTRATO DE CONCESSÃO tem por objeto a CONCESSÃO, com"
+},
+{
+"pag": 1,
+"texto": "exclusividade do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO no Estado do"
+},
+{
+"pag": 1,
+"texto": "Espírito Santo;"
+},
+{
+"pag": 2,
+"texto": "CONSIDERANDO que o serviço público será exercido tendo em vista o disposto no art. 173 da"
+},
+{
+"pag": 2,
+"texto": "Constituição Federal e no art. 207 §1º da Constituição do Estado do Espírito Santo, como função de"
+},
+{
+"pag": 2,
+"texto": "utilidade pública prioritária;"
+},
+{
+"pag": 2,
+"texto": "CONSIDERANDO que, conforme item 4.2.2 da cláusula 4ª do CONTRATO DE CONCESSÃO para"
+},
+{
+"pag": 2,
+"texto": "Exploração dos SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO, não é conferida"
+},
+{
+"pag": 2,
+"texto": "à CONCESSIONÁRIA a exclusividade na COMERCIALIZAÇÃO DE GÁS CANALIZADO aos"
+},
+{
+"pag": 2,
+"texto": "USUÁRIOS qualificados como CONSUMIDOR LIVRE, AUTOPRODUTOR ou AUTOIMPORTADOR,"
+},
+{
+"pag": 2,
+"texto": "que podem adquirir o energético de outro fornecedor;"
+},
+{
+"pag": 2,
+"texto": "CONSIDERANDO o estabelecido na cláusula quinta do CONTRATO DE CONCESSÃO para"
+},
+{
+"pag": 2,
+"texto": "exploração do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, assinado em 22 de"
+},
+{
+"pag": 2,
+"texto": "julho de 2020;"
+},
+{
+"pag": 2,
+"texto": "CONSIDERANDO que a ARSP, em Consulta Pública N° 001/2021, que esteve disponível de 06 de"
+},
+{
+"pag": 2,
+"texto": "janeiro de 2021 a 04 de fevereiro de 2021, submeteu à apreciação e contribuições da sociedade, a"
+},
+{
+"pag": 2,
+"texto": "Nota Técnica Conjunta ASTET/GGN Nº 02/2020 e minuta de Resolução;"
+},
+{
+"pag": 2,
+"texto": "RESOLVE:"
+},
+{
+"pag": 2,
+"texto": "CAPÍTULO I - DISPOSIÇÕES PRELIMINARES"
+},
+{
+"pag": 2,
+"texto": "Art. 1º. Estabelecer, na forma que se segue, as disposições relativas à criação do MERCADO LIVRE"
+},
+{
+"pag": 2,
+"texto": "DE GÁS CANALIZADO e as condições a serem observadas na prestação dos SERVIÇOS"
+},
+{
+"pag": 2,
+"texto": "PÚBLICOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO pela CONCESSIONÁRIA ao AGENTE"
+},
+{
+"pag": 2,
+"texto": "LIVRE DE MERCADO no âmbito do Estado do Espírito Santo."
+},
+{
+"pag": 2,
+"texto": "Art. 2º. Para os efeitos desta Resolução ficam estabelecidas as seguintes definições:"
+},
+{
+"pag": 2,
+"texto": "I. AGENTE LIVRE DE MERCADO: USUÁRIO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE"
+},
+{
+"pag": 2,
+"texto": "GÁS CANALIZADO que se qualifique, observado o disposto na legislação, como"
+},
+{
+"pag": 2,
+"texto": "CONSUMIDOR LIVRE, como AUTOPRODUTOR ou como AUTOIMPORTADOR;"
+},
+{
+"pag": 2,
+"texto": "II. AUTOIMPORTADOR: USUÁRIO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 2,
+"texto": "CANALIZADO autorizado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis"
+},
+{
+"pag": 2,
+"texto": "(ANP) para a importação de GÁS e que utiliza parte ou totalidade do produto importado como"
+},
+{
+"pag": 2,
+"texto": "matéria-prima ou combustível em suas instalações industriais;"
+},
+{
+"pag": 2,
+"texto": "III. AUTOPRODUTOR: USUÁRIO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 2,
+"texto": "CANALIZADO autorizado pela ANP a produzir, a molécula do GÁS, e que utiliza parte ou"
+},
+{
+"pag": 3,
+"texto": "totalidade de sua produção como matéria-prima ou combustível em suas instalações"
+},
+{
+"pag": 3,
+"texto": "industriais;"
+},
+{
+"pag": 3,
+"texto": "IV. AVISO PRÉVIO: manifestação formal do USUÁRIO CATIVO que atenda as condições para"
+},
+{
+"pag": 3,
+"texto": "migrar para o MERCADO LIVRE DE GÁS CANALIZADO, protocolada junto à"
+},
+{
+"pag": 3,
+"texto": "CONCESSIONÁRIA, com o objetivo de informar sua intenção de passar para a condição de"
+},
+{
+"pag": 3,
+"texto": "AGENTE LIVRE DE MERCADO;"
+},
+{
+"pag": 3,
+"texto": "V. BALANÇO: corresponde à diferença entre o volume medido no PONTO DE ENTREGA e o"
+},
+{
+"pag": 3,
+"texto": "volume assegurado de GÁS no PONTO DE RECEPÇÃO ou ESTAÇÃO DE"
+},
+{
+"pag": 3,
+"texto": "TRANSFERÊNCIA DE CUSTÓDIA, excluindo as perdas, cuja movimentação foi contratada"
+},
+{
+"pag": 3,
+"texto": "entre a CONCESSIONÁRIA e o AGENTE LIVRE DE MERCADO;"
+},
+{
+"pag": 3,
+"texto": "VI. CAPACIDADE CONTRATADA: capacidade que a CONCESSIONÁRIA deve reservar em seu"
+},
+{
+"pag": 3,
+"texto": "SISTEMA DE DISTRIBUIÇÃO para movimentação de quantidades de GÁS contratadas pelo"
+},
+{
+"pag": 3,
+"texto": "AGENTE LIVRE DE MERCADO e disponibilizadas à CONCESSIONÁRIA no PONTO DE"
+},
+{
+"pag": 3,
+"texto": "RECEPÇÃO ou ESTAÇÃO DE TRANSFERÊNCIA DE CUSTÓDIA, para movimentação até o"
+},
+{
+"pag": 3,
+"texto": "PONTO DE ENTREGA, expressa em metros cúbicos por dia, nas condições de referência,"
+},
+{
+"pag": 3,
+"texto": "nos termos do respectivo CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO;"
+},
+{
+"pag": 3,
+"texto": "VII. CHAMADA PÚBLICA: procedimento destinado a selecionar SUPRIDOR (ES), no qual se"
+},
+{
+"pag": 3,
+"texto": "garanta a observância dos princípios da isonomia, da legalidade, da impessoalidade, da"
+},
+{
+"pag": 3,
+"texto": "moralidade, da igualdade, da publicidade, da probidade administrativa, da vinculação ao"
+},
+{
+"pag": 3,
+"texto": "instrumento convocatório, do julgamento objetivo e dos que lhes são correlatos;"
+},
+{
+"pag": 3,
+"texto": "VIII. COMERCIALIZAÇÃO DE GÁS CANALIZADO: atividade de compra e venda de GÁS"
+},
+{
+"pag": 3,
+"texto": "CANALIZADO, realizada por meio da celebração de contratos negociados entre os"
+},
+{
+"pag": 3,
+"texto": "interessados e registrados na ANP, ressalvado o disposto no § 2º do art. 25 da Constituição"
+},
+{
+"pag": 3,
+"texto": "Federal;"
+},
+{
+"pag": 3,
+"texto": "IX. COMERCIALIZADOR: Pessoa jurídica autorizada pela ANP e em caráter precário, a adquirir"
+},
+{
+"pag": 3,
+"texto": "e vender GÁS CANALIZADO aos AGENTES LIVRES DE MERCADO."
+},
+{
+"pag": 3,
+"texto": "X. CONCESSÃO: relação jurídica formada pela delegação, à CONCESSIONÁRIA, pelo PODER"
+},
+{
+"pag": 3,
+"texto": "CONCEDENTE, da prestação do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 3,
+"texto": "CANALIZADO, que será remunerado mediante tarifa paga pelo USUÁRIO;"
+},
+{
+"pag": 3,
+"texto": "XI. CONCESSIONÁRIA: sociedade à qual é adjudicada, mediante CONCESSÃO, a prestação do"
+},
+{
+"pag": 3,
+"texto": "SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 3,
+"texto": "XII. CONJUNTO DE REGULAGEM E MEDIÇÃO (CRM): conjunto de equipamentos, instalados"
+},
+{
+"pag": 3,
+"texto": "pela CONCESSIONÁRIA, nas dependências do USUÁRIO, destinado à regulagem da"
+},
+{
+"pag": 3,
+"texto": "pressão e à medição do volume de GÁS entregue;"
+},
+{
+"pag": 4,
+"texto": "XIII. CONSUMIDOR LIVRE: USUÁRIO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 4,
+"texto": "CANALIZADO que, conforme critérios de enquadramento e condições fixados em Lei e neste"
+},
+{
+"pag": 4,
+"texto": "regulamento, tem a opção de adquirir a molécula do GÁS diretamente do SUPRIDOR;"
+},
+{
+"pag": 4,
+"texto": "XIV. CONTRATO DE COMPRA E VENDA DE GÁS: instrumento contratual celebrado entre o"
+},
+{
+"pag": 4,
+"texto": "SUPRIDOR ou COMERCIALIZADOR e o AGENTE LIVRE DE MERCADO, objetivando a"
+},
+{
+"pag": 4,
+"texto": "COMERCIALIZAÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 4,
+"texto": "XV. CONTRATO DE CONCESSÃO: instrumento de outorga da CONCESSÃO, celebrado entre o"
+},
+{
+"pag": 4,
+"texto": "PODER CONCEDENTE e a CONCESSIONÁRIA, que tem por objeto regular as condições de"
+},
+{
+"pag": 4,
+"texto": "exploração do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO no Estado"
+},
+{
+"pag": 4,
+"texto": "do Espírito Santo;"
+},
+{
+"pag": 4,
+"texto": "XVI. CONTRATO DE FORNECIMENTO: instrumento contratual em que a CONCESSIONÁRIA e"
+},
+{
+"pag": 4,
+"texto": "o USUÁRIO CATIVO, ajustam as características técnicas e as condições comerciais do"
+},
+{
+"pag": 4,
+"texto": "fornecimento de GÁS CANALIZADO."
+},
+{
+"pag": 4,
+"texto": "XVII. CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO: instrumento contratual celebrado"
+},
+{
+"pag": 4,
+"texto": "entre a CONCESSIONÁRIA e o AGENTE LIVRE DE MERCADO para a prestação de"
+},
+{
+"pag": 4,
+"texto": "SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 4,
+"texto": "XVIII. ESTAÇÃO DE TRANSFERÊNCIA DE CUSTÓDIA (CITY GATE): local físico onde ocorre a"
+},
+{
+"pag": 4,
+"texto": "transferência do GÁS sob custódia do carregador para a custódia da CONCESSIONÁRIA ou"
+},
+{
+"pag": 4,
+"texto": "para os AGENTES LIVRES DE MERCADO, por intermédio de conjunto de equipamentos e"
+},
+{
+"pag": 4,
+"texto": "instalações que tem por finalidade regular a pressão, assim como odorizar,medir e registrar a"
+},
+{
+"pag": 4,
+"texto": "quantidade de GÁS nas condições de entrega;"
+},
+{
+"pag": 4,
+"texto": "XIX. FONTE DE SUPRIMENTO: qualquer conexão para entrega de GÁS que não seja derivada"
+},
+{
+"pag": 4,
+"texto": "do SISTEMA DE DISTRIBUIÇÃO, tais como UPGNs, terminais de regaseificação de GNL"
+},
+{
+"pag": 4,
+"texto": "(TGNL), gasodutos de escoamento, de transporte ou as demais unidades produtoras de GÁS;"
+},
+{
+"pag": 4,
+"texto": "XX. GÁS CANALIZADO: É o GÁS distribuído por meio de gasodutos, através de SISTEMA DE"
+},
+{
+"pag": 4,
+"texto": "DISTRIBUIÇÃO adequado;"
+},
+{
+"pag": 4,
+"texto": "XXI. GÁS: É o energético distribuído pela CONCESSIONÁRIA aos USUÁRIOS, podendo ser gás"
+},
+{
+"pag": 4,
+"texto": "natural, biometano ou similares conforme especificações da ANP;"
+},
+{
+"pag": 4,
+"texto": "XXII. MERCADO LIVRE DE GÁS CANALIZADO: mercado onde há a comercialização direta de"
+},
+{
+"pag": 4,
+"texto": "GÁS CANALIZADO entre SUPRIDORES e AGENTES LIVRES DE MERCADO nas condições"
+},
+{
+"pag": 4,
+"texto": "estabelecidas neste regulamento, observadas as regras do CONTRATO DE CONCESSÃO;"
+},
+{
+"pag": 4,
+"texto": "XXIII. MERCADO CATIVO: mercado onde há a prestação do serviço realizada pela"
+},
+{
+"pag": 4,
+"texto": "CONCESSIONÁRIA sem a separação da COMERCIALIZAÇÃO DE GÁS CANALIZADO e do"
+},
+{
+"pag": 5,
+"texto": "SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, observadas as regras do"
+},
+{
+"pag": 5,
+"texto": "CONTRATO DE CONCESSÃO;"
+},
+{
+"pag": 5,
+"texto": "XXIV. PODER CONCEDENTE: ente federado que detém a titularidade do SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 5,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 5,
+"texto": "XXV. PONTO DE ENTREGA: local físico de entrega do GÁS pela CONCESSIONÁRIA aos"
+},
+{
+"pag": 5,
+"texto": "USUÁRIOS ou o local físico onde o GÁS CANALIZADO ingressa no estabelecimento do"
+},
+{
+"pag": 5,
+"texto": "AGENTE LIVRE DE MERCADO, a partir da última válvula de bloqueio de saída do"
+},
+{
+"pag": 5,
+"texto": "CONJUNTO DE REGULAGEM E MEDIÇÃO;"
+},
+{
+"pag": 5,
+"texto": "XXVI. PONTO DE RECEPÇÃO: local físico ou virtual onde ocorre a transferência do GÁS do"
+},
+{
+"pag": 5,
+"texto": "SUPRIDOR para a CONCESSIONÁRIA ou para os AGENTES LIVRES de MERCADO de"
+},
+{
+"pag": 5,
+"texto": "GÁS CANALIZADO;"
+},
+{
+"pag": 5,
+"texto": "XXVII. RAMAL DEDICADO: todo duto de distribuição, incluindo válvulas, acessórios e outros"
+},
+{
+"pag": 5,
+"texto": "elementos auxiliares, que inicialmente conecta o AGENTE LIVRE DE MERCADO diretamente"
+},
+{
+"pag": 5,
+"texto": "a uma FONTE DE SUPRIMENTO;"
+},
+{
+"pag": 5,
+"texto": "XXVIII. RECEITA DE COMERCIALIZAÇÃO: receitas provenientes da COMERCIALIZAÇÃO DE GÁS"
+},
+{
+"pag": 5,
+"texto": "CANALIZADO pela CONCESSIONÁRIA ao AGENTE LIVRE DE MERCADO, podendo ser"
+},
+{
+"pag": 5,
+"texto": "aplicada ao USUÁRIO CATIVO, em situação específica, temporária e previamente aprovada"
+},
+{
+"pag": 5,
+"texto": "pelo REGULADOR;"
+},
+{
+"pag": 5,
+"texto": "XXIX. REDE DE DISTRIBUIÇÃO: todo duto destinado ao SERVIÇO PÚBLICO DE DISTRIBUIÇÃO"
+},
+{
+"pag": 5,
+"texto": "DE GÁS CANALIZADO, incluindo válvulas, acessórios e outros elementos auxiliares, que é"
+},
+{
+"pag": 5,
+"texto": "construído, operado e mantido pela CONCESSIONÁRIA;"
+},
+{
+"pag": 5,
+"texto": "XXX. REDE LOCAL: gasodutos que se encontram isolados em determinada região, não conectada"
+},
+{
+"pag": 5,
+"texto": "fisicamente ao SISTEMA DE DISTRIBUIÇÃO, mas integrando-a por meio de estruturas de"
+},
+{
+"pag": 5,
+"texto": "compressão/descompressão de GÁS CANALIZADO, armazenamento, transporte, carga e"
+},
+{
+"pag": 5,
+"texto": "descarga de GÁS comprimido ou liquefeito;"
+},
+{
+"pag": 5,
+"texto": "XXXI. REGULADOR (ARSP): autarquia dotada de personalidade jurídica de direito público,"
+},
+{
+"pag": 5,
+"texto": "designada por lei com o objetivo de regular e fiscalizar, no Estado do Espírito Santo, a"
+},
+{
+"pag": 5,
+"texto": "CONCESSÃO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 5,
+"texto": "XXXII. SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO: serviços públicos"
+},
+{
+"pag": 5,
+"texto": "atribuídos pela Constituição Federal aos Estados-Membros, sujeitos à regulação estadual,"
+},
+{
+"pag": 5,
+"texto": "consistente na distribuição do GÁS CANALIZADO aos seus USUÁRIOS, com o objetivo de"
+},
+{
+"pag": 5,
+"texto": "assegurar as condições de regularidade, continuidade, eficiência, segurança, atualidade,"
+},
+{
+"pag": 5,
+"texto": "generalidade, cortesia na sua prestação e modicidade das tarifas;"
+},
+{
+"pag": 6,
+"texto": "XXXIII. SISTEMA DE DISTRIBUIÇÃO: sistema que compreende toda a infraestrutura operada e"
+},
+{
+"pag": 6,
+"texto": "mantida pela CONCESSIONÁRIA para distribuir GÁS CANALIZADO aos seus USUÁRIOS,"
+},
+{
+"pag": 6,
+"texto": "incluindo REDES DE DISTRIBUIÇÃO, RAMAIS DEDICADOS E REDES LOCAIS;"
+},
+{
+"pag": 6,
+"texto": "XXXIV. SUPRIDOR: todo produtor, importador ou outro agente autorizado pela Agência Nacional do"
+},
+{
+"pag": 6,
+"texto": "Petróleo, Gás Natural e Biocombustíveis (ANP) a comercializar a molécula do GÁS;"
+},
+{
+"pag": 6,
+"texto": "XXXV. TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-GÁS):"
+},
+{
+"pag": 6,
+"texto": "tarifa fixada pelo REGULADOR a ser cobrada dos AGENTES LIVRES DE MERCADO pelo"
+},
+{
+"pag": 6,
+"texto": "uso do SISTEMA DE DISTRIBUIÇÃO;"
+},
+{
+"pag": 6,
+"texto": "XXXVI. TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO EXCLUSIVA DE GÁS CANALIZADO"
+},
+{
+"pag": 6,
+"texto": "(TUSDE-GÁS): tarifa fixada pelo REGULADOR a ser cobrada dos AGENTES LIVRES DE"
+},
+{
+"pag": 6,
+"texto": "MERCADO atendidos por RAMAL DEDICADO;"
+},
+{
+"pag": 6,
+"texto": "XXXVII. TRANSPORTADOR: empresa autorizada ou autorizada pela Agência Nacional do Petróleo,"
+},
+{
+"pag": 6,
+"texto": "Gás Natural e Biocombustíveis (ANP) apta a atuar na atividade de transporte de GÁS por"
+},
+{
+"pag": 6,
+"texto": "meio de dutos;"
+},
+{
+"pag": 6,
+"texto": "XXXVIII. USUÁRIO CATIVO: pessoa física ou jurídica que utiliza o SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 6,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO, o qual contrata a compra do GÁS CANALIZADO"
+},
+{
+"pag": 6,
+"texto": "junto a CONCESSIONÁRIA, bem como sua efetiva entrega através do SISTEMA DE"
+},
+{
+"pag": 6,
+"texto": "DISTRIBUIÇÃO;"
+},
+{
+"pag": 6,
+"texto": "XXXIX. USUÁRIO: pessoa física ou jurídica que utiliza o SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE"
+},
+{
+"pag": 6,
+"texto": "GÁS CANALIZADO;"
+},
+{
+"pag": 6,
+"texto": "CAPÍTULO II - DA PRESTAÇÃO DO SERVIÇO DE GÁS CANALIZADO"
+},
+{
+"pag": 6,
+"texto": "Art. 3º. O SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO é prestado, sob"
+},
+{
+"pag": 6,
+"texto": "competência regulatória estadual, com o objetivo de assegurar as condições de regularidade,"
+},
+{
+"pag": 6,
+"texto": "continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e"
+},
+{
+"pag": 6,
+"texto": "modicidade das tarifas, e compreende o planejamento, a construção, a operação e a manutenção do"
+},
+{
+"pag": 6,
+"texto": "SISTEMA DE DISTRIBUIÇÃO e as medições desde as ESTAÇÕES DE TRANSFERÊNCIA DE"
+},
+{
+"pag": 6,
+"texto": "CUSTÓDIA ou PONTO DE RECEPÇÃO até os PONTOS DE ENTREGA da molécula do GÁS aos"
+},
+{
+"pag": 6,
+"texto": "USUÁRIOS CATIVOS e AGENTES LIVRES DE MERCADO."
+},
+{
+"pag": 6,
+"texto": "Parágrafo único: A movimentação de GÁS pelo SISTEMA DE DISTRIBUIÇÃO ocorrerá entre o"
+},
+{
+"pag": 6,
+"texto": "PONTO DE RECEPÇÃO ou ESTAÇÕES DE TRANSFERÊNCIA DE CUSTÓDIA e o PONTO DE"
+},
+{
+"pag": 6,
+"texto": "ENTREGA."
+},
+{
+"pag": 7,
+"texto": "Art. 4º. O SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO terá como destinatários"
+},
+{
+"pag": 7,
+"texto": "todos os USUÁRIOS do Estado do Espírito Santo, abarcando, portanto, USUÁRIOS CATIVOS e"
+},
+{
+"pag": 7,
+"texto": "AGENTES LIVRES DE MERCADO."
+},
+{
+"pag": 7,
+"texto": "§1º: A CONCESSIONÁRIA não pode se negar a prestar o SERVIÇO PÚBLICO DE DISTRIBUIÇÃO"
+},
+{
+"pag": 7,
+"texto": "DE GÁS CANALIZADO quando tiver capacidade técnica e operacional disponível."
+},
+{
+"pag": 7,
+"texto": "§2°: Deverá ser observado o estabelecido na Resolução ASPE N° 005/2007 que trata das condições"
+},
+{
+"pag": 7,
+"texto": "gerais de fornecimento ou outra que vier a alterá-la ou a substituí-la."
+},
+{
+"pag": 7,
+"texto": "§3º: Caso haja a necessidade de novos investimentos para a prestação dos serviços requisitados, a"
+},
+{
+"pag": 7,
+"texto": "CONCESSIONÁRIA deverá apresentar para aprovação do REGULADOR o plano de investimentos,"
+},
+{
+"pag": 7,
+"texto": "acompanhado da demonstração e cálculo de viabilidade econômica, considerando impacto tarifário"
+},
+{
+"pag": 7,
+"texto": "aos demais USUÁRIOS, cujos critérios serão estabelecidos em regulamento."
+},
+{
+"pag": 7,
+"texto": "§4º: A CONCESSIONÁRIA não será obrigada a realizar novos investimentos se comprovada a"
+},
+{
+"pag": 7,
+"texto": "inviabilidade econômica."
+},
+{
+"pag": 7,
+"texto": "Art. 5º. É de responsabilidade da CONCESSIONÁRIA elaborar os projetos, executar as obras"
+},
+{
+"pag": 7,
+"texto": "necessárias ao fornecimento de GÁS até o PONTO DE ENTREGA, assumir os custos decorrentes,"
+},
+{
+"pag": 7,
+"texto": "bem como operar e manter o SISTEMA DE DISTRIBUIÇÃO."
+},
+{
+"pag": 7,
+"texto": "§1º: A instalação interna, construída e conservada nas dependências do USUÁRIO, em conformidade"
+},
+{
+"pag": 7,
+"texto": "com as normas e os regulamentos pertinentes, é de responsabilidade do USUÁRIO, e inicia-se no"
+},
+{
+"pag": 7,
+"texto": "PONTO DE ENTREGA, contemplando toda a infraestrutura de condução e utilização de GÁS."
+},
+{
+"pag": 7,
+"texto": "§2º: A operação e manutenção do RAMAL DEDICADO, que é parte integrante do SISTEMA DE"
+},
+{
+"pag": 7,
+"texto": "DISTRIBUIÇÃO, excepcionalmente, poderão ser delegadas pela CONCESSIONÁRIA ao AGENTE"
+},
+{
+"pag": 7,
+"texto": "LIVRE DE MERCADO, ficando sob sua responsabilidade avaliar e controlar se o AGENTE LIVRE DE"
+},
+{
+"pag": 7,
+"texto": "MERCADO dispõe de competência técnica e capacidade econômico-financeira; pelo"
+},
+{
+"pag": 7,
+"texto": "acompanhamento da operação e manutenção do RAMAL DEDICADO e por eventuais danos que"
+},
+{
+"pag": 7,
+"texto": "possam advir desta delegação."
+},
+{
+"pag": 7,
+"texto": "Art. 6º. A CONCESSÃO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO não"
+},
+{
+"pag": 7,
+"texto": "confere à CONCESSIONÁRIA direito de exclusividade na COMERCIALIZAÇÃO DE GÁS"
+},
+{
+"pag": 7,
+"texto": "CANALIZADO aos USUÁRIOS qualificados como AGENTES LIVRES DE MERCADO."
+},
+{
+"pag": 7,
+"texto": "Art. 7º. Na aquisição de GÁS com o objetivo de distribuí-lo, a CONCESSIONÁRIA buscará os"
+},
+{
+"pag": 7,
+"texto": "menores custos e as melhores condições encontrados no mercado, realizando prioritariamente"
+},
+{
+"pag": 7,
+"texto": "CHAMADA PÚBLICA para aquisição do GÁS."
+},
+{
+"pag": 7,
+"texto": "§1º: A CONCESSIONÁRIA poderá adquirir o GÁS diretamente dos SUPRIDORES que apresentarem"
+},
+{
+"pag": 7,
+"texto": "preço e condições de reajuste e pagamentos mais vantajosos do que aqueles obtidos no processo"
+},
+{
+"pag": 7,
+"texto": "de CHAMADA PÚBLICA ou em situações emergenciais que visem à manutenção da continuidade"
+},
+{
+"pag": 7,
+"texto": "dos serviços, ocasiões em que será dispensada a realização de CHAMADA PÚBLICA."
+},
+{
+"pag": 8,
+"texto": "§2º: O contrato para aquisição de GÁS deverá ser submetido à aprovação do REGULADOR, em"
+},
+{
+"pag": 8,
+"texto": "conformidade com o estabelecido pela RESOLUÇÃO ARSP Nº 025, DE 27 DE NOVEMBRO DE 2018"
+},
+{
+"pag": 8,
+"texto": "e suas alterações e/ou outra que vier a substituí-la."
+},
+{
+"pag": 8,
+"texto": "§3º: A CONCESSIONÁRIA poderá franquear aos AGENTES LIVRES DE MERCADO participação"
+},
+{
+"pag": 8,
+"texto": "conjunta na CHAMADA PÚBLICA, para obtenção de preços e condições mais competitivos e"
+},
+{
+"pag": 8,
+"texto": "vantajosos."
+},
+{
+"pag": 8,
+"texto": "§4º: As condições que permitem a caracterização das situações emergenciais serão definidas em"
+},
+{
+"pag": 8,
+"texto": "regulação específica."
+},
+{
+"pag": 8,
+"texto": "Art. 8º. A CONCESSIONÁRIA é obrigada a celebrar CONTRATO DE FORNECIMENTO ou"
+},
+{
+"pag": 8,
+"texto": "CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO em volumes compatíveis com a demanda"
+},
+{
+"pag": 8,
+"texto": "existente em sua área de CONCESSÃO."
+},
+{
+"pag": 8,
+"texto": "Parágrafo único: A CONCESSIONÁRIA deve apresentar os CONTRATOS DE USO DO SERVIÇO"
+},
+{
+"pag": 8,
+"texto": "DE DISTRIBUIÇÃO em até 30 (trinta) dias após a data de sua celebração."
+},
+{
+"pag": 8,
+"texto": "CAPÍTULO III - DO CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO"
+},
+{
+"pag": 8,
+"texto": "Art. 9º. Os CONTRATOS DE USO DO SERVIÇO DE DISTRIBUIÇÃO devem conter, no mínimo, as"
+},
+{
+"pag": 8,
+"texto": "seguintes cláusulas, além do disposto nos demais artigos deste regulamento:"
+},
+{
+"pag": 8,
+"texto": "I. A identificação do CONSUMIDOR LIVRE, AUTOPRODUTOR ou AUTOIMPORTADOR e da"
+},
+{
+"pag": 8,
+"texto": "CONCESSIONÁRIA;"
+},
+{
+"pag": 8,
+"texto": "II. A localização da unidade usuária;"
+},
+{
+"pag": 8,
+"texto": "III. Identificação do(s) PONTO(s) DE RECEPÇÃO e do(s) PONTO(s) DE ENTREGA;"
+},
+{
+"pag": 8,
+"texto": "IV. Condições de qualidade, de referência, pressão mínima e máxima no PONTO DE RECEPÇÃO"
+},
+{
+"pag": 8,
+"texto": "ou ESTAÇÃO DE TRANSFERÊNCIA DE CUSTÓDIA e no PONTO DE ENTREGA, e demais"
+},
+{
+"pag": 8,
+"texto": "características técnicas do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 8,
+"texto": "V. A CAPACIDADE CONTRATADA;"
+},
+{
+"pag": 8,
+"texto": "VI. Segmento da unidade usuária;"
+},
+{
+"pag": 8,
+"texto": "VII. Os critérios de medição;"
+},
+{
+"pag": 8,
+"texto": "VIII. A tarifa aplicável;"
+},
+{
+"pag": 8,
+"texto": "IX. As regras para faturamento e pagamento pelo SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 8,
+"texto": "CANALIZADO;"
+},
+{
+"pag": 8,
+"texto": "X. Critérios de reajuste e revisão, bem como indicação dos encargos fiscais incidentes;"
+},
+{
+"pag": 9,
+"texto": "XI. Cláusula específica que indique a obrigação de sujeição à superveniência das normas regulatórias"
+},
+{
+"pag": 9,
+"texto": "do REGULADOR;"
+},
+{
+"pag": 9,
+"texto": "XII. As penalidades aplicáveis às partes, conforme a legislação em vigor, inclusive penalidades por"
+},
+{
+"pag": 9,
+"texto": "atraso no pagamento das faturas;"
+},
+{
+"pag": 9,
+"texto": "XIII. Cláusula condicionando a eficácia jurídica do CONTRATO DE USO DO SERVIÇO DE"
+},
+{
+"pag": 9,
+"texto": "DISTRIBUIÇÃO à homologação pelo REGULADOR;"
+},
+{
+"pag": 9,
+"texto": "XIV. A data de início do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO e o prazo"
+},
+{
+"pag": 9,
+"texto": "de vigência contratual;"
+},
+{
+"pag": 9,
+"texto": "XV. Procedimentos e contatos para as situações de emergência; e"
+},
+{
+"pag": 9,
+"texto": "XVI. Condições de suspensão ou interrupção do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 9,
+"texto": "CANALIZADO."
+},
+{
+"pag": 9,
+"texto": "§1º: O CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO deverá prever o pagamento de"
+},
+{
+"pag": 9,
+"texto": "penalidade pela CONCESSIONÁRIA devido a falhas no SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE"
+},
+{
+"pag": 9,
+"texto": "GÁS CANALIZADO que impeça o USUÁRIO de retirar a quantidade diária programada, ressalvados"
+},
+{
+"pag": 9,
+"texto": "os casos de força maior."
+},
+{
+"pag": 9,
+"texto": "§2º: Os CONTRATOS DE USO DO SERVIÇO DE DISTRIBUIÇÃO devem prever, quando aplicável,"
+},
+{
+"pag": 9,
+"texto": "penalidades por erro de programação e por não comunicação à CONCESSIONÁRIA."
+},
+{
+"pag": 9,
+"texto": "§3º: Os CONTRATOS DE USO DO SERVIÇO DE DISTRIBUIÇÃO devem prever a forma de"
+},
+{
+"pag": 9,
+"texto": "ressarcimento pela retirada de GÁS pelo AGENTE LIVRE DE MERCADO em desacordo com a"
+},
+{
+"pag": 9,
+"texto": "CAPACIDADE CONTRATADA e as penalidades cabíveis, e também, cláusula prevendo o corte pela"
+},
+{
+"pag": 9,
+"texto": "CONCESSIONÁRIA, caso o COMERCIALIZADOR não entregue o GÁS."
+},
+{
+"pag": 9,
+"texto": "§4º: O CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO firmado pelo AGENTE LIVRE DE"
+},
+{
+"pag": 9,
+"texto": "MERCADO deverá ser de, no mínimo, 1 (um) ano."
+},
+{
+"pag": 9,
+"texto": "I - O referido prazo poderá ser alterado, conforme negociação entre as partes."
+},
+{
+"pag": 9,
+"texto": "Art. 10º. Quando houver mais de um PONTO DE ENTREGA no atendimento de uma unidade usuária,"
+},
+{
+"pag": 9,
+"texto": "poderá ser celebrado um único CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO resultante"
+},
+{
+"pag": 9,
+"texto": "da totalização das quantidades contratadas."
+},
+{
+"pag": 9,
+"texto": "Art. 11. A CONCESSIONÁRIA deverá apresentar para o REGULADOR uma minuta padrão de"
+},
+{
+"pag": 9,
+"texto": "CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO que contenha no mínimo o disposto no"
+},
+{
+"pag": 9,
+"texto": "artigo 9º no prazo de 90 dias após a publicação desta Resolução, e que será submetida à consulta"
+},
+{
+"pag": 9,
+"texto": "pública previamente à sua adoção."
+},
+{
+"pag": 9,
+"texto": "Art. 12. O CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO deverá, além das condições"
+},
+{
+"pag": 9,
+"texto": "previstas nos regulamentos do REGULADOR, conter a obrigação de pagar pela CAPACIDADE"
+},
+{
+"pag": 10,
+"texto": "CONTRATADA, em base mensal, ainda que não seja realizado o SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 10,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO por culpa não imputável à CONCESSIONÁRIA."
+},
+{
+"pag": 10,
+"texto": "§1º: Não se aplica a obrigação de pagamento pela CAPACIDADE CONTRATADA em situações de"
+},
+{
+"pag": 10,
+"texto": "caso fortuito ou de força maior."
+},
+{
+"pag": 10,
+"texto": "§2º: O CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO poderá prever flexibilidade e"
+},
+{
+"pag": 10,
+"texto": "mecanismos de compensação para equalizar os desvios em relação às programações e retiradas de"
+},
+{
+"pag": 10,
+"texto": "GÁS CANALIZADO no período contratado."
+},
+{
+"pag": 10,
+"texto": "§3º: O AGENTE LIVRE DE MERCADO não poderá ceder, no todo ou em parte, sua CAPACIDADE"
+},
+{
+"pag": 10,
+"texto": "CONTRATADA, exceto quando acordado com a CONCESSIONÁRIA."
+},
+{
+"pag": 10,
+"texto": "CAPÍTULO IV - DO BALANÇO DE VOLUME"
+},
+{
+"pag": 10,
+"texto": "Art. 13. A CONCESSIONÁRIA deverá efetuar o BALANÇO diário e mensal sobre o GÁS"
+},
+{
+"pag": 10,
+"texto": "movimentado no SISTEMA DE DISTRIBUIÇÃO."
+},
+{
+"pag": 10,
+"texto": "Art. 14. O AGENTE LIVRE DE MERCADO deverá ajustar as suas retiradas de GÁS aos volumes"
+},
+{
+"pag": 10,
+"texto": "previstos no CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO com a CONCESSIONÁRIA."
+},
+{
+"pag": 10,
+"texto": "Parágrafo único: A CONCESSIONÁRIA deverá apurar diariamente a quantidade diária medida de"
+},
+{
+"pag": 10,
+"texto": "GÁS movimentado no SISTEMA DE DISTRIBUIÇÃO para o AGENTE LIVRE DE MERCADO."
+},
+{
+"pag": 10,
+"texto": "Art. 15. A CONCESSIONÁRIA deverá informar ao TRANSPORTADOR as quantidades diárias"
+},
+{
+"pag": 10,
+"texto": "medidas nos PONTOS DE ENTREGA, que interconectam ao sistema de transporte correspondente,"
+},
+{
+"pag": 10,
+"texto": "e que tenham sido atribuídas aos AGENTES LIVRES DE MERCADO."
+},
+{
+"pag": 10,
+"texto": "Art. 16. Na ocorrência de desequilíbrios no SISTEMA DE DISTRIBUIÇÃO, a CONCESSIONÁRIA"
+},
+{
+"pag": 10,
+"texto": "deverá informar ao USUÁRIO que lhe tenha dado causa, para providências de correção."
+},
+{
+"pag": 10,
+"texto": "§1º: Os desequilíbrios positivos são aqueles em que o volume de GÁS disponibilizado no PONTO"
+},
+{
+"pag": 10,
+"texto": "DE RECEPÇÃO ou ESTAÇÃO DE TRANSFERÊNCIA DE CUSTÓDIA do SISTEMA DE"
+},
+{
+"pag": 10,
+"texto": "DISTRIBUIÇÃO é superior ao volume de GÁS entregue pela CONCESSIONÁRIA ao USUÁRIO."
+},
+{
+"pag": 10,
+"texto": "§2º: Os desequilíbrios negativos são aqueles em que o volume de GÁS disponibilizado no PONTO"
+},
+{
+"pag": 10,
+"texto": "DE RECEPÇÃO ou ESTAÇÃO DE TRANSFERÊNCIA DE CUSTÓDIA do SISTEMA DE"
+},
+{
+"pag": 10,
+"texto": "DISTRIBUIÇÃO é inferior ao volume de GÁS entregue pela CONCESSIONÁRIA ao USUÁRIO."
+},
+{
+"pag": 10,
+"texto": "§3º: Os desequilíbrios no SISTEMA DE DISTRIBUIÇÃO devem considerar as perdas de GÁS."
+},
+{
+"pag": 10,
+"texto": "Art.17. Na hipótese de o desequilíbrio afetar a integridade operacional do SISTEMA DE"
+},
+{
+"pag": 10,
+"texto": "DISTRIBUIÇÃO, a CONCESSIONÁRIA ajustará o volume de GÁS movimentado ou restringirá a"
+},
+{
+"pag": 11,
+"texto": "prestação do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, após notificação ao"
+},
+{
+"pag": 11,
+"texto": "AGENTE LIVRE DE MERCADO, durante o período em que persistir o desequilíbrio."
+},
+{
+"pag": 11,
+"texto": "CAPÍTULO V - DO MERCADO LIVRE DE GÁS CANALIZADO"
+},
+{
+"pag": 11,
+"texto": "Art. 18. Será enquadrado como CONSUMIDOR LIVRE o USUÁRIO que firmar CONTRATO DE USO"
+},
+{
+"pag": 11,
+"texto": "DO SERVIÇO DE DISTRIBUIÇÃO com a CONCESSIONÁRIA, equivalente a CAPACIDADE"
+},
+{
+"pag": 11,
+"texto": "CONTRATADA de, no mínimo, 10.000 m³/dia (dez mil metros cúbicos por dia)."
+},
+{
+"pag": 11,
+"texto": "Parágrafo único: O REGULADOR, visando favorecer a ampliação do mercado, poderá"
+},
+{
+"pag": 11,
+"texto": "oportunamente alterar o volume mínimo que caracteriza o CONSUMIDOR LIVRE."
+},
+{
+"pag": 11,
+"texto": "Art.19. O USUÁRIO CATIVO deverá informar à CONCESSIONÁRIA sua intenção de se tornar"
+},
+{
+"pag": 11,
+"texto": "AGENTE LIVRE DE MERCADO, mediante AVISO PRÉVIO, com antecedência mínima de 6 (seis)"
+},
+{
+"pag": 11,
+"texto": "meses do vencimento do CONTRATO DE FORNECIMENTO, devendo cumprir o respectivo contrato"
+},
+{
+"pag": 11,
+"texto": "até o seu vencimento."
+},
+{
+"pag": 11,
+"texto": "§1º: A CONCESSIONÁRIA poderá isentar o USUÁRIO CATIVO, a seu exclusivo critério, do"
+},
+{
+"pag": 11,
+"texto": "cumprimento de AVISO PRÉVIO e do prazo remanescente do CONTRATO DE FORNECIMENTO"
+},
+{
+"pag": 11,
+"texto": "em vigor, desde que atenda a todos os demais requisitos necessários e que comprovadamente não"
+},
+{
+"pag": 11,
+"texto": "cause ônus aos demais USUÁRIOS."
+},
+{
+"pag": 11,
+"texto": "§2º: A CONCESSIONÁRIA deverá enviar ao REGULADOR, em até 45 dias da data de seu"
+},
+{
+"pag": 11,
+"texto": "recebimento, cópias dos AVISOS PRÉVIOS."
+},
+{
+"pag": 11,
+"texto": "Art.20. O interessado que deseje se tornar CONSUMIDOR LIVRE, e que ainda não seja USUÁRIO"
+},
+{
+"pag": 11,
+"texto": "do SISTEMA DE DISTRIBUIÇÃO, deverá apresentar manifestação formal à CONCESSIONÁRIA"
+},
+{
+"pag": 11,
+"texto": "demonstrando potencial de consumo superior a 10.000 m³/dia."
+},
+{
+"pag": 11,
+"texto": "Art.21. O interessado que deseje se tornar AUTOPRODUTOR ou AUTOIMPORTADOR, e que ainda"
+},
+{
+"pag": 11,
+"texto": "não seja USUÁRIO do SISTEMA DE DISTRIBUIÇÃO, deverá apresentar manifestação formal à"
+},
+{
+"pag": 11,
+"texto": "CONCESSIONÁRIA."
+},
+{
+"pag": 11,
+"texto": "Art.22. A CONCESSIONÁRIA deverá responder à solicitação prevista nos artigos 20 e 21 no prazo"
+},
+{
+"pag": 11,
+"texto": "máximo de 30 dias, com as justificativas e as condições técnicas e econômicas suficientes para o"
+},
+{
+"pag": 11,
+"texto": "atendimento dos requisitantes."
+},
+{
+"pag": 11,
+"texto": "Parágrafo único: Excepcionalmente, o prazo previsto no caput poderá ser prorrogado, por igual"
+},
+{
+"pag": 11,
+"texto": "período, o que deverá ser aprovado pelo REGULADOR."
+},
+{
+"pag": 11,
+"texto": "Art. 23. Sem prejuízo do disposto no conjunto de regulamentos do REGULADOR e demais"
+},
+{
+"pag": 11,
+"texto": "legislações aplicáveis, os direitos e obrigações do CONSUMIDOR LIVRE, AUTOPRODUTOR ou"
+},
+{
+"pag": 11,
+"texto": "AUTOIMPORTADOR consistem em:"
+},
+{
+"pag": 12,
+"texto": "I. Receber e utilizar o SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO sem"
+},
+{
+"pag": 12,
+"texto": "discriminação, observadas as normas regulatórias;"
+},
+{
+"pag": 12,
+"texto": "II. Receber do REGULADOR e da CONCESSIONÁRIA todas as informações de caráter público que"
+},
+{
+"pag": 12,
+"texto": "julgar necessárias para o exercício de seus direitos e obrigações;"
+},
+{
+"pag": 12,
+"texto": "III. Contribuir para as boas condições e plena operação dos SERVIÇOS PÚBLICOS DE"
+},
+{
+"pag": 12,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 12,
+"texto": "IV. Pagar pontualmente as faturas expedidas pela CONCESSIONÁRIA e, quando aplicável, pelo"
+},
+{
+"pag": 12,
+"texto": "COMERCIALIZADOR; e"
+},
+{
+"pag": 12,
+"texto": "V. Prestar as informações necessárias ao bom funcionamento tanto dos SERVIÇOS PÚBLICOS DE"
+},
+{
+"pag": 12,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO como, quando for o caso, da COMERCIALIZAÇÃO DE GÁS"
+},
+{
+"pag": 12,
+"texto": "CANALIZADO."
+},
+{
+"pag": 12,
+"texto": "Parágrafo único: As informações a serem prestadas pelo REGULADOR de interesses dos"
+},
+{
+"pag": 12,
+"texto": "AGENTES LIVRES DE MERCADO serão disponibilizadas no endereço eletrônico do REGULADOR"
+},
+{
+"pag": 12,
+"texto": "e na forma e locais que ali estejam previstos, em conformidade com regulamento e legislação"
+},
+{
+"pag": 12,
+"texto": "vigentes."
+},
+{
+"pag": 12,
+"texto": "Art. 24. São condicionantes para a prestação do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 12,
+"texto": "CANALIZADO ao AGENTE LIVRE DE MERCADO:"
+},
+{
+"pag": 12,
+"texto": "I. Existência de instalações internas que atendam às normas regulamentares vigentes."
+},
+{
+"pag": 12,
+"texto": "II. Instalação de CONJUNTO DE REGULAGEM E MEDIÇÃO, que possibilite a medição da entrega"
+},
+{
+"pag": 12,
+"texto": "de GÁS."
+},
+{
+"pag": 12,
+"texto": "III. Celebração do CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO."
+},
+{
+"pag": 12,
+"texto": "Art. 25. A CONCESSIONÁRIA deve garantir ao AGENTE LIVRE DE MERCADO a reserva da"
+},
+{
+"pag": 12,
+"texto": "CAPACIDADE CONTRATADA em seu SISTEMA DE DISTRIBUIÇÃO, firmada mediante"
+},
+{
+"pag": 12,
+"texto": "CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO."
+},
+{
+"pag": 12,
+"texto": "Art. 26. A interrupção dos SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO por"
+},
+{
+"pag": 12,
+"texto": "inadimplência de pagamento pelo AGENTE LIVRE DE MERCADO, não suspende ou diminui a"
+},
+{
+"pag": 12,
+"texto": "obrigação de pagamento pela CAPACIDADE CONTRATADA."
+},
+{
+"pag": 12,
+"texto": "Art. 27. Na hipótese de atraso de pagamento da fatura dos SERVIÇOS PÚBLICOS DE"
+},
+{
+"pag": 12,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO, os juros e a multa de mora serão os mesmos aplicáveis aos"
+},
+{
+"pag": 12,
+"texto": "USUÁRIOS CATIVOS."
+},
+{
+"pag": 12,
+"texto": "Art. 28. O aumento da CAPACIDADE CONTRATADA ou demais alterações das condições de"
+},
+{
+"pag": 12,
+"texto": "utilização dos SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO devem ser"
+},
+{
+"pag": 12,
+"texto": "previamente submetidos à apreciação da CONCESSIONÁRIA, observados, além das disposições"
+},
+{
+"pag": 13,
+"texto": "deste regulamento, os prazos e demais condições e obrigações estabelecidas no respectivo"
+},
+{
+"pag": 13,
+"texto": "CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO."
+},
+{
+"pag": 13,
+"texto": "Parágrafo único: Em caso de inobservância do disposto neste artigo, fica facultado à"
+},
+{
+"pag": 13,
+"texto": "CONCESSIONÁRIA:"
+},
+{
+"pag": 13,
+"texto": "I. Interromper os SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO, desde que"
+},
+{
+"pag": 13,
+"texto": "caracterizados prejuízos ao SISTEMA DE DISTRIBUIÇÃO, arcando o infrator com eventuais danos"
+},
+{
+"pag": 13,
+"texto": "ocasionados a terceiros ou à CONCESSIONÁRIA, desde que devidamente comprovados;"
+},
+{
+"pag": 13,
+"texto": "II. Cobrar por eventuais penalidades previstas no CONTRATO DE USO DO SERVIÇO DE"
+},
+{
+"pag": 13,
+"texto": "DISTRIBUIÇÃO."
+},
+{
+"pag": 13,
+"texto": "Art. 29. É facultado ao USUÁRIO adquirir GÁS simultaneamente no MERCADO LIVRE DE GÁS"
+},
+{
+"pag": 13,
+"texto": "CANALIZADO e no MERCADO CATIVO, desde que atendidas às demais disposições deste"
+},
+{
+"pag": 13,
+"texto": "regulamento."
+},
+{
+"pag": 13,
+"texto": "§1º: Para apuração da quantidade a ser contabilizada no MERCADO LIVRE DE GÁS CANALIZADO"
+},
+{
+"pag": 13,
+"texto": "e no MERCADO CATIVO, a quantidade diária contratada do USUÁRIO deve ser prioritariamente"
+},
+{
+"pag": 13,
+"texto": "computada no MERCADO CATIVO."
+},
+{
+"pag": 13,
+"texto": "§2º: Do volume total efetivamente retirado pelo USUÁRIO, deverão ser subtraídos os volumes"
+},
+{
+"pag": 13,
+"texto": "relativos ao MERCADO CATIVO, firmados através de CONTRATO DE FORNECIMENTO, sendo que"
+},
+{
+"pag": 13,
+"texto": "a diferença resultante deverá ser faturada mediante as regras aplicáveis ao MERCADO LIVRE DE"
+},
+{
+"pag": 13,
+"texto": "GÁS CANALIZADO."
+},
+{
+"pag": 13,
+"texto": "Art.30. Para o AGENTE LIVRE DE MERCADO na condição de AUTOIMPORTADOR ou"
+},
+{
+"pag": 13,
+"texto": "AUTOPRODUTOR e para o COMERCIALIZADOR será exigido o registro expedido pela ANP para"
+},
+{
+"pag": 13,
+"texto": "comprovação perante ao REGULADOR."
+},
+{
+"pag": 13,
+"texto": "Art.31. O AGENTE LIVRE DE MERCADO deverá apresentar à CONCESSIONÁRIA seu CONTRATO"
+},
+{
+"pag": 13,
+"texto": "DE COMPRA E VENDA DE GÁS com o SUPRIDOR ou COMERCIALIZADOR, bem como seu"
+},
+{
+"pag": 13,
+"texto": "contrato com o TRANSPORTADOR, quando aplicável, garantindo a entrega do GÁS no PONTO DE"
+},
+{
+"pag": 13,
+"texto": "RECEPÇÃO ou ESTAÇÃO DE TRANSFERÊNCIA DE CUSTÓDIA na quantidade, especificação e"
+},
+{
+"pag": 13,
+"texto": "prazo contratados."
+},
+{
+"pag": 13,
+"texto": "§1º: O GÁS contratado deve, obrigatoriamente, atender às especificações da ANP."
+},
+{
+"pag": 13,
+"texto": "§2º: Cláusulas comerciais, como preços, regras de reajuste e outras, deverão ser omitidas na cópia"
+},
+{
+"pag": 13,
+"texto": "do contrato que será apresentada à CONCESSIONÁRIA."
+},
+{
+"pag": 13,
+"texto": "§3º: Cópia integral do contrato deverá ser enviada ao REGULADOR que garantirá a confidencialidade"
+},
+{
+"pag": 13,
+"texto": "das informações."
+},
+{
+"pag": 13,
+"texto": "Art. 32. Os AGENTES LIVRES DE MERCADO são responsáveis pela contração de transporte para"
+},
+{
+"pag": 13,
+"texto": "seu atendimento."
+},
+{
+"pag": 14,
+"texto": "Art. 33. A CONCESSIONÁRIA poderá atender necessidades eventuais de fornecimento de GÁS para"
+},
+{
+"pag": 14,
+"texto": "os AGENTES LIVRES DE MERCADO praticando preços livremente negociados."
+},
+{
+"pag": 14,
+"texto": "Parágrafo único: Tal fornecimento não poderá exceder ao período de 6 (seis) meses."
+},
+{
+"pag": 14,
+"texto": "Art.34. O AGENTE LIVRE DE MERCADO, devidamente registrado como COMERCIALIZADOR,"
+},
+{
+"pag": 14,
+"texto": "poderá comercializar GÁS no âmbito do MERCADO LIVRE DE GÁS CANALIZADO."
+},
+{
+"pag": 14,
+"texto": "§1º: Ao AGENTE LIVRE DE MERCADO será permitida a venda de volumes excedentes que não"
+},
+{
+"pag": 14,
+"texto": "foram utilizados em suas instalações;"
+},
+{
+"pag": 14,
+"texto": "§2°: Para os casos previstos no caput o AGENTE LIVRE DE MERCADO deve acionar a"
+},
+{
+"pag": 14,
+"texto": "CONCESSIONÁRIA para definir a operacionalização."
+},
+{
+"pag": 14,
+"texto": "Art. 35. O AGENTE LIVRE DE MERCADO poderá adquirir GÁS CANALIZADO de mais de um"
+},
+{
+"pag": 14,
+"texto": "COMERCIALIZADOR."
+},
+{
+"pag": 14,
+"texto": "CAPÍTULO VI - DO RAMAL DEDICADO"
+},
+{
+"pag": 14,
+"texto": "Art. 36. O AGENTE LIVRE DE MERCADO que não for ligado à REDE DE DISTRIBUIÇÃO ou REDE"
+},
+{
+"pag": 14,
+"texto": "LOCAL, poderá implantar RAMAL DEDICADO."
+},
+{
+"pag": 14,
+"texto": "Art. 37. A CONCESSIONÁRIA e os AGENTES LIVRES DE MERCADO poderão firmar, mediante"
+},
+{
+"pag": 14,
+"texto": "mútuo acordo, observado o direito de preferência da CONCESSIONÁRIA em fazer o investimento do"
+},
+{
+"pag": 14,
+"texto": "RAMAL DEDICADO, contratos que permitam aos AGENTES LIVRES DE MERCADO:"
+},
+{
+"pag": 14,
+"texto": "I. Construir gasodutos e instalações de forma exclusiva;"
+},
+{
+"pag": 14,
+"texto": "II. Construir gasodutos e instalações de forma compartilhada com a CONCESSIONÁRIA;"
+},
+{
+"pag": 14,
+"texto": "III. Arcar integralmente com o custo da construção de gasodutos e instalações pela"
+},
+{
+"pag": 14,
+"texto": "CONCESSIONÁRIA; e,"
+},
+{
+"pag": 14,
+"texto": "IV. Arcar parcialmente com o custo da construção de gasodutos e instalações pela"
+},
+{
+"pag": 14,
+"texto": "CONCESSIONÁRIA."
+},
+{
+"pag": 14,
+"texto": "§1º: O AGENTE LIVRE DE MERCADO terá a iniciativa de propor a construção do RAMAL"
+},
+{
+"pag": 14,
+"texto": "DEDICADO, inclusive conjuntamente com um ou mais AGENTES LIVRES DE MERCADO, mediante"
+},
+{
+"pag": 14,
+"texto": "requerimento junto à CONCESSIONÁRIA, que deverá apresentar seu posicionamento em até 60"
+},
+{
+"pag": 14,
+"texto": "dias, com cópia da respectiva documentação, para aprovação do REGULADOR, atendendo ao"
+},
+{
+"pag": 14,
+"texto": "estabelecido no caput."
+},
+{
+"pag": 14,
+"texto": "§2º: O direito de preferência instituído no caput somente será mantido quando o projeto for"
+},
+{
+"pag": 14,
+"texto": "economicamente viável para a CONCESSIONÁRIA, tendo como referência a margem de distribuição"
+},
+{
+"pag": 15,
+"texto": "do respectivo segmento ou a margem média de distribuição do ciclo em vigor, devendo ser utilizada"
+},
+{
+"pag": 15,
+"texto": "a de menor valor, e a taxa WACC vigentes."
+},
+{
+"pag": 15,
+"texto": "Art. 38. O AGENTE LIVRE DE MERCADO que implantar o seu RAMAL DEDICADO deverá doar o"
+},
+{
+"pag": 15,
+"texto": "ativo construído e firmar contrato de operação e manutenção do RAMAL DEDICADO com a"
+},
+{
+"pag": 15,
+"texto": "CONCESSIONÁRIA."
+},
+{
+"pag": 15,
+"texto": "§1º: Os contratos celebrados na forma do caput poderão conferir aos AGENTES LIVRES DE"
+},
+{
+"pag": 15,
+"texto": "MERCADO a operação e manutenção (O&M) de gasodutos nos termos do §2º do artigo 5º."
+},
+{
+"pag": 15,
+"texto": "§2°: Não será considerada doação quando o investimento for feito pela CONCESSIONÁRIA, com"
+},
+{
+"pag": 15,
+"texto": "participação financeira do AGENTE LIVRE DE LIVRE DE MERCADO."
+},
+{
+"pag": 15,
+"texto": "Art. 39. O AGENTE LIVRE DE MERCADO que já for USUÁRIO, ativo ou inativo, do SISTEMA DE"
+},
+{
+"pag": 15,
+"texto": "DISTRIBUIÇÃO somente poderá implantar RAMAL DEDICADO para volumes adicionais à"
+},
+{
+"pag": 15,
+"texto": "capacidade instalada para o USUÁRIO, que devem ser entendidos como a máxima demanda"
+},
+{
+"pag": 15,
+"texto": "contratada ao longo da vida deste USUÁRIO dentro da CONCESSÃO, se:"
+},
+{
+"pag": 15,
+"texto": "I. Observado o disposto no artigo 37 e 38;"
+},
+{
+"pag": 15,
+"texto": "II. Preenchidos os requisitos previstos neste regulamento;"
+},
+{
+"pag": 15,
+"texto": "III. Não afetada a modicidade tarifária dos demais USUÁRIOS; e"
+},
+{
+"pag": 15,
+"texto": "IV. Observado o equilíbrio econômico-financeiro da CONCESSÃO."
+},
+{
+"pag": 15,
+"texto": "CAPÍTULO VII - DA TARIFA APLICÁVEL AOS AGENTES LIVRES DE MERCADO"
+},
+{
+"pag": 15,
+"texto": "Art. 40. A tarifa aplicável ao SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO deverá"
+},
+{
+"pag": 15,
+"texto": "ser justa e ao mesmo tempo atender à modicidade tarifária, manutenção do equilíbrio econômico"
+},
+{
+"pag": 15,
+"texto": "financeiro do CONTRATO DE CONCESSÃO e a busca da eficiência na prestação do SERVIÇO"
+},
+{
+"pag": 15,
+"texto": "PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO."
+},
+{
+"pag": 15,
+"texto": "Art. 41. O REGULADOR realizará processo de Revisão Tarifária para cálculo das tarifas a serem"
+},
+{
+"pag": 15,
+"texto": "praticadas pela CONCESSIONÁRIA no ciclo tarifário seguinte, em conformidade com o disposto no"
+},
+{
+"pag": 15,
+"texto": "CONTRATO DE CONCESSÃO, dando ampla publicidade e transparência a este processo."
+},
+{
+"pag": 15,
+"texto": "Art. 42. O AGENTE LIVRE DE MERCADO que utilizar o SISTEMA DE DISTRIBUIÇÃO deverá firmar"
+},
+{
+"pag": 15,
+"texto": "CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO para a distribuição de GÁS CANALIZADO"
+},
+{
+"pag": 15,
+"texto": "com a CONCESSIONÁRIA, fazendo jus a TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE"
+},
+{
+"pag": 15,
+"texto": "GÁS CANALIZADO (TUSD-GÁS), exceto quando o AGENTE LIVRE DE MERCADO for atendido"
+},
+{
+"pag": 15,
+"texto": "através do RAMAL DEDICADO, em que fará jus a tratamento tarifário específico da TARIFA DE USO"
+},
+{
+"pag": 15,
+"texto": "DO SISTEMA DE DISTRIBUIÇÃO EXCLUSIVA DE GÁS CANALIZADO (TUSDE-GÁS)."
+},
+{
+"pag": 16,
+"texto": "§1º: Nos casos em que o RAMAL DEDICADO compreender os volumes adicionais à capacidade"
+},
+{
+"pag": 16,
+"texto": "instalada para o USUÁRIO, incidirá a TUSDE-GÁS, enquanto que sobre o volume atendido pela"
+},
+{
+"pag": 16,
+"texto": "capacidade existente, incidirá a TUSD-GÁS."
+},
+{
+"pag": 16,
+"texto": "§2º: Os investimentos realizados integralmente ou parcialmente pelo AGENTE LIVRE DE MERCADO"
+},
+{
+"pag": 16,
+"texto": "no RAMAL DEDICADO não serão considerados na base de cálculo de remuneração dos ativos para"
+},
+{
+"pag": 16,
+"texto": "efeito de remuneração do capital e para efeito de depreciação, na fixação e revisão de tarifas, sendo"
+},
+{
+"pag": 16,
+"texto": "registrados separadamente."
+},
+{
+"pag": 16,
+"texto": "§3º: Fica vedada a cobrança, pela CONCESSIONÁRIA, de antecipação de receita para custear a"
+},
+{
+"pag": 16,
+"texto": "construção do RAMAL DEDICADO."
+},
+{
+"pag": 16,
+"texto": "Art. 43. As tarifas a serem cobradas dos AGENTES LIVRES DE MERCADO obedecerão ao disposto"
+},
+{
+"pag": 16,
+"texto": "neste artigo."
+},
+{
+"pag": 16,
+"texto": "§1º: A TUSD-GÁS será estabelecida pelo REGULADOR e é aplicável ao AGENTE LIVRE DE"
+},
+{
+"pag": 16,
+"texto": "MERCADO atendido pelo SISTEMA DE DISTRIBUIÇÃO."
+},
+{
+"pag": 16,
+"texto": "§2º: O REGULADOR fixará a TUSD-GÁS a cada revisão tarifária, com a garantia da manutenção do"
+},
+{
+"pag": 16,
+"texto": "equilíbrio econômico-financeiro do CONTRATO DE CONCESSÃO do SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 16,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO."
+},
+{
+"pag": 16,
+"texto": "§3º: O valor da TUSD-GÁS corresponde à margem média de distribuição calculada de acordo com o"
+},
+{
+"pag": 16,
+"texto": "segmento de USUÁRIO e da classe de consumo do AGENTE LIVRE DE MERCADO na tabela de"
+},
+{
+"pag": 16,
+"texto": "tarifas, nos termos estipulados no CONTRATO DE CONCESSÃO do SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 16,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO e em regulamento."
+},
+{
+"pag": 16,
+"texto": "§4º: Para cálculo da TUSD-GÁS, poderá(ão) ser deduzido(s) da margem média de distribuição o(s)"
+},
+{
+"pag": 16,
+"texto": "valor(es) referente(s) ao(s) encargo(s) que, conforme critérios técnicos, deixe(m) de existir no"
+},
+{
+"pag": 16,
+"texto": "segmento de USUÁRIO do AGENTE LIVRE DE MERCADO, conferindo a devida transparência do"
+},
+{
+"pag": 16,
+"texto": "cálculo durante o processo de Revisão Tarifária."
+},
+{
+"pag": 16,
+"texto": "§5º: Os encargos a que se refere o §4º poderão contemplar, mas, não se limitar à:"
+},
+{
+"pag": 16,
+"texto": "I. Gestão de aquisição de GÁS e transporte;"
+},
+{
+"pag": 16,
+"texto": "II. As penalidades impostas nos contratos firmados entre a CONCESSIONÁRIA e SUPRIDOR (ES)"
+},
+{
+"pag": 16,
+"texto": "e TRANSPORTADOR (ES) de GÁS, se essas compuserem os gastos tarifários;"
+},
+{
+"pag": 16,
+"texto": "III. Comunicação e marketing;"
+},
+{
+"pag": 16,
+"texto": "IV. Despesas de pessoal do setor comercial;"
+},
+{
+"pag": 16,
+"texto": "V. Despesas jurídicas relacionadas com a COMERCIALIZAÇÃO DE GÁS CANALIZADO e ativos"
+},
+{
+"pag": 16,
+"texto": "utilizados especificamente para este fim, que deixaram de ocorrer com a migração do USUÁRIO ao"
+},
+{
+"pag": 16,
+"texto": "MERCADO LIVRE DE GÁS CANALIZADO;"
+},
+{
+"pag": 16,
+"texto": "VI. Despesas de pessoal do centro de custo de suprimento de GÁS."
+},
+{
+"pag": 17,
+"texto": "§6º: Excepcionalmente para o primeiro ciclo tarifário, a TUSD-GÁS a ser cobrada do AGENTE LIVRE"
+},
+{
+"pag": 17,
+"texto": "DE MERCADO será igual à margem de distribuição aplicável ao USUÁRIO CATIVO do mesmo"
+},
+{
+"pag": 17,
+"texto": "segmento de USUÁRIOS e classe de consumo."
+},
+{
+"pag": 17,
+"texto": "§7º: O REGULADOR aprovará a TUSDE-GÁS, que será calculada pela CONCESSIONÁRIA de forma"
+},
+{
+"pag": 17,
+"texto": "individualizada para os AGENTES LIVRES DE MERCADO que atendam ao estabelecido nos artigos"
+},
+{
+"pag": 17,
+"texto": "37 a 39."
+},
+{
+"pag": 17,
+"texto": "§8º: Para o cálculo da TUSDE-GÁS serão considerados, mas, não se limitando à:"
+},
+{
+"pag": 17,
+"texto": "I. Remuneração dos investimentos específicos, considerando a taxa WACC vigente, caso os mesmos"
+},
+{
+"pag": 17,
+"texto": "tenham sido realizados pela CONCESSIONÁRIA, integral ou parcialmente;"
+},
+{
+"pag": 17,
+"texto": "II. Depreciação dos investimentos específicos, caso os mesmos tenham sido realizados integral ou"
+},
+{
+"pag": 17,
+"texto": "parcialmente pela CONCESSIONÁRIA;"
+},
+{
+"pag": 17,
+"texto": "III. Serviços de Operação e Manutenção, mediante contrato firmado com a CONCESSIONÁRIA,"
+},
+{
+"pag": 17,
+"texto": "quando couber;"
+},
+{
+"pag": 17,
+"texto": "IV. Remuneração da Outorga;"
+},
+{
+"pag": 17,
+"texto": "V. Amortização da Outorga;"
+},
+{
+"pag": 17,
+"texto": "VI. Taxa de Fiscalização."
+},
+{
+"pag": 17,
+"texto": "§9º: Sobre a TUSD-GÁS e TUSDE-GÁS incidem, além do valor autorizado, demais componentes e"
+},
+{
+"pag": 17,
+"texto": "encargos tarifários aplicáveis às margens de distribuição aplicáveis aos USUÁRIOS CATIVOS e/ou"
+},
+{
+"pag": 17,
+"texto": "eventuais tributos exigíveis em face da peculiaridade dos SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO"
+},
+{
+"pag": 17,
+"texto": "DE GÁS CANALIZADO."
+},
+{
+"pag": 17,
+"texto": "Art. 44. Posterior conexão de ramais de terceiros aos RAMAIS DEDICADOS não alterará a incidência"
+},
+{
+"pag": 17,
+"texto": "da TUSDE-GÁS ao AGENTE LIVRE DE MERCADO original."
+},
+{
+"pag": 17,
+"texto": "Parágrafo único: Os ramais de terceiros, conforme previsto no caput, não farão jus ao tratamento"
+},
+{
+"pag": 17,
+"texto": "tarifário específico (TUSDE-GÁS), exceto se pertencer ao mesmo grupo econômico do agente"
+},
+{
+"pag": 17,
+"texto": "construtor."
+},
+{
+"pag": 17,
+"texto": "Art. 45. Os tributos, taxas ou encargos relativos ao GÁS e ao transporte são de responsabilidade do"
+},
+{
+"pag": 17,
+"texto": "AGENTE LIVRE DE MERCADO, conforme o caso."
+},
+{
+"pag": 17,
+"texto": "Art. 46. A CONCESSIONÁRIA deverá divulgar as tabelas de tarifas vigentes."
+},
+{
+"pag": 17,
+"texto": "Art. 47. As RECEITAS DE COMERCIALIZAÇÃO, bem como os custos, despesas e encargos"
+},
+{
+"pag": 17,
+"texto": "associados às operações de prestação de serviços pela CONCESSIONÁRIA geradores de tais"
+},
+{
+"pag": 17,
+"texto": "receitas deverão ser contabilizados em separado e parte do resultado poderá ser aplicada à margem"
+},
+{
+"pag": 17,
+"texto": "média de distribuição, contribuindo para modicidade tarifária conforme regulamento a ser expedido"
+},
+{
+"pag": 17,
+"texto": "pelo REGULADOR."
+},
+{
+"pag": 18,
+"texto": "CAPÍTULO VIII - DAS PENALIDADES"
+},
+{
+"pag": 18,
+"texto": "Art. 48. Em caso de descumprimento dos limites estabelecidos nos CONTRATOS DE"
+},
+{
+"pag": 18,
+"texto": "FORNECIMENTO e/ou nos CONTRATOS DE USO DO SERVIÇO DE DISTRIBUIÇÃO, os"
+},
+{
+"pag": 18,
+"texto": "USUÁRIOS bem como a CONCESSIONÁRIA estarão sujeitos às penalidades neles previstas."
+},
+{
+"pag": 18,
+"texto": "Art. 49. Em caso de descumprimento dos limites estabelecidos nos CONTRATOS DE"
+},
+{
+"pag": 18,
+"texto": "FORNECIMENTO e nos CONTRATOS DE USO DO SERVIÇO DE DISTRIBUIÇÃO que impliquem"
+},
+{
+"pag": 18,
+"texto": "em risco à operacionalidade do SISTEMA DE DISTRIBUIÇÃO, a CONCESSIONÁRIA poderá,"
+},
+{
+"pag": 18,
+"texto": "mediante notificação prévia a estes USUÁRIOS, limitar sua vazão no CONJUNTO DE REGULAGEM"
+},
+{
+"pag": 18,
+"texto": "E MEDIÇÃO."
+},
+{
+"pag": 18,
+"texto": "Art. 50. Sem prejuízo do disposto no artigo 49, caso os USUÁRIOS descumpram os limites previstos"
+},
+{
+"pag": 18,
+"texto": "nos CONTRATO DE FORNECIMENTO e/ou nos CONTRATO DE USO DO SERVIÇO DE"
+},
+{
+"pag": 18,
+"texto": "DISTRIBUIÇÃO, mesmo após o recebimento da notificação, deverá ser ressarcido à"
+},
+{
+"pag": 18,
+"texto": "CONCESSIONÁRIA, bem como a terceiros prejudicados, o valor dos danos sofridos e comprovados,"
+},
+{
+"pag": 18,
+"texto": "além das penalidades impostas à CONCESSIONÁRIA em decorrência de tal descumprimento."
+},
+{
+"pag": 18,
+"texto": "Art. 51. As infrações às obrigações previstas nesta Resolução sujeitam a CONCESSIONÁRIA às"
+},
+{
+"pag": 18,
+"texto": "penalidades estabelecidas nas normas vigentes e no CONTRATO DE CONCESSÃO."
+},
+{
+"pag": 18,
+"texto": "CAPÍTULO IX - DO COMERCIALIZADOR"
+},
+{
+"pag": 18,
+"texto": "Art. 52. O SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO entre AGENTES LIVRES"
+},
+{
+"pag": 18,
+"texto": "DE MERCADO e COMERCIALIZADORES é atribuição da CONCESSIONÁRIA, que se"
+},
+{
+"pag": 18,
+"texto": "responsabilizará pela conexão, ligação do GÁS e suspensão do serviço, medição e demais condições"
+},
+{
+"pag": 18,
+"texto": "relacionadas ao serviço de distribuição."
+},
+{
+"pag": 18,
+"texto": "§1º: Caberá ao COMERCIALIZADOR apresentar à CONCESSIONÁRIA, em periodicidade diária, as"
+},
+{
+"pag": 18,
+"texto": "programações e relatório certificado, contendo dados diários, relativos às características físico-"
+},
+{
+"pag": 18,
+"texto": "químicas do GÁS CANALIZADO, incluindo o Poder Calorífico Superior – PCS e demais requisitos"
+},
+{
+"pag": 18,
+"texto": "relacionados à qualidade do GÁS CANALIZADO, conforme disciplinado pela Agência Nacional do"
+},
+{
+"pag": 18,
+"texto": "Petróleo, Gás Natural e Biocombustíveis (ANP)."
+},
+{
+"pag": 18,
+"texto": "§2º: A responsabilidade pela qualidade do GÁS no PONTO DE RECEPÇÃO ou ESTAÇÃO DE"
+},
+{
+"pag": 18,
+"texto": "TRANSFERÊNCIA DE CUSTÓDIA é do COMERCIALIZADOR."
+},
+{
+"pag": 18,
+"texto": "§3º: A responsabilidade pela qualidade do GÁS no PONTO DE ENTREGA é da CONCESSIONÁRIA."
+},
+{
+"pag": 19,
+"texto": "§4º: As condições de faturamento e pagamento, no âmbito da COMERCIALIZAÇÃO DE GÁS"
+},
+{
+"pag": 19,
+"texto": "CANALIZADO, serão livremente pactuadas entre o COMERCIALIZADOR e o AGENTE LIVRE DE"
+},
+{
+"pag": 19,
+"texto": "MERCADO."
+},
+{
+"pag": 19,
+"texto": "§5º: O COMERCIALIZADOR deverá receber da CONCESSIONÁRIA, de forma automatizada e em"
+},
+{
+"pag": 19,
+"texto": "tempo real, ou por meio de relatórios periódicos, os dados necessários ao faturamento."
+},
+{
+"pag": 19,
+"texto": "§6º: O COMERCIALIZADOR deve contar com uma autorização escrita assinada pelo AGENTE"
+},
+{
+"pag": 19,
+"texto": "LIVRE DE MERCADO para solicitar a informação sobre consumos medidos pela"
+},
+{
+"pag": 19,
+"texto": "CONCESSIONÁRIA."
+},
+{
+"pag": 19,
+"texto": "§7º: O AGENTE LIVRE DE MERCADO será informado pela CONCESSIONÁRIA sobre os dados"
+},
+{
+"pag": 19,
+"texto": "enviados ao COMERCIALIZADOR, para fins de faturamento."
+},
+{
+"pag": 19,
+"texto": "§8º: A programação e consumos diários de GÁS devem respeitar as regras de despacho da"
+},
+{
+"pag": 19,
+"texto": "CONCESSIONÁRIA."
+},
+{
+"pag": 19,
+"texto": "§9º: O COMERCIALIZADOR deverá comunicar mensalmente ao REGULADOR os volumes de GÁS"
+},
+{
+"pag": 19,
+"texto": "CANALIZADO comercializados, especificando o volume contratado e o volume retirado pelo"
+},
+{
+"pag": 19,
+"texto": "AGENTE LIVRE DE MERCADO."
+},
+{
+"pag": 19,
+"texto": "§10º: O COMERCIALIZADOR fica obrigado a avisar imediatamente ao REGULADOR e à"
+},
+{
+"pag": 19,
+"texto": "CONCESSIONÁRIA quaisquer circunstâncias que afetem a qualidade, continuidade, eficiência,"
+},
+{
+"pag": 19,
+"texto": "segurança, que atinjam os USUÁRIOS ou impliquem na modificação das condições de prestação dos"
+},
+{
+"pag": 19,
+"texto": "SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO."
+},
+{
+"pag": 19,
+"texto": "§11: O COMERCIALIZADOR deverá comprovar ao REGULADOR e a CONCESSIONÁRIA que"
+},
+{
+"pag": 19,
+"texto": "possui contratos para aquisição de GÁS com volume contratado superior aos previstos nos"
+},
+{
+"pag": 19,
+"texto": "CONTRATOS DE COMPRA E VENDA DE GÁS celebrados com os AGENTES LIVRES DE"
+},
+{
+"pag": 19,
+"texto": "MERCADO, de modo a garantir disponibilidade para eventuais flexibilidades contratuais."
+},
+{
+"pag": 19,
+"texto": "§12: A comprovação, nos termos do §11, poderá ser feita por meio do somatório de todos os contratos"
+},
+{
+"pag": 19,
+"texto": "para aquisição de GÁS celebrados pelo COMERCIALIZADOR em comparação ao somatório de todo"
+},
+{
+"pag": 19,
+"texto": "volume dos CONTRATOS DE COMPRA E VENDA DE GÁS firmados, incluindo flexibilidades."
+},
+{
+"pag": 20,
+"texto": "CAPÍTULO X - DO RETORNO AO MERCADO CATIVO"
+},
+{
+"pag": 20,
+"texto": "Art. 53. O AGENTE LIVRE DE MERCADO poderá optar em retornar à condição de USUÁRIO"
+},
+{
+"pag": 20,
+"texto": "CATIVO."
+},
+{
+"pag": 20,
+"texto": "§1º: A migração da condição de AGENTE LIVRE DE MERCADO para USUÁRIO CATIVO ficará"
+},
+{
+"pag": 20,
+"texto": "condicionada à existência de oferta de GÁS pela CONCESSIONÁRIA."
+},
+{
+"pag": 20,
+"texto": "§2º: Caso a CONCESSIONÁRIA não disponha de oferta de GÁS para atender tal migração, deverá"
+},
+{
+"pag": 20,
+"texto": "buscar junto ao SUPRIDOR, adequação contratual para atender ao interessado."
+},
+{
+"pag": 20,
+"texto": "§3º: A CONCESSIONÁRIA deverá responder ao interessado, nos termos do §2º, em até 90 dias,"
+},
+{
+"pag": 20,
+"texto": "informando o prazo e as condições de atendimento com as devidas comprovações."
+},
+{
+"pag": 20,
+"texto": "§4º: O prazo necessário para realizar as adequações necessárias para que o AGENTE LIVRE DE"
+},
+{
+"pag": 20,
+"texto": "MERCADO retorne ao MERCADO CATIVO poderá ser negociado, desde que não ultrapasse o"
+},
+{
+"pag": 20,
+"texto": "período máximo de 2 (dois) anos."
+},
+{
+"pag": 20,
+"texto": "§5º: O retorno do AGENTE LIVRE DE MERCADO à condição de USUÁRIO CATIVO não poderá"
+},
+{
+"pag": 20,
+"texto": "onerar as tarifas até então praticadas aos demais USUÁRIOS CATIVOS ligados ao SISTEMA DE"
+},
+{
+"pag": 20,
+"texto": "DISTRIBUIÇÃO."
+},
+{
+"pag": 20,
+"texto": "§6º: A tarifa aplicável nos casos da migração do AGENTE LIVRE DE MERCADO para USUÁRIO"
+},
+{
+"pag": 20,
+"texto": "CATIVO será constituída da correspondente margem de distribuição do segmento de tarifa para o"
+},
+{
+"pag": 20,
+"texto": "qual o USUÁRIO foi enquadrado, incluído o preço do GÁS CANALIZADO e o transporte."
+},
+{
+"pag": 20,
+"texto": "§7º: O faturamento incluirá além do disposto no §6º os tributos e impostos incidentes."
+},
+{
+"pag": 20,
+"texto": "Art. 54. Para reingresso ao MERCADO LIVRE DE GÁS CANALIZADO, o USUÁRIO CATIVO deverá"
+},
+{
+"pag": 20,
+"texto": "cumprir novamente todos os prazos e requisitos previstos neste regulamento."
+},
+{
+"pag": 20,
+"texto": "CAPÍTULO XI - DAS DISPOSIÇÕES FINAIS"
+},
+{
+"pag": 20,
+"texto": "Art. 55. O REGULADOR poderá solicitar documentos e informações comprobatórias que se fizerem"
+},
+{
+"pag": 20,
+"texto": "necessárias da CONCESSIONÁRIA, COMERCIALIZADOR e AGENTES LIVRES DE MERCADO, a"
+},
+{
+"pag": 20,
+"texto": "qualquer tempo."
+},
+{
+"pag": 20,
+"texto": "Art. 56. A presente Resolução entra em vigor na data da sua publicação, ficando revogadas as"
+},
+{
+"pag": 20,
+"texto": "disposições em contrário."
+},
+{
+"pag": 21,
+"texto": "Vitória/ES, 31 de março de 2021."
+},
+{
+"pag": 21,
+"texto": "Joana Moraes Resende Magella"
+},
+{
+"pag": 21,
+"texto": "Diretora Presidente – Em exercício"
+},
+{
+"pag": 21,
+"texto": "Diretora Administrativa e Financeira"
+},
+{
+"pag": 21,
+"texto": "Katia Muniz Côco"
+},
+{
+"pag": 21,
+"texto": "Diretora de Saneamento e Infraestrutura"
+},
+{
+"pag": 21,
+"texto": "Cláudio Roberto Saade"
+},
+{
+"pag": 21,
+"texto": "Diretor de Gás Canalizado e Energia"
+}
+]

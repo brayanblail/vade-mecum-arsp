@@ -1,0 +1,3627 @@
+{
+ "id": "lc-827-2016",
+ "sigla": "LC 827/2016",
+ "tipo": "lei-complementar",
+ "orgao": "ES",
+ "numero": "827",
+ "ano": "2016",
+ "data": "2016-06-30",
+ "grupo": "Leis",
+ "arquivo": "Leis e Decretos/Estaduais/2016-06-30 - LC 827-2016 - Cria a ARSP (texto consolidado 2026).pdf",
+ "titulo": "Cria a Agência de Regulação de Serviços Públicos - ARSP, em decorrência da fusão da ARSI e da ASPE, e dá outras providências.",
+ "situacao": "Vigente",
+ "observacao": "Texto consolidado (inclui alterações das LC 954/2020, 1.057/2023, 1.069/2023 e 1.133/2025). Redações anteriores, tachadas no original, foram omitidas.",
+ "link_oficial": "https://arsp.es.gov.br/Media/arsi/Legislação/Leis%20Estaduais%20e%20Municipais/LeiComplementar827_2016CriaçãodaARSP_revisada-2026.pdf",
+ "ocr": "nao",
+ "alvo_padrao": "",
+ "relacoes": "",
+ "partes": [
+  {
+   "id": "corpo",
+   "rotulo": "Texto da norma",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "linhas": [
+      "LEI COMPLEMENTAR Nº 827, DE 30 DE JUNHO DE 2016 (Vide Lei Complementar nº 839, de 15 de dezembro de 2016) Cria a Agência de Regulação de Serviços Públicos – ARSP, em decorrência da fusão da Agência Reguladora de Saneamento Básico e Infraestrutura Viária do Espírito Santo – ARSI e da Agência de Serviços Públicos de Energia do Estado do Espírito Santo – ASPE e dá outras providências.",
+      "O GOVERNADOR DO ESTADO DO ESPÍRITO SANTO",
+      "Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:"
+     ],
+     "pag": 1,
+     "refs_linhas": {
+      "0": [],
+      "1": [],
+      "2": []
+     }
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Título",
+     "rotulo": "Título I",
+     "texto": "",
+     "pag": 1
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS"
+     ],
+     "pag": 1,
+     "refs_linhas": {
+      "0": []
+     }
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo I",
+     "texto": "",
+     "pag": 1
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "DISPOSIÇÕES GERAIS"
+     ],
+     "pag": 1,
+     "refs_linhas": {
+      "0": []
+     }
+    },
+    {
+     "tipo": "artigo",
+     "num": "1",
+     "rotulo": "Art. 1º",
+     "id": "art1",
+     "pag": 1,
+     "caput": {
+      "id": "art1_cpt",
+      "texto": "Fica criada a Agência de Regulação de Serviços Públicos - ARSP, autarquia de regime especial, dotada de personalidade jurídica de direito público e autonomias administrativa, patrimonial, técnica e financeira, vinculada à Secretaria de Estado de Desenvolvimento – SEDES, passando a reger-se por esta Lei Complementar.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art1_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "A ARSP é constituída pela fusão da Agência de Serviços Públicos de Energia do Estado do Espírito Santo – ASPE, instituída pela Lei nº 7.860, de 24 de setembro de 2004, alterada pela Lei nº 8.121, de 27 de outubro de 2005; e da Agência Reguladora de Saneamento Básico e Infraestrutura Viária do Espírito Santo – ARSI, instituída pela Lei Complementar nº 477, de 29 de dezembro de 2008, alterada pela Lei Complementar nº 512, de 04 de dezembro de 2009.",
+       "incisos": [],
+       "pag": 1,
+       "refs": [
+        {
+         "ini": 127,
+         "fim": 166,
+         "externo": "Lei 7.860/2004",
+         "url": null,
+         "conf": "externo"
+        },
+        {
+         "ini": 182,
+         "fim": 220,
+         "externo": "Lei 8.121/2005",
+         "url": null,
+         "conf": "externo"
+        },
+        {
+         "ini": 333,
+         "fim": 383,
+         "externo": "LC 477/2008",
+         "url": null,
+         "conf": "externo"
+        },
+        {
+         "ini": 399,
+         "fim": 449,
+         "externo": "LC 512/2009",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art1_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "A ARSP tem sede e foro na Cidade de Vitória, capital do Estado do Espírito Santo, e jurisdição em todo o território do Espírito Santo, gozando, no que refere aos seus bens, receitas e serviços, das regalias, privilégios, isenções e imunidades conferidas à Fazenda Pública.",
+       "incisos": [],
+       "pag": 1,
+       "refs": []
+      },
+      {
+       "id": "art1_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "O regime jurídico da ARSP caracterizar-se-á por independência decisória, mandato fixo e estabilidade de seus diretores e demais condições que tornem efetiva sua autonomia no âmbito da Administração Pública Estadual.",
+       "incisos": [],
+       "pag": 1,
+       "refs": []
+      },
+      {
+       "id": "art1_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "A ARSP poderá exercer total ou parcialmente as suas atividades, observada a viabilidade técnica, e as funções que lhe forem:",
+       "incisos": [
+        {
+         "id": "art1_par4_inc1",
+         "rotulo": "I",
+         "num": 1,
+         "texto": "atribuídas na forma da legislação vigente; 1 of 34 23/07/2026, 16:36",
+         "alineas": [],
+         "pag": 1,
+         "refs": []
+        },
+        {
+         "id": "art1_par4_inc2",
+         "rotulo": "II",
+         "num": 2,
+         "texto": "delegadas pelos entes da Federação, incluindo aqueles transferidos através de contrato de programa, convênio de cooperação ou outro ato administrativo correspondente. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+         "alineas": [],
+         "pag": 2,
+         "refs": []
+        }
+       ],
+       "pag": 1,
+       "refs": []
+      },
+      {
+       "id": "art1_par5",
+       "rotulo": "§ 5º",
+       "num": 5,
+       "texto": "(Revogado) (Dispositivo revogado pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 2,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo II",
+     "texto": "DOS PRINCÍPIOS E OBJETIVOS",
+     "pag": 2
+    },
+    {
+     "tipo": "artigo",
+     "num": "2",
+     "rotulo": "Art. 2º",
+     "id": "art2",
+     "pag": 2,
+     "caput": {
+      "id": "art2_cpt",
+      "texto": "O exercício da função de regulação e fiscalização atenderá aos seguintes princípios:",
+      "incisos": [
+       {
+        "id": "art2_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "independência decisória, incluindo autonomia administrativa, orçamentária e financeira da entidade reguladora;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "art2_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "transparência, tecnicidade, celeridade e objetividade das decisões.",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       }
+      ],
+      "pag": 2,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "3",
+     "rotulo": "Art. 3º",
+     "id": "art3",
+     "pag": 2,
+     "caput": {
+      "id": "art3_cpt",
+      "texto": "São objetivos da regulação e fiscalização:",
+      "incisos": [
+       {
+        "id": "art3_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "estabelecer padrões e normas para a adequada prestação dos serviços e para a satisfação dos usuários;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "art3_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "garantir o cumprimento das condições e metas estabelecidas;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "art3_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "prevenir e reprimir o abuso do poder econômico, ressalvada a competência dos órgãos integrantes do sistema nacional de defesa da livre concorrência;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "art3_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "definir tarifas que assegurem tanto o equilíbrio econômico e financeiro dos contratos como a modicidade tarifária, mediante mecanismos que induzam a eficiência e eficácia dos serviços e que permitam a apropriação social dos ganhos de produtividade;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "art3_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "garantir o exercício dos contratos pelas partes envolvidas;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "art3_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "fiscalizar os serviços prestados.",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       }
+      ],
+      "pag": 2,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo III",
+     "texto": "DA FINALIDADE E DIRETRIZES",
+     "pag": 2
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "2 of 34 23/07/2026, 16:36 (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020) (Redação dada pela Lei Complementar nº 1.069, de 19 de dezembro de 2023)"
+     ],
+     "pag": 2,
+     "refs_linhas": {
+      "0": []
+     }
+    },
+    {
+     "tipo": "artigo",
+     "num": "4",
+     "rotulo": "Art. 4º",
+     "id": "art4",
+     "pag": 3,
+     "caput": {
+      "id": "art4_cpt",
+      "texto": "A ARSP tem por finalidade regular, controlar e fiscalizar, no âmbito do estado do Espírito Santo, os serviços públicos passíveis de concessão, permissão ou autorização de saneamento básico, infraestrutura viária, energia elétrica, gás canalizado, serviços de mobilidade urbana, quando delegados à ARSP pela Secretaria de Estado de Mobilidade e Infraestrutura - SEMOBI, e o serviço público de loteria. (Redação dada pela Lei Complementar nº 1.133, de 19 de dezembro de 2025) (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art4_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Os serviços de saneamento básico a que se refere o caput deste artigo abrangem abastecimento de água, esgotamento sanitário, limpeza urbana e manejo dos resíduos sólidos. (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+       "incisos": [],
+       "pag": 3,
+       "refs": []
+      },
+      {
+       "id": "art4_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "Os serviços de energia elétrica incluem a geração, produção, transmissão e distribuição de energia, naquilo que lhe couber, quando as atividades de regulação, controle e fiscalização forem delegadas à ARSP pela ANEEL. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 3,
+       "refs": []
+      },
+      {
+       "id": "art4_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "As atividades decorrentes dos serviços descritos nesta Lei Complementar serão exercidas nos termos e limites desta e demais normas legais, regulamentares e regulatórias pertinentes, no que tange à eficiência dos serviços públicos, fornecimento, distribuição e demais condições de atendimento, 3 of 34 23/07/2026, 16:36 observando o respeito às competências e prerrogativas federais e municipais, quando for o caso.",
+       "incisos": [],
+       "pag": 3,
+       "refs": []
+      },
+      {
+       "id": "art4_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "A ARSP, para a consecução de suas finalidades, poderá celebrar atos jurídicos bilaterais ou multilaterais com órgãos ou entidades da União, dos Estados e dos Municípios, referentes aos serviços públicos a serem regulados, controlados e fiscalizados, nos termos de legislação específica existente.",
+       "incisos": [],
+       "pag": 4,
+       "refs": []
+      },
+      {
+       "id": "art4_par5",
+       "rotulo": "§ 5º",
+       "num": 5,
+       "texto": "As atribuições da ARSP serão exercidas com o objetivo de preservar o interesse público, buscar o equilíbrio econômico-financeiro quanto às concessões, permissões e autorizações, outorgas legais, dos serviços sob sua jurisdição.",
+       "incisos": [],
+       "pag": 4,
+       "refs": []
+      },
+      {
+       "id": "art4_par6",
+       "rotulo": "§ 6º",
+       "num": 6,
+       "texto": "Não se incluem na competência da ARSP as atividades legalmente atribuídas à CETURB/ES no tocante ao Sistema Transcol, Sistema Seletivo, Sistema SITRIP e Sistema Mão na Roda. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 4,
+       "refs": [
+        {
+         "ini": 201,
+         "fim": 250,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art4_par7",
+       "rotulo": "§ 7º",
+       "num": 7,
+       "texto": "Os serviços públicos concedidos de mobilidade urbana pela SEMOBI mencionados no caput deste artigo compreendem, dentre outros, os serviços de transporte público coletivo não abrangidos pelo § 6º e a operação dos terminais destinados aos veículos utilizados nos serviços de transporte público coletivo. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 4,
+       "refs": [
+        {
+         "ini": 190,
+         "fim": 194,
+         "doc": "lc-827-2016",
+         "disp": "art4_par6",
+         "art": "art4",
+         "conf": "exato"
+        },
+        {
+         "ini": 329,
+         "fim": 378,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art4_par8",
+       "rotulo": "§ 8º",
+       "num": 8,
+       "texto": "Os serviços públicos concedidos de que trata o caput deste artigo abrangem as concessões em todas as suas espécies, previstas em legislação federal e estadual. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 4,
+       "refs": [
+        {
+         "ini": 187,
+         "fim": 236,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art4_par9",
+       "rotulo": "§ 9º",
+       "num": 9,
+       "texto": "Para o cumprimento das competências contidas neste artigo, a ARSP participará junto aos órgãos de governo na definição da política estadual de concessões. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 4,
+       "refs": [
+        {
+         "ini": 182,
+         "fim": 231,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "5",
+     "rotulo": "Art. 5º",
+     "id": "art5",
+     "pag": 4,
+     "caput": {
+      "id": "art5_cpt",
+      "texto": "Na realização das competências definidas nesta Lei Complementar, a ARSP reger-se-á pelas seguintes diretrizes:",
+      "incisos": [
+       {
+        "id": "art5_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "garantir o cumprimento das exigências de regularidade, eficiência, segurança, atualidade, generalidade e cortesia na prestação dos serviços públicos concedidos, permitidos e autorizados, submetidos a sua regulação, controle e fiscalização;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "assegurar o cumprimento das normas legais, regulamentares e contratuais, o atendimento do interesse público e o respeito aos direitos dos usuários;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "fixar critérios, indicadores, padrões e procedimentos de qualidade dos serviços públicos concedidos, no que couber;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "coibir a ocorrência de discriminação no uso e acesso aos serviços públicos concedidos;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "proteger o consumidor no que diz respeito a preços, continuidade e qualidade da prestação dos serviços públicos concedidos; 4 of 34 23/07/2026, 16:36",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "moderar e dirimir os conflitos de interesses, relativos ao objeto das concessões, permissões e autorizações dos serviços públicos concedidos, podendo se valer do apoio de peritos técnicos especificamente designados;",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc7",
+        "rotulo": "VII",
+        "num": 7,
+        "texto": "aplicar metodologias que proporcionem a modicidade das tarifas nos serviços públicos concedidos, de titularidade ou de delegação por instrumento legal ao Estado, garantido o equilíbrio econômico e financeiro, para o prestador de serviço, bem como desenvolver estudos que propiciem subsídios a estudos tarifários para os setores regulados;",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc8",
+        "rotulo": "VIII",
+        "num": 8,
+        "texto": "fiscalizar os serviços prestados considerando normas e procedimentos operacionais adequados;",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc9",
+        "rotulo": "IX",
+        "num": 9,
+        "texto": "estimular a competitividade e a realização de investimento, de modo a garantir a melhoria do atendimento e adequação dos serviços às necessidades da população;",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc10",
+        "rotulo": "X",
+        "num": 10,
+        "texto": "proteger os usuários contra o abuso do poder econômico que vise à dominação dos mercados, à eliminação da livre concorrência e ao aumento arbitrário dos lucros;",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc11",
+        "rotulo": "XI",
+        "num": 11,
+        "texto": "assegurar à sociedade amplo acesso às informações sobre a prestação dos serviços públicos regulados sob sua jurisdição e as atividades da ARSP, assim como a publicidade das informações quanto à situação dos serviços e aos critérios de determinação de tarifas;",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc12",
+        "rotulo": "XII",
+        "num": 12,
+        "texto": "receber, apurar e encaminhar soluções relativas às reclamações de consumidores ou usuários dos serviços públicos concedidos, em especial de caráter geral ou coletivo;",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc13",
+        "rotulo": "XIII",
+        "num": 13,
+        "texto": "articular-se com órgãos e entidades afins;",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "art5_cpt_inc14",
+        "rotulo": "XIV",
+        "num": 14,
+        "texto": "exercer outras atividades correlatas que lhe sejam delegadas.",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       }
+      ],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "6",
+     "rotulo": "Art. 6º",
+     "id": "art6",
+     "pag": 5,
+     "caput": {
+      "id": "art6_cpt",
+      "texto": "A ARSP, no desempenho de suas atividades, obedecerá aos princípios da legalidade, proporcionalidade, razoabilidade, celeridade, impessoalidade, igualdade, devido processo legal, descentralização, publicidade, moralidade e da eficiência, entre outros afetos à Administração Pública.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "7",
+     "rotulo": "Art. 7º",
+     "id": "art7",
+     "pag": 5,
+     "caput": {
+      "id": "art7_cpt",
+      "texto": "Compete ainda à ARSP, originariamente ou por delegação dos poderes competentes:",
+      "incisos": [
+       {
+        "id": "art7_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "cumprir e fazer cumprir, no âmbito do Estado do Espírito Santo, a legislação específica, os convênios e os contratos afetos ao seu âmbito de atuação;",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "regular, controlar e fiscalizar os serviços públicos regulados, aplicando sanções aos prestadores de serviço ou titulares das concessões, permissões e autorizações que descumprirem os termos dos contratos ou da legislação específica; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020) 5 of 34 23/07/2026, 16:36",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "fixar, dentro de sua competência, normas, resoluções, instruções e recomendações técnicas e procedimentos relativos aos serviços regulados, observadas as diretrizes do poder concedente;",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "disciplinar os contratos e convênios e padronizar os planos de contas a serem observados pelos prestadores dos serviços públicos concedidos;",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "instruir os concessionários, permissionários, delegatários, autorizados, consumidores e usuários sobre as suas obrigações legais, contratuais e regulamentares;",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "fiscalizar a prestação dos serviços regulados, com amplo e irrestrito acesso aos dados e informações técnicas, econômicas, financeiras e quaisquer outras necessárias à fiscalização; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc7",
+        "rotulo": "VII",
+        "num": 7,
+        "texto": "acompanhar e fiscalizar o cumprimento das tarifas cobradas pelos prestadores de serviços públicos regulados e pelas empresas concessionárias, permissionárias ou autorizadas; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc8",
+        "rotulo": "VIII",
+        "num": 8,
+        "texto": "fixar as tarifas e outras formas de contraprestação dos serviços regulados, bem como os reajustes anuais e as revisões, tendo por objetivo assegurar tanto o equilíbrio econômico-financeiro da prestação do serviço como a modicidade tarifária, mediante mecanismos que induzam à eficiência e eficácia dos serviços e que permitam a apropriação social dos ganhos de produtividade, no que couber; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc9",
+        "rotulo": "IX",
+        "num": 9,
+        "texto": "homologar, fiscalizar e regular, inclusive sobre questões tarifárias, os contratos de prestação de serviços de fornecimento de água no atacado ou de tratamento de esgoto celebrados entre o prestador estadual e outro prestador, nos termos do art. 12 da Lei Federal nº 11.445, de 05 de janeiro de 2007, e da legislação estadual pertinente;",
+        "alineas": [],
+        "pag": 6,
+        "refs": [
+         {
+          "ini": 241,
+          "fim": 299,
+          "externo": "Lei 11.445/2007",
+          "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2007;11445",
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art7_cpt_inc10",
+        "rotulo": "X",
+        "num": 10,
+        "texto": "atuar no sentido de impedir práticas abusivas que afetem os serviços públicos regulados, bem como receber, apurar e encaminhar soluções relativas às reclamações dos usuários; 6 of 34 23/07/2026, 16:36",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc11",
+        "rotulo": "XI",
+        "num": 11,
+        "texto": "contratar, observada a legislação aplicável, serviços técnicos especializados, neles incluídas a perícia e a auditoria, e outros serviços necessários às atividades da ARSP;",
+        "alineas": [],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc12",
+        "rotulo": "XII",
+        "num": 12,
+        "texto": "elaborar e editar por resolução o regimento interno;",
+        "alineas": [],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc13",
+        "rotulo": "XIII",
+        "num": 13,
+        "texto": "praticar outros atos relacionados com sua finalidade, nos limites da legislação aplicável e das atribuições que, mediante convênios, lhe tiverem sido delegadas;",
+        "alineas": [],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc14",
+        "rotulo": "XIV",
+        "num": 14,
+        "texto": "administrar seus bens e os empregos públicos do seu quadro de pessoal, na forma da lei;",
+        "alineas": [],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc15",
+        "rotulo": "XV",
+        "num": 15,
+        "texto": "fazer observar, pelos concessionários de geração, o funcionamento do sistema interligado no Estado;",
+        "alineas": [],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc16",
+        "rotulo": "XVI",
+        "num": 16,
+        "texto": "exercer a regulação, controle e fiscalização dos serviços pertinentes à geração, produção, transmissão, transporte e distribuição de energia celebrados pelos concessionários, permissionários e autorizados, nos termos da delegação da ANEEL; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc17",
+        "rotulo": "XVII",
+        "num": 17,
+        "texto": "desde que delegado expressamente por Decreto do Chefe do Poder Executivo: (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [
+         {
+          "id": "art7_cpt_inc17_ali-a",
+          "rotulo": "a)",
+          "letra": "a",
+          "texto": "elaborar os editais e promover os procedimentos licitatórios para a celebração dos contratos de concessão referente à prestação dos serviços públicos regulados; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+          "pag": 7,
+          "refs": []
+         },
+         {
+          "id": "art7_cpt_inc17_ali-b",
+          "rotulo": "b)",
+          "letra": "b",
+          "texto": "celebrar e gerenciar os contratos de concessão; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+          "pag": 7,
+          "refs": []
+         },
+         {
+          "id": "art7_cpt_inc17_ali-c",
+          "rotulo": "c)",
+          "letra": "c",
+          "texto": "promover as alterações das condições e das áreas de concessão, permissão ou autorização dos serviços públicos regulados, observadas as diretrizes do Poder Concedente; e/ou (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+          "pag": 7,
+          "refs": []
+         },
+         {
+          "id": "art7_cpt_inc17_ali-d",
+          "rotulo": "d)",
+          "letra": "d",
+          "texto": "realizar intervenção administrativa e a extinção unilateral ou consensual dos respectivos contratos, nos casos previstos em lei ou em contrato; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+          "pag": 7,
+          "refs": []
+         }
+        ],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc18",
+        "rotulo": "XVIII",
+        "num": 18,
+        "texto": "exercer todas as demais atribuições legais delegadas pelo poder 7 of 34 23/07/2026, 16:36 concedente, no que couber;",
+        "alineas": [],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc19",
+        "rotulo": "XIX",
+        "num": 19,
+        "texto": "estudar o setor energético estadual, elaborar balanço energético e propor à autoridade competente mecanismos que provenham a devida competitividade do mercado estadual de energia limpa e sustentável em relação aos outros estados brasileiros; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 8,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc20",
+        "rotulo": "XX",
+        "num": 20,
+        "texto": "fazer publicar em sítio oficial, anualmente, o percentual de cobertura do serviço público de esgotamento sanitário operacional por município, bem como o prazo para o alcance de cobertura plena no serviço por município. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 8,
+        "refs": [
+         {
+          "ini": 246,
+          "fim": 295,
+          "externo": "LC 954/2020",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art7_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "No exercício de suas atribuições ou das que lhe forem delegadas, a ARSP poderá aplicar as sanções de multa e advertência, além de outras espécies sancionatórias previstas em regulamento editado pela ARSP, desde que exista previsão legal, em dispositivos contidos nas Leis Federais nº 8.987, de 13 de fevereiro de 1995, nº 9.074, de 07 de julho de 1995, nº 8.666, de 21 de junho de 1993, nos respectivos contratos administrativos que disciplinam a prestação do serviço, bem como na legislação específica relativa aos serviços públicos de energia, notadamente as constantes de Regulamentação da ANEEL, e textos normativos que lhes sucederem. (Parágrafo único transformado em § 1º e redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 8,
+       "refs": []
+      },
+      {
+       "id": "art7_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "No exercício de suas atribuições ou das que lhe forem delegadas, a ARSP poderá praticar atos administrativos de natureza cautelar, visando à preservação do interesse público em situações de urgência. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 8,
+       "refs": [
+        {
+         "ini": 227,
+         "fim": 276,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art7_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "As condições básicas do edital de licitação serão submetidas à prévia consulta pública, observadas as normas gerais da legislação pertinente. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 8,
+       "refs": [
+        {
+         "ini": 169,
+         "fim": 218,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art7_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "No caso do inciso XVII, alínea “a”, deste artigo, deverá ser encaminhada uma minuta do edital à autoridade do órgão competente, antes de sua elaboração definitiva, para que possa se manifestar acerca do interesse público na celebração do contrato de concessão referente à prestação dos serviços públicos regulados. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 8,
+       "refs": [
+        {
+         "ini": 11,
+         "fim": 34,
+         "doc": "lc-827-2016",
+         "disp": "art7_cpt_inc17_ali-a",
+         "art": "art7",
+         "conf": "exato"
+        },
+        {
+         "ini": 238,
+         "fim": 259,
+         "externo": "Contrato de Concessão",
+         "url": null,
+         "conf": "externo"
+        },
+        {
+         "ini": 342,
+         "fim": 391,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo IV",
+     "texto": "DOS SERVIÇOS PÚBLICOS REGULADOS",
+     "pag": 8
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "8 of 34 23/07/2026, 16:36"
+     ],
+     "pag": 8,
+     "refs_linhas": {
+      "0": []
+     }
+    },
+    {
+     "tipo": "artigo",
+     "num": "8",
+     "rotulo": "Art. 8º",
+     "id": "art8",
+     "pag": 9,
+     "caput": {
+      "id": "art8_cpt",
+      "texto": "São considerados serviços públicos regulados, para efeitos desta Lei Complementar:",
+      "incisos": [
+       {
+        "id": "art8_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "abastecimento de água, esgotamento sanitário, limpeza urbana e manejo dos resíduos sólidos: serviços prestados, conforme definição descrita nos incisos I, II e III do parágrafo único deste artigo; (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+        "alineas": [],
+        "pag": 9,
+        "refs": [
+         {
+          "ini": 144,
+          "fim": 195,
+          "doc": "lc-827-2016",
+          "disp": "art8_par1u_inc1",
+          "art": "art8",
+          "conf": "exato",
+          "alvos": [
+           "art8_par1u_inc1",
+           "art8_par1u_inc2",
+           "art8_par1u_inc3"
+          ],
+          "arts": [
+           "art8",
+           "art8",
+           "art8"
+          ],
+          "spans": [
+           [
+            152,
+            153
+           ],
+           [
+            155,
+            157
+           ],
+           [
+            160,
+            163
+           ]
+          ]
+         }
+        ]
+       },
+       {
+        "id": "art8_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "infraestrutura viária regida pelo sistema de concessão ou parceria público privada: serviços de circulação viária, abrangendo infraestrutura de pontes, rodovias, túneis, dentre outros; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "art8_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "gás canalizado: serviços de fornecimento, distribuição e demais condições de atendimento aos usuários; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "art8_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "energia elétrica: serviços de geração, produção, transmissão e distribuição de energia, observado o art. 4º, § 2º, desta Lei Complementar; e (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 9,
+        "refs": [
+         {
+          "ini": 100,
+          "fim": 137,
+          "doc": "lc-827-2016",
+          "disp": "art4_par2",
+          "art": "art4",
+          "conf": "exato"
+         }
+        ]
+       },
+       {
+        "id": "art8_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "serviços públicos de mobilidade urbana: aqueles serviços delegados à ARSP pela SEMOBI, que vierem a ser concedidos através de contrato de concessão ou contrato de Parceria Público Privada pelo Poder Concedente. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 9,
+        "refs": [
+         {
+          "ini": 126,
+          "fim": 147,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         },
+         {
+          "ini": 238,
+          "fim": 287,
+          "externo": "LC 954/2020",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art8_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "Para os serviços públicos regulados, descritos no inciso I deste artigo, entende-se o conjunto de serviços, infraestruturas e instalações operacionais de: I 9 of 34 23/07/2026, 16:36 bruta ou de reúso para terceiros.",
+       "incisos": [
+        {
+         "id": "art8_par1u_inc1",
+         "rotulo": "I",
+         "num": 1,
+         "texto": "abastecimento de água potável: constituído pelas atividades e pela disponibilização e manutenção de infraestruturas e instalações operacionais necessárias ao abastecimento público de água potável, desde a captação até as ligações prediais e seus instrumentos de medição; (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+         "alineas": [],
+         "pag": 10,
+         "refs": []
+        },
+        {
+         "id": "art8_par1u_inc2",
+         "rotulo": "II",
+         "num": 2,
+         "texto": "esgotamento sanitário: constituído pelas atividades e pela disponibilização e manutenção de infraestruturas e instalações operacionais necessárias à coleta, ao transporte, ao tratamento e à disposição final adequados dos esgotos sanitários, desde as ligações prediais até sua destinação final para produção de água de reúso ou seu lançamento de forma adequada no meio ambiente; e (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+         "alineas": [],
+         "pag": 10,
+         "refs": []
+        },
+        {
+         "id": "art8_par1u_inc3",
+         "rotulo": "III",
+         "num": 3,
+         "texto": "limpeza urbana e manejo de resíduos sólidos: constituídos pelas atividades e pela disponibilização e manutenção de infraestruturas e instalações operacionais de coleta, varrição manual e mecanizada, asseio e conservação urbana, transporte, transbordo, tratamento e destinação final ambientalmente adequada dos resíduos sólidos domiciliares e dos resíduos de limpeza urbana. (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023) (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+         "alineas": [],
+         "pag": 10,
+         "refs": []
+        }
+       ],
+       "pag": 9,
+       "refs": [
+        {
+         "ini": 50,
+         "fim": 71,
+         "doc": "lc-827-2016",
+         "disp": "art8_cpt_inc1",
+         "art": "art8",
+         "conf": "exato"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "9",
+     "rotulo": "Art. 9º",
+     "id": "art9",
+     "pag": 10,
+     "caput": {
+      "id": "art9_cpt",
+      "texto": "Quanto à regulação e à fiscalização dos serviços de saneamento básico, abrangendo abastecimento de água, esgotamento sanitário, limpeza urbana e manejo dos resíduos sólidos, competem à ARSP aquelas funções delegadas pelo titular do serviço, inclusive regulação tarifária, respeitados os contratos anteriores à vigência da Lei Federal nº 11.107, de 06 de abril de 2005, observando-se as legislações federal e estadual, em especial a política estadual de saneamento, no que abranger as atividades de regulação, controle e fiscalização, considerando-se, ainda, os instrumentos de delegação e os contratos de outorgas existentes. (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023) 10 of 34 23/07/2026, 16:36",
+      "incisos": [],
+      "pag": 10,
+      "refs": [
+       {
+        "ini": 322,
+        "fim": 367,
+        "externo": "Lei 11.107/2005",
+        "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2005;11107",
+        "conf": "externo"
+       }
+      ]
+     },
+     "paragrafos": [
+      {
+       "id": "art9_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Os instrumentos de delegação deverão indicar os limites, a forma de atuação e a abrangência das atividades da ARSP, nos termos do art. 23 da Lei Federal nº 11.445, de 2007, bem como os itens, instalações e equipamentos a ela associados, quando a delegação também envolver a prestação dos serviços.",
+       "incisos": [],
+       "pag": 11,
+       "refs": [
+        {
+         "ini": 130,
+         "fim": 171,
+         "externo": "Lei 11.445/2007",
+         "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2007;11445",
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art9_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "A delegação das competências de regulação e fiscalização poderá ser delegada ao Governo do Estado, que as exercerá por meio da ARSP, nos termos desta Lei Complementar.",
+       "incisos": [],
+       "pag": 11,
+       "refs": []
+      },
+      {
+       "id": "art9_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "O exercício das atividades de regulação e fiscalização para estas atividades considerará o disposto na Lei Federal nº 11.445, de 2007, e na legislação estadual referente às diretrizes e à política estadual de saneamento básico.",
+       "incisos": [],
+       "pag": 11,
+       "refs": [
+        {
+         "ini": 103,
+         "fim": 133,
+         "externo": "Lei 11.445/2007",
+         "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:lei:2007;11445",
+         "conf": "externo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "10",
+     "rotulo": "Art. 10",
+     "id": "art10",
+     "pag": 11,
+     "caput": {
+      "id": "art10_cpt",
+      "texto": "Quanto à regulação e fiscalização dos serviços públicos regulados de infraestrutura viária compete à ARSP, atuando de acordo com a competência definida pela legislação estadual: (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [
+       {
+        "id": "art10_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "regular e fiscalizar a prestação dos serviços, com amplo e irrestrito acesso aos dados e informações técnicas, econômicas, financeiras e quaisquer outras;",
+        "alineas": [],
+        "pag": 11,
+        "refs": []
+       },
+       {
+        "id": "art10_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "encaminhar à autoridade do órgão competente propostas de concessão, permissão ou autorização de serviços, para que possa se manifestar acerca do interesse público na celebração do contrato referente à prestação dos serviços públicos regulados; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 11,
+        "refs": []
+       },
+       {
+        "id": "art10_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "considerar as diretrizes gerais a serem definidas na política estadual de concessão de serviço de infraestrutura viária. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 11,
+        "refs": []
+       }
+      ],
+      "pag": 11,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art10_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "(Revogado) (Dispositivo revogado pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 11,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "10-A",
+     "rotulo": "Art. 10-A",
+     "id": "art10a",
+     "pag": 11,
+     "caput": {
+      "id": "art10a_cpt",
+      "texto": "Quanto à regulação e fiscalização dos serviços públicos de gás canalizado, a ARSP deverá observar as seguintes diretrizes, além do disposto na legislação federal vigente: (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020) 11 of 34 23/07/2026, 16:36",
+      "incisos": [
+       {
+        "id": "art10a_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "incentivo à competitividade em todas as atividades do setor; (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 12,
+        "refs": [
+         {
+          "ini": 88,
+          "fim": 137,
+          "externo": "LC 954/2020",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art10a_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "metodologias que incentivem a concessionária a realizar investimentos prudentes, respeitado o atendimento do interesse público; e (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 12,
+        "refs": [
+         {
+          "ini": 157,
+          "fim": 206,
+          "externo": "LC 954/2020",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art10a_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "modicidade das tarifas e garantia do equilíbrio econômico-financeiro das concessões, consideradas as taxas de remuneração compatíveis com as praticadas no mercado para atividades assemelhadas. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 12,
+        "refs": [
+         {
+          "ini": 220,
+          "fim": 269,
+          "externo": "LC 954/2020",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 11,
+      "refs": [
+       {
+        "ini": 198,
+        "fim": 247,
+        "externo": "LC 954/2020",
+        "url": null,
+        "conf": "externo"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "10-B",
+     "rotulo": "Art. 10-B",
+     "id": "art10b",
+     "pag": 12,
+     "caput": {
+      "id": "art10b_cpt",
+      "texto": "Quanto à regulação e fiscalização dos serviços públicos de mobilidade urbana delegados pela SEMOBI, a ARSP deverá assegurar a integração dos sistemas existentes com aqueles que vierem a ser implantados em âmbito estadual, bem como assegurar a modicidade tarifária e o equilíbrio econômicofinanceiro dos contratos. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [],
+      "pag": 12,
+      "refs": [
+       {
+        "ini": 341,
+        "fim": 390,
+        "externo": "LC 954/2020",
+        "url": null,
+        "conf": "externo"
+       }
+      ]
+     },
+     "paragrafos": [
+      {
+       "id": "art10b_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "A ARSP poderá firmar convênio de cooperação com os Municípios da Região Metropolitana visando à gestão associada dos serviços previstos no caput, caso seja necessário para a integração dos sistemas a que se refere o caput deste artigo. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 12,
+       "refs": [
+        {
+         "ini": 263,
+         "fim": 312,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "11",
+     "rotulo": "Art. 11",
+     "id": "art11",
+     "pag": 12,
+     "caput": {
+      "id": "art11_cpt",
+      "texto": "Na atividade de regulação e fiscalização dos serviços públicos regulados, deverá a ARSP relacionar-se com outros órgãos com atividades similares relacionadas no Estado e no País, de modo a aperfeiçoar seus procedimentos, agregar valor em suas atividades e agilizar sua atuação no interesse público.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "12",
+     "rotulo": "Art. 12",
+     "id": "art12",
+     "pag": 12,
+     "caput": {
+      "id": "art12_cpt",
+      "texto": "No interesse das classes usuárias, poderá a ARSP contratar ou desenvolver estudos técnicos e econômicos que propiciem subsídios aos processos de reajuste e de revisão tarifárias dos serviços públicos regulados.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo V",
+     "texto": "DOS RECURSOS FINANCEIROS",
+     "pag": 12
+    },
+    {
+     "tipo": "artigo",
+     "num": "13",
+     "rotulo": "Art. 13",
+     "id": "art13",
+     "pag": 12,
+     "caput": {
+      "id": "art13_cpt",
+      "texto": "Constituem receitas da ARSP:",
+      "incisos": [
+       {
+        "id": "art13_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "as dotações orçamentárias fixadas anualmente no orçamento geral do Governo do Estado;",
+        "alineas": [],
+        "pag": 12,
+        "refs": []
+       },
+       {
+        "id": "art13_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "as doações, legados, subvenções e outros recursos que lhe forem destinados, inclusive da União e Municípios;",
+        "alineas": [],
+        "pag": 12,
+        "refs": []
+       },
+       {
+        "id": "art13_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "os recursos provenientes de acordos, convênios, ajustes ou contratos com entidades públicas e privadas, nacionais e estrangeiras;",
+        "alineas": [],
+        "pag": 12,
+        "refs": []
+       },
+       {
+        "id": "art13_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "as rendas de aplicações financeiras;",
+        "alineas": [],
+        "pag": 12,
+        "refs": []
+       },
+       {
+        "id": "art13_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "as receitas resultantes da prestação e venda de serviços e produtos derivados de suas atividades; 12 of 34 23/07/2026, 16:36",
+        "alineas": [],
+        "pag": 12,
+        "refs": []
+       },
+       {
+        "id": "art13_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "as rendas resultantes da aplicação de bens e valores patrimoniais;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art13_cpt_inc7",
+        "rotulo": "VII",
+        "num": 7,
+        "texto": "o produto de taxas de regulação e de fiscalização dos serviços públicos concedidos;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art13_cpt_inc8",
+        "rotulo": "VIII",
+        "num": 8,
+        "texto": "os valores de multas aplicadas no exercício de atividade fiscalizadora, nos termos da legislação vigente, dos convênios e dos contratos; X - outras receitas fixadas em Lei.",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       }
+      ],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo VI",
+     "texto": "DO PATRIMÔNIO",
+     "pag": 13
+    },
+    {
+     "tipo": "artigo",
+     "num": "14",
+     "rotulo": "Art. 14",
+     "id": "art14",
+     "pag": 13,
+     "caput": {
+      "id": "art14_cpt",
+      "texto": "O patrimônio da ARSP é constituído de:",
+      "incisos": [
+       {
+        "id": "art14_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "bens móveis doados pelo Estado do Espírito Santo, bem como outras doações e contribuições de pessoas físicas ou jurídicas, públicas ou privadas, nacionais ou estrangeiras;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art14_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "valores mobiliários que forem adquiridos através de cessão, recebimentos a título de doação, de pagamento de dívida ou a qualquer título, sendo vedada a transferência desses direitos quando forem emitentes as empresas prestadoras dos serviços regulados;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art14_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "bens e direitos oriundos da execução de contratos, convênios, acordos, ajustes e congêneres;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art14_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "bens móveis e imóveis que adquirir;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art14_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "saldos dos exercícios financeiros, transferidos para sua conta patrimonial;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art14_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "bens móveis e imóveis oriundos da ARSI e da ASPE.",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       }
+      ],
+      "pag": 13,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art14_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "Em caso de extinção da ARSP, seus bens reverterão ao patrimônio do Estado.",
+       "incisos": [],
+       "pag": 13,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Título",
+     "rotulo": "Título II",
+     "texto": "DA ESTRUTURA ORGANIZACIONAL DA ARSP",
+     "pag": 13
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo I",
+     "texto": "DA ORGANIZAÇÃO",
+     "pag": 13
+    },
+    {
+     "tipo": "artigo",
+     "num": "15",
+     "rotulo": "Art. 15",
+     "id": "art15",
+     "pag": 13,
+     "caput": {
+      "id": "art15_cpt",
+      "texto": "A estrutura organizacional básica da ARSP é a seguinte:",
+      "incisos": [
+       {
+        "id": "art15_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "nível de Direção Superior:",
+        "alineas": [
+         {
+          "id": "art15_cpt_inc1_ali-a",
+          "rotulo": "a)",
+          "letra": "a",
+          "texto": "Conselho Consultivo;",
+          "pag": 13,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc1_ali-b",
+          "rotulo": "b)",
+          "letra": "b",
+          "texto": "Diretoria Colegiada;",
+          "pag": 13,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc1_ali-c",
+          "rotulo": "c)",
+          "letra": "c",
+          "texto": "c) Diretor-Presidente; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020) 13 of 34 23/07/2026, 16:36",
+          "pag": 13,
+          "refs": []
+         }
+        ],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art15_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "nível de Assessoramento:",
+        "alineas": [
+         {
+          "id": "art15_cpt_inc2_ali-a",
+          "rotulo": "a)",
+          "letra": "a",
+          "texto": "Gabinete da Diretoria;",
+          "pag": 14,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc2_ali-b",
+          "rotulo": "b)",
+          "letra": "b",
+          "texto": "Ouvidoria;",
+          "pag": 14,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc2_ali-c",
+          "rotulo": "c)",
+          "letra": "c",
+          "texto": "Assessoria Técnica;",
+          "pag": 14,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc2_ali-d",
+          "rotulo": "d)",
+          "letra": "d",
+          "texto": "Assessoria de Regulação da Diretoria; (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 14,
+          "refs": [
+           {
+            "ini": 65,
+            "fim": 116,
+            "externo": "LC 1.057/2023",
+            "url": null,
+            "conf": "externo"
+           }
+          ]
+         }
+        ],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "art15_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "nível de Gerência:",
+        "alineas": [
+         {
+          "id": "art15_cpt_inc3_ali-a",
+          "rotulo": "a)",
+          "letra": "a",
+          "texto": "Diretoria de Saneamento Básico; (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 14,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc3_ali-b",
+          "rotulo": "b)",
+          "letra": "b",
+          "texto": "Diretoria de Infraestrutura Viária e Mobilidade Urbana; (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 14,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc3_ali-c",
+          "rotulo": "c)",
+          "letra": "c",
+          "texto": "Diretoria de Gás Canalizado e Energia; (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 14,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc3_ali-d",
+          "rotulo": "d)",
+          "letra": "d",
+          "texto": "Diretoria Administrativa e Financeira; (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 14,
+          "refs": [
+           {
+            "ini": 66,
+            "fim": 117,
+            "externo": "LC 1.057/2023",
+            "url": null,
+            "conf": "externo"
+           }
+          ]
+         }
+        ],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "art15_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "nível de Execução Programática:",
+        "alineas": [
+         {
+          "id": "art15_cpt_inc4_ali-a",
+          "rotulo": "a)",
+          "letra": "a",
+          "texto": "Gerência de Regulação de Água e Esgoto; (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 14,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc4_ali-b",
+          "rotulo": "b)",
+          "letra": "b",
+          "texto": "Gerência de Regulação de Resíduos Sólidos; (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 14,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc4_ali-c",
+          "rotulo": "c)",
+          "letra": "c",
+          "texto": "Gerência de Regulação de Infraestrutura Viária; (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 14,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc4_ali-d",
+          "rotulo": "d)",
+          "letra": "d",
+          "texto": "Gerência de Regulação de Mobilidade Urbana; (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 14,
+          "refs": []
+         },
+         {
+          "id": "art15_cpt_inc4_ali-e",
+          "rotulo": "e)",
+          "letra": "e",
+          "texto": "Gerência de Regulação de Energia Elétrica; (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023) 14 of 34 23/07/2026, 16:36",
+          "pag": 14,
+          "refs": [
+           {
+            "ini": 70,
+            "fim": 121,
+            "externo": "LC 1.057/2023",
+            "url": null,
+            "conf": "externo"
+           }
+          ]
+         },
+         {
+          "id": "art15_cpt_inc4_ali-f",
+          "rotulo": "f)",
+          "letra": "f",
+          "texto": "Gerência de Regulação de Gás Natural; (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 15,
+          "refs": [
+           {
+            "ini": 65,
+            "fim": 116,
+            "externo": "LC 1.057/2023",
+            "url": null,
+            "conf": "externo"
+           }
+          ]
+         },
+         {
+          "id": "art15_cpt_inc4_ali-g",
+          "rotulo": "g)",
+          "letra": "g",
+          "texto": "Gerência Administrativa e Financeira; (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 15,
+          "refs": [
+           {
+            "ini": 65,
+            "fim": 116,
+            "externo": "LC 1.057/2023",
+            "url": null,
+            "conf": "externo"
+           }
+          ]
+         },
+         {
+          "id": "art15_cpt_inc4_ali-h",
+          "rotulo": "h)",
+          "letra": "h",
+          "texto": "Subgerência Orçamentária e Financeira; (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 15,
+          "refs": [
+           {
+            "ini": 66,
+            "fim": 117,
+            "externo": "LC 1.057/2023",
+            "url": null,
+            "conf": "externo"
+           }
+          ]
+         },
+         {
+          "id": "art15_cpt_inc4_ali-i",
+          "rotulo": "i)",
+          "letra": "i",
+          "texto": "Subgerência de Recursos Humanos. (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+          "pag": 15,
+          "refs": [
+           {
+            "ini": 60,
+            "fim": 111,
+            "externo": "LC 1.057/2023",
+            "url": null,
+            "conf": "externo"
+           }
+          ]
+         }
+        ],
+        "pag": 14,
+        "refs": []
+       }
+      ],
+      "pag": 13,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art15_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "As atribuições das unidades organizacionais que integram a estrutura da ARSP serão propostas pela Diretoria Colegiada, na regulamentação desta Lei Complementar.",
+       "incisos": [],
+       "pag": 15,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "16",
+     "rotulo": "Art. 16",
+     "id": "art16",
+     "pag": 15,
+     "caput": {
+      "id": "art16_cpt",
+      "texto": "Ao Diretor-Presidente compete conduzir a direção colegiada, a supervisão e orientação da ação executiva e das gestões administrativa, financeira e patrimonial da ARSP, buscando os melhores métodos de gestão que assegurem eficácia, economicidade, transparência e efetividades da ação operacional; representar a ARSP em juízo ou fora dele e em suas relações com os demais órgãos do Estado; garantir o equilíbrio das atividades no âmbito da Direção Colegiada. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [],
+      "pag": 15,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "17",
+     "rotulo": "Art. 17",
+     "id": "art17",
+     "pag": 15,
+     "caput": {
+      "id": "art17_cpt",
+      "texto": "Aos demais Diretores competem as atividades gerenciais e operacionais de suas áreas de atividades nos termos definido pelo regimento interno, além das responsabilidades da gestão da ARSP, através da Diretoria Colegiada. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [],
+      "pag": 15,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "18",
+     "rotulo": "Art. 18",
+     "id": "art18",
+     "pag": 15,
+     "caput": {
+      "id": "art18_cpt",
+      "texto": "O poder decisório da ARSP é de caráter colegiado para as atividades administrativas, financeiras e técnicas, podendo aquelas elencadas em regulamento serem delegadas a um Diretor em especial, desde que haja concordância da Diretoria Colegiada. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [],
+      "pag": 15,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art18_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Toda decisão tomada no âmbito da Diretoria Colegiada deverá ser embasada em processo administrativo devidamente instaurado e instruído.",
+       "incisos": [],
+       "pag": 15,
+       "refs": []
+      },
+      {
+       "id": "art18_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "Os atos praticados pela ARSP serão públicos e disponibilizados na rede mundial de computadores para consulta, salvo se protegido por dever de confidencialidade ou sigilo. 15 of 34 23/07/2026, 16:36 (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 15,
+       "refs": []
+      },
+      {
+       "id": "art18_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "A ARSP poderá promover consultas e/ou audiências públicas previamente à edição de resoluções e à aprovação de diretrizes, níveis, estruturas, reajustes e revisões tarifárias, disponibilizando informações para consultas de interessados em prazo compatível com a complexidade da matéria. (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+       "incisos": [],
+       "pag": 16,
+       "refs": []
+      },
+      {
+       "id": "art18_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "O processo decisório da ARSP obedecerá aos princípios da legalidade, impessoalidade, moralidade, publicidade e eficiência de acordo com os procedimentos a serem definidos em regulamento próprio, assegurados aos interessados o contraditório e a ampla defesa, com os meios e recursos inerentes. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020) (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 16,
+       "refs": [
+        {
+         "ini": 320,
+         "fim": 369,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "19",
+     "rotulo": "Art. 19",
+     "id": "art19",
+     "pag": 16,
+     "caput": {
+      "id": "art19_cpt",
+      "texto": "A Diretoria Colegiada é a instância maior de decisão da ARSP e é constituída pelo Diretor-Presidente, pelo Diretor de Saneamento Básico, pelo Diretor de Infraestrutura Viária e Mobilidade Urbana, pelo Diretor de Gás Canalizado e Energia e pelo Diretor Administrativo e Financeiro, instalando-se e deliberando, sempre, por maioria absoluta, nos termos do regimento interno. (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+      "incisos": [],
+      "pag": 16,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "20",
+     "rotulo": "Art. 20",
+     "id": "art20",
+     "pag": 16,
+     "caput": {
+      "id": "art20_cpt",
+      "texto": "São atribuições do Ouvidor: (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+      "incisos": [
+       {
+        "id": "art20_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "zelar pela qualidade e pela tempestividade dos serviços prestados pela Agência; 16 of 34 23/07/2026, 16:36 (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+        "alineas": [],
+        "pag": 16,
+        "refs": [
+         {
+          "ini": 134,
+          "fim": 185,
+          "externo": "LC 1.057/2023",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art20_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "garantir aos usuários e aos demais agentes envolvidos resposta às suas solicitações; (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+        "alineas": [],
+        "pag": 17,
+        "refs": [
+         {
+          "ini": 112,
+          "fim": 163,
+          "externo": "LC 1.057/2023",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art20_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "acompanhar o processo interno de apuração de denúncias e reclamações dos interessados contra a atuação da Agência; (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+        "alineas": [],
+        "pag": 17,
+        "refs": [
+         {
+          "ini": 142,
+          "fim": 193,
+          "externo": "LC 1.057/2023",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art20_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "representar os agentes envolvidos na prestação dos serviços públicos regulados pela ARSP perante a Diretoria Colegiada; (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+        "alineas": [],
+        "pag": 17,
+        "refs": [
+         {
+          "ini": 147,
+          "fim": 198,
+          "externo": "LC 1.057/2023",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art20_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "elaborar relatório anual de ouvidoria sobre as atividades da Agência. (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+        "alineas": [],
+        "pag": 17,
+        "refs": [
+         {
+          "ini": 97,
+          "fim": 148,
+          "externo": "LC 1.057/2023",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art20_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "facilitar, ao máximo, o acesso do usuário do serviço à Ouvidoria, simplificando seus procedimentos; (Dispositivo incluído pela Lei Complementar nº 1.133, de 19 de dezembro de 2025)",
+        "alineas": [],
+        "pag": 17,
+        "refs": [
+         {
+          "ini": 127,
+          "fim": 179,
+          "externo": "LC 1.133/2025",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art20_cpt_inc7",
+        "rotulo": "VII",
+        "num": 7,
+        "texto": "encaminhar a questão ou sugestão apresentada à área competente, acompanhando a sua apreciação; (Dispositivo incluído pela Lei Complementar nº 1.133, de 19 de dezembro de 2025)",
+        "alineas": [],
+        "pag": 17,
+        "refs": [
+         {
+          "ini": 122,
+          "fim": 174,
+          "externo": "LC 1.133/2025",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art20_cpt_inc8",
+        "rotulo": "VIII",
+        "num": 8,
+        "texto": "identificar problemas no atendimento do usuário e propor a correção de erros, de omissões ou de abusos cometidos no atendimento ao usuário; (Dispositivo incluído pela Lei Complementar nº 1.133, de 19 de dezembro de 2025)",
+        "alineas": [],
+        "pag": 17,
+        "refs": [
+         {
+          "ini": 167,
+          "fim": 219,
+          "externo": "LC 1.133/2025",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art20_cpt_inc9",
+        "rotulo": "IX",
+        "num": 9,
+        "texto": "sugerir soluções de problemas identificados no âmbito das suas funções; e (Dispositivo incluído pela Lei Complementar nº 1.133, de 19 de dezembro de 2025)",
+        "alineas": [],
+        "pag": 17,
+        "refs": [
+         {
+          "ini": 101,
+          "fim": 153,
+          "externo": "LC 1.133/2025",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art20_cpt_inc10",
+        "rotulo": "X",
+        "num": 10,
+        "texto": "estimular a participação do cidadão na fiscalização e no planejamento dos serviços públicos. (Dispositivo incluído pela Lei Complementar nº 1.133, de 19 de dezembro de 2025) (Redação dada pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+        "alineas": [],
+        "pag": 17,
+        "refs": [
+         {
+          "ini": 120,
+          "fim": 172,
+          "externo": "LC 1.133/2025",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 16,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art20_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "O Ouvidor será nomeado pelo Governador do Estado dentre os nomes indicados em lista tríplice, elaborada pela Diretoria Colegiada, para mandato de 3 (três) anos, vedada sua recondução, e contará com estrutura administrativa compatível com suas atribuições e com espaço em canal de comunicação e divulgação institucional da Agência. (Redação dada pela Lei Complementar nº 1.133, de 19 de dezembro de 2025) 17 of 34 23/07/2026, 16:36",
+       "incisos": [],
+       "pag": 17,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "21",
+     "rotulo": "Art. 21",
+     "id": "art21",
+     "pag": 18,
+     "caput": {
+      "id": "art21_cpt",
+      "texto": "Os Diretores serão nomeados pelo Governador do Estado, com mandato de 5 (cinco) anos, sendo vedada a recondução. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [],
+      "pag": 18,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art21_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Os requisitos necessários para o provimento dos cargos de Diretor-Presidente e dos demais Diretores são os seguintes: (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [
+        {
+         "id": "art21_par1_inc1",
+         "rotulo": "I",
+         "num": 1,
+         "texto": "ser brasileiro;",
+         "alineas": [],
+         "pag": 18,
+         "refs": []
+        },
+        {
+         "id": "art21_par1_inc2",
+         "rotulo": "II",
+         "num": 2,
+         "texto": "ter reconhecida capacidade técnica e administrativa em suas respectivas áreas de atuação;",
+         "alineas": [],
+         "pag": 18,
+         "refs": []
+        },
+        {
+         "id": "art21_par1_inc3",
+         "rotulo": "III",
+         "num": 3,
+         "texto": "ter reputação ilibada e idoneidade moral;",
+         "alineas": [],
+         "pag": 18,
+         "refs": []
+        },
+        {
+         "id": "art21_par1_inc4",
+         "rotulo": "IV",
+         "num": 4,
+         "texto": "não ter relação de parentesco com dirigente, administrador, diretor, acionista, quotista ou conselheiro de empresa regulada, controlada ou fiscalizada pela ARSP;",
+         "alineas": [],
+         "pag": 18,
+         "refs": []
+        },
+        {
+         "id": "art21_par1_inc5",
+         "rotulo": "V",
+         "num": 5,
+         "texto": "apresentar declaração de bens;",
+         "alineas": [],
+         "pag": 18,
+         "refs": []
+        },
+        {
+         "id": "art21_par1_inc6",
+         "rotulo": "VI",
+         "num": 6,
+         "texto": "ter formação de nível superior completo, com competência gerencial reconhecida para o cargo indicado.",
+         "alineas": [],
+         "pag": 18,
+         "refs": []
+        }
+       ],
+       "pag": 18,
+       "refs": []
+      },
+      {
+       "id": "art21_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "O Diretor-Presidente, em suas faltas e impedimentos, será substituído por um dos Diretores, a ser designado pela Diretoria Colegiada, em caráter cumulativo. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020) -",
+       "incisos": [],
+       "pag": 18,
+       "refs": []
+      },
+      {
+       "id": "art21_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "Nos casos de renúncia, morte ou perda de mandato, proceder-se-á nova nomeação, para fins de complementar o período restante do mandato, admitida uma única recondução se tal prazo for igual ou inferior a 2 (dois) anos. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 18,
+       "refs": []
+      },
+      {
+       "id": "art21_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "Os Diretores da ARSP permanecerão no exercício de suas funções após o término de seu mandato até que seus sucessores sejam nomeados e empossados.",
+       "incisos": [],
+       "pag": 18,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo II",
+     "texto": "DA COMPETÊNCIA DA DIRETORIA COLEGIADA",
+     "pag": 18
+    },
+    {
+     "tipo": "artigo",
+     "num": "22",
+     "rotulo": "Art. 22",
+     "id": "art22",
+     "pag": 18,
+     "caput": {
+      "id": "art22_cpt",
+      "texto": "Compete à Diretoria Colegiada da ARSP:",
+      "incisos": [
+       {
+        "id": "art22_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "dirigir, coordenar e controlar os serviços; 18 of 34 23/07/2026, 16:36",
+        "alineas": [],
+        "pag": 18,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "apreciar e deliberar as normas de funcionamento;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "apreciar e aprovar os planos de trabalho e as propostas orçamentárias;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "baixar normas, regulamentos gerais e específicos, para a regulação, fiscalização e controle dos serviços públicos, no âmbito das suas atribuições;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "observadas as diretrizes desta Lei Complementar, aprovar níveis tarifários e homologar tarifas relativas aos serviços pertinentes, tendo como objetivo a modicidade das tarifas e o equilíbrio econômico-financeiro dos serviços regulados;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "deliberar sobre a prática dos atos delegados pelo Chefe do Poder Executivo, nos termos do art. 7º, inciso XVII, observadas as diretrizes do Poder Concedente; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 19,
+        "refs": [
+         {
+          "ini": 90,
+          "fim": 110,
+          "doc": "lc-827-2016",
+          "disp": "art7_cpt_inc17",
+          "art": "art7",
+          "conf": "exato"
+         }
+        ]
+       },
+       {
+        "id": "art22_cpt_inc7",
+        "rotulo": "VII",
+        "num": 7,
+        "texto": "moderar e dirimir conflitos de interesses, relativos ao objeto das concessões, permissões e autorizações, valendo-se do apoio de técnicos especificamente designados;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc8",
+        "rotulo": "VIII",
+        "num": 8,
+        "texto": "cobrar as taxas de regulação e de fiscalização dos serviços públicos regulados;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc9",
+        "rotulo": "IX",
+        "num": 9,
+        "texto": "aprovar o regimento interno e suas alterações, que deverá conter as normas de processo administrativo aplicáveis a todos os seus procedimentos decisórios, inclusive de apuração de infrações, observadas a legislação em vigor e, no caso de competência regulatória delegada, as leis e regulamentos do ente delegatário;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc10",
+        "rotulo": "X",
+        "num": 10,
+        "texto": "preparar concurso público de admissão no quadro funcional;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc11",
+        "rotulo": "XI",
+        "num": 11,
+        "texto": "apreciar sugestões emitidas pelo Conselho Consultivo;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc12",
+        "rotulo": "XII",
+        "num": 12,
+        "texto": "elaborar lista tríplice a ser encaminhada ao Governador do Estado, para a nomeação do Ouvidor;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc13",
+        "rotulo": "XIII",
+        "num": 13,
+        "texto": "indicar Diretores como representantes da ARSP em conselhos que dele participar;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc14",
+        "rotulo": "XIV",
+        "num": 14,
+        "texto": "exercer outras atividades afins.",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc15",
+        "rotulo": "XV",
+        "num": 15,
+        "texto": "aprovar os editais das licitações referentes às concessões dos serviços regulados. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 19,
+        "refs": [
+         {
+          "ini": 110,
+          "fim": 159,
+          "externo": "LC 954/2020",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 18,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "23",
+     "rotulo": "Art. 23",
+     "id": "art23",
+     "pag": 19,
+     "caput": {
+      "id": "art23_cpt",
+      "texto": "Após nomeação, os Diretores somente perderão os cargos antes do término do mandato em quaisquer das seguintes hipóteses, isolada ou cumulativamente:",
+      "incisos": [
+       {
+        "id": "art23_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "constatação que sua permanência no cargo possa comprometer a independência ou a integridade da ARSP, devidamente apurado em regular processo administrativo, assegurado o direito ao contraditório e à ampla defesa;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art23_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "condenação por prática de ato lesivo ao interesse e patrimônio público;",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art23_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "condenação por crime doloso; 19 of 34 23/07/2026, 16:36",
+        "alineas": [],
+        "pag": 19,
+        "refs": []
+       },
+       {
+        "id": "art23_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "condenação por improbidade administrativa;",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       },
+       {
+        "id": "art23_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "revogação da lei de criação da ARSP;",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       },
+       {
+        "id": "art23_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "renúncia.",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       }
+      ],
+      "pag": 19,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "24",
+     "rotulo": "Art. 24",
+     "id": "art24",
+     "pag": 20,
+     "caput": {
+      "id": "art24_cpt",
+      "texto": "(Revogado) (Dispositivo revogado pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [],
+      "pag": 20,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "25",
+     "rotulo": "Art. 25",
+     "id": "art25",
+     "pag": 20,
+     "caput": {
+      "id": "art25_cpt",
+      "texto": "À Direção Colegiada cabe a direção, supervisão e orientação da ação executiva e das gestões administrativa, financeira e patrimonial da ARSP, buscando os melhores métodos que assegurem a eficácia, economicidade e efetividade da ação operacional do órgão.",
+      "incisos": [],
+      "pag": 20,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo III",
+     "texto": "DO CONSELHO CONSULTIVO",
+     "pag": 20
+    },
+    {
+     "tipo": "artigo",
+     "num": "26",
+     "rotulo": "Art. 26",
+     "id": "art26",
+     "pag": 20,
+     "caput": {
+      "id": "art26_cpt",
+      "texto": "Compete ao Conselho Consultivo, sem prejuízo de outras atribuições, na função consultiva:",
+      "incisos": [
+       {
+        "id": "art26_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "opinar sobre o programa de trabalho da ARSP;",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       },
+       {
+        "id": "art26_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "(Revogado) (Dispositivo revogado pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       },
+       {
+        "id": "art26_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "apresentar proposições a respeito das matérias de competência da ARSP;",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       },
+       {
+        "id": "art26_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "acompanhar as atividades da ARSP, verificando o adequado cumprimento de suas competências;",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       },
+       {
+        "id": "art26_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "apreciar relatórios periódicos de atividades da ARSP elaboradas pela Diretoria Colegiada;",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       },
+       {
+        "id": "art26_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "eleger, dentre seus membros, o Secretário do Conselho, que não poderá ser Diretor da ARSP;",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       },
+       {
+        "id": "art26_cpt_inc7",
+        "rotulo": "VII",
+        "num": 7,
+        "texto": "examinar críticas, denúncias e sugestões feitas pelos usuários e, com base nas informações, fazer proposições à Diretoria;",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       },
+       {
+        "id": "art26_cpt_inc8",
+        "rotulo": "VIII",
+        "num": 8,
+        "texto": "tornar acessível ao público os seus atos normativos e decisões;",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       },
+       {
+        "id": "art26_cpt_inc9",
+        "rotulo": "IX",
+        "num": 9,
+        "texto": "opinar quanto aos critérios para fixação, revisão, ajuste e homologação de tarifas pertinentes;",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       },
+       {
+        "id": "art26_cpt_inc10",
+        "rotulo": "X",
+        "num": 10,
+        "texto": "aconselhar a Diretoria Colegiada quanto às atividades de regulação, controle e fiscalização. 20 of 34 23/07/2026, 16:36",
+        "alineas": [],
+        "pag": 20,
+        "refs": []
+       }
+      ],
+      "pag": 20,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art26_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "O Conselho Consultivo poderá, ainda, a critério da direção colegiada da ARSP, opinar sobre: (Parágrafo único transformado em § 1º e redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [
+        {
+         "id": "art26_par1_inc1",
+         "rotulo": "I",
+         "num": 1,
+         "texto": "a proposta da Diretoria Colegiada da ARSP referente à reestruturação administrativa;",
+         "alineas": [],
+         "pag": 21,
+         "refs": []
+        },
+        {
+         "id": "art26_par1_inc2",
+         "rotulo": "II",
+         "num": 2,
+         "texto": "o programa plurianual e a proposta orçamentária;",
+         "alineas": [],
+         "pag": 21,
+         "refs": []
+        },
+        {
+         "id": "art26_par1_inc3",
+         "rotulo": "III",
+         "num": 3,
+         "texto": "a prestação de contas;",
+         "alineas": [],
+         "pag": 21,
+         "refs": []
+        },
+        {
+         "id": "art26_par1_inc4",
+         "rotulo": "IV",
+         "num": 4,
+         "texto": "o relatório anual de atividades.",
+         "alineas": [],
+         "pag": 21,
+         "refs": []
+        }
+       ],
+       "pag": 21,
+       "refs": []
+      },
+      {
+       "id": "art26_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "Caberá ainda ao Conselho Consultivo apreciar, em último grau de recurso, as matérias decididas pela Diretoria Colegiada referente aos processos sancionatórios. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 21,
+       "refs": [
+        {
+         "ini": 187,
+         "fim": 236,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "27",
+     "rotulo": "Art. 27",
+     "id": "art27",
+     "pag": 21,
+     "caput": {
+      "id": "art27_cpt",
+      "texto": "O Conselho Consultivo, órgão da ARSP, terá a seguinte composição:",
+      "incisos": [
+       {
+        "id": "art27_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "o Diretor-Presidente da ARSP, que o presidirá, cabendo-lhe o voto de desempate; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 21,
+        "refs": []
+       },
+       {
+        "id": "art27_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "um representante da Secretaria de Estado de Saneamento, Habitação e Desenvolvimento Urbano – SEDURB;",
+        "alineas": [],
+        "pag": 21,
+        "refs": []
+       },
+       {
+        "id": "art27_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "um representante da Secretaria de Estado de Mobilidade e Infraestrutura - SEMOBI; (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+        "alineas": [],
+        "pag": 21,
+        "refs": []
+       },
+       {
+        "id": "art27_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "um representante da Secretaria de Estado de Desenvolvimento – SEDES;",
+        "alineas": [],
+        "pag": 21,
+        "refs": []
+       },
+       {
+        "id": "art27_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "um representante de um dos sindicatos que represente os trabalhadores de uma das atividades reguladas;",
+        "alineas": [],
+        "pag": 21,
+        "refs": []
+       },
+       {
+        "id": "art27_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "um representante dos usuários indicado pela Federação das Associações de Moradores e Movimentos Populares do Estado do Espírito Santo - FAMOPES.",
+        "alineas": [],
+        "pag": 21,
+        "refs": []
+       }
+      ],
+      "pag": 21,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art27_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Aplicam-se aos membros do Conselho Consultivo, no que couber, os requisitos de impedimentos, proibições e causas de extinção de mandatos previstos para os Diretores. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 21,
+       "refs": [
+        {
+         "ini": 193,
+         "fim": 242,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art27_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "Os conselheiros permanecerão no exercício de suas funções após o término de seu mandato até que seus sucessores sejam nomeados e empossados. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020) 21 of 34 23/07/2026, 16:36",
+       "incisos": [],
+       "pag": 21,
+       "refs": [
+        {
+         "ini": 168,
+         "fim": 217,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "28",
+     "rotulo": "Art. 28",
+     "id": "art28",
+     "pag": 22,
+     "caput": {
+      "id": "art28_cpt",
+      "texto": "Os membros do Conselho Consultivo exercerão função considerada serviço público de natureza relevante não remunerada e serão designados pelo Governador do Estado com mandatos de três anos, sendo vedada a sua recondução, devendo possuir reputação ilibada e idoneidade moral e capacidade em sua área de atuação.",
+      "incisos": [],
+      "pag": 22,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art28_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Na representação dos trabalhadores, haverá alternância periódica entre os sindicatos de uma das atividades reguladas.",
+       "incisos": [],
+       "pag": 22,
+       "refs": []
+      },
+      {
+       "id": "art28_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "O Conselheiro perderá o mandato em caso de ausência não justificada a 3 (três) sessões consecutivas ou a 5 (cinco) sessões alternadas por ano, depois de devido processo administrativo.",
+       "incisos": [],
+       "pag": 22,
+       "refs": []
+      },
+      {
+       "id": "art28_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "A ARSP propiciará a funcionalidade de uma Secretaria Geral do Conselho Consultivo através de quadro da autarquia, bem como poderá utilizar de recursos administrativos e financeiros próprios para o funcionamento dos mesmos, incluindo deslocamento e estadia para viabilizar comparecimento dos conselheiros que não sejam de órgãos governamentais.",
+       "incisos": [],
+       "pag": 22,
+       "refs": []
+      },
+      {
+       "id": "art28_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "O Conselho deverá elaborar regimento interno próprio, a ser aprovado em conjunto com a Direção Colegiada da ARSP, visando detalhar suas atividades dentro do disposto nesta Lei Complementar.",
+       "incisos": [],
+       "pag": 22,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo IV",
+     "texto": "DAS TAXAS",
+     "pag": 22
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "."
+     ],
+     "pag": 22,
+     "refs_linhas": {
+      "0": []
+     }
+    },
+    {
+     "tipo": "artigo",
+     "num": "29",
+     "rotulo": "Art. 29",
+     "id": "art29",
+     "pag": 22,
+     "caput": {
+      "id": "art29_cpt",
+      "texto": "Fica a ARSP autorizada a cobrar as Taxas de Regulação e Fiscalização instituídas pelo art. 28 da Lei Complementar nº 477, de 2008, alterado pelas Leis Complementares nº 512, de 2009, e nº 525, de 24 de dezembro de 2009, art. 10 da Lei nº 7.860, de 2004, e art. 29-A desta Lei Complementar. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [],
+      "pag": 22,
+      "refs": [
+       {
+        "ini": 86,
+        "fim": 129,
+        "externo": "LC 477/2008",
+        "url": null,
+        "conf": "externo"
+       },
+       {
+        "ini": 220,
+        "fim": 252,
+        "externo": "Lei 7.860/2004",
+        "url": null,
+        "conf": "externo"
+       },
+       {
+        "ini": 256,
+        "fim": 288,
+        "doc": "lc-827-2016",
+        "disp": "art29a",
+        "art": "art29a",
+        "conf": "exato"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "29-A",
+     "rotulo": "Art. 29-A",
+     "id": "art29a",
+     "pag": 22,
+     "caput": {
+      "id": "art29a_cpt",
+      "texto": "Fica criada a Taxa de Regulação e Fiscalização do Serviço Público de Mobilidade Urbana - TRM, cujo fato gerador é o desempenho pela ARSP da atividade de regulação, controle e fiscalização dos serviços públicos de mobilidade urbana delegados pela SEMOBI e definidos nesta Lei Complementar, e cujos sujeitos passivos são os prestadores e concessionários dos serviços públicos regulados, controlados e fiscalizados pela ARSP. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [],
+      "pag": 22,
+      "refs": [
+       {
+        "ini": 450,
+        "fim": 499,
+        "externo": "LC 954/2020",
+        "url": null,
+        "conf": "externo"
+       }
+      ]
+     },
+     "paragrafos": [
+      {
+       "id": "art29a_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "A Taxa de Regulação e Fiscalização do Serviço Público de Mobilidade Urbana será de 2% (dois por cento) do faturamento anual da concessionária por contrato de concessão, diretamente obtido com a prestação do serviço, deduzidos, nos termos da legislação pertinente, os seguintes tributos: (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [
+        {
+         "id": "art29a_par1_inc1",
+         "rotulo": "I",
+         "num": 1,
+         "texto": "contribuições para o PIS/Pasep; 22 of 34 23/07/2026, 16:36",
+         "alineas": [],
+         "pag": 22,
+         "refs": []
+        },
+        {
+         "id": "art29a_par1_inc2",
+         "rotulo": "II",
+         "num": 2,
+         "texto": "contribuições para o Financiamento da Seguridade Social - COFINS; e",
+         "alineas": [],
+         "pag": 23,
+         "refs": []
+        },
+        {
+         "id": "art29a_par1_inc3",
+         "rotulo": "III",
+         "num": 3,
+         "texto": "Imposto Sobre Serviços de Qualquer Natureza - ISSQN.",
+         "alineas": [],
+         "pag": 23,
+         "refs": []
+        }
+       ],
+       "pag": 22,
+       "refs": [
+        {
+         "ini": 146,
+         "fim": 167,
+         "externo": "Contrato de Concessão",
+         "url": null,
+         "conf": "externo"
+        },
+        {
+         "ini": 314,
+         "fim": 363,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art29a_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "Para efeito do disposto no § 1º, o valor do faturamento anual corresponderá à receita operacional bruta relativa ao último exercício encerrado, tal como apurada nas demonstrações contábeis. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 23,
+       "refs": [
+        {
+         "ini": 27,
+         "fim": 31,
+         "doc": "lc-827-2016",
+         "disp": "art29a_par1",
+         "art": "art29a",
+         "conf": "exato"
+        },
+        {
+         "ini": 217,
+         "fim": 266,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art29a_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "Caso o valor da receita operacional de que trata o § 2º seja apurado pelo sujeito passivo no decorrer do exercício em que deva ser feito o recolhimento do tributo, será este provisoriamente calculado com base em estimativa do prestador de serviço, cumprindo-lhe, após a apuração da base de cálculo, proceder ao respectivo ajuste quando do pagamento da última parcela devida no ano. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 23,
+       "refs": [
+        {
+         "ini": 51,
+         "fim": 55,
+         "doc": "lc-827-2016",
+         "disp": "art29a_par2",
+         "art": "art29a",
+         "conf": "exato"
+        },
+        {
+         "ini": 409,
+         "fim": 458,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art29a_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "A Taxa de Regulação e Fiscalização será recolhida diretamente à ARSP, até o 10º (décimo) dia útil do mês subsequente ao de sua apuração. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 23,
+       "refs": [
+        {
+         "ini": 164,
+         "fim": 213,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art29a_par5",
+       "rotulo": "§ 5º",
+       "num": 5,
+       "texto": "O não recolhimento da Taxa de Regulação e Fiscalização, no prazo fixado no caput, implicará multa de 10% (dez por cento) e juros de 1% (um por cento), por mês ou fração, e incidência de atualização monetária, na forma da legislação em vigor. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 23,
+       "refs": [
+        {
+         "ini": 269,
+         "fim": 318,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art29a_par6",
+       "rotulo": "§ 6º",
+       "num": 6,
+       "texto": "Incidirá multa de 100% (cem por cento) sobre o valor da Taxa de Regulação e Fiscalização, cobrável executivamente, no caso de adulteração, falsificação ou fraude na apuração ou na emissão das respectivas guias de recolhimento. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 23,
+       "refs": [
+        {
+         "ini": 254,
+         "fim": 303,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art29a_par7",
+       "rotulo": "§ 7º",
+       "num": 7,
+       "texto": "Para novas concessões, os valores da taxa a serem recolhida no 10º (décimo) dia do mês do início da prestação dos serviços, serão calculados no 1º (primeiro) ano da concessão, tendo por base a estimativa de receita apresentada pelo prestador de serviço para os primeiros 12 (doze) meses, com base na proposta de concessão. (Dispositivo incluído pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 23,
+       "refs": [
+        {
+         "ini": 350,
+         "fim": 399,
+         "externo": "LC 954/2020",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "29-B",
+     "rotulo": "Art. 29-B",
+     "id": "art29b",
+     "pag": 23,
+     "caput": {
+      "id": "art29b_cpt",
+      "texto": "Ficam incluídos na Taxa de Regulação e de Fiscalização do Serviço Público de Saneamento Básico - TRS os serviços de abastecimento de água, esgotamento sanitário e limpeza urbana e manejo de resíduos sólidos, cujo fato gerador é o desempenho pela ARSP da atividade de regulação, controle e fiscalização de tais serviços públicos. (Dispositivo incluído pela Lei Complementar nº 1.057, de 7 de novembro de 2023)",
+      "incisos": [],
+      "pag": 23,
+      "refs": [
+       {
+        "ini": 356,
+        "fim": 407,
+        "externo": "LC 1.057/2023",
+        "url": null,
+        "conf": "externo"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Título",
+     "rotulo": "Título III",
+     "texto": "DISPOSIÇÕES FINAIS E TRANSITÓRIAS",
+     "pag": 23
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "23 of 34 23/07/2026, 16:36 km 67,5, no trevo de chegada à Praia de Meaípe, em Guarapari), opinar e decidir"
+     ],
+     "pag": 23,
+     "refs_linhas": {
+      "0": []
+     }
+    },
+    {
+     "tipo": "artigo",
+     "num": "30",
+     "rotulo": "Art. 30",
+     "id": "art30",
+     "pag": 24,
+     "caput": {
+      "id": "art30_cpt",
+      "texto": "Quanto à regulação tarifária dos serviços públicos descritos no art. 4º desta Lei Complementar, caberá a ARSP analisar, opinar e decidir sobre tarifa, reajustes anuais e revisões tarifárias, de forma a garantir a estabilidade e a segurança dos negócios existentes. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [],
+      "pag": 24,
+      "refs": [
+       {
+        "ini": 64,
+        "fim": 94,
+        "doc": "lc-827-2016",
+        "disp": "art4",
+        "art": "art4",
+        "conf": "exato"
+       }
+      ]
+     },
+     "paragrafos": [
+      {
+       "id": "art30_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "A regulação tarifária de que trata este artigo deve ser analisada a cada 5 (cinco) anos, de forma a garantir a estabilidade e a segurança dos negócios existentes. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+       "incisos": [],
+       "pag": 24,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "31",
+     "rotulo": "Art. 31",
+     "id": "art31",
+     "pag": 24,
+     "caput": {
+      "id": "art31_cpt",
+      "texto": "A política tarifária deverá garantir o equilíbrio econômico e financeiro dos entes regulados na prestação do serviço regionalizado, bem como dos contratos de concessão dos serviços públicos regulados. (Redação dada pela Lei Complementar nº 954, de 2 de setembro de 2020)",
+      "incisos": [],
+      "pag": 24,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "32",
+     "rotulo": "Art. 32",
+     "id": "art32",
+     "pag": 24,
+     "caput": {
+      "id": "art32_cpt",
+      "texto": "A assessoria jurídica da ARSP será exercida pela Procuradoria Geral do Estado, a quem competirá a representação judicial e extrajudicial da autarquia.",
+      "incisos": [],
+      "pag": 24,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "33",
+     "rotulo": "Art. 33",
+     "id": "art33",
+     "pag": 24,
+     "caput": {
+      "id": "art33_cpt",
+      "texto": "As atribuições específicas conferidas em legislação especial à ARSI e à ASPE passarão à ARSP.",
+      "incisos": [],
+      "pag": 24,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "34",
+     "rotulo": "Art. 34",
+     "id": "art34",
+     "pag": 24,
+     "caput": {
+      "id": "art34_cpt",
+      "texto": "Ficam transferidos para os setores próprios da ARSP o acervo dos bens móveis e imóveis, os materiais de consumo, os programas e projetos, os contratos, convênios, ajustes e obrigações da ARSI e da ASPE.",
+      "incisos": [],
+      "pag": 24,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "35",
+     "rotulo": "Art. 35",
+     "id": "art35",
+     "pag": 24,
+     "caput": {
+      "id": "art35_cpt",
+      "texto": "Ficam transferidos para a ARSP os cargos de provimento efetivo da ARSI e da ASPE.",
+      "incisos": [],
+      "pag": 24,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "36",
+     "rotulo": "Art. 36",
+     "id": "art36",
+     "pag": 24,
+     "caput": {
+      "id": "art36_cpt",
+      "texto": "A representação gráfica da estrutura organizacional básica da ARSP é a constante do ANEXO I desta Lei Complementar.",
+      "incisos": [],
+      "pag": 24,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "37",
+     "rotulo": "Art. 37",
+     "id": "art37",
+     "pag": 24,
+     "caput": {
+      "id": "art37_cpt",
+      "texto": "Ficam transferidos e transformados os cargos de provimento em comissão, com suas nomenclaturas, referências, quantitativos e valores, da ARSI e da ASPE para a ARSP, constantes do ANEXO II que integra esta Lei Complementar.",
+      "incisos": [],
+      "pag": 24,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "38",
+     "rotulo": "Art. 38",
+     "id": "art38",
+     "pag": 24,
+     "caput": {
+      "id": "art38_cpt",
+      "texto": "Ficam extintos os cargos de provimento em comissão da ARSI e da ASPE constantes do ANEXO III desta Lei Complementar.",
+      "incisos": [],
+      "pag": 24,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "39",
+     "rotulo": "Art. 39",
+     "id": "art39",
+     "pag": 24,
+     "caput": {
+      "id": "art39_cpt",
+      "texto": "Fica o Poder Executivo autorizado a promover as alterações no PPA para o quadriênio 2016-2019 e na LOA de 2016 e a abrir os créditos adicionais necessários ao cumprimento desta Lei Complementar. 24 of 34 23/07/2026, 16:36",
+      "incisos": [],
+      "pag": 24,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "40",
+     "rotulo": "Art. 40",
+     "id": "art40",
+     "pag": 25,
+     "caput": {
+      "id": "art40_cpt",
+      "texto": "Esta Lei Complementar entra em vigor após decorridos sessenta dias de sua publicação e poderá ser regulamentada pelo Poder Executivo, nos aspectos julgados necessários à sua melhor aplicabilidade.",
+      "incisos": [],
+      "pag": 25,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "41",
+     "rotulo": "Art. 41",
+     "id": "art41",
+     "pag": 25,
+     "caput": {
+      "id": "art41_cpt",
+      "texto": "Ficam revogadas a Lei Complementar nº 477, de 29 de dezembro de 2008, exceto o art. 28; a Lei Complementar nº 512, de 04 de dezembro de 2009, e a Lei nº 7.860, de 24 de setembro de 2004, exceto o art. 10.",
+      "incisos": [],
+      "pag": 25,
+      "refs": [
+       {
+        "ini": 18,
+        "fim": 68,
+        "externo": "LC 477/2008",
+        "url": null,
+        "conf": "externo"
+       },
+       {
+        "ini": 79,
+        "fim": 86,
+        "externo": "LC 477/2008",
+        "url": null,
+        "conf": "externo"
+       },
+       {
+        "ini": 90,
+        "fim": 140,
+        "externo": "LC 512/2009",
+        "url": null,
+        "conf": "externo"
+       },
+       {
+        "ini": 146,
+        "fim": 185,
+        "externo": "Lei 7.860/2004",
+        "url": null,
+        "conf": "externo"
+       },
+       {
+        "ini": 196,
+        "fim": 203,
+        "externo": "Lei 7.860/2004",
+        "url": null,
+        "conf": "externo"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "Palácio Anchieta, em Vitória, 30 de junho de 2016.",
+      "PAULO CESAR HARTUNG GOMES Governador do Estado 25 of 34 23/07/2026, 16:36 26 of 34 23/07/2026, 16:36 27 of 34 23/07/2026, 16:36"
+     ],
+     "pag": 25,
+     "fecho": true,
+     "refs_linhas": {
+      "0": [],
+      "1": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "anx2",
+   "rotulo": "Anexo II – (a que se refere o art. 37)",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "linhas": [
+      "CARGOS DE PROVIMENTO EM COMISSÃO",
+      "TRANSFERIDOS – DA ASPE E DA ARSI TRANSFORMADOS -",
+      "NOMENCLATURA REF. QUANT",
+      "VALOR EM R$",
+      "NOMENCLATURA REF. QUAN",
+      "UNIT TOTAL",
+      "Diretor Geral",
+      "(ARSI)",
+      "AR-01 01 8.887,32 8.887,32 Diretor Geral QCE-01 01",
+      "Diretor Técnico",
+      "(ARSI)",
+      "AR-02 01 7.520,04 7.520,04",
+      "Diretor de Regulação",
+      "do Saneamento Básico",
+      "e Infraestrutura Viária",
+      "QCE-02 01",
+      "Diretor Administrativo",
+      "e Financeiro",
+      "(ARSI)",
+      "AR-02 01 7.520,04 7.520,04",
+      "Diretor Administrativo",
+      "e Financeiro",
+      "QCE-02 01",
+      "Diretor Técnico",
+      "(ASPE)",
+      "QCE-02 01 7.520,04 7.520,04",
+      "Diretor de Regulação",
+      "de Gás e Energia",
+      "QCE-02 01",
+      "Diretor Administrativo",
+      "e Financeiro",
+      "(ASPE)",
+      "QCE-02 01 7.520,04 7.520,04",
+      "Assessor Especial",
+      "Nível IV",
+      "QCE-03 01",
+      "Gerente",
+      "(ASPE)",
+      "AE-03 04 3.443,88 13.775,52",
+      "Gerente ARS-01 04",
+      "Gerente",
+      "(ARSI)",
+      "AR-03 01 4.591,82 4.591,82",
+      "Ouvidor",
+      "(ARSI)",
+      "AR-03 01 4.591,82 4.591,82 Ouvidor ARS-01 01",
+      "Assessor Especial",
+      "(ARSI)",
+      "AR-03 03 4.591,82 13.775,46 Assessor Especial ARS-01 03",
+      "TOTAL GERAL 14 75.702,10 TOTAL GERAL 13",
+      "(Lei Complementar nº 1.057, de 7 de novembro de 2023, criou cargos para a AR",
+      "CARGOS DE PROVIMENTO EM COMISSÃO CRIADOS",
+      "NOMENCLATURA REF. QUANT. VALOR UNITÁRIO (R$) VALOR",
+      "Diretor QCE-02 1 9.095,88 9.095,88",
+      "Gerente ARS-01 4 5.554,05 22.216,2",
+      "Assessor Especial Nível IV QCE-03 2 6.615,20 13.230,4",
+      "Subgerente ARS-03 2 2.777,03 5.554,06",
+      "TOTAL GERAL 9 - 50.096,5",
+      "FUNÇÕES GRATIFICADAS CRIADAS",
+      "NOMENCLATURA REF. QUANT. VALOR UNITÁRIO (R$) VALOR",
+      "Coordenador de",
+      "Regulação",
+      "FG-CR 5 3.225,05 16.125,2",
+      "TOTAL GERAL 5 - 16.125,2",
+      "Atribuição sumária da função",
+      "I - coordenar a elaboração e a execução dos planos de trabalho, programas e projetos relativo",
+      "regulação;",
+      "II - coordenar a elaboração de normas técnicas e regulamentos para regular o mercado e disc",
+      "dos serviços públicos regulados;",
+      "III - coordenar o planejamento de ações de fiscalização de alta complexidade;",
+      "IV - coordenar a fiscalização da prestação dos serviços regulados;",
+      "V - coordenar o desenvolvimento de estudos técnicos para subsidiar a atuação da Agência R",
+      "atividade fim, em especial com vistas à regulação técnica e econômico-financeira;",
+      "VI - coordenar a execução de outras atividades inerentes ao exercício da competência da ARS",
+      "32 of 34 23/07/2026, 16:36",
+      "33 of 34 23/07/2026, 16:36"
+     ],
+     "pag": 29,
+     "refs_linhas": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": [],
+      "10": [],
+      "11": [],
+      "12": [],
+      "13": [],
+      "14": [],
+      "15": [],
+      "16": [],
+      "17": [],
+      "18": [],
+      "19": [],
+      "20": [],
+      "21": [],
+      "22": [],
+      "23": [],
+      "24": [],
+      "25": [],
+      "26": [],
+      "27": [],
+      "28": [],
+      "29": [],
+      "30": [],
+      "31": [],
+      "32": [],
+      "33": [],
+      "34": [],
+      "35": [],
+      "36": [],
+      "37": [],
+      "38": [],
+      "39": [],
+      "40": [],
+      "41": [],
+      "42": [],
+      "43": [],
+      "44": [],
+      "45": [],
+      "46": [],
+      "47": [],
+      "48": [],
+      "49": [],
+      "50": [
+       {
+        "ini": 1,
+        "fim": 52,
+        "externo": "LC 1.057/2023",
+        "url": null,
+        "conf": "externo"
+       }
+      ],
+      "51": [],
+      "52": [],
+      "53": [],
+      "54": [],
+      "55": [],
+      "56": [],
+      "57": [],
+      "58": [],
+      "59": [],
+      "60": [],
+      "61": [],
+      "62": [],
+      "63": [],
+      "64": [],
+      "65": [],
+      "66": [],
+      "67": [],
+      "68": [],
+      "69": [],
+      "70": [],
+      "71": [],
+      "72": [],
+      "73": [],
+      "74": [],
+      "75": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "anx3",
+   "rotulo": "Anexo III – (a que se refere o art. 38)",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "linhas": [
+      "CARGOS DE PROVIMENTO EM COMISSÃO - EXTINTOS",
+      "ÓRGÃO NOMENCLATURA REF. QUANT.",
+      "VALOR",
+      "UNIT TOTAL",
+      "ARSI Gerente AR-03 01 4.591,82 4.591,82",
+      "ASPE",
+      "Ouvidor AE-04 01 2.295,92 2.295,92",
+      "Chefe de Gabinete AE-05 01 1.408,45 1.408,45",
+      "Secretária Sênior AE-06 01 841,84 841,84",
+      "Motorista AE-07 01 582,80 582,80",
+      "Diretor Geral QCE-01 01 8.887,32 8.887,32",
+      "Assistente de",
+      "Gerência",
+      "AE-05 04 1.408,45 5.633,80",
+      "TOTAL GERAL 10 24.241,95",
+      "34 of 34 23/07/2026, 16:36"
+     ],
+     "pag": 34,
+     "refs_linhas": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": [],
+      "8": [],
+      "9": [],
+      "10": [],
+      "11": [],
+      "12": [],
+      "13": [],
+      "14": [],
+      "15": []
+     }
+    }
+   ]
+  }
+ ],
+ "avisos": []
+}

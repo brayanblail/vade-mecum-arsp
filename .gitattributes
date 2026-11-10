@@ -1,0 +1,5 @@
+# Guarda texto com LF no repositório, para que rodar o pipeline no Windows
+# ou no Linux não marque todos os arquivos gerados como alterados.
+* text=auto
+*.pdf binary
+*.xlsx binary

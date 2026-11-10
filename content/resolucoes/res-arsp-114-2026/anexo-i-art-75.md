@@ -1,0 +1,23 @@
+---
+title: "Res. ARSP 114/2026 · Anexo I, Art. 75"
+tags:
+  - dispositivo
+  - res-arsp-114-2026
+documento: res-arsp-114-2026
+pagina_pdf: 30
+---
+
+**Art. 75** Os valores dos serviços correlatos e acessórios, bem como das taxas cobradas dos interessados ou dos Usuários, são estabelecidos pela ARSP e atualizados anualmente pelo IGP- M. ^cpt
+
+**§ 1º** A cobrança dos serviços previstos neste Artigo é facultativa e só pode ser feita em contrapartida de serviço efetivamente prestado pela Concessionária. ^par1
+
+**§ 2º** A cobrança de qualquer serviço obriga a Concessionária a implantá-lo em toda a sua área de Concessão, para todos os Usuários. ^par2
+
+**§ 3º** As taxas e os valores cobrados pela Concessionária relativos aos serviços correlatos à prestação dos serviços de distribuição de Gás devem ser previamente aprovados pela ARSP. ^par3
+
+**§ 4º** As taxas e os valores a serem cobrados pela Concessionária relativos aos serviços acessórios à prestação dos serviços de distribuição de Gás devem ser homologados pela ARSP. ^par4
+
+**§ 5º** As receitas e os custos operacionais relativos a esses serviços deverão ser contabilizados pela concessionária e apresentados à ARSP na prestação de contas anual. ^par5
+
+---
+[[resolucoes/res-arsp-114-2026/index|Res. ARSP 114/2026]] · [PDF, pág. 30](../../pdf/res-arsp-114-2026.pdf#page=30)

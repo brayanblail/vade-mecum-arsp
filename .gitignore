@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Quartz clonado dentro da pasta (o site é montado fora do repositório)
+quartz-arsp/
+node_modules/
+
+# Obsidian: estado local do cofre aberto em content/
+content/.obsidian/workspace*.json
+content/.trash/
+
+# Claude Code: configurações locais
+.claude/settings.local.json
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store

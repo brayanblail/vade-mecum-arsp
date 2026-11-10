@@ -1,0 +1,2066 @@
+{
+ "id": "res-arsp-048-2021",
+ "sigla": "Res. ARSP 048/2021",
+ "tipo": "resolucao",
+ "orgao": "ARSP",
+ "numero": "48",
+ "ano": "2021",
+ "data": "2021-06-16",
+ "grupo": "Resoluções",
+ "arquivo": "2021-06-16 - RES ARSP 048-2021 - Infracoes, penalidades e processo sancionador.pdf",
+ "titulo": "Define infrações, penalidades e as regras do processo sancionador à prestadora de serviços públicos de distribuição de gás canalizado no Estado do Espírito Santo e dá outras providências.",
+ "situacao": "Vigente",
+ "observacao": "Texto obtido por OCR (a camada de texto do PDF original está corrompida). Em caso de dúvida, vale o PDF.",
+ "link_oficial": "https://arsp.es.gov.br/Media/arsi/Legisla%C3%A7%C3%A3o/Resolu%C3%A7%C3%B5es%20G%C3%A1s%20Natural/ARSP/2021/ResolucaoARSPn048_2021.pdf",
+ "ocr": "sim",
+ "alvo_padrao": "",
+ "relacoes": "",
+ "partes": [
+  {
+   "id": "corpo",
+   "rotulo": "Texto da norma",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "linhas": [
+      "RESOLUÇÃO ARSP Nº 048, DE 16JUNHO DE 2021.",
+      "Define infrações penalidades e as regras do processosancionador a prestadora de serviços públicos de distribuição de gás canalizado no Estado do Espírito Santo e dá outras providências.",
+      "A Diretoria Colegiada da Agência de Regulação dos Serviços Públicos do Estado do EspíritoSanto - ARSP, no uso de suas atribuições legais, bem como no disposto nos incisos III e XIII do artigo 7º, e no artigo 18 da Lei Complementar Estadual nº 827, de 01 de julho de 2016,assim como no constante no processo administrativo ARSP nº 2021- K3XCD.",
+      "CONSIDERANDO que a ação fiscalizadora da ARSP visará, primordialmente, à educação eorientação dos agentes do setor de distribuição de gás canalizado, à prevenção decondutas violadoras da Lei e dos contratos, com os propósitos de garantir serviços eficientes ede qualidade aos usuários;",
+      "CONSIDERANDO que compete a ARSP, no âmbito de suas atribuições de fiscalização dosserviços de distribuição de gás canalizado, a apuração de infrações e a aplicação depenalidades;",
+      "CONSIDERANDO que as regras sobre as infrações praticadas pelas prestadoras de serviço eas respectivas penalidades constituem instrumento essencial de regulação e fiscalização, sejapara estimular a qualidade dos serviços, seja para punir as irregularidades verificadas;",
+      "CONSIDERANDO que, para definir as infrações, utilizou-se como base o contrato de concessão dos serviços públicos de distribuição de gás canalizado, com enfoque na parcela técnico operacional;",
+      "CONSIDERANDO a necessidade de se estabelecer procedimento específico para aplicaçãode penalidades de competência da ARSP;",
+      "CONSIDERANDO a necessidade de se estabelecer critérios para definição do valor dasmultas a serem aplicadas pela fiscalização dos infratores;",
+      "CONSIDERANDO que a ARSP, em Consulta Pública Nº 003/2021, que esteve disponível de 19 de abril de 2021 a 17 de maio de 2021, submeteu à apreciação e contribuições da sociedade, a Nota Técnica Conjunta GGN/ASTA] N2001/2021 e minuta de Resolução.",
+      "RESOLVE"
+     ],
+     "pag": 1,
+     "refs_linhas": {
+      "0": [],
+      "1": [],
+      "2": [
+       {
+        "ini": 163,
+        "fim": 194,
+        "doc": "lc-827-2016",
+        "disp": "art7_cpt_inc3",
+        "art": "art7",
+        "conf": "exato",
+        "alvos": [
+         "art7_cpt_inc3",
+         "art7_cpt_inc13"
+        ],
+        "arts": [
+         "art7",
+         "art7"
+        ],
+        "spans": [
+         [
+          171,
+          174
+         ],
+         [
+          177,
+          181
+         ]
+        ]
+       },
+       {
+        "ini": 201,
+        "fim": 270,
+        "doc": "lc-827-2016",
+        "disp": "art18",
+        "art": "art18",
+        "conf": "exato"
+       }
+      ],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": [
+       {
+        "ini": 69,
+        "fim": 90,
+        "externo": "Contrato de Concessão",
+        "url": null,
+        "conf": "externo"
+       }
+      ],
+      "7": [],
+      "8": [],
+      "9": [],
+      "10": []
+     }
+    },
+    {
+     "tipo": "artigo",
+     "num": "1",
+     "rotulo": "Art. 1º",
+     "id": "art1",
+     "pag": 1,
+     "caput": {
+      "id": "art1_cpt",
+      "texto": "Definir infrações e estabelecer as penalidades e as regras do processo sancionador a prestadora de serviços públicos de distribuição de gás canalizado concedidos, permitidos ou autorizados, no âmbito do Estado do Espírito Santo.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art1_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "As penalidades previstas nesta Resolução serão aplicadas sem prejuízo dasdemais sanções administrativas específicas, definidas na legislação vigente, incluindo normaseditadas ou homologadas pela ARSP, desde que não impliquem em mais de uma sanção parauma mesma infração. TÍTULO | DAS DEFINIÇÕES, INFRAÇÕES E PENALIDADES",
+       "incisos": [],
+       "pag": 2,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo I",
+     "texto": "Das definições",
+     "pag": 2
+    },
+    {
+     "tipo": "artigo",
+     "num": "2",
+     "rotulo": "Art. 2º",
+     "id": "art2",
+     "pag": 2,
+     "caput": {
+      "id": "art2_cpt",
+      "texto": "Para efeito de interpretação desta Resolução, entende-se por:",
+      "incisos": [
+       {
+        "id": "art2_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "ARSP: Agência de Regulação dos Serviços Públicos do Estado do EspiritoSanto; IH — Conformidade: refere-se a um procedimento ou fato, proveniente de ações da prestadorade serviço que se encontra de acordo com os dispositivos legais que regulamentam aConcessão, Permissão ou Autorização, satisfazendo as condições de regularidade, continuidade, eficiência, segurança,atualidade, generalidade, cortesia na sua prestação e modicidade de tarifas, e em obediênciacom as normas técnicas, os procedimentos e as instruções que são adotados como boaprática pelo setor e pela própria prestadora de serviço; III — Determinação: corresponde a uma ação emanada da agência reguladora e que deve ser cumprida pela prestadora, no prazo especificado; IV — Infração: descumprimento por parte da prestadora das regras constantes no conjunto de normas legais, regulamentares, contratuais e pactuadas; V — Não Conformidade: procedimento ou fato proveniente de ações da prestadora que se encontra em desacordo com os dispositivos legais, regulamentares, contratuais e/ou normas técnicas; VI — Penalidade: ato administrativo imputado à prestadora quando esta comete uma infração; VII — Recomendação: medida adicional a ser adotada pela Prestadora, quando for aconselhável ajuste em sua conduta ou na prestação dos serviços, que não resulte de não-conformidade; VIII — Serviço público de distribuição de gás canalizado: serviço público atribuído pela Constituição Federal aos Estados membros, sujeito à regulação estadual, consistente na distribuição do gás canalizado aos seus usuários, com o objetivo de assegurar as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade nas tarifas; IX -TAC - Termo de Ajustamento de Conduta: Termo firmado entre a Diretoria Colegiada da ARSP e a prestadora de serviço para correção de irregularidades e pendências; X — Usuário: pessoa física ou jurídica que utilizaos serviços públicosde distribuição de gás canalizado; XI- Unidade Usuária: imóvel onde se dá o recebimento de Gás, podendo ser individual ou coletivo.",
+        "alineas": [],
+        "pag": 2,
+        "refs": [
+         {
+          "ini": 1426,
+          "fim": 1446,
+          "externo": "Constituição Federal",
+          "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:constituicao:1988-10-05;1988",
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 2,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo II",
+     "texto": "Das infrações e penalidades",
+     "pag": 3
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção I",
+     "texto": "Das disposições gerais",
+     "pag": 3
+    },
+    {
+     "tipo": "artigo",
+     "num": "3",
+     "rotulo": "Art. 3º",
+     "id": "art3",
+     "pag": 3,
+     "caput": {
+      "id": "art3_cpt",
+      "texto": "As infrações às disposições desta Resolução, bem como às normas legais aplicáveis,sujeitarão o infrator, conforme a sua natureza, às seguintes penalidades:",
+      "incisos": [
+       {
+        "id": "art3_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Advertência;",
+        "alineas": [],
+        "pag": 3,
+        "refs": []
+       },
+       {
+        "id": "art3_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "Multa, simples ou diária;",
+        "alineas": [],
+        "pag": 3,
+        "refs": []
+       },
+       {
+        "id": "art3_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "Caducidade.",
+        "alineas": [],
+        "pag": 3,
+        "refs": []
+       }
+      ],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art3_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Para fins de fixação da pena em concreto, a ARSP, durante todo o curso do processosancionatório e sem prejuízo para os limites estabelecidos em cada grupo de sanções, deveráatentar-se para as circunstâncias do caso concreto, observando os postulados darazoabilidade e da proporcionalidade de modo a considerar, por exemplo, o grau deculpabilidade e a reprovabilidade da conduta empreendida pela prestadora de serviço, aocorrência de eventual má-fé, a natureza, a gravidade e a extensão da infração cometida, osdanos que dela provierem para o titular dos serviços ou para seus usuários, o seucomportamento pretérito e as medidas adotadas para minimizar eventual dano, o proveitopatrimonial eventualmente auferido, dentre outros critérios hábeis à dosimetriada sanção.",
+       "incisos": [],
+       "pag": 3,
+       "refs": []
+      },
+      {
+       "id": "art3_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "As penalidades previstas neste artigo somente serão aplicadas após comunicação aprestadora de serviço por meio de Termo de Notificação, nos termos do artigo 19 destaResolução.",
+       "incisos": [],
+       "pag": 3,
+       "refs": [
+        {
+         "ini": 150,
+         "fim": 174,
+         "doc": "res-arsp-048-2021",
+         "disp": "art19",
+         "art": "art19",
+         "conf": "exato"
+        }
+       ]
+      },
+      {
+       "id": "art3_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "A aplicação de sanção pela ARSP não exime a prestadora de serviço de efetuar as açõesque visem ao cumprimento das medidas necessárias à regularização das não conformidadesconstatadas, bem como à reparação dos efeitos sobrevindos das infrações.",
+       "incisos": [],
+       "pag": 3,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "4",
+     "rotulo": "Art. 4º",
+     "id": "art4",
+     "pag": 3,
+     "caput": {
+      "id": "art4_cpt",
+      "texto": "Na hipótese de ocorrência concomitante de mais de uma infração, as penalidades correspondentes a cada uma delas poderão ser aplicadas simultânea e cumulativamente.",
+      "incisos": [],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "5",
+     "rotulo": "Art. 5º",
+     "id": "art5",
+     "pag": 4,
+     "caput": {
+      "id": "art5_cpt",
+      "texto": "Verifica-se a reincidência quando a prestadora de serviço comete nova infraçãoidêntica à qual se aplicou penalidade anterior em caráter definitivo.",
+      "incisos": [],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art5_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Consideram-se idênticas as infrações que tenham sido objetivamente descritas nomesmo dispositivo desta Resolução.",
+       "incisos": [],
+       "pag": 4,
+       "refs": []
+      },
+      {
+       "id": "art5_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "A penalidade em caráter definitivo será assim considerada a partir da data em que nãocouber recurso acerca da decisão final da ARSP, ainda que seja possível a interposição depedido de revisão previsto no artigo 34.",
+       "incisos": [],
+       "pag": 4,
+       "refs": [
+        {
+         "ini": 204,
+         "fim": 213,
+         "doc": "res-arsp-048-2021",
+         "disp": "art34",
+         "art": "art34",
+         "conf": "exato"
+        }
+       ]
+      },
+      {
+       "id": "art5_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "Não se caracterizará a reincidência se, entre a data da decisão em caráter definitivorelativa à penalidade precedente e a data de emissão do Termo de Notificação que identificara nova infração, tiver decorrido período de tempo superior a 2 (dois) anos.",
+       "incisos": [],
+       "pag": 4,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "6",
+     "rotulo": "Art. 6º",
+     "id": "art6",
+     "pag": 4,
+     "caput": {
+      "id": "art6_cpt",
+      "texto": "Ocorrendo a reincidência, proceder-se-á da seguinte forma:",
+      "incisos": [
+       {
+        "id": "art6_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Aplicar multa correspondente ao Grupo 1, para os casos anteriormente puníveis comadvertência;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "art6_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "Para os Grupos de 1 a 4a multa será majorada em 30% (trinta por cento) sobre o valor dapenalidade deliberado em caráter definitivo.",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       }
+      ],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção II",
+     "texto": "Da Advertência",
+     "pag": 4
+    },
+    {
+     "tipo": "artigo",
+     "num": "7",
+     "rotulo": "Art. 7º",
+     "id": "art7",
+     "pag": 4,
+     "caput": {
+      "id": "art7_cpt",
+      "texto": "A penalidade de advertência será aplicada nas hipóteses estabelecidas no artigo 11 dapresente Resolução.",
+      "incisos": [],
+      "pag": 4,
+      "refs": [
+       {
+        "ini": 73,
+        "fim": 82,
+        "doc": "res-arsp-048-2021",
+        "disp": "art11",
+        "art": "art11",
+        "conf": "exato"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção III",
+     "texto": "Da Multa",
+     "pag": 4
+    },
+    {
+     "tipo": "artigo",
+     "num": "8",
+     "rotulo": "Art. 8º",
+     "id": "art8",
+     "pag": 4,
+     "caput": {
+      "id": "art8_cpt",
+      "texto": "A penalidade de multa será aplicada nas hipóteses estabelecidas nos artigos 12, 13, 14 e 15 da presente Resolução, a variar conforme a gravidade.",
+      "incisos": [],
+      "pag": 4,
+      "refs": [
+       {
+        "ini": 68,
+        "fim": 113,
+        "doc": "res-arsp-048-2021",
+        "disp": "art12",
+        "art": "art12",
+        "conf": "exato",
+        "alvos": [
+         "art12",
+         "art13",
+         "art14",
+         "art15"
+        ],
+        "arts": [
+         "art12",
+         "art13",
+         "art14",
+         "art15"
+        ],
+        "spans": [
+         [
+          76,
+          78
+         ],
+         [
+          80,
+          82
+         ],
+         [
+          84,
+          86
+         ],
+         [
+          89,
+          91
+         ]
+        ]
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "9",
+     "rotulo": "Art. 9º",
+     "id": "art9",
+     "pag": 4,
+     "caput": {
+      "id": "art9_cpt",
+      "texto": "As infrações sujeitas à penalidade de multa classificam-se em quatro grupos, de acordocom sua gravidade, a seguir indicados:",
+      "incisos": [
+       {
+        "id": "art9_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Grupo 1: estas infrações serão punidas com multa no valor de até 25,00% do valor damulta máxima especificada no Contrato de Concessão, quando simples; IH — Grupo 2: estas infrações serão punidas com multa no valor de até50,00% do valorda multa máxima especificada no Contrato de Concessão, quando simples; III — Grupo 3: estas infrações serão punidas com multa no valor de até75,00% do valorda multa máxima especificada no Contrato de Concessão, quando simples; IV — Grupo 4: estas infrações serão punidas com multa no valor de até100,00% do valorda multa máxima especificada no Contrato de Concessão, quando simples.",
+        "alineas": [],
+        "pag": 4,
+        "refs": [
+         {
+          "ini": 112,
+          "fim": 133,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         },
+         {
+          "ini": 267,
+          "fim": 288,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         },
+         {
+          "ini": 423,
+          "fim": 444,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         },
+         {
+          "ini": 579,
+          "fim": 600,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art9_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "As transgressões que não forem corrigidas no prazo determinado, salvo se as razões não forem imputáveis à Concessionária, estarão sujeitas ainda à multa diária no valor de até 1% (um por cento) do valor da multa máxima especificada no Contrato de Concessão, por dia de atraso, respeitadas as disposições em contrário eventualmente contidas nos instrumentos de Contrato de Concessão celebrados antes do início de vigência desta Resolução.",
+       "incisos": [],
+       "pag": 5,
+       "refs": [
+        {
+         "ini": 235,
+         "fim": 256,
+         "externo": "Contrato de Concessão",
+         "url": null,
+         "conf": "externo"
+        },
+        {
+         "ini": 360,
+         "fim": 381,
+         "externo": "Contrato de Concessão",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art9_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "Os limites superiores indicados para cada grupo se aplicam para as penalidades que nãose prolongaram ao longo do tempo, sendo que para as multas diárias serão aplicados osvalores diários, podendo, neste caso, extrapolar o limite máximo estabelecidopara o referido grupo, limitado à penalidade máxima prevista no contrato de prestação deserviço ou outro instrumento que venha a subsidiar a prestação do serviço.",
+       "incisos": [],
+       "pag": 5,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "10",
+     "rotulo": "Art. 10",
+     "id": "art10",
+     "pag": 5,
+     "caput": {
+      "id": "art10_cpt",
+      "texto": "A multa diária será aplicada sempre que o cometimento da infração se prolongar notempo.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art10_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Constatada a situação prevista no caput, o Termo de Notificação e o Auto de Infraçãodeverão indicar o valor da multa diária.",
+       "incisos": [],
+       "pag": 5,
+       "refs": []
+      },
+      {
+       "id": "art10_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "A multa diária deixará de ser aplicada a partir da data em que o autuado apresentar àARSP documentos que comprovem a regularização da situação que deu causa à lavratura doauto de infração.",
+       "incisos": [],
+       "pag": 5,
+       "refs": []
+      },
+      {
+       "id": "art10_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "Caso o Diretor de Gás Canalizado e Energiaverifique que a situação quedeu causa à lavratura do Auto de Infração não foi regularizada, a multa diária voltará a serimposta desde a data em que deixou de ser aplicada, sendo notificado o autuado, semprejuízo da adoção de outras sanções previstas nesta Resolução.",
+       "incisos": [],
+       "pag": 5,
+       "refs": []
+      },
+      {
+       "id": "art10_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "Por ocasião do julgamento de eventual recurso contra o Auto de Infração, o Diretor de Gás Canalizado e Energiadeverá, em caso de procedência da autuação,confirmar ou modificar o valor da multa diária, decidir o período de sua aplicação e consolidar omontante devido pelo autuado, para posterior execução.",
+       "incisos": [],
+       "pag": 5,
+       "refs": []
+      },
+      {
+       "id": "art10_par5",
+       "rotulo": "§ 5º",
+       "num": 5,
+       "texto": "O valor da multa diária será consolidado e executado após o julgamento final, nos casos deinfração de caráter permanente, ou seja, que se protraia no tempo.",
+       "incisos": [],
+       "pag": 5,
+       "refs": []
+      },
+      {
+       "id": "art10_par6",
+       "rotulo": "§ 6º",
+       "num": 6,
+       "texto": "A celebração do termo de ajustamento de conduta encerrará a contagem da multa diária.",
+       "incisos": [],
+       "pag": 5,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção IV",
+     "texto": "Das Infrações",
+     "pag": 6
+    },
+    {
+     "tipo": "artigo",
+     "num": "11",
+     "rotulo": "Art. 11",
+     "id": "art11",
+     "pag": 6,
+     "caput": {
+      "id": "art11_cpt",
+      "texto": "O descumprimento das obrigações abaixo relacionadas sujeitará o infrator apenalidade de advertência:",
+      "incisos": [
+       {
+        "id": "art11_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Não manter à disposição dos usuários, em locais acessíveis, nos escritórios de atendimento ao público, exemplares da legislação pertinente às Condições Gerais de Fornecimento de Distribuição de Gás Canalizado;",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       },
+       {
+        "id": "art11_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "Não divulgar, mediante publicação na imprensa de grande circulação, e não colocar a disposição dos usuários as tabelas de tarifas fixadas pela ARSP; HiI-Não fornecer informações aos usuários sobre os serviços prestados, quando solicitado; IV -Não manter organizado e atualizado o cadastro relativo a cada unidade usuária, com informações que permitam a identificação do usuário, sua localização, valores faturados, histórico de consumo, bem como quaisquer outros dados exigidos por Lei, pelos regulamentos ou pelo Contrato de Concessão; V-Não manter organizado, atualizado e digitalizado o cadastro relativo ao sistema de distribuição de gás canalizado que permita refletir exatamente a rede física instalada vinculada à base de dados geográfica da concessão; Vi-Não notificar usuário inadimplente sobre faturas ou contas de gás devidas.",
+        "alineas": [],
+        "pag": 6,
+        "refs": [
+         {
+          "ini": 514,
+          "fim": 535,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "12",
+     "rotulo": "Art. 12",
+     "id": "art12",
+     "pag": 6,
+     "caput": {
+      "id": "art12_cpt",
+      "texto": "O descumprimento das obrigações abaixo relacionadas sujeitará o infrator apenalidade de multa do Grupo 1:",
+      "incisos": [
+       {
+        "id": "art12_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Não informar aos usuários sobre os riscos existentes e os cuidados especiais que o gás canalizado requer;",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       },
+       {
+        "id": "art12_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "Deixar de fazer campanhas de esclarecimentos e prevenção de acidentes acerca dos perigos do produto e das instalações à segurança junto às comunidades onde atua;",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       },
+       {
+        "id": "art12_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "Não manter registro atualizado das reclamações e solicitações dos consumidores, com anotação da data e do motivo, bem como não informar ao interessado, no prazo definido nas normas pertinentes e no Contrato de Concessão, as providências adotadas;",
+        "alineas": [],
+        "pag": 6,
+        "refs": [
+         {
+          "ini": 198,
+          "fim": 219,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "art12_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "Não manter sistema de comunicação que possibilite fácil acesso dos usuários à prestadora de serviço, observadas as peculiaridades regionais;",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       },
+       {
+        "id": "art12_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "Descumprir as determinações da Lei e da normatização regulatória relacionadas ao prévio aviso para a suspensão ou interrupção programada do fornecimento; Vi-Deixar de organizar e manter atualizado o calendário de leitura e faturamento e/ou deixar de informar aos usuários, previamente, por escrito, as alterações no referido calendário conforme estabelecido na lei e na normatização regulatória.",
+        "alineas": [],
+        "pag": 6,
+        "refs": []
+       }
+      ],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "13",
+     "rotulo": "Art. 13",
+     "id": "art13",
+     "pag": 7,
+     "caput": {
+      "id": "art13_cpt",
+      "texto": "O descumprimento das obrigações abaixo relacionadas sujeitará o infrator apenalidade de multa do Grupo 2:",
+      "incisos": [
+       {
+        "id": "art13_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Não investir em pesquisa e desenvolvimento, conforme estabelecido em regulamento;",
+        "alineas": [],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art13_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "Classificar incorretamente unidade usuária, em desacordo com as determinações da normatização regulatória;",
+        "alineas": [],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art13_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "Deixar de atender os prazos de devolução ao usuário de valores referentes a erros de faturamento, de elaboração de estudos e projetos de serviços na rede de distribuição, de construção e entrada em operação de extensões de rede, de interrupção do fornecimento de gás para manutenção programada;",
+        "alineas": [],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art13_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "Não manter controle, registro e inventário dos bens e instalações vinculados a atividade desenvolvida;",
+        "alineas": [],
+        "pag": 7,
+        "refs": []
+       },
+       {
+        "id": "art13_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "Não incluir nos contratos de fornecimento as condições fixadas em Contrato de Concessão e regulamento; Vi-Condicionar a ligação ou religação da unidade de consumidor do serviço de gás ao pagamento de valores não previstos nas “Condições Gerais de Fornecimento” ou de débitos não imputáveis ao consumidor; Vil-Deixar de observar o Plano de Contas aprovado pela ARSP; Vill-Deixar de celebrar contratos de fornecimento de gás com os consumidores, quando estes cumprirem com os requisitos necessários para tanto; IX-Deixar de proceder às comunicações exigidas em regulamento e Contrato de Concessão; X-Deixar de captar, aplicar e gerir os recursos financeiros necessários à prestação do serviço; XI-Deixar de segregar as informações contábeis relativas às atividades alheias ao objeto do Contrato de Concessão, de modo a possibilitar ao Regulador a identificação das receitas, dos custos e das despesas de cada operação; XII-Não manter sistema de controle interno para resguardo de agressão ao meio ambiente; Xill-Deixar de observar a legislação atinente ao tema ambiental; XIV — Deixar de atender as normas técnicas e regulamentos quanto a instalação, operação, manutenção, inspeção, calibração e aferição dos equipamentos de medição; XV-Deixa de zelar pela integridade dos bens vinculados à prestação dos serviços. XVI-Não manter registro das ordens de serviços de operação e manutenção do sistema de distribuição, bem como as ocorrências, os quais deverão estar à disposição para acesso da ARSP; XVII — Não manter registro das obras realizadas para expansão do sistema de distribuição, os quais deverão estar à disposição para acesso da ARSP; XVIII — Deixar de sinalizar e identificar de forma adequada as instalações e os equipamentos utilizados na prestação do serviço público de distribuição de gás canalizado.",
+        "alineas": [],
+        "pag": 7,
+        "refs": [
+         {
+          "ini": 66,
+          "fim": 87,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         },
+         {
+          "ini": 573,
+          "fim": 594,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         },
+         {
+          "ini": 784,
+          "fim": 805,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "14",
+     "rotulo": "Art. 14",
+     "id": "art14",
+     "pag": 8,
+     "caput": {
+      "id": "art14_cpt",
+      "texto": "O descumprimento das obrigações abaixo relacionadas sujeitará o infrator apenalidade de multa do Grupo 3:",
+      "incisos": [
+       {
+        "id": "art14_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Deixar de efetuar a análise e o registro dos valores do poder calorífico superior do gás nas estações de transferência de custódia;",
+        "alineas": [],
+        "pag": 8,
+        "refs": []
+       },
+       {
+        "id": "art14_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "Interromper ou suspender, por decisão própria, a prestação dos serviços, salvo nas hipóteses legalmente previstas;",
+        "alineas": [],
+        "pag": 8,
+        "refs": []
+       },
+       {
+        "id": "art14_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "Deixar de atingir os valores de referência dos indicadores de Qualidade do produto e do serviço;",
+        "alineas": [],
+        "pag": 8,
+        "refs": []
+       },
+       {
+        "id": "art14_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "Deixar de atingir os valores de referência dos indicadores de qualidade do atendimento comercial;",
+        "alineas": [],
+        "pag": 8,
+        "refs": []
+       },
+       {
+        "id": "art14_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "Não submeter à aprovação da ARSP, os contratos de suprimento de gás canalizado; Vi-Não realizar leitura e faturamento em conformidade com a regulamentação e com a legislação aplicável; Vil-Executar atividades de comercializaçãoecorrelatasaos serviços de distribuição de gás canalizado sem autorização da ARSP; VIH-Não avisar previamente à ARSP quaisquer circunstâncias que afetem a qualidade, continuidade, eficiência, segurança, que atinjam os usuários ou impliquem na modificação das condições de prestação dos serviços; IX-Não manter adequadamente vigente os seguros conforme definidos em Contrato de Concessão e regulamento; X-Alienar ou onerar direitos creditórios contra os consumidores de forma a comprometer a operação e a continuidade da prestação dos serviços; XI - Não manter os equipamentos utilizados na prestação do serviço público de distribuição de gás canalizado em plena condição de funcionalidade; XII — Deixar de capacitar os seus trabalhadores para prevenção e atendimento de eventos específicos de acidente e incidentes.",
+        "alineas": [],
+        "pag": 8,
+        "refs": [
+         {
+          "ini": 592,
+          "fim": 613,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "15",
+     "rotulo": "Art. 15",
+     "id": "art15",
+     "pag": 9,
+     "caput": {
+      "id": "art15_cpt",
+      "texto": "O descumprimento das obrigações abaixo relacionadas sujeitará o infrator apenalidade de multa do Grupo 4:",
+      "incisos": [
+       {
+        "id": "art15_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Deixar de atingir os valores de referência dos indicadores de segurança no fornecimento; I-Não efetuar, nos prazos estabelecidos, reparos, melhoramentos, substituições e modificações, de caráter urgente, nas instalações; HlI-Não proporcionar o auxílio que seja solicitado, pelas autoridades competentes, em caso de emergência ou sinistro; IV-Praticar tratamento discriminatório, inclusive tarifário, aos USUÁRIOS, exceto nas situações dispostas em REGULAMENTO; V - Não planejar e/ou implantar novas instalações, bem como deixar de realizar operação, manutenção, planejamento da expansão e modernização das instalações existentes, de modo a garantir: (|) o atendimento da atual demanda de seu mercado de gás canalizado, sempre que o serviço seja economicamente viável; (II) a prestação do serviço adequado de distribuição de gás canalizado; (Illje a segurança das pessoas e das instalações; Vi-Deixar de cumprir às solicitações, recomendações e determinações daARSP, no prazo estabelecido; Vil-Cobrar dos usuários taxas ou tarifas de serviços não previstas na legislação, ou valores desses serviços superiores aos estabelecidos em regulamentos e/ouContrato de Concessão; Vill-Fornecer informação falsa à ARSP, resguardada a hipótese de erro justificável; IX-Deixar de executar os serviços de contenção de vazamento de gás canalizado em suas instalações; X-Transferir informações pessoais dos usuários sem o consentimentoexpresso; Xl-Deixar de contratar GÁS e transporte em quantidades, qualidade e prazos que atendam às necessidades dos USUÁRIOS CATIVOS, de modo a que a sua aquisição, quando considerados preço, forma de pagamento, condições de reajuste, entre outros fatores, atenda aos princípios da economicidade, da eficiência, da transparência e da modicidade tarifária, assegurando condições de continuidade, de regularidade e de segurança; XII — Impedir ou dificultar os agentes do Regulador a ter livre e irrestrito acesso, em qualquer época, a toda e qualquer documentação, sistema computacional, projetos, obras, instalações e equipamentos vinculados ao serviço concedido, podendo acessar, inclusive, os registros contábeis da prestadora; XIII — Deixar de elaborar plano de contingência; XIV - Não prestar conta anualmente ao Regulador a respeito dos serviços correspondentes ao objeto do Contrato de Concessão ou não apresentar periodicamente dados e informações, observado o disposto em regulamento; XV -Deixar de atender a pedido de providências e/ou serviços dos usuários, nos prazos e condições estabelecidas na Lei, na normatização regulatória e/ou no Contrato de Concessão, quando tal desatendimento não configurar infração específica diversa.",
+        "alineas": [],
+        "pag": 9,
+        "refs": [
+         {
+          "ini": 1147,
+          "fim": 1168,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         },
+         {
+          "ini": 2299,
+          "fim": 2320,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         },
+         {
+          "ini": 2568,
+          "fim": 2589,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção V",
+     "texto": "Da Recomendação de Caducidade da Delegação",
+     "pag": 10
+    },
+    {
+     "tipo": "artigo",
+     "num": "16",
+     "rotulo": "Art. 16",
+     "id": "art16",
+     "pag": 10,
+     "caput": {
+      "id": "art16_cpt",
+      "texto": "A aplicação da penalidade de caducidade da delegação é de competência do titulardos serviços, que poderá promovê-la por sua iniciativa ou mediante recomendação da ARSP.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art16_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "A recomendação da ARSP para declaração da caducidade da delegação deverá serprecedida da verificação da inadimplência da prestadora de serviço em processoadministrativo, assegurado o direito ao contraditório e à ampla defesa.",
+       "incisos": [],
+       "pag": 10,
+       "refs": []
+      },
+      {
+       "id": "art16_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "A ARSP não recomendará a declaração de caducidade ao titular dos serviços semantes comunicar à prestadora de serviço, detalhadamente, os descumprimentos contratuaisreferidos nos incisos do artigo 17, dando-lhe um prazo para corrigir as falhas e transgressõesapontadas e para o enquadramento, nos termos do Contrato de Concessão e desta Resolução.",
+       "incisos": [],
+       "pag": 10,
+       "refs": [
+        {
+         "ini": 189,
+         "fim": 198,
+         "doc": "res-arsp-048-2021",
+         "disp": "art17",
+         "art": "art17",
+         "conf": "exato"
+        },
+        {
+         "ini": 306,
+         "fim": 327,
+         "externo": "Contrato de Concessão",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art16_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "A eventual negativa do titular dos serviços em declarar a caducidade, não impede que aARSP aplique as demais penalidades, de acordo com os critérios desta Resolução.",
+       "incisos": [],
+       "pag": 10,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "17",
+     "rotulo": "Art. 17",
+     "id": "art17",
+     "pag": 10,
+     "caput": {
+      "id": "art17_cpt",
+      "texto": "A ARSP poderá propor ao titular dos serviços, ao seu critério, e de formafundamentada, a caducidade da delegação quando:",
+      "incisos": [
+       {
+        "id": "art17_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Ficar caracterizada grave e reiterada inexecução total ou parcial do Contrato de Concessão; IH — A prestadora de serviço paralisar os serviços ou concorrer para tanto, ressalvadas ashipóteses decorrentes de caso fortuito e força maior; III — A prestadora de serviço perder a condição econômica, técnica ou operacional para mantera adequada prestação dos serviços delegados; IV- A prestadora de serviço não cumprir as penalidades impostas por infrações, nos devidosprazos; V- A prestadora de serviço for condenada em decisão transitada em julgado por sonegaçãode tributos.",
+        "alineas": [],
+        "pag": 10,
+        "refs": [
+         {
+          "ini": 69,
+          "fim": 90,
+          "externo": "Contrato de Concessão",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       }
+      ],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Título",
+     "rotulo": "Título II",
+     "texto": "DO PROCESSO SANCIONATÓRIO",
+     "pag": 10
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo I",
+     "texto": "Da Fase Preliminar",
+     "pag": 11
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção I",
+     "texto": "Da Fiscalização",
+     "pag": 11
+    },
+    {
+     "tipo": "artigo",
+     "num": "18",
+     "rotulo": "Art. 18",
+     "id": "art18",
+     "pag": 11,
+     "caput": {
+      "id": "art18_cpt",
+      "texto": "A fiscalização da prestação dos serviços estaduais de distribuição de gás canalizado será realizada pelaDiretoria de Gás Canalizado e Energia, porintermédio dos servidores da ARSP com capacitação técnica para tal ato.",
+      "incisos": [],
+      "pag": 11,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção II",
+     "texto": "Da Notificação",
+     "pag": 11
+    },
+    {
+     "tipo": "artigo",
+     "num": "19",
+     "rotulo": "Art. 19",
+     "id": "art19",
+     "pag": 11,
+     "caput": {
+      "id": "art19_cpt",
+      "texto": "Constatadas não conformidades, o servidor notificará a prestadora de serviço, porremessa postal com Aviso de Recebimento ou protocolo, ou meio eletrônico indicado pela agência,através do Termo de Notificaçãocontendo:",
+      "incisos": [
+       {
+        "id": "art19_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "identificação do órgão fiscalizador; IH — identificação da prestadora de serviço; III — número do Termo; IV — identificação da não conformidade e/ou determinação e/ou recomendação de ações aserem empreendidas pela notificada, bem como prazo para seu cumprimento e para correçãoda transgressão, se for o caso; V — identificação da penalidade cabível, inclusive quanto ao valor, na hipótese de multa e/oumulta-diária; Vi- local e data da constatação da não conformidade; VII — indicação do prazo para a apresentação de defesa prévia; VIII — identificação e assinatura doemissor do termo de notificação.",
+        "alineas": [],
+        "pag": 11,
+        "refs": []
+       }
+      ],
+      "pag": 11,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art19_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "O Termo de Notificação será emitido em duas vias.",
+       "incisos": [],
+       "pag": 11,
+       "refs": []
+      },
+      {
+       "id": "art19_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "A primeira via do Termo será entregue ao funcionário da prestadora de serviço, ou em sua instalação fixa, por remessa postal com Aviso de Recebimento ou protocolo, ou meio eletrônico indicado pela agência.",
+       "incisos": [],
+       "pag": 11,
+       "refs": []
+      },
+      {
+       "id": "art19_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "O funcionário da prestadora de serviço, ao receber o Termo, deverá apor o ciente,registrar sua identificação e a data, para fins de contagem do prazo para a correção da não-conformidade,bem como para apresentação da defesa prévia.",
+       "incisos": [],
+       "pag": 11,
+       "refs": []
+      },
+      {
+       "id": "art19_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "A segunda via do Termo deverá ser juntadaaos autos do processo respectivo.",
+       "incisos": [],
+       "pag": 11,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo II",
+     "texto": "Da Fase de Defesa Prévia",
+     "pag": 12
+    },
+    {
+     "tipo": "artigo",
+     "num": "20",
+     "rotulo": "Art. 20",
+     "id": "art20",
+     "pag": 12,
+     "caput": {
+      "id": "art20_cpt",
+      "texto": "O notificado terá o prazo de 15 (quinze) dias úteis, contado dorecebimentodo Termo de Notificação, para apresentar defesa prévia, endereçada a Diretoria de Gás Canalizado e Energia, inclusive juntando os elementos de informação que julgar convenientes.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art20_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "A defesa prévia a ser apresentada, além de sua fundamentação e sob pena de não serapreciada, deverá conter, no mínimo, os seguintes requisitos:",
+       "incisos": [
+        {
+         "id": "art20_par1_inc1",
+         "rotulo": "I",
+         "num": 1,
+         "texto": "ser redigida em português, devidamente digitalizada;",
+         "alineas": [],
+         "pag": 12,
+         "refs": []
+        },
+        {
+         "id": "art20_par1_inc2",
+         "rotulo": "II",
+         "num": 2,
+         "texto": "o cargo da autoridade a quem é dirigida;",
+         "alineas": [],
+         "pag": 12,
+         "refs": []
+        },
+        {
+         "id": "art20_par1_inc3",
+         "rotulo": "III",
+         "num": 3,
+         "texto": "o número do processo administrativo registrado junto à ARSP;",
+         "alineas": [],
+         "pag": 12,
+         "refs": []
+        },
+        {
+         "id": "art20_par1_inc4",
+         "rotulo": "IV",
+         "num": 4,
+         "texto": "o número do Termo de Notificação;",
+         "alineas": [],
+         "pag": 12,
+         "refs": []
+        },
+        {
+         "id": "art20_par1_inc5",
+         "rotulo": "V",
+         "num": 5,
+         "texto": "—o nome, o endereço e a qualificação do representante legal do notificado; Vi-o local, a data e a assinatura.",
+         "alineas": [],
+         "pag": 12,
+         "refs": []
+        }
+       ],
+       "pag": 12,
+       "refs": []
+      },
+      {
+       "id": "art20_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "Para fins de cumprimento do inciso V do § 1º deste artigo, o notificado deverá juntar àpeça de defesa prévia o seu contrato social ou estatuto e outros documentos que comprovemos poderes de representação legal.",
+       "incisos": [],
+       "pag": 12,
+       "refs": [
+        {
+         "ini": 28,
+         "fim": 57,
+         "doc": "res-arsp-048-2021",
+         "disp": "art20_par1_inc5",
+         "art": "art20",
+         "conf": "exato"
+        }
+       ]
+      },
+      {
+       "id": "art20_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "Quando da análise da defesa prévia, poderão ser solicitadas outras informações julgadas necessárias e/ou realização de diligências, para o melhor esclarecimento dos fatos relatados.",
+       "incisos": [],
+       "pag": 12,
+       "refs": []
+      },
+      {
+       "id": "art20_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "O Diretor de Gás Canalizado e Energiapoderá, excepcionalmente,conceder prorrogação do prazo para apresentação de defesa prévia, desde que solicitadatempestivamente e devidamente justificada pela notificada.",
+       "incisos": [],
+       "pag": 12,
+       "refs": []
+      },
+      {
+       "id": "art20_par5",
+       "rotulo": "§ 5º",
+       "num": 5,
+       "texto": "Decorrido o prazo sem apresentação de defesa prévia, ter-se-á como aceito pelaprestadora de serviço o disposto no Termo de Notificação, inclusive quanto ao prazo indicadopara cumprimento da determinação.",
+       "incisos": [],
+       "pag": 12,
+       "refs": []
+      },
+      {
+       "id": "art20_par6",
+       "rotulo": "§ 6º",
+       "num": 6,
+       "texto": "Caso o prestador de serviços deposite anualmente cópias dos documentos indicados no parágrafo segundo, estará dispensado, durante o respectivo ano, da apresentação dos documentos junto a cada defesa prévia, se responsabilizando pela atualização sempre que houver alterações posteriores ao depósito.",
+       "incisos": [],
+       "pag": 12,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo III",
+     "texto": "Da Fase de Saneamento do Procedimento e Aplicação da Sanção",
+     "pag": 12
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção I",
+     "texto": "Do Parecer Técnico",
+     "pag": 13
+    },
+    {
+     "tipo": "artigo",
+     "num": "21",
+     "rotulo": "Art. 21",
+     "id": "art21",
+     "pag": 13,
+     "caput": {
+      "id": "art21_cpt",
+      "texto": "Esgotado o prazo para defesa prévia do notificado, os Especialistas emitirão parecer técnico:",
+      "incisos": [
+       {
+        "id": "art21_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "de conformidade, quando não forem observadas irregularidades; IH — de não conformidade, quando forem constatadas irregularidades.",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       }
+      ],
+      "pag": 13,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "22",
+     "rotulo": "Art. 22",
+     "id": "art22",
+     "pag": 13,
+     "caput": {
+      "id": "art22_cpt",
+      "texto": "Após o recebimento e análise do parecertécnico, o Diretor de Gás Canalizado e Energia poderá, de forma motivada, alternativamente:",
+      "incisos": [
+       {
+        "id": "art22_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Acolher a defesa prévia e determinar o arquivamento do Termo de Notificação, comunicando o encerramento da fiscalização à prestadora;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "Rejeitar a defesa prévia e lavrar o Auto de Infração;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art22_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "Certificar a intempestividade da defesa prévia ou a omissão da prestadora de serviço emapresentá-la, lavrando, por conseguinte, o Auto de Infração.",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       }
+      ],
+      "pag": 13,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção II",
+     "texto": "Da Autuação",
+     "pag": 13
+    },
+    {
+     "tipo": "artigo",
+     "num": "23",
+     "rotulo": "Art. 23",
+     "id": "art23",
+     "pag": 13,
+     "caput": {
+      "id": "art23_cpt",
+      "texto": "O Auto de Infração será lavrado pelo Diretor de Gás Canalizado e Energia, devendo conter:",
+      "incisos": [
+       {
+        "id": "art23_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "o número do Auto de Infração e do processo administrativo registrado junto à ARSP, a identificação doórgão fiscalizador e o seu endereço;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art23_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "o nome, número do Cadastro Nacional de Pessoa Jurídica e o endereço do autuado;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art23_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "a descrição dos fatos ou dos atos constitutivos das infrações, a indicação dos dispositivoslegais ou contratuais infringidos e as respectivas penalidades;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art23_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "a indicação do prazopara a apresentação de defesa e cumprimento da penalidade;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "art23_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "identificação do representante do órgão fiscalizador, com seu cargo, número da matrículae assinatura; Vi-locale data da lavratura.",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       }
+      ],
+      "pag": 13,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art23_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "O Auto de Infração será emitido em duas vias, destinando-se a primeira via à autuada e asegunda via para os autos do processo respectivo.",
+       "incisos": [],
+       "pag": 13,
+       "refs": []
+      },
+      {
+       "id": "art23_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "O Auto de Infração será expedido a prestadora de serviço, por remessa postal com Aviso de Recebimento ou protocolo, ou meio eletrônico indicado pela agência.",
+       "incisos": [],
+       "pag": 13,
+       "refs": []
+      },
+      {
+       "id": "art23_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "Lavrado, o Auto de Infração não poderá ser inutilizado, nem poderá ser sustada a suatramitação.",
+       "incisos": [],
+       "pag": 14,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção III",
+     "texto": "Da Defesa",
+     "pag": 14
+    },
+    {
+     "tipo": "artigo",
+     "num": "24",
+     "rotulo": "Art. 24",
+     "id": "art24",
+     "pag": 14,
+     "caput": {
+      "id": "art24_cpt",
+      "texto": "O autuado terá o prazo de 15 (quinze) dias úteis, contado do seu recebimentodo Auto de Infração, sob pena de revelia, para apresentar defesa endereçada ao Diretor de Gás Canalizado e Energiada ARSP ou cumprir a penalidade.",
+      "incisos": [],
+      "pag": 14,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art24_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "Será concedido desconto de 30% (trinta por cento), na hipótese de aprestadora de serviço cumprir a penalidade, renunciando expressamente ao direito de interpordefesa.",
+       "incisos": [],
+       "pag": 14,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "25",
+     "rotulo": "Art. 25",
+     "id": "art25",
+     "pag": 14,
+     "caput": {
+      "id": "art25_cpt",
+      "texto": "A defesa a ser apresentada, além de sua fundamentação e sob pena de não serapreciada, deverá conter, no mínimo, os seguintes requisitos:",
+      "incisos": [
+       {
+        "id": "art25_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "ser redigida em português, devidamente digitalizada;",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "art25_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "o cargo da autoridade a quem é dirigida;",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "art25_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "o número do processo administrativo registrado junto à ARSP;",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "art25_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "o número do Auto de Infração;",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "art25_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "o nome, o endereço e a qualificação do representante legal do autuado; Vi-o local, a data e a assinatura.",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       }
+      ],
+      "pag": 14,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art25_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Para fins de cumprimento do inciso V deste artigo, o autuado deverá juntar àpeça de defesa o seu contrato social ou estatuto e outros documentos que comprovem ospoderes de representação legal.",
+       "incisos": [],
+       "pag": 14,
+       "refs": [
+        {
+         "ini": 28,
+         "fim": 49,
+         "doc": "res-arsp-048-2021",
+         "disp": "art25_cpt_inc5",
+         "art": "art25",
+         "conf": "exato"
+        }
+       ]
+      },
+      {
+       "id": "art25_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "O Diretor de Gás Canalizado e Energiapoderá, excepcionalmente,conceder prorrogação do prazo para apresentação de defesa, desde que solicitadatempestivamente e devidamente justificada pela notificada.",
+       "incisos": [],
+       "pag": 14,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção IV",
+     "texto": "Do Julgamento da Defesa",
+     "pag": 14
+    },
+    {
+     "tipo": "artigo",
+     "num": "26",
+     "rotulo": "Art. 26",
+     "id": "art26",
+     "pag": 14,
+     "caput": {
+      "id": "art26_cpt",
+      "texto": "O processo, instruído e saneado, deverá ser encaminhado pelo Diretor de Gás Canalizado e Energia da ARSP, com seu voto fundamentado, para julgamentopela Diretoria Colegiada da ARSP.",
+      "incisos": [],
+      "pag": 14,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art26_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "Compete ao Diretor de Gás Canalizado e Energia da ARSPapreciar os requisitos previstos no artigo 25, bem como verificar a tempestividade da peçaapresentada.",
+       "incisos": [],
+       "pag": 15,
+       "refs": [
+        {
+         "ini": 90,
+         "fim": 99,
+         "doc": "res-arsp-048-2021",
+         "disp": "art25",
+         "art": "art25",
+         "conf": "exato"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "27",
+     "rotulo": "Art. 27",
+     "id": "art27",
+     "pag": 15,
+     "caput": {
+      "id": "art27_cpt",
+      "texto": "Compete à Diretoria Colegiada da ARSP julgar, fundamentadamente, as autuações aplicadas com base nesta Resolução.",
+      "incisos": [],
+      "pag": 15,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art27_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "O Auto de Infração será anulável em caso de falha formal, hipótese em que será lavradonovo Auto de Infração, nos termos desta resolução, salvo se o erro for convalidável e/ou nãoacarretar prejuízo para o direito de defesa.",
+       "incisos": [],
+       "pag": 15,
+       "refs": []
+      },
+      {
+       "id": "art27_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "O Auto de Infração será arquivado se for julgado improcedente.",
+       "incisos": [],
+       "pag": 15,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "28",
+     "rotulo": "Art. 28",
+     "id": "art28",
+     "pag": 15,
+     "caput": {
+      "id": "art28_cpt",
+      "texto": "Da decisão da Diretoria Colegiada da ARSP que acatar as razões da defesa e julgá-laprocedente, o Diretor de Gás Canalizado e Energiada ARSP, por remessa postal com Aviso de Recebimento ou protocolo, ou meio eletrônico indicado pela agência, cientificará o autuado de seu provimento.",
+      "incisos": [],
+      "pag": 15,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "29",
+     "rotulo": "Art. 29",
+     "id": "art29",
+     "pag": 15,
+     "caput": {
+      "id": "art29_cpt",
+      "texto": "Julgadas improcedentes as razões da defesa pela Diretoria Colegiada, o Diretor de Gás Canalizado e Energia da ARSP cientificará o autuado, por remessa postal com Aviso de Recebimento ou protocolo, ou meio eletrônico indicado pela agência, para cumprimento da penalidade ou interposição do recurso.",
+      "incisos": [],
+      "pag": 15,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo IV",
+     "texto": "Da Fase do Procedimento Recursal e Revisional",
+     "pag": 15
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção I",
+     "texto": "Do Recurso",
+     "pag": 15
+    },
+    {
+     "tipo": "artigo",
+     "num": "30",
+     "rotulo": "Art. 30",
+     "id": "art30",
+     "pag": 15,
+     "caput": {
+      "id": "art30_cpt",
+      "texto": "Da decisão da Diretoria Colegiada da ARSP caberá recurso ao Conselho Consultivo,no prazo de 15 (quinze) dias úteis.",
+      "incisos": [],
+      "pag": 15,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "31",
+     "rotulo": "Art. 31",
+     "id": "art31",
+     "pag": 15,
+     "caput": {
+      "id": "art31_cpt",
+      "texto": "O recurso, que deverá atender aos requisitos básicos previstos no artigo 25 destaResolução, será interposto perante a Diretoria Colegiada da ARSP, que o encaminhará aoConselho Consultivo, para julgamento.",
+      "incisos": [],
+      "pag": 15,
+      "refs": [
+       {
+        "ini": 66,
+        "fim": 90,
+        "doc": "res-arsp-048-2021",
+        "disp": "art25",
+        "art": "art25",
+        "conf": "exato"
+       }
+      ]
+     },
+     "paragrafos": [
+      {
+       "id": "art31_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "O recurso terá efeito suspensivo.",
+       "incisos": [],
+       "pag": 15,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "32",
+     "rotulo": "Art. 32",
+     "id": "art32",
+     "pag": 15,
+     "caput": {
+      "id": "art32_cpt",
+      "texto": "Da decisão do Conselho Consultivo que acatar as razões do recurso interposto ejulgá-lo procedente, o Diretor Presidente da ARSP, por remessa postal com Aviso de Recebimento ou protocolo, ou meio eletrônico indicado pela agência, cientificará o Recorrente do seu provimento.",
+      "incisos": [],
+      "pag": 15,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "33",
+     "rotulo": "Art. 33",
+     "id": "art33",
+     "pag": 16,
+     "caput": {
+      "id": "art33_cpt",
+      "texto": "Da decisão do Conselho Consultivo que julgar improcedentes as razões do recursointerposto, o Diretor Presidente da ARSP, por remessa postal com Aviso de Recebimento ou protocolo, ou meio eletrônico indicado pela agência, cientificará o Recorrente da advertência ou do pagamento da multa aplicada, noprazo previsto, sob pena de inscrição em dívida ativa e cobrança judicial por execução fiscal.",
+      "incisos": [],
+      "pag": 16,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção II",
+     "texto": "Do Pedido de Revisão",
+     "pag": 16
+    },
+    {
+     "tipo": "artigo",
+     "num": "34",
+     "rotulo": "Art. 34",
+     "id": "art34",
+     "pag": 16,
+     "caput": {
+      "id": "art34_cpt",
+      "texto": "Havendo fato novo que altere ou modifique decisão em processo sancionador, poderáser interposto pedido de revisão ao Conselho Consultivo, para reapreciação da matéria.",
+      "incisos": [],
+      "pag": 16,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art34_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "O pedido de revisão deverá atender aos requisitos básicos previstos no artigo 25 destaResolução.",
+       "incisos": [],
+       "pag": 16,
+       "refs": [
+        {
+         "ini": 71,
+         "fim": 95,
+         "doc": "res-arsp-048-2021",
+         "disp": "art25",
+         "art": "art25",
+         "conf": "exato"
+        }
+       ]
+      },
+      {
+       "id": "art34_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "O pedido de revisão não terá efeito suspensivo.",
+       "incisos": [],
+       "pag": 16,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção III",
+     "texto": "Dos Embargos de Declaração",
+     "pag": 16
+    },
+    {
+     "tipo": "artigo",
+     "num": "35",
+     "rotulo": "Art. 35",
+     "id": "art35",
+     "pag": 16,
+     "caput": {
+      "id": "art35_cpt",
+      "texto": "Cabem embargos de declaração contra quaisquer das decisões administrativas presentes na presente Resolução para:",
+      "incisos": [
+       {
+        "id": "art35_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "esclarecer obscuridade ou eliminar contradição; || = suprir omissão de ponto ou questão sobre o qual devia se pronunciar o julgador de ofício ou a requerimento; III — corrigir erro material.",
+        "alineas": [],
+        "pag": 16,
+        "refs": []
+       }
+      ],
+      "pag": 16,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art35_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Os embargos serão opostos, no prazo de 5 (cinco) dias úteis, em petição dirigida à autoridade competente pela decisão embargada, com indicação do erro, obscuridade, contradição ou omissão.",
+       "incisos": [],
+       "pag": 16,
+       "refs": []
+      },
+      {
+       "id": "art35_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "Os embargos de declaração interrompem o prazo para a interposição de recurso.",
+       "incisos": [],
+       "pag": 16,
+       "refs": []
+      },
+      {
+       "id": "art35_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "Quando manifestamente protelatórios os embargos de declaração, o julgador elevará de 1% a 5% o valor final da penalidade.",
+       "incisos": [],
+       "pag": 16,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo V",
+     "texto": "Da Fase de Publicidade",
+     "pag": 16
+    },
+    {
+     "tipo": "artigo",
+     "num": "36",
+     "rotulo": "Art. 36",
+     "id": "art36",
+     "pag": 17,
+     "caput": {
+      "id": "art36_cpt",
+      "texto": "As penalidades aplicadas em caráter definitivo, consoante conceitua o artigo 5º, § 2º, desta Resolução, deverão ser divulgadas mediante publicação do extrato resumido da decisãofinal, o que se fará obrigatoriamente no Diário Oficial e no sítio oficial da ARSP na Internet,sem prejuízo de outros meios, a critério da Diretoria Colegiada. Parágrafo Único. As penalidades aplicadas em caráter definitivo possuem caráter auto executórioe produzem efeitos jurídicos após a notificação da prestadora de serviço,independentemente da publicação a que se refere o caput.",
+      "incisos": [],
+      "pag": 17,
+      "refs": [
+       {
+        "ini": 70,
+        "fim": 102,
+        "doc": "res-arsp-048-2021",
+        "disp": "art5_par2",
+        "art": "art5",
+        "conf": "exato"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo VI",
+     "texto": "Do Termo de Ajustamento de Conduta",
+     "pag": 17
+    },
+    {
+     "tipo": "artigo",
+     "num": "37",
+     "rotulo": "Art. 37",
+     "id": "art37",
+     "pag": 17,
+     "caput": {
+      "id": "art37_cpt",
+      "texto": "A Diretoria Colegiada da ARSP poderá firmar com a prestadora de serviço, antes oudepois da instauração do processo sancionador, termo de compromisso de ajustamento deconduta, que terá eficácia de título executivo extrajudicial, para a correção de irregularidadesou pendências, visando assegurar a normalidade dos serviços prestados e resguardar ointeresse público, dele constando obrigatoriamente:",
+      "incisos": [
+       {
+        "id": "art37_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "a data e a qualificação das partes;",
+        "alineas": [],
+        "pag": 17,
+        "refs": []
+       },
+       {
+        "id": "art37_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "a irregularidade ou pendência, com a respectiva fundamentação legal;",
+        "alineas": [],
+        "pag": 17,
+        "refs": []
+       },
+       {
+        "id": "art37_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "os termos ajustados para a correção da irregularidade ou pendência;",
+        "alineas": [],
+        "pag": 17,
+        "refs": []
+       },
+       {
+        "id": "art37_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "—o prazo para a correção;",
+        "alineas": [],
+        "pag": 17,
+        "refs": []
+       },
+       {
+        "id": "art37_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "multa pelo seu descumprimento, cujo valor será correspondente ao montante dapenalidade que seria aplicada, acrescido de 20% (vinte por cento).",
+        "alineas": [],
+        "pag": 17,
+        "refs": []
+       }
+      ],
+      "pag": 17,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo VII",
+     "texto": "Dos Prazos",
+     "pag": 17
+    },
+    {
+     "tipo": "artigo",
+     "num": "38",
+     "rotulo": "Art. 38",
+     "id": "art38",
+     "pag": 17,
+     "caput": {
+      "id": "art38_cpt",
+      "texto": "Os prazos são contados a partir da data de recebimento da notificação, através deremessa postal com Aviso de Recebimento ou protocolo, ou meio eletrônico indicado pela agência, excluindo-se da contagem o dia doinício e incluindo-se o do vencimento.",
+      "incisos": [],
+      "pag": 17,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art38_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "Considera-se prorrogado o prazo até o primeiro dia útil seguinte se ovencimento cair em dia que não houver expediente na ARSP, ou este for encerrado antes dohorário normal de funcionamento.",
+       "incisos": [],
+       "pag": 17,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo VIII",
+     "texto": "Das Disposições Finais",
+     "pag": 17
+    },
+    {
+     "tipo": "artigo",
+     "num": "39",
+     "rotulo": "Art. 39",
+     "id": "art39",
+     "pag": 17,
+     "caput": {
+      "id": "art39_cpt",
+      "texto": "Esta Resolução não prejudicará os atos jurídicos perfeitos, de modo que sua aplicaçãoocorrerá de forma subsidiária em relação aos contratos de concessão, permissão ou autorização que tenham sidocelebrados antes do início de vigência do presente ato regulatório.",
+      "incisos": [],
+      "pag": 17,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "40",
+     "rotulo": "Art. 40",
+     "id": "art40",
+     "pag": 18,
+     "caput": {
+      "id": "art40_cpt",
+      "texto": "Os casos omissos nesta Resolução serão submetidos à decisão da DiretoriaColegiada da ARSP.",
+      "incisos": [],
+      "pag": 18,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "41",
+     "rotulo": "Art. 41",
+     "id": "art41",
+     "pag": 18,
+     "caput": {
+      "id": "art41_cpt",
+      "texto": "Esta resolução entra em vigor na data de sua publicação e se aplica aos processossancionatóriosque estejam em curso, sem prejuízo para os atos processuais que já tenhamsido praticados.",
+      "incisos": [],
+      "pag": 18,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "Vitória/ES, 16 de junho de 2021.",
+      "Joana Moraes Resende Magella DiretoraPresidente-Em exercício Diretora Administrativa e Financeira Cláudio Roberto Saade Diretor de Gás Canalizado e Energia Kátia Muniz Côco Diretora de Saneamento Básico e Infraestrutura Viária"
+     ],
+     "pag": 18,
+     "fecho": true,
+     "refs_linhas": {
+      "0": [],
+      "1": []
+     }
+    }
+   ]
+  }
+ ],
+ "avisos": []
+}

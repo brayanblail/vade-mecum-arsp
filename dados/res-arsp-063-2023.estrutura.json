@@ -1,0 +1,864 @@
+{
+ "id": "res-arsp-063-2023",
+ "sigla": "Res. ARSP 063/2023",
+ "tipo": "resolucao",
+ "orgao": "ARSP",
+ "numero": "63",
+ "ano": "2023",
+ "data": "2023-05-26",
+ "grupo": "Resoluções",
+ "arquivo": "2023-05-26 - RES ARSP 063-2023 - Indicadores de qualidade do atendimento comercial.pdf",
+ "titulo": "Dispõe sobre os indicadores de qualidade do atendimento comercial do serviço público de distribuição de gás canalizado e dá outras providências.",
+ "situacao": "Vigente",
+ "observacao": "Indicadores de qualidade do atendimento comercial.",
+ "link_oficial": "https://arsp.es.gov.br/Media/arsi/Legisla%C3%A7%C3%A3o/Resolu%C3%A7%C3%B5es%20G%C3%A1s%20Natural/ARSP/2023/ResolucaoARSP-063-2023.pdf",
+ "ocr": "nao",
+ "alvo_padrao": "",
+ "relacoes": "",
+ "partes": [
+  {
+   "id": "corpo",
+   "rotulo": "Texto da norma",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "linhas": [
+      "RESOLUÇÃO ARSP Nº 063, de 26 de maio de 2023.",
+      "Dispõe sobre os indicadores de qualidade do atendimento comercial do serviço público de distribuição de gás canalizado e dá outras providências.",
+      "A DIRETORIA COLEGIADA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DO ESPÍRITO SANTO - ARSP, no uso de suas atribuições legais, à vista do disposto na Lei Complementar nº 827, de 30 de junho de 2016, alterada pela Lei Complementar nº 954, de 02 de setembro de 2020; e",
+      "CONSIDERANDO que a ARSP tem por finalidade, regular, controlar e fiscalizar, no âmbito do Estado do Espírito Santo, os serviços públicos de distribuição de gás canalizado;",
+      "CONSIDERANDO que o contrato de concessão tem por objeto a concessão, com exclusividade do serviço público de distribuição de gás canalizado no Estado do Espírito Santo;",
+      "CONSIDERANDO que o serviço público de distribuição de gás é prestado, sob competência regulatória estadual, com o objetivo de assegurar as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas, e compreende o planejamento, a construção, a operação e a manutenção do sistema de distribuição e as medições desde as estações de transferência de custódia até os pontos de entrega da molécula do gás aos usuários cativos e agentes livres de mercado;",
+      "CONSIDERANDO o estabelecido no anexo II do contrato de concessão que o regulador deverá expedir regulamento considerando indicadores e seus respectivos valores de referência;",
+      "CONSIDERANDO que os indicadores constantes no anexo II do contrato de concessão não são exaustivos, podendo ser revistos, suprimidos ou incluídos, por ocasião da elaboração de regulamento;",
+      "CONSIDERANDO que os indicadores do serviço público de distribuição de gás canalizado constituem instrumento essencial para regulação e fiscalização e visam estabelecer referências e monitorar os serviços de distribuição de gás canalizado, que devem ser prestados de forma regular, contínua, com segurança e atendendo a qualidade especificada;",
+      "CONSIDERANDO que a ação fiscalizadora da ARSP visará, primordialmente, à educação e orientação dos agentes do setor de distribuição de gás canalizado, à prevenção de condutas violadoras da lei, dos contratos e regulamentos, com os propósitos de garantir serviços eficientes e de qualidade aos usuários;",
+      "CONSIDERANDO que compete a ARSP no âmbito de suas atribuições de fiscalização dos serviços de distribuição de gás canalizado, a apuração de infrações e a aplicação de penalidades nos termos da Resolução ARSP n°048, de 16 de junho de 2021 e/ou outra que vier a substituí-la ou alterá-la;",
+      "CONSIDERANDO que a ARSP, em Consulta Pública ARSP N° 001/2023, que esteve disponível de 04 de abril de 2023 a 26 de abril de 2023, submeteu à apreciação e contribuições da sociedade, a Nota Técnica ARSP/DE/GGN Nº 01/2023 e minuta de Resolução;",
+      "RESOLVE:"
+     ],
+     "pag": 1,
+     "refs_linhas": {
+      "0": [],
+      "1": [],
+      "2": [
+       {
+        "ini": 151,
+        "fim": 198,
+        "doc": "lc-827-2016",
+        "disp": null,
+        "conf": "documento"
+       },
+       {
+        "ini": 214,
+        "fim": 264,
+        "externo": "LC 954/2020",
+        "url": null,
+        "conf": "externo"
+       }
+      ],
+      "3": [],
+      "4": [
+       {
+        "ini": 19,
+        "fim": 40,
+        "externo": "Contrato de Concessão",
+        "url": null,
+        "conf": "externo"
+       }
+      ],
+      "5": [],
+      "6": [
+       {
+        "ini": 43,
+        "fim": 64,
+        "externo": "Contrato de Concessão",
+        "url": null,
+        "conf": "externo"
+       }
+      ],
+      "7": [
+       {
+        "ini": 58,
+        "fim": 79,
+        "externo": "Contrato de Concessão",
+        "url": null,
+        "conf": "externo"
+       }
+      ],
+      "8": [],
+      "9": [],
+      "10": [
+       {
+        "ini": 193,
+        "fim": 237,
+        "doc": "res-arsp-048-2021",
+        "disp": null,
+        "conf": "documento"
+       }
+      ],
+      "11": [],
+      "12": []
+     }
+    },
+    {
+     "tipo": "artigo",
+     "num": "1",
+     "rotulo": "Art. 1º",
+     "id": "art1",
+     "pag": 2,
+     "caput": {
+      "id": "art1_cpt",
+      "texto": "Aprovar na forma do Anexo I, as disposições sobre os indicadores de qualidade do atendimento comercial do serviço público de distribuição de gás canalizado e outras providências.",
+      "incisos": [],
+      "pag": 2,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art1_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "A Resolução contemplando o ANEXO I estará disponível em sua íntegra no site da ARSP, em https://arsp.es.gov.br/atos_normativos, a partir da data de sua publicação.",
+       "incisos": [],
+       "pag": 2,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "2",
+     "rotulo": "Art. 2º",
+     "id": "art2",
+     "pag": 3,
+     "caput": {
+      "id": "art2_cpt",
+      "texto": "Esta Resolução entrará em vigor na data de sua publicação.",
+      "incisos": [],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "Vitória/ES, 26 de maio de 2023.",
+      "Marcelo Campos Antunes Diretor-Presidente Joana Moraes Resende Magella Diretora Administrativa e Financeira Débora Cristina Niero Diretora de Gás Canalizado e Energia – Respondendo Odylea Oliveira de Tassis Diretora de Saneamento Básico e Infraestrutura Viária - Respondendo"
+     ],
+     "pag": 3,
+     "fecho": true,
+     "refs_linhas": {
+      "0": [],
+      "1": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "anx1",
+   "rotulo": "Anexo I",
+   "blocos": [
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo I",
+     "texto": "Das Disposições Preliminares",
+     "pag": 4
+    },
+    {
+     "tipo": "artigo",
+     "num": "1",
+     "rotulo": "Art. 1º",
+     "id": "anx1_art1",
+     "pag": 4,
+     "caput": {
+      "id": "anx1_art1_cpt",
+      "texto": "Definir os indicadores de qualidade do atendimento comercial do serviço público de distribuição de gás canalizado visando medir a capacidade da concessionária em prestar serviço com tempo de resposta adequado às diversas solicitações dos usuários e resolver problemas dos usuários de forma eficiente.",
+      "incisos": [],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "2",
+     "rotulo": "Art. 2º",
+     "id": "anx1_art2",
+     "pag": 4,
+     "caput": {
+      "id": "anx1_art2_cpt",
+      "texto": "Para os efeitos desta Resolução ficam estabelecidas as seguintes definições:",
+      "incisos": [
+       {
+        "id": "anx1_art2_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "ARSP: Agência de Regulação dos Serviços Públicos do Estado do Espírito Santo;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_art2_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "Gás canalizado: É o gás distribuído por meio de gasodutos, através de sistema de distribuição adequado;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_art2_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "Infração: descumprimento por parte da prestadora das regras constantes no conjunto de normas legais, regulamentares, contratuais e pactuadas;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_art2_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "Penalidade: ato administrativo imputado à prestadora quando esta comete uma infração;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_art2_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "Serviço público de distribuição de gás canalizado: serviço público atribuído pela Constituição Federal aos Estados-Membros, sujeito à regulação estadual, consistente na distribuição do gás canalizado aos seus usuários, com o objetivo de assegurar as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas;",
+        "alineas": [],
+        "pag": 4,
+        "refs": [
+         {
+          "ini": 82,
+          "fim": 102,
+          "externo": "Constituição Federal",
+          "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:constituicao:1988-10-05;1988",
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "anx1_art2_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "Usuário: pessoa física ou jurídica que utiliza os serviços públicos de distribuição de gás canalizado;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_art2_cpt_inc7",
+        "rotulo": "VII",
+        "num": 7,
+        "texto": "Unidade Usuária: imóvel onde se dá o recebimento de gás, podendo ser individual ou coletivo.",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       }
+      ],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "3",
+     "rotulo": "Art. 3º",
+     "id": "anx1_art3",
+     "pag": 4,
+     "caput": {
+      "id": "anx1_art3_cpt",
+      "texto": "São considerados indicadores de qualidade do atendimento comercial:",
+      "incisos": [
+       {
+        "id": "anx1_art3_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Solução da chamada em primeiro nível (SCP); e",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_art3_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "Frequência Equivalente de Reclamação (FER). Capítulo II – Indicador de Solução da Chamada em Primeiro Nível (SCP)",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       }
+      ],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "4",
+     "rotulo": "Art. 4º",
+     "id": "anx1_art4",
+     "pag": 5,
+     "caput": {
+      "id": "anx1_art4_cpt",
+      "texto": "O indicador SCP é uma métrica que analisa a eficiência do atendimento ao usuário, considerando aqueles chamados que são resolvidos em um único contato efetivo ou nos casos de serviços ou de verificações da equipe técnica, o agendamento já é realizado no primeiro contato.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "5",
+     "rotulo": "Art. 5º",
+     "id": "anx1_art5",
+     "pag": 5,
+     "caput": {
+      "id": "anx1_art5_cpt",
+      "texto": "Para a apuração do indicador SCP devem ser computadas as manifestações recebidas por todos os meios disponibilizados pela concessionária, tais como central de teleatendimento, postos presenciais de atendimento e canais digitais.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "6",
+     "rotulo": "Art. 6º",
+     "id": "anx1_art6",
+     "pag": 5,
+     "caput": {
+      "id": "anx1_art6_cpt",
+      "texto": "A concessionária deverá apurar mensalmente o total de manifestações recebidas e aquelas que foram solucionadas no primeiro contato, de modo a calcular o indicador SCP, observada a fórmula abaixo: 𝐒𝐂𝐏= 𝐌𝐒𝐏 𝐌𝐀𝐓 × 𝟏𝟎𝟎 onde: SCP: indicador de solução da chamada em primeiro nível (%). MSP: quantidade de manifestações solucionadas em primeiro nível. MAT: quantidade de manifestações totais recebidas.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "7",
+     "rotulo": "Art. 7º",
+     "id": "anx1_art7",
+     "pag": 5,
+     "caput": {
+      "id": "anx1_art7_cpt",
+      "texto": "O valor de referência para o indicador SCP é a apuração de 69,00% (sessenta e nove por cento). Parágrafo Único: Caso ocorra apuração de valor do indicador SCP inferior ao valor de referência sujeitará o infrator a penalidade de multa.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "8",
+     "rotulo": "Art. 8º",
+     "id": "anx1_art8",
+     "pag": 5,
+     "caput": {
+      "id": "anx1_art8_cpt",
+      "texto": "A proporcionalidade e razoabilidade da penalidade de multa pela violação mensal dos valores de referência do indicador SCP terão como parâmetros: a média do tempo da solução da chamada em primeiro contato, excluídos os agendados e a diferença entre o valor de referência e do indicador SCP apurado no mês. Cada parâmetro utilizado terá 5 faixas (baixo, médiobaixo, médio, médio-alto, alto) conforme tabela abaixo: Tabela 1: Gradação da multa a ser aplicada em caso de ultrapassagem do limite de referência do indicador SCP",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "9",
+     "rotulo": "Art. 9º",
+     "id": "anx1_art9",
+     "pag": 6,
+     "caput": {
+      "id": "anx1_art9_cpt",
+      "texto": "O valor da multa para o indicador SCP será calculado conforme fórmula abaixo: 𝐌𝐒𝐂𝐏𝐌Ê𝐒 = (𝐑𝐄𝐅𝐒𝐂𝐏 −𝐒𝐂𝐏 𝐑𝐄𝐅𝐒𝐂𝐏 ) × 𝐌𝐌𝐀𝐗𝐒𝐂𝐏 𝟏𝟐 × 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐒𝐂𝐏𝐌Ê𝐒 onde: 𝐌𝐒𝐂𝐏𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador SCP (R$); 𝐒𝐂𝐏: Valor do indicador SCP do respectivo mês (%); 𝐑𝐄𝐅𝐒𝐂𝐏: Valor de referência do indicador SCP (%); 𝐌𝐌𝐀𝐗𝐒𝐂𝐏: Valor da multa máxima do indicador SCP estabelecida no Art. 19 desta resolução (R$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐒𝐂𝐏𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 1 (%). Capítulo III – Indicador de Frequência Equivalente de Reclamação (FER).",
+      "incisos": [],
+      "pag": 6,
+      "refs": [
+       {
+        "ini": 395,
+        "fim": 402,
+        "doc": "res-arsp-063-2023",
+        "disp": "anx1_art19",
+        "art": "anx1_art19",
+        "conf": "exato"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "10",
+     "rotulo": "Art. 10",
+     "id": "anx1_art10",
+     "pag": 6,
+     "caput": {
+      "id": "anx1_art10_cpt",
+      "texto": "O indicador FER será utilizado para o monitoramento da qualidade do atendimento à reclamação, contabilizando a frequência equivalente das Baixo Médio-baixo Médio Médio-alto Alto 00:00:00-00:30:00h 00:30:01-00:45:00h 00:45:01-01:00:00h 01:00:01-01:15:00h >01:15:00h Baixo 0,00-6,00% 11,11% 22,22% 33,33% 44,44% 55,56% Médio-baixo 6,01-12,00% 22,22% 33,33% 44,44% 55,56% 66,67% Médio 12,01-18,00% 33,33% 44,44% 55,56% 66,67% 77,78% Médio-alto 18,01-24,00% 44,44% 55,56% 66,67% 77,78% 88,89% Alto >24% 55,56% 66,67% 77,78% 88,89% 100,00% Média do tempo da solução da chamada em primeiro contato, excluídos os agendados. Diferença entre o valor de referência e o indicador SCP apurado no mês (REF - SCP)SCP reclamações, devendo a concessionária observar na solução individual das reclamações, os prazos limites definidos em regulação específica.",
+      "incisos": [],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "11",
+     "rotulo": "Art. 11",
+     "id": "anx1_art11",
+     "pag": 7,
+     "caput": {
+      "id": "anx1_art11_cpt",
+      "texto": "A concessionária deverá apurar mensalmente o indicador FER, considerando a quantidade de reclamações procedentes em relação ao total de número de unidades usuárias da concessionária, no final do período de apuração, observada a fórmula abaixo: 𝐅𝐄𝐑= 𝐑𝐞𝐜𝐥𝐚𝐦𝐚çõ𝐞𝐬 𝐏𝐫𝐨𝐜𝐞𝐝𝐞𝐧𝐭𝐞𝐬 𝐍𝐮𝐬𝐮 × 𝟏𝟎𝟎𝟎 onde: FER: indicador de frequência equivalente de reclamação. Reclamações Procedentes: total de reclamações procedentes no período de apuração. Nusu: número de unidades usuárias da concessionária, no final do período de apuração.",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "12",
+     "rotulo": "Art. 12",
+     "id": "anx1_art12",
+     "pag": 7,
+     "caput": {
+      "id": "anx1_art12_cpt",
+      "texto": "O valor de referência para o indicador FER é a apuração de 2,44 (dois inteiros e quarenta e quatro centésimos) reclamações procedentes a cada mil unidades usuárias. Parágrafo Único: Caso ocorra apuração de valor do indicador FER superior ao valor de referência sujeitará o infrator a penalidade de multa.",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "13",
+     "rotulo": "Art. 13",
+     "id": "anx1_art13",
+     "pag": 7,
+     "caput": {
+      "id": "anx1_art13_cpt",
+      "texto": "Na avaliação da improcedência da reclamação, a concessionária deve ter fundamentação quanto à legislação, aos direitos e deveres dos usuários e aos contratos a que se sujeitam, apresentando as justificativas.",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "14",
+     "rotulo": "Art. 14",
+     "id": "anx1_art14",
+     "pag": 7,
+     "caput": {
+      "id": "anx1_art14_cpt",
+      "texto": "A proporcionalidade e razoabilidade da penalidade de multa pela violação mensal dos valores de referência do indicador FER terá como parâmetro o valor do indicador no respectivo mês. O parâmetro utilizado terá 5 faixas (baixo, médio-baixo, médio, médio-alto, alto) conforme tabela abaixo: Tabela 2: Gradação da multa a ser aplicada em caso de ultrapassagem do limite de referência do indicador FER",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "15",
+     "rotulo": "Art. 15",
+     "id": "anx1_art15",
+     "pag": 8,
+     "caput": {
+      "id": "anx1_art15_cpt",
+      "texto": "O valor da multa para o indicador FER será calculado conforme fórmula abaixo: 𝐌𝐅𝐄𝐑𝐌Ê𝐒 = ( (𝐅𝐄𝐑−𝐑𝐄𝐅𝐅𝐄𝐑) 𝐑𝐄𝐅𝐅𝐄𝐑 × 𝟎, 𝟎𝟐+ 𝟎, 𝟎𝟎𝟐) × 𝐌𝐌𝐀𝐗𝐅𝐄𝐑 𝟏𝟐 × 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐄𝐑𝐌Ê𝐒 onde: 𝐌𝐅𝐄𝐑𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador FER (R$); 𝐅𝐄𝐑: Valor do indicador FER do respectivo mês; 𝐑𝐄𝐅𝐅𝐄𝐑: Valor de referência do indicador FER; 𝐌𝐌𝐀𝐗𝐅𝐄𝐑: Valor da multa máxima do indicador FER estabelecida no Art. 19 desta resolução (R$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐄𝐑𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 2 (%).",
+      "incisos": [],
+      "pag": 8,
+      "refs": [
+       {
+        "ini": 404,
+        "fim": 411,
+        "doc": "res-arsp-063-2023",
+        "disp": "anx1_art19",
+        "art": "anx1_art19",
+        "conf": "exato"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Capítulo",
+     "rotulo": "Capítulo VI",
+     "texto": "Das Disposições Finais",
+     "pag": 8
+    },
+    {
+     "tipo": "artigo",
+     "num": "16",
+     "rotulo": "Art. 16",
+     "id": "anx1_art16",
+     "pag": 8,
+     "caput": {
+      "id": "anx1_art16_cpt",
+      "texto": "As manifestações que geram os indicadores SCP e FER deverão conter, no mínimo, as seguintes informações:",
+      "incisos": [
+       {
+        "id": "anx1_art16_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "Número da manifestação;",
+        "alineas": [],
+        "pag": 8,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "Data e hora de Solicitação da Manifestação;",
+        "alineas": [],
+        "pag": 8,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "Data e hora de Encerramento da Manifestação;",
+        "alineas": [],
+        "pag": 8,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "Tempo de cada atendimento (horas/minutos); Baixo Médio-baixo Médio Médio-alto Alto 2,44-3,66 3,67-4,88 4,89-6,10 6,11-7,32 >7,32 20,00% 40,00% 60,00% 80,00% 100,00% Valor do Indicador FER no respectivo mês quando maior que a referência",
+        "alineas": [],
+        "pag": 8,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "Prazo de Solução da Manifestação;",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "Identificação se a manifestação foi solucionada em primeiro nível ou não;",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc7",
+        "rotulo": "VII",
+        "num": 7,
+        "texto": "Caso tenha sido solucionada em primeiro nível, deve haver identificação se houve agendamento de serviço no primeiro contato;",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc8",
+        "rotulo": "VIII",
+        "num": 8,
+        "texto": "Status da manifestação;",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc9",
+        "rotulo": "IX",
+        "num": 9,
+        "texto": "Motivo da manifestação;",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc10",
+        "rotulo": "X",
+        "num": 10,
+        "texto": "Tipo da manifestação;",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc11",
+        "rotulo": "XI",
+        "num": 11,
+        "texto": "Identificação se a manifestação é procedente ou improcedente;",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc12",
+        "rotulo": "XII",
+        "num": 12,
+        "texto": "Identificação da origem da manifestação (central de teleatendimento, postos presenciais de atendimento, internet, etc.);",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc13",
+        "rotulo": "XIII",
+        "num": 13,
+        "texto": "Código do usuário;",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc14",
+        "rotulo": "XIV",
+        "num": 14,
+        "texto": "Segmento do usuário;",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc15",
+        "rotulo": "XV",
+        "num": 15,
+        "texto": "Caso o segmento seja residencial coletivo, deve haver identificação da quantidade de unidades consumidoras;",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       },
+       {
+        "id": "anx1_art16_cpt_inc16",
+        "rotulo": "XVI",
+        "num": 16,
+        "texto": "Município.",
+        "alineas": [],
+        "pag": 9,
+        "refs": []
+       }
+      ],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "anx1_art16_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "As manifestações geradas para teste, duplicadas, canceladas, dentre outras similares não deverão ser incluídas nos dados dos indicadores.",
+       "incisos": [],
+       "pag": 9,
+       "refs": []
+      },
+      {
+       "id": "anx1_art16_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "No caso de reiteradas manifestações do mesmo usuário com mesmo objeto antes da solução pela concessionária, apenas a primeira manifestação deve ser considerada para contabilização.",
+       "incisos": [],
+       "pag": 9,
+       "refs": []
+      },
+      {
+       "id": "anx1_art16_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "Na apuração desses indicadores, não devem ser computadas as manifestações realizadas na ouvidoria da concessionária ou da ARSP.",
+       "incisos": [],
+       "pag": 9,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "17",
+     "rotulo": "Art. 17",
+     "id": "anx1_art17",
+     "pag": 9,
+     "caput": {
+      "id": "anx1_art17_cpt",
+      "texto": "Os dados correspondentes aos indicadores aqui considerados, apurados pela concessionária conforme exposto nesta Resolução, deverão ser encaminhados à ARSP, mensalmente, em planilha eletrônica padronizada, até o último dia útil do mês posterior ao período de apuração de referência.",
+      "incisos": [],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "anx1_art17_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "A concessionária deverá submeter a ARSP para aprovação o modelo de planilha após 10 dias úteis da publicação desta resolução.",
+       "incisos": [],
+       "pag": 9,
+       "refs": []
+      },
+      {
+       "id": "anx1_art17_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "O modelo da planilha poderá ser modificado conforme solicitação da ARSP.",
+       "incisos": [],
+       "pag": 9,
+       "refs": []
+      },
+      {
+       "id": "anx1_art17_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "Os dados da planilha deverão ser apresentados em bases mensais para cálculo dos indicadores, e de forma cumulativa.",
+       "incisos": [],
+       "pag": 9,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "18",
+     "rotulo": "Art. 18",
+     "id": "anx1_art18",
+     "pag": 10,
+     "caput": {
+      "id": "anx1_art18_cpt",
+      "texto": "As informações deverão ser registradas de maneira a assegurar a fidelidade, a precisão e a disponibilização das mesmas para consultas e fiscalizações.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "19",
+     "rotulo": "Art. 19",
+     "id": "anx1_art19",
+     "pag": 10,
+     "caput": {
+      "id": "anx1_art19_cpt",
+      "texto": "A multa máxima de cada um dos indicadores de qualidade do atendimento comercial (SCP e FER) será a metade do valor máximo da multa a ser aplicada na infração descrita no Art. 14, IV, da Resolução ARSP Nº 048/2021 ou outra que vier a substituí-la ou alterá-la.",
+      "incisos": [],
+      "pag": 10,
+      "refs": [
+       {
+        "ini": 170,
+        "fim": 177,
+        "doc": "res-arsp-063-2023",
+        "disp": "anx1_art14",
+        "art": "anx1_art14",
+        "conf": "exato"
+       },
+       {
+        "ini": 186,
+        "fim": 212,
+        "doc": "res-arsp-048-2021",
+        "disp": null,
+        "conf": "documento"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "20",
+     "rotulo": "Art. 20",
+     "id": "anx1_art20",
+     "pag": 10,
+     "caput": {
+      "id": "anx1_art20_cpt",
+      "texto": "A inobservância das disposições estabelecidas nesta Resolução implicará aos infratores a imposição das multas e penalidades previstas na legislação e regulamentos.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "21",
+     "rotulo": "Art. 21",
+     "id": "anx1_art21",
+     "pag": 10,
+     "caput": {
+      "id": "anx1_art21_cpt",
+      "texto": "Os casos omissos nesta Resolução serão submetidos à decisão da Diretoria Colegiada da ARSP.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "22",
+     "rotulo": "Art. 22",
+     "id": "anx1_art22",
+     "pag": 10,
+     "caput": {
+      "id": "anx1_art22_cpt",
+      "texto": "Esta resolução entra em vigor na data de sua publicação.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "Vitória/ES, 26 de maio de 2023.",
+      "Marcelo Campos Antunes",
+      "Diretor Presidente",
+      "Joana Moraes Resende Magella",
+      "Diretora Administrativa e Financeira",
+      "Débora Cristina Niero",
+      "Diretora de Gás Canalizado e Energia – respondendo",
+      "Odylea Oliveira de Tassis",
+      "Diretora de Saneamento Básico e Infraestrutura Viária – respondendo"
+     ],
+     "pag": 10,
+     "fecho": true,
+     "refs_linhas": {
+      "0": [],
+      "1": [],
+      "2": [],
+      "3": [],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": [],
+      "8": []
+     }
+    }
+   ]
+  }
+ ],
+ "avisos": []
+}

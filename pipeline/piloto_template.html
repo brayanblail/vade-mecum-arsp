@@ -1,0 +1,862 @@
+<title>Vade-mécum ARSP Gás</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,400;7..72,600&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap">
+<style>
+/* Layout: mesa de leitura — índice de atos à esquerda, norma ao centro em coluna estreita,
+   rótulo do artigo pendurado na margem como num vade-mécum; marca-texto amarelo no dispositivo citado. */
+:root{
+  --papel:#f5f6f8; --folha:#ffffff; --tinta:#18202b; --sub:#5a6577; --fio:#dce1e8; --fio-forte:#c3cad5;
+  --caneta:#1c4da6; --caneta-fundo:rgba(28,77,166,.08);
+  --marca:rgba(255,210,0,.42); --marca-borda:#e0b400;
+  --alerta:#9c4310; --alerta-fundo:rgba(156,67,16,.09);
+  --inferido:#5a49b0; --inferido-fundo:rgba(90,73,176,.10);
+  --sombra:0 10px 30px rgba(20,30,45,.16), 0 2px 6px rgba(20,30,45,.08);
+  --f-texto:"Literata", Georgia, "Times New Roman", serif;
+  --f-ui:"IBM Plex Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --f-mono:"IBM Plex Mono", ui-monospace, Consolas, "Courier New", monospace;
+  --topo:3.6rem;
+}
+@media (prefers-color-scheme: dark){ :root:not([data-theme="light"]){
+  --papel:#10141a; --folha:#161b23; --tinta:#e3e7ed; --sub:#9aa4b3; --fio:#29303b; --fio-forte:#3a4250;
+  --caneta:#94b5ff; --caneta-fundo:rgba(148,181,255,.12);
+  --marca:rgba(255,210,0,.22); --marca-borda:#c9a200;
+  --alerta:#f2a56c; --alerta-fundo:rgba(242,165,108,.12);
+  --inferido:#b6aaff; --inferido-fundo:rgba(182,170,255,.12);
+  --sombra:0 12px 34px rgba(0,0,0,.5), 0 2px 6px rgba(0,0,0,.4);
+  color-scheme:dark;
+}}
+:root[data-theme="dark"]{
+  --papel:#10141a; --folha:#161b23; --tinta:#e3e7ed; --sub:#9aa4b3; --fio:#29303b; --fio-forte:#3a4250;
+  --caneta:#94b5ff; --caneta-fundo:rgba(148,181,255,.12);
+  --marca:rgba(255,210,0,.22); --marca-borda:#c9a200;
+  --alerta:#f2a56c; --alerta-fundo:rgba(242,165,108,.12);
+  --inferido:#b6aaff; --inferido-fundo:rgba(182,170,255,.12);
+  --sombra:0 12px 34px rgba(0,0,0,.5), 0 2px 6px rgba(0,0,0,.4);
+  color-scheme:dark;
+}
+*{box-sizing:border-box}
+[hidden]{display:none!important}
+html,body{background:var(--papel);color:var(--tinta)}
+body{font-family:var(--f-ui);font-size:15px;line-height:1.5;-webkit-font-smoothing:antialiased}
+body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset-top,0px);z-index:30;background:var(--folha)}
+a{color:var(--caneta)}
+button{font:inherit;color:inherit}
+:focus-visible{outline:2px solid var(--caneta);outline-offset:2px;border-radius:3px}
+code,.mono{font-family:var(--f-mono);font-size:.82em}
+
+/* ---------- topo ---------- */
+.topo{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:var(--folha);border-bottom:1px solid var(--fio);
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px));padding-block:.55rem}
+.topo-in{display:flex;align-items:center;gap:1rem;flex-wrap:wrap;max-width:88rem;margin-inline:auto}
+.marca-site{display:flex;align-items:baseline;gap:.5rem;text-decoration:none;color:var(--tinta);white-space:nowrap}
+.marca-site b{font-family:var(--f-texto);font-weight:600;font-size:1.15rem;letter-spacing:-.01em}
+.marca-site span{font-size:.72rem;text-transform:uppercase;letter-spacing:.09em;color:var(--sub)}
+.busca{position:relative;flex:1 1 18rem;min-width:0;max-width:34rem}
+.busca input{width:100%;font:inherit;padding:.45rem .75rem .45rem 2rem;border:1px solid var(--fio-forte);border-radius:6px;background:var(--papel);color:var(--tinta)}
+.busca svg{position:absolute;left:.6rem;top:50%;transform:translateY(-50%);width:15px;height:15px;color:var(--sub)}
+.resultados{position:absolute;left:0;right:0;top:calc(100% + 6px);background:var(--folha);border:1px solid var(--fio);border-radius:8px;box-shadow:var(--sombra);max-height:min(70vh,32rem);overflow:auto;z-index:40;padding:.3rem}
+.res-item{display:block;width:100%;text-align:left;border:0;background:none;padding:.5rem .6rem;border-radius:6px;cursor:pointer;color:var(--tinta)}
+.res-item:hover,.res-item.ativo{background:var(--caneta-fundo)}
+.res-item .rr{font-size:.78rem;color:var(--sub)}
+.res-item .rt{font-family:var(--f-texto);font-size:.88rem;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.res-item mark{background:var(--marca);color:inherit;border-radius:2px}
+.res-item.pulo{border-bottom:1px solid var(--fio);margin-bottom:.2rem}
+.res-vazio{padding:.7rem;color:var(--sub);font-size:.9rem}
+.nav{display:flex;gap:.25rem;margin-left:auto}
+.nav a{text-decoration:none;color:var(--sub);padding:.35rem .6rem;border-radius:6px;font-size:.9rem;font-weight:500}
+.nav a:hover{color:var(--tinta);background:var(--caneta-fundo)}
+.nav a[aria-current="page"]{color:var(--caneta);background:var(--caneta-fundo)}
+
+/* ---------- moldura ---------- */
+.moldura{display:grid;grid-template-columns:16.5rem minmax(0,1fr);gap:0;max-width:88rem;margin-inline:auto;
+  padding-left:max(16px,env(safe-area-inset-left,0px));padding-right:max(16px,env(safe-area-inset-right,0px))}
+.indice{position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--topo));align-self:start;max-height:calc(100vh - var(--topo) - env(safe-area-inset-top,0px));overflow:auto;padding-block:1.2rem;padding-right:1rem;border-right:1px solid var(--fio)}
+.indice summary{display:none}
+.indice h3{font-size:.7rem;text-transform:uppercase;letter-spacing:.1em;color:var(--sub);margin:1.1rem 0 .35rem;font-weight:600}
+.indice h3:first-of-type{margin-top:0}
+.indice a{display:block;text-decoration:none;color:var(--tinta);padding:.32rem .5rem;border-radius:5px;font-size:.88rem;line-height:1.3}
+.indice a small{display:block;color:var(--sub);font-size:.74rem;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.indice a:hover{background:var(--caneta-fundo)}
+.indice a[aria-current="page"]{background:var(--caneta-fundo);color:var(--caneta);font-weight:500}
+main{min-width:0;padding:1.6rem 0 4rem 2.2rem}
+
+/* ---------- início ---------- */
+.abre{max-width:46rem}
+.abre h1{font-family:var(--f-texto);font-weight:600;font-size:clamp(1.6rem,3.2vw,2.2rem);line-height:1.15;letter-spacing:-.015em;margin:.2rem 0 .6rem;text-wrap:balance}
+.abre p{font-size:1rem;color:var(--sub);margin:0 0 1rem;max-width:40rem}
+.numeros{display:flex;flex-wrap:wrap;gap:1.6rem;margin:1.2rem 0 1.6rem;font-variant-numeric:tabular-nums}
+.numeros div b{display:block;font-family:var(--f-texto);font-size:1.6rem;font-weight:600;line-height:1}
+.numeros div span{font-size:.78rem;color:var(--sub);text-transform:uppercase;letter-spacing:.07em}
+.como{display:grid;grid-template-columns:repeat(auto-fit,minmax(14rem,1fr));gap:.8rem;margin:0 0 2rem;max-width:60rem}
+.como div{border-top:2px solid var(--fio-forte);padding-top:.55rem;font-size:.9rem;color:var(--sub)}
+.como div b{display:block;color:var(--tinta);font-weight:600;margin-bottom:.15rem}
+.como code{background:var(--caneta-fundo);padding:.05rem .3rem;border-radius:4px;color:var(--tinta)}
+.grupo h2{font-size:.75rem;text-transform:uppercase;letter-spacing:.1em;color:var(--sub);font-weight:600;margin:1.8rem 0 .6rem;border-bottom:1px solid var(--fio);padding-bottom:.35rem}
+.lista-docs{display:grid;grid-template-columns:repeat(auto-fill,minmax(19rem,1fr));gap:.7rem}
+.cartao{display:flex;flex-direction:column;gap:.25rem;text-decoration:none;color:var(--tinta);background:var(--folha);border:1px solid var(--fio);border-radius:8px;padding:.75rem .9rem}
+.cartao:hover{border-color:var(--caneta)}
+.cartao b{font-weight:600}
+.cartao .t{font-family:var(--f-texto);font-size:.86rem;color:var(--sub);display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+.cartao .m{font-size:.76rem;color:var(--sub);font-variant-numeric:tabular-nums;margin-top:auto}
+.achado{max-width:46rem;margin-top:2rem;background:var(--alerta-fundo);border-left:3px solid var(--alerta);padding:.8rem 1rem;border-radius:0 6px 6px 0;font-size:.92rem}
+.achado b{color:var(--alerta)}
+
+/* ---------- ficha do ato ---------- */
+.ficha{max-width:48rem}
+.ficha .tipo{font-size:.72rem;text-transform:uppercase;letter-spacing:.1em;color:var(--sub);font-weight:600}
+.ficha h1{font-family:var(--f-texto);font-weight:600;font-size:clamp(1.5rem,3vw,2rem);line-height:1.15;margin:.15rem 0 .45rem;letter-spacing:-.01em}
+.ficha .ementa{font-family:var(--f-texto);font-size:1rem;line-height:1.55;margin:0 0 .7rem;text-wrap:pretty}
+.meta{display:flex;flex-wrap:wrap;gap:.4rem .9rem;align-items:center;font-size:.85rem;color:var(--sub)}
+.chip{display:inline-flex;align-items:center;gap:.3rem;padding:.12rem .55rem;border-radius:999px;font-size:.76rem;font-weight:600;border:1px solid var(--fio-forte);color:var(--sub)}
+.chip.vig{border-color:transparent;background:var(--caneta-fundo);color:var(--caneta)}
+.chip.enc{border-color:transparent;background:var(--inferido-fundo);color:var(--inferido)}
+.obs{margin:.8rem 0 0;font-size:.88rem;color:var(--sub);border-left:2px solid var(--fio-forte);padding-left:.7rem;max-width:44rem}
+
+/* linhagem do ato (estilo Unity Catalog) */
+.lin-caixa{margin:1.4rem 0 .4rem;border:1px solid var(--fio);border-radius:10px;background:var(--folha);padding:.9rem 1rem 1rem;max-width:56rem}
+.lin-caixa h2{font-size:.72rem;text-transform:uppercase;letter-spacing:.1em;color:var(--sub);margin:0 0 .7rem;font-weight:600}
+.lin{position:relative;display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr);gap:2.6rem;align-items:center}
+.lin svg.fios{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;overflow:visible}
+.lin svg.fios path{fill:none;stroke:var(--fio-forte);stroke-width:1.5}
+.lin svg.fios path.rel{stroke-dasharray:4 4}
+.lin-col{display:flex;flex-direction:column;gap:.4rem;min-width:0}
+.lin-col.dir{align-items:flex-start}
+.lin-col.esq{align-items:flex-end}
+.lin-col .rot{font-size:.7rem;text-transform:uppercase;letter-spacing:.08em;color:var(--sub);margin-bottom:.1rem}
+.no{position:relative;z-index:1;display:inline-flex;align-items:baseline;gap:.45rem;max-width:100%;text-decoration:none;color:var(--tinta);background:var(--papel);border:1px solid var(--fio-forte);border-radius:6px;padding:.3rem .6rem;font-size:.84rem}
+.no:hover{border-color:var(--caneta);color:var(--caneta)}
+.no .q{font-family:var(--f-mono);font-size:.72rem;color:var(--sub)}
+.no .rl{font-size:.7rem;color:var(--inferido)}
+.no.centro{background:var(--caneta);border-color:var(--caneta);color:var(--folha);font-weight:600;padding:.45rem .8rem}
+.lin-vazio{font-size:.82rem;color:var(--sub)}
+
+/* ---------- texto da norma ---------- */
+.texto{max-width:48rem;margin-top:1.6rem}
+.parte-tit{font-family:var(--f-ui);font-size:.8rem;text-transform:uppercase;letter-spacing:.09em;color:var(--sub);font-weight:600;margin:2.4rem 0 .9rem;padding-bottom:.4rem;border-bottom:1px solid var(--fio)}
+.estr{font-family:var(--f-texto);text-align:center;font-weight:600;font-size:.95rem;margin:1.6rem 0 .8rem;letter-spacing:.02em;text-wrap:balance}
+.estr small{display:block;font-weight:400;font-size:.88rem;color:var(--sub);letter-spacing:0}
+.pre{font-family:var(--f-texto);font-size:.95rem;line-height:1.6;margin:0 0 .6rem;color:var(--sub)}
+.pre.fecho{margin-top:1rem;font-style:italic}
+.tab{font-family:var(--f-mono);font-size:.74rem;line-height:1.45;background:var(--folha);border:1px solid var(--fio);border-radius:6px;padding:.7rem .8rem;overflow-x:auto;white-space:pre;margin:.4rem 0 1rem;color:var(--sub)}
+.art{display:grid;grid-template-columns:5.2rem minmax(0,1fr);gap:0 .9rem;padding:.7rem 0 .55rem;border-top:1px solid var(--fio);scroll-margin-top:calc(var(--topo) + 1.2rem)}
+.art-r{font-family:var(--f-ui);font-weight:600;font-size:.86rem;color:var(--tinta);padding-top:.2rem;text-align:right;line-height:1.3}
+.art-c{min-width:0;font-family:var(--f-texto);font-size:1rem;line-height:1.62}
+.art-tt{font-family:var(--f-ui);font-weight:600;font-size:.82rem;text-transform:uppercase;letter-spacing:.05em;margin-bottom:.25rem;color:var(--sub)}
+.d{margin:0 0 .45rem;scroll-margin-top:calc(var(--topo) + 1.4rem);border-radius:3px;text-wrap:pretty}
+.d .r{font-family:var(--f-ui);font-weight:600;font-size:.86em;margin-right:.15rem}
+.d.inc{padding-left:1.4rem;text-indent:-1.4rem;margin-left:1.4rem}
+.d.ali{padding-left:1.2rem;text-indent:-1.2rem;margin-left:2.8rem}
+.marcado{background:var(--marca);box-shadow:0 0 0 .25rem var(--marca)}
+section.art.marcado{background:none;box-shadow:none}
+section.art.marcado .art-c{background:var(--marca);box-shadow:0 0 0 .3rem var(--marca);border-radius:3px}
+.art-pe{grid-column:2;display:flex;flex-wrap:wrap;align-items:center;gap:.25rem .9rem;font-family:var(--f-ui);font-size:.76rem;color:var(--sub);margin-top:.1rem}
+.art-pe a{color:var(--sub)}
+.art-pe button{border:0;background:none;padding:0;cursor:pointer;color:var(--caneta);font-weight:500;font-size:.76rem}
+.art-pe button.mudo{color:var(--sub);font-weight:400}
+.art-pe code{opacity:.75}
+.cit-lista{grid-column:2;margin:.5rem 0 .3rem;border-left:2px solid var(--caneta);padding:.1rem 0 .1rem .8rem;display:flex;flex-direction:column;gap:.55rem}
+.cit-item{font-size:.84rem;line-height:1.4}
+.cit-item a.o{font-weight:600;text-decoration:none}
+.cit-item .tr{display:block;font-family:var(--f-texto);color:var(--sub);font-size:.84rem}
+.cit-item .para{font-family:var(--f-ui);font-size:.74rem;color:var(--sub)}
+
+/* remissões */
+a.ref{color:var(--caneta);text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:.18em;text-decoration-color:color-mix(in srgb,var(--caneta) 45%,transparent)}
+a.ref:hover{background:var(--caneta-fundo);text-decoration-color:var(--caneta)}
+a.ref.inferido{text-decoration-style:dashed;color:var(--inferido);text-decoration-color:var(--inferido)}
+a.ref.parcial{text-decoration-style:wavy;text-decoration-color:var(--alerta)}
+a.ref.doc{font-weight:500}
+a.ref.ext{color:var(--sub);text-decoration-style:dotted}
+span.ref.fora{border-bottom:1px dotted var(--fio-forte)}
+
+/* caixinha (popover) */
+.pop{position:fixed;z-index:50;width:min(36rem,calc(100vw - 24px));max-height:min(62vh,30rem);display:flex;flex-direction:column;background:var(--folha);border:1px solid var(--fio-forte);border-radius:10px;box-shadow:var(--sombra);overflow:hidden}
+.pop-cab{display:flex;flex-wrap:wrap;align-items:baseline;gap:.2rem .6rem;padding:.6rem .9rem .5rem;border-bottom:1px solid var(--fio);background:var(--papel)}
+.pop-doc{font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--sub);font-weight:600}
+.pop-rot{font-weight:600;font-size:.92rem}
+.aviso{flex-basis:100%;font-size:.78rem;padding:.3rem .5rem;border-radius:5px;margin-top:.2rem}
+.aviso.inferido{background:var(--inferido-fundo);color:var(--inferido)}
+.aviso.parcial{background:var(--alerta-fundo);color:var(--alerta)}
+.pop-corpo{overflow:auto;padding:.4rem .9rem .3rem;overscroll-behavior:contain}
+.pop-corpo .art{border-top:0;grid-template-columns:4.2rem minmax(0,1fr);gap:0 .7rem;padding:.4rem 0}
+.pop-corpo .art-c{font-size:.92rem;line-height:1.55}
+.pop-corpo .alvo{background:var(--marca);box-shadow:0 0 0 .2rem var(--marca)}
+.pop-corpo section.art.alvo{background:none;box-shadow:none}
+.pop-pe{display:flex;gap:1rem;align-items:center;padding:.5rem .9rem;border-top:1px solid var(--fio);font-size:.82rem}
+.pop-pe a{font-weight:500}
+.pop-pe .esp{margin-left:auto;color:var(--sub);font-family:var(--f-mono);font-size:.72rem}
+a.ref.multi{text-decoration-style:double;text-decoration-thickness:auto}
+.pop-tit{display:flex;align-items:baseline;gap:.6rem;min-width:0;flex:1 1 auto}
+.jn-ferr{display:flex;gap:.3rem;margin-left:auto;align-self:center}
+.jn-b{border:1px solid var(--fio-forte);background:var(--folha);border-radius:6px;padding:.12rem .55rem;font-size:.78rem;line-height:1.45;cursor:pointer;color:var(--tinta)}
+.jn-b:hover:not(:disabled){background:var(--caneta-fundo);border-color:var(--caneta);color:var(--caneta)}
+.jn-b:disabled{opacity:.35;cursor:default}
+.jn-ant,.jn-prox{font-size:1rem;line-height:1.1;padding:.1rem .6rem}
+.jn-fechar{font-size:1.05rem;line-height:1.1;padding:.08rem .55rem}
+.jn-nav{display:flex;align-items:center;gap:.45rem;padding:.4rem .9rem;border-bottom:1px solid var(--fio);flex-wrap:wrap}
+.jn-cont{font-size:.78rem;color:var(--sub);font-variant-numeric:tabular-nums;white-space:nowrap}
+.jn-chips{display:flex;gap:.3rem;flex-wrap:wrap;max-height:4.2rem;overflow:auto;margin-left:.2rem}
+.jn-chip{border:1px solid var(--fio-forte);background:none;border-radius:999px;padding:.05rem .6rem;font-size:.76rem;cursor:pointer;color:var(--sub);white-space:nowrap}
+.jn-chip:hover{color:var(--caneta);border-color:var(--caneta)}
+.jn-chip[aria-current="true"]{background:var(--caneta);border-color:var(--caneta);color:var(--folha)}
+#janelas{position:fixed;inset:0;z-index:18;pointer-events:none}
+.janela{position:absolute;pointer-events:auto;max-height:none;min-width:260px;min-height:150px;width:auto}
+.janela:focus{outline:none}
+.janela:focus-within,.janela:focus{border-color:var(--caneta)}
+.janela .pop-cab{cursor:move;touch-action:none;user-select:none;-webkit-user-select:none}
+.janela .pop-corpo{flex:1 1 auto;min-height:0}
+.janela .pop-pe{padding-right:1.8rem}
+.jn-alca{position:absolute;right:0;bottom:0;width:22px;height:22px;cursor:nwse-resize;touch-action:none;
+  background:linear-gradient(135deg,transparent 0 55%,var(--fio-forte) 55% 61%,transparent 61% 72%,var(--fio-forte) 72% 78%,transparent 78%)}
+.jn-alca:hover{background:linear-gradient(135deg,transparent 0 55%,var(--caneta) 55% 61%,transparent 61% 72%,var(--caneta) 72% 78%,transparent 78%)}
+body.arrastando,body.arrastando *{user-select:none;-webkit-user-select:none}
+body{padding-bottom:var(--respiro,0px)}
+
+/* mapa */
+.mapa-caixa{overflow-x:auto;border:1px solid var(--fio);border-radius:10px;background:var(--folha);margin-top:1rem}
+.mapa-caixa svg{display:block}
+.mapa-caixa text{font-family:var(--f-ui)}
+.mapa-caixa .eixo{fill:var(--sub);font-size:11px}
+.mapa-caixa .faixa{fill:var(--sub);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;font-weight:600}
+.mapa-caixa .grade{stroke:var(--fio);stroke-width:1}
+.mapa-caixa .aresta{fill:none;stroke:var(--fio-forte);transition:opacity .15s}
+.mapa-caixa .aresta.rel{stroke-dasharray:4 4}
+.mapa-caixa .nd rect{fill:var(--papel);stroke:var(--fio-forte)}
+.mapa-caixa .nd text{fill:var(--tinta);font-size:11.5px;font-weight:500}
+.mapa-caixa .nd{cursor:pointer}
+.mapa-caixa .nd:hover rect,.mapa-caixa .nd.foco rect{stroke:var(--caneta);fill:var(--caneta-fundo)}
+.mapa-caixa.focando .aresta{opacity:.12}
+.mapa-caixa.focando .aresta.on{opacity:1;stroke:var(--caneta)}
+.mapa-caixa.focando .nd{opacity:.35}
+.mapa-caixa.focando .nd.on{opacity:1}
+.legenda{font-size:.84rem;color:var(--sub);margin-top:.6rem;max-width:48rem}
+
+/* revisão */
+.rev-item{border-top:1px solid var(--fio);padding:.7rem 0;max-width:52rem}
+.rev-item .tr{font-family:var(--f-texto);color:var(--sub);font-size:.9rem;display:block;margin-top:.2rem}
+
+.toast{position:fixed;left:50%;bottom:calc(1.2rem + env(safe-area-inset-bottom,0px));transform:translateX(-50%);background:var(--tinta);color:var(--folha);padding:.5rem .9rem;border-radius:6px;font-size:.86rem;z-index:60;max-width:calc(100vw - 32px)}
+
+@media (max-width: 999px){
+  .moldura{grid-template-columns:minmax(0,1fr)}
+  .indice{position:static;max-height:none;border-right:0;border-bottom:1px solid var(--fio);padding:.6rem 0}
+  .indice summary{display:block;cursor:pointer;font-weight:600;font-size:.9rem;padding:.2rem 0;color:var(--caneta)}
+  .indice[open] summary{margin-bottom:.4rem}
+  main{padding:1.2rem 0 3rem}
+}
+@media (max-width: 560px){
+  .topo-in{gap:.45rem .6rem}
+  .marca-site span{display:none}
+  .busca{order:3;flex-basis:100%;max-width:none}
+  .nav a{padding:.3rem .45rem;font-size:.85rem}
+  .art{grid-template-columns:minmax(0,1fr)}
+  .art-r{text-align:left;padding:0 0 .1rem}
+  .art-pe,.cit-lista{grid-column:1}
+  .lin{grid-template-columns:minmax(0,1fr);gap:.8rem}
+  .lin svg.fios{display:none}
+  .lin-col.esq,.lin-col.dir{align-items:flex-start}
+  .d.inc{margin-left:.4rem}.d.ali{margin-left:1.4rem}
+}
+@media (prefers-reduced-motion: reduce){*{transition:none!important;scroll-behavior:auto!important}}
+</style>
+
+<header class="topo" id="topo">
+  <div class="topo-in">
+    <a class="marca-site" href="#inicio"><b>Vade-mécum</b><span>ARSP · gás canalizado</span></a>
+    <div class="busca" role="search">
+      <svg viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="5" fill="none" stroke="currentColor" stroke-width="1.6"/><path d="M11 11l3.5 3.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></svg>
+      <input id="q" type="search" autocomplete="off" placeholder="Buscar no texto ou ir para “046 art 43 §7”" aria-label="Buscar">
+      <div class="resultados" id="resultados" hidden></div>
+    </div>
+    <nav class="nav" aria-label="Seções">
+      <a href="#inicio" data-v="inicio">Início</a>
+      <a href="#mapa" data-v="mapa">Mapa</a>
+      <a href="#revisao" data-v="revisao">A conferir</a>
+    </nav>
+  </div>
+</header>
+
+<div class="moldura">
+  <details class="indice" id="indice" open><summary>Documentos</summary><div id="indice-lista"></div></details>
+  <main id="vista" tabindex="-1"></main>
+</div>
+<div class="pop" id="pop" hidden role="dialog" aria-label="Dispositivo citado"></div>
+<div id="janelas"></div>
+<div class="toast" id="toast" hidden role="status"></div>
+
+<script type="application/json" id="dados">/*__DADOS__*/{}</script>
+<script>
+(function(){
+"use strict";
+const D = JSON.parse(document.getElementById("dados").textContent);
+const DOCS = new Map(D.docs.map(d => [d.id, d]));
+const GRUPOS = ["Leis", "Resoluções", "Consultas públicas"];
+const $ = s => document.querySelector(s);
+const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+const h = id => id.replace(/_/g, "-");
+const norm = s => s.normalize("NFD").replace(/[̀-ͯ]/g, "").toLowerCase();
+const dataBR = iso => iso ? `${iso.slice(8,10)}/${iso.slice(5,7)}/${iso.slice(0,4)}` : "";
+
+/* ---------- índices ---------- */
+const IDX = new Map();       // "doc|disp" -> {d, p, b, u}
+const HASH = new Map();      // "doc|disp-com-hifen" -> disp
+const BUSCA = [];
+function reg(d, p, b, u){
+  IDX.set(d.id + "|" + u.id, {d, p, b, u});
+  HASH.set(d.id + "|" + h(u.id), u.id);
+}
+for (const d of D.docs) for (const p of d.partes) for (const b of p.B){
+  if (b.k === "x"){ b.L.forEach(t => BUSCA.push({d: d.id, s: null, t, n: norm(t), rot: p.id === "corpo" ? "Preâmbulo" : p.r})); continue; }
+  if (b.k !== "a") continue;
+  reg(d, p, b, b);
+  const visita = u => {
+    reg(d, p, b, u);
+    if (u.t) BUSCA.push({d: d.id, s: u.id, t: u.t, n: norm(u.t)});
+    (u.I || []).forEach(visita); (u.A || []).forEach(visita);
+  };
+  visita(b.C); b.P.forEach(visita);
+}
+const rotulo = (doc, disp) => D.rotulos[doc + "|" + disp] || "";
+const CITADO = new Map();    // "doc|art" -> arestas
+const DOC_CITA = new Map(), DOC_CITADO = new Map();
+const soma = (m, a, b) => { if (!m.has(a)) m.set(a, new Map()); m.get(a).set(b, (m.get(a).get(b) || 0) + 1); };
+for (const e of D.arestas){
+  if (e.a !== e.d){ soma(DOC_CITA, e.a, e.d); soma(DOC_CITADO, e.d, e.a); }
+  if (e.f && e.t !== "interna-mesmo-artigo"){
+    const k = e.d + "|" + e.f;
+    if (!CITADO.has(k)) CITADO.set(k, []);
+    CITADO.get(k).push(e);
+  }
+}
+const RELS = [];             // relações declaradas (originou, fundamenta)
+for (const d of D.docs) (d.rel || "").split(",").filter(Boolean).forEach(r => { const [tipo, alvo] = r.split(":"); if (DOCS.has(alvo)) RELS.push({de: d.id, para: alvo, tipo}); });
+const nDisp = D.docs.reduce((n, d) => n + d.partes.reduce((m, p) => m + p.B.filter(b => b.k === "a").length, 0), 0);
+
+/* ---------- texto com remissões ---------- */
+function txt(t, R){
+  if (!R || !R.length) return esc(t);
+  let out = "", pos = 0;
+  for (const r of [...R].sort((a, b) => a.i - b.i)){
+    if (r.i < pos) continue;
+    out += esc(t.slice(pos, r.i));
+    const s = esc(t.slice(r.i, r.f));
+    if (r.s) out += `<a class="ref${r.S ? " multi" : ""} ${r.c || ""}" href="#${r.d}--${h(r.s)}" data-d="${r.d}" data-s="${esc(r.s)}"${r.S ? ` data-ss="${esc(r.S.join(","))}"` : ""} data-c="${r.c || ""}"${r.S ? ` title="Cita ${r.S.length} dispositivos"` : ""}>${s}</a>`;
+    else if (r.d) out += `<a class="ref doc" href="#${r.d}" data-d="${r.d}" title="${esc(DOCS.get(r.d).sigla)}">${s}</a>`;
+    else if (r.u) out += `<a class="ref ext" href="${esc(r.u)}" target="_blank" rel="noopener" title="${esc(r.x)}: abre no LexML">${s}</a>`;
+    else out += `<span class="ref fora" title="${esc(r.x)}: fora do piloto">${s}</span>`;
+    pos = r.f;
+  }
+  return out + esc(t.slice(pos));
+}
+function unidadeHTML(d, u, cls, rot, alvo, pop){
+  const id = pop ? "" : ` id="d-${d.id}--${h(u.id)}"`;
+  const marca = alvo === u.id ? " alvo" : "";
+  let s = `<p class="d ${cls}${marca}"${id}>${rot ? `<b class="r">${esc(rot)}</b> ` : ""}${txt(u.t, u.R)}</p>`;
+  (u.I || []).forEach(i => { s += unidadeHTML(d, i, "inc", i.r + " –", alvo, pop); });
+  (u.A || []).forEach(a => { s += unidadeHTML(d, a, "ali", a.r, alvo, pop); });
+  return s;
+}
+function artHTML(d, b, {alvo = null, pop = false} = {}){
+  const marca = alvo === b.id ? " alvo" : "";
+  let s = `<section class="art${marca}"${pop ? "" : ` id="d-${d.id}--${h(b.id)}"`} data-doc="${d.id}" data-art="${esc(b.id)}">`;
+  s += `<div class="art-r">${esc(b.r)}</div><div class="art-c">`;
+  if (b.tt) s += `<div class="art-tt">${esc(b.tt)}</div>`;
+  if (b.C.t || (b.C.I || []).length || (b.C.A || []).length) s += unidadeHTML(d, b.C, "cpt", "", alvo, pop);
+  b.P.forEach(p => { s += unidadeHTML(d, p, "par", p.r, alvo, pop); });
+  s += `</div>`;
+  if (!pop){
+    const cits = CITADO.get(d.id + "|" + b.id) || [];
+    const ext = cits.filter(e => e.a !== d.id).length;
+    s += `<div class="art-pe">`;
+    if (cits.length) s += `<button type="button" class="cit" data-k="${d.id}|${esc(b.id)}" aria-expanded="false">citado ${cits.length}×${ext ? ` (${ext} por outros atos)` : ""}</button>`;
+    s += `<button type="button" class="anc mudo" data-a="${d.id}--${h(b.id)}" data-c="${esc(d.sigla + ", " + rotulo(d.id, b.id))}">copiar âncora</button>`;
+    if (b.p) s += `<a href="pdf/${d.id}.pdf#page=${b.p}" target="_blank" rel="noopener">PDF p. ${b.p}</a>`;
+    s += `<code>${esc(b.id)}</code></div><div class="cit-lista" hidden></div>`;
+  }
+  return s + `</section>`;
+}
+
+/* ---------- índice lateral ---------- */
+function indice(atual){
+  let s = "";
+  for (const g of GRUPOS){
+    const ds = D.docs.filter(d => d.grupo === g).sort((a, b) => b.data.localeCompare(a.data));
+    if (!ds.length) continue;
+    s += `<h3>${g}</h3>`;
+    for (const d of ds) s += `<a href="#${d.id}"${d.id === atual ? ' aria-current="page"' : ""}>${esc(d.sigla)}<small>${esc(d.titulo)}</small></a>`;
+  }
+  $("#indice-lista").innerHTML = s;
+  document.querySelectorAll(".nav a").forEach(a => { if (a.dataset.v === atual) a.setAttribute("aria-current", "page"); else a.removeAttribute("aria-current"); });
+  const estreito = matchMedia("(max-width: 999px)").matches;
+  $("#indice").open = !estreito;
+}
+
+/* ---------- vistas ---------- */
+let docAtual = null;
+const vista = $("#vista");
+function cartao(d){
+  const n = d.partes.reduce((m, p) => m + p.B.filter(b => b.k === "a").length, 0);
+  const ci = [...(DOC_CITADO.get(d.id) || new Map()).values()].reduce((a, b) => a + b, 0);
+  const ct = [...(DOC_CITA.get(d.id) || new Map()).values()].reduce((a, b) => a + b, 0);
+  return `<a class="cartao" href="#${d.id}"><b>${esc(d.sigla)}</b><span class="t">${esc(d.titulo)}</span>
+    <span class="m">${n} ${d.tipo === "nota-tecnica" ? "itens" : "artigos"} · cita ${ct} · citado ${ci}</span></a>`;
+}
+function inicio(){
+  docAtual = null; indice("inicio");
+  const parcial = D.arestas.filter(e => e.g === "parcial");
+  let s = `<div class="abre"><h1>Normas de gás canalizado da ARSP, ligadas dispositivo a dispositivo</h1>
+    <p>Cada remissão do tipo “§ 7º do art. 43 da Resolução ARSP nº 46/2021” virou link para o parágrafo exato. Passe o mouse para ver o artigo inteiro; no pé de cada artigo aparece quem o cita.</p></div>
+    <div class="numeros"><div><b>${D.docs.length}</b><span>documentos</span></div><div><b>${nDisp}</b><span>artigos e cláusulas</span></div><div><b>${D.arestas.length}</b><span>remissões ligadas</span></div><div><b>${[...DOC_CITA.values()].reduce((n, m) => n + m.size, 0)}</b><span>ligações entre atos</span></div></div>
+    <div class="como">
+      <div><b>Passe o mouse</b>sobre um link azul: abre a caixinha com o artigo e o trecho citado marcado.</div>
+      <div><b>Busque ou pule</b>digite <code>114 art 49</code> ou <code>046 art 43 §7</code>, ou qualquer palavra do texto.</div>
+      <div><b>Cite no Word</b>“copiar âncora” no pé do artigo; cole no fim do link deste site.</div>
+    </div>`;
+  for (const g of GRUPOS){
+    const ds = D.docs.filter(d => d.grupo === g).sort((a, b) => b.data.localeCompare(a.data));
+    if (ds.length) s += `<section class="grupo"><h2>${g}</h2><div class="lista-docs">${ds.map(cartao).join("")}</div></section>`;
+  }
+  if (parcial.length){
+    const e = parcial[0];
+    s += `<div class="achado"><b>Remissão que não confere.</b> ${esc(DOCS.get(e.a).sigla)}, ${esc(rotulo(e.a, e.b))}, cita “…${esc(e.h.slice(30, 130))}…”, mas o dispositivo não existe no destino. <a href="#revisao">Ver lista a conferir</a>.</div>`;
+  }
+  vista.innerHTML = s;
+  scrollTo(0, 0);
+}
+
+function linhagemHTML(d){
+  const cita = [...(DOC_CITA.get(d.id) || new Map())].sort((a, b) => b[1] - a[1]);
+  const citado = [...(DOC_CITADO.get(d.id) || new Map())].sort((a, b) => b[1] - a[1]);
+  const relE = RELS.filter(r => r.para === d.id), relS = RELS.filter(r => r.de === d.id);
+  if (!cita.length && !citado.length && !relE.length && !relS.length) return "";
+  const no = (id, q, rl) => `<a class="no" href="#${id}" data-no="${id}"${rl ? ' data-rel="1"' : ""}>${esc(DOCS.get(id).sigla)}${q ? `<span class="q">${q}×</span>` : ""}${rl ? `<span class="rl">${esc(rl)}</span>` : ""}</a>`;
+  const esq = cita.map(([id, q]) => no(id, q)).concat(relS.filter(r => !cita.some(c => c[0] === r.para)).map(r => no(r.para, 0, r.tipo)));
+  const dir = citado.map(([id, q]) => no(id, q, relE.find(r => r.de === id)?.tipo)).concat(relE.filter(r => !citado.some(c => c[0] === r.de)).map(r => no(r.de, 0, r.tipo)));
+  return `<div class="lin-caixa"><h2>Linhagem</h2><div class="lin" id="lin"><svg class="fios" aria-hidden="true"></svg>
+    <div class="lin-col esq"><span class="rot">Cita</span>${esq.join("") || `<span class="lin-vazio">nenhum ato do piloto</span>`}</div>
+    <div><span class="no centro" data-no="centro">${esc(d.sigla)}</span></div>
+    <div class="lin-col dir"><span class="rot">Citado por</span>${dir.join("") || `<span class="lin-vazio">nenhum ato do piloto</span>`}</div>
+  </div></div>`;
+}
+function desenharFios(){
+  const lin = $("#lin"); if (!lin) return;
+  const svg = lin.querySelector("svg.fios"), base = lin.getBoundingClientRect();
+  const c = lin.querySelector('[data-no="centro"]').getBoundingClientRect();
+  let p = "";
+  lin.querySelectorAll(".lin-col.esq .no").forEach(n => { const r = n.getBoundingClientRect();
+    const x1 = r.right - base.left, y1 = r.top + r.height / 2 - base.top, x2 = c.left - base.left, y2 = c.top + c.height / 2 - base.top, m = (x1 + x2) / 2;
+    p += `<path class="${n.dataset.rel ? "rel" : ""}" d="M${x1},${y1} C${m},${y1} ${m},${y2} ${x2},${y2}"/>`; });
+  lin.querySelectorAll(".lin-col.dir .no").forEach(n => { const r = n.getBoundingClientRect();
+    const x1 = c.right - base.left, y1 = c.top + c.height / 2 - base.top, x2 = r.left - base.left, y2 = r.top + r.height / 2 - base.top, m = (x1 + x2) / 2;
+    p += `<path class="${n.dataset.rel ? "rel" : ""}" d="M${x1},${y1} C${m},${y1} ${m},${y2} ${x2},${y2}"/>`; });
+  svg.innerHTML = p;
+}
+addEventListener("resize", () => { desenharFios(); if (location.hash === "#mapa") mapa(); });
+
+function documento(id, disp){
+  const d = DOCS.get(id);
+  if (docAtual !== id){
+    docAtual = id; indice(id);
+    const sit = d.situacao === "Vigente" ? "vig" : "enc";
+    let s = `<div class="ficha"><div class="tipo">${esc(d.grupo)}</div><h1>${esc(d.sigla)}</h1><p class="ementa">${esc(d.titulo)}</p>
+      <div class="meta"><span class="chip ${sit}">${esc(d.situacao)}</span><span>${dataBR(d.data)}</span>
+      <a href="pdf/${d.id}.pdf" target="_blank" rel="noopener">PDF original</a>${d.link ? `<a href="${esc(d.link)}" target="_blank" rel="noopener">página da ARSP</a>` : ""}</div>
+      ${d.obs ? `<p class="obs">${esc(d.obs)}</p>` : ""}</div>${linhagemHTML(d)}<div class="texto">`;
+    for (const p of d.partes){
+      if (p.id !== "corpo") s += `<h2 class="parte-tit">${esc(p.r)}</h2>`;
+      for (const b of p.B){
+        if (b.k === "h") s += `<div class="estr">${esc(b.r)}${b.t ? `<small>${esc(b.t)}</small>` : ""}</div>`;
+        else if (b.k === "x"){
+          if (p.id !== "corpo" && !b.fecho) s += `<pre class="tab">${esc(b.L.join("\n"))}</pre>`;
+          else b.L.forEach((t, i) => { s += `<p class="pre${b.fecho ? " fecho" : ""}">${txt(t, b.RL && b.RL[i])}</p>`; });
+        } else s += artHTML(d, b);
+      }
+    }
+    vista.innerHTML = s + `</div>`;
+    requestAnimationFrame(desenharFios);
+  }
+  document.querySelectorAll(".marcado").forEach(e => e.classList.remove("marcado"));
+  if (disp){
+    const el = document.getElementById(`d-${id}--${h(disp)}`);
+    if (el){ el.classList.add("marcado"); el.scrollIntoView({block: "start"}); return; }
+  }
+  scrollTo(0, 0);
+}
+
+function mapa(){
+  docAtual = null; indice("mapa");
+  const ds = [...D.docs].sort((a, b) => a.data.localeCompare(b.data));
+  const W = 1280, M = 24, LANE0 = 54, ROW = 34;
+  const t = s => new Date(s + "T12:00:00").getTime();
+  const t0 = t("2016-01-01"), t1 = t("2027-01-01");
+  const X = s => M + 70 + (t(s) - t0) / (t1 - t0) * (W - 2 * M - 150);
+  const largura = d => d.sigla.length * 6.6 + 18;
+  const lanes = GRUPOS.map(() => []);
+  const pos = new Map();
+  let y = LANE0;
+  const laneY = [];
+  GRUPOS.forEach((g, gi) => {
+    const rows = [];
+    ds.filter(d => d.grupo === g).forEach(d => {
+      const x = Math.min(X(d.data) - largura(d) / 2, W - 12 - largura(d));
+      let r = rows.findIndex(fim => fim + 10 < x);
+      if (r < 0){ rows.push(0); r = rows.length - 1; }
+      rows[r] = x + largura(d);
+      pos.set(d.id, {x, w: largura(d), row: r, g: gi});
+    });
+    laneY.push({y, n: Math.max(rows.length, 1)});
+    y += Math.max(rows.length, 1) * ROW + 30;
+  });
+  pos.forEach(p => { p.y = laneY[p.g].y + p.row * ROW; });
+  const H = y + 6;
+  let s = `<svg viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="Mapa de citações entre os atos">`;
+  for (let a = 2016; a <= 2027; a++){ const x = X(`${a}-01-01`); s += `<line class="grade" x1="${x}" y1="28" x2="${x}" y2="${H - 6}"/><text class="eixo" x="${x + 4}" y="22">${a}</text>`; }
+  GRUPOS.forEach((g, gi) => { s += `<text class="faixa" x="${M}" y="${laneY[gi].y + 15}">${g === "Consultas públicas" ? "Consultas" : g}</text>`; });
+  const arestas = [];
+  DOC_CITA.forEach((m, a) => m.forEach((q, b) => arestas.push({a, b, q, rel: false})));
+  RELS.forEach(r => arestas.push({a: r.de, b: r.para, q: 1, rel: true}));
+  for (const e of arestas){
+    const pa = pos.get(e.a), pb = pos.get(e.b); if (!pa || !pb) continue;
+    const ax = pa.x, ay = pa.y + 11, bx = pb.x + pb.w, by = pb.y + 11;
+    const dx = Math.max(40, Math.abs(ax - bx) / 2);
+    const sw = (1 + Math.log2(e.q)).toFixed(2);
+    const path = ax >= bx ? `M${ax},${ay} C${ax - dx},${ay} ${bx + dx},${by} ${bx},${by}` : `M${ax + pa.w},${ay} C${ax + pa.w + 40},${ay} ${pb.x - 40},${by} ${pb.x},${by}`;
+    s += `<path class="aresta${e.rel ? " rel" : ""}" data-a="${e.a}" data-b="${e.b}" stroke-width="${sw}" d="${path}"><title>${esc(DOCS.get(e.a).sigla)} → ${esc(DOCS.get(e.b).sigla)}: ${e.rel ? "relação declarada" : e.q + " remissões"}</title></path>`;
+  }
+  for (const d of ds){ const p = pos.get(d.id);
+    s += `<g class="nd" data-id="${d.id}" tabindex="0" role="link" aria-label="${esc(d.sigla)}"><rect x="${p.x}" y="${p.y}" width="${p.w}" height="22" rx="5"/><text x="${p.x + 9}" y="${p.y + 15}">${esc(d.sigla)}</text></g>`; }
+  s += `</svg>`;
+  vista.innerHTML = `<div class="abre"><h1>Mapa de citações</h1><p>Cada caixa é um ato, na posição da sua data. As linhas ligam quem cita a quem é citado; a espessura cresce com o número de remissões. Passe o mouse sobre um ato para ver só as ligações dele; clique para abrir.</p></div>
+    <div class="mapa-caixa" id="mapa-caixa">${s}</div><p class="legenda">Linha tracejada: relação declarada no cadastro (a minuta originou a Res. 114; a nota técnica fundamenta a minuta).</p>`;
+  const caixa = $("#mapa-caixa");
+  caixa.querySelectorAll(".nd").forEach(n => {
+    const foco = on => { caixa.classList.toggle("focando", on); if (!on) return;
+      caixa.querySelectorAll(".on").forEach(e => e.classList.remove("on"));
+      n.classList.add("on");
+      caixa.querySelectorAll(".aresta").forEach(e => { if (e.dataset.a === n.dataset.id || e.dataset.b === n.dataset.id){ e.classList.add("on");
+        caixa.querySelector(`.nd[data-id="${e.dataset.a === n.dataset.id ? e.dataset.b : e.dataset.a}"]`)?.classList.add("on"); } }); };
+    n.addEventListener("mouseenter", () => foco(true)); n.addEventListener("mouseleave", () => foco(false));
+    n.addEventListener("focus", () => foco(true)); n.addEventListener("blur", () => foco(false));
+    n.addEventListener("click", () => { location.hash = n.dataset.id; });
+    n.addEventListener("keydown", ev => { if (ev.key === "Enter") location.hash = n.dataset.id; });
+  });
+  scrollTo(0, 0);
+}
+
+function revisao(){
+  docAtual = null; indice("revisao");
+  const item = e => `<div class="rev-item"><a href="#${e.a}--${h(e.b || "")}">${esc(DOCS.get(e.a).sigla)}, ${esc(rotulo(e.a, e.b) || "preâmbulo")}</a> → <a class="ref ${e.g}" href="#${e.d}--${h(e.e)}" data-d="${e.d}" data-s="${esc(e.e)}" data-c="${e.g}">${esc(DOCS.get(e.d).sigla)}, ${esc(rotulo(e.d, e.e))}</a><span class="tr">“…${esc(e.h)}…”</span></div>`;
+  const par = D.arestas.filter(e => e.g === "parcial"), inf = D.arestas.filter(e => e.g === "inferido");
+  vista.innerHTML = `<div class="abre"><h1>Remissões a conferir</h1><p>O detector marca dois casos para revisão humana. <b>Parcial</b>: o dispositivo citado não existe no ato de destino (erro na norma ou numeração alterada); o link vai para o artigo. <b>Inferido</b>: o texto não diz de qual ato é o artigo, e foi usado o ato padrão do documento.</p></div>
+    <section class="grupo"><h2>Parciais (${par.length})</h2>${par.map(item).join("")}</section>
+    <section class="grupo"><h2>Inferidas (${inf.length}): nota técnica da CP 004/2026 → minuta</h2>${inf.map(item).join("")}</section>`;
+  scrollTo(0, 0);
+}
+
+function rota(){
+  fecharPop(true); fecharBusca();
+  const hsh = decodeURIComponent(location.hash.slice(1));
+  if (!hsh || hsh === "inicio") return inicio();
+  if (hsh === "mapa") return mapa();
+  if (hsh === "revisao") return revisao();
+  const [doc, disp] = hsh.split("--");
+  if (DOCS.has(doc)) return documento(doc, disp ? HASH.get(doc + "|" + disp) : null);
+  inicio();
+}
+addEventListener("hashchange", rota);
+addEventListener("popstate", () => fecharPop(true));
+const topo = $("#topo");
+const medeTopo = () => document.documentElement.style.setProperty("--topo", topo.offsetHeight + "px");
+medeTopo(); if (window.ResizeObserver) new ResizeObserver(medeTopo).observe(topo);
+
+/* ---------- caixinha (ao passar o mouse) e janelas fixas (ao clicar) ---------- */
+// Estado de uma caixinha: ato, lista de dispositivos citados e qual está à vista.
+function estadoDoLink(a){
+  return {d: a.dataset.d, alvos: a.dataset.ss ? a.dataset.ss.split(",") : [a.dataset.s], i: 0,
+          c: a.dataset.c || "", texto: a.textContent};
+}
+function rotulosCurtos(doc, alvos){
+  // "Anexo I, Art. 60, § 2º" e "Anexo I, Art. 60, § 3º" -> "§ 2º", "§ 3º"
+  const rs = alvos.map(s => (rotulo(doc, s) || s).split(", "));
+  let k = 0;
+  while (rs.every(r => r.length > k + 1 && r[k] === rs[0][k])) k++;
+  return rs.map(r => r.slice(k).join(", "));
+}
+function conteudo(st, fixa){
+  const d = DOCS.get(st.d), alvo = st.alvos[st.i], info = IDX.get(st.d + "|" + alvo);
+  if (!d || !info) return "";
+  let aviso = "";
+  if (st.c === "inferido") aviso = `<span class="aviso inferido">Vínculo inferido: o texto não diz de qual ato é este artigo; usamos ${esc(d.sigla)}.</span>`;
+  if (st.c === "parcial") aviso = `<span class="aviso parcial">O texto cita “${esc(st.texto)}”, mas esse dispositivo não existe aqui. Mostrando o artigo.</span>`;
+  const n = st.alvos.length, pg = info.u.p || info.b.p;
+  const nav = n < 2 ? "" : `<div class="jn-nav" role="group" aria-label="Dispositivos citados nesta remissão">
+      <button type="button" class="jn-b jn-ant" aria-label="Dispositivo anterior"${st.i === 0 ? " disabled" : ""}>‹</button>
+      <span class="jn-cont">${st.i + 1} de ${n}</span>
+      <button type="button" class="jn-b jn-prox" aria-label="Próximo dispositivo"${st.i === n - 1 ? " disabled" : ""}>›</button>
+      <div class="jn-chips">${rotulosCurtos(st.d, st.alvos).map((r, k) => `<button type="button" class="jn-chip" data-k="${k}"${k === st.i ? ' aria-current="true"' : ""}>${esc(r)}</button>`).join("")}</div>
+    </div>`;
+  const ferr = fixa
+    ? `<button type="button" class="jn-b jn-topo" title="Encaixar no topo da tela" aria-label="Encaixar no topo">Topo</button>
+       <button type="button" class="jn-b jn-base" title="Encaixar embaixo da tela" aria-label="Encaixar embaixo">Base</button>
+       <button type="button" class="jn-b jn-fechar" title="Fechar" aria-label="Fechar janela">×</button>`
+    : `<button type="button" class="jn-b jn-fixar" title="Abrir numa janela que fica na tela">Fixar</button>`;
+  return `<div class="pop-cab"><div class="pop-tit"><span class="pop-doc">${esc(d.sigla)}</span><span class="pop-rot">${esc(rotulo(d.id, alvo))}</span></div>
+      <div class="jn-ferr">${ferr}</div>${aviso}</div>${nav}
+    <div class="pop-corpo">${artHTML(d, info.b, {alvo, pop: true})}</div>
+    <div class="pop-pe"><a href="#${d.id}--${h(alvo)}">Abrir no texto</a>${pg ? `<a href="pdf/${d.id}.pdf#page=${pg}" target="_blank" rel="noopener">PDF p. ${pg}</a>` : ""}<span class="esp">${esc(alvo)}</span></div>
+    ${fixa ? '<div class="jn-alca" title="Arraste para redimensionar" aria-hidden="true"></div>' : ""}`;
+}
+function rolarAlvo(el){
+  const corpo = el.querySelector(".pop-corpo"); if (!corpo) return;
+  const t = corpo.querySelector(".d.alvo");
+  corpo.scrollTop = t ? Math.max(0, t.offsetTop - corpo.offsetTop - 24) : 0;
+}
+const caber = el => {   // mantém a caixa inteira dentro da tela
+  const r = el.getBoundingClientRect();
+  if (r.bottom > innerHeight - 8) el.style.top = Math.max(8, innerHeight - r.height - 8) + "px";
+  if (r.right > innerWidth - 8) el.style.left = Math.max(8, innerWidth - r.width - 8) + "px";
+};
+
+/* caixinha */
+const pop = $("#pop");
+let tAbre = 0, tFecha = 0, popEst = null, popLink = null;
+function abrirPop(a){
+  const st = estadoDoLink(a);
+  if (!IDX.get(st.d + "|" + st.alvos[0])) return;
+  clearTimeout(tFecha);
+  popEst = st; popLink = a;
+  pop.innerHTML = conteudo(st, false);
+  pop.setAttribute("aria-label", rotulo(st.d, st.alvos[0]));
+  pop.hidden = false;
+  const r = a.getBoundingClientRect(), pw = pop.offsetWidth, ph = pop.offsetHeight;
+  const L = Math.min(Math.max(8, r.left), innerWidth - pw - 8);
+  let T = r.bottom + 8;
+  if (T + ph > innerHeight - 8) T = Math.max(8, r.top - ph - 8);
+  pop.style.left = L + "px"; pop.style.top = T + "px";
+  rolarAlvo(pop);
+}
+function fecharPop(ja){ clearTimeout(tAbre); clearTimeout(tFecha); const f = () => { pop.hidden = true; popEst = popLink = null; }; ja ? f() : (tFecha = setTimeout(f, 220)); }
+
+/* janelas fixas */
+const JANELAS = [];
+let zTopo = 100, nAbertas = 0;
+const fundoTopo = () => topo.getBoundingClientRect().bottom;
+function frente(w){ w.style.zIndex = ++zTopo; }
+function abrirJanela(st, perto){
+  const w = document.createElement("div");
+  w.className = "pop janela";
+  w.setAttribute("role", "dialog");
+  w.tabIndex = -1;
+  w._st = {d: st.d, alvos: [...st.alvos], i: st.i, c: st.c, texto: st.texto};
+  w.innerHTML = conteudo(w._st, true);
+  w.setAttribute("aria-label", rotulo(st.d, st.alvos[st.i]));
+  $("#janelas").appendChild(w);
+  const estreito = innerWidth < 700;
+  const larg = Math.min(560, innerWidth - 24), alt = Math.min(440, innerHeight - fundoTopo() - 24);
+  w.style.width = larg + "px"; w.style.height = Math.max(180, alt) + "px";
+  if (estreito) encaixar(w, "base");
+  else if (perto){
+    w.style.left = Math.min(Math.max(8, perto.left), innerWidth - larg - 8) + "px";
+    w.style.top = Math.max(fundoTopo() + 8, Math.min(perto.top, innerHeight - alt - 8)) + "px";
+  } else {
+    const k = nAbertas % 6;
+    w.style.left = Math.max(8, innerWidth - larg - 24 - k * 28) + "px";
+    w.style.top = (fundoTopo() + 16 + k * 28) + "px";
+  }
+  nAbertas++;
+  frente(w);
+  JANELAS.push(w);
+  if (JANELAS.length > 6) fecharJanela(JANELAS[0]);
+  rolarAlvo(w);
+  caber(w);
+  respiro();
+  w.focus({preventScroll: true});
+  return w;
+}
+function redesenhar(cx){
+  if (cx === pop){ pop.innerHTML = conteudo(popEst, false); rolarAlvo(pop); caber(pop); return; }
+  cx.innerHTML = conteudo(cx._st, true);
+  cx.setAttribute("aria-label", rotulo(cx._st.d, cx._st.alvos[cx._st.i]));
+  rolarAlvo(cx);
+}
+function fecharJanela(w){ const k = JANELAS.indexOf(w); if (k >= 0) JANELAS.splice(k, 1); w.remove(); respiro(); }
+function encaixar(w, onde){
+  const gut = 12, larg = Math.min(innerWidth - 2 * gut, 1100);
+  const alt = Math.round(Math.max(180, (innerHeight - fundoTopo()) * 0.42));
+  w.style.width = larg + "px"; w.style.height = alt + "px";
+  w.style.left = Math.round((innerWidth - larg) / 2) + "px";
+  w.style.top = (onde === "topo" ? fundoTopo() + 8 : innerHeight - alt - gut) + "px";
+  w.dataset.enc = onde;
+  respiro();
+}
+function respiro(){
+  // janela encaixada embaixo: abre espaço no fim da página para o texto não ficar escondido
+  const alt = JANELAS.filter(w => w.dataset.enc === "base").reduce((m, w) => Math.max(m, w.offsetHeight), 0);
+  document.documentElement.style.setProperty("--respiro", alt ? alt + 24 + "px" : "0px");
+}
+addEventListener("resize", () => JANELAS.forEach(w => { if (w.dataset.enc) encaixar(w, w.dataset.enc); else caber(w); }));
+
+/* arrastar pelo título e redimensionar pela alça */
+function arrastar(e, w, modo){
+  e.preventDefault();
+  const r = w.getBoundingClientRect(), x0 = e.clientX, y0 = e.clientY, el = e.target;
+  try { el.setPointerCapture(e.pointerId); } catch (_){}
+  document.body.classList.add("arrastando");
+  const mover = ev => {
+    const dx = ev.clientX - x0, dy = ev.clientY - y0;
+    if (modo === "mover"){
+      w.style.left = Math.min(Math.max(0, r.left + dx), innerWidth - 120) + "px";
+      w.style.top = Math.min(Math.max(fundoTopo(), r.top + dy), innerHeight - 48) + "px";
+    } else {
+      w.style.width = Math.max(260, Math.min(innerWidth - r.left - 4, r.width + dx)) + "px";
+      w.style.height = Math.max(150, Math.min(innerHeight - r.top - 4, r.height + dy)) + "px";
+    }
+    if (w.dataset.enc){ w.dataset.enc = ""; respiro(); }
+  };
+  const fim = () => {
+    el.removeEventListener("pointermove", mover); el.removeEventListener("pointerup", fim); el.removeEventListener("pointercancel", fim);
+    document.body.classList.remove("arrastando");
+  };
+  el.addEventListener("pointermove", mover); el.addEventListener("pointerup", fim); el.addEventListener("pointercancel", fim);
+}
+
+let toque = false, tPonteiro = 0;
+document.addEventListener("pointerdown", e => {
+  toque = e.pointerType !== "mouse"; tPonteiro = Date.now();
+  if (!pop.contains(e.target) && !e.target.closest("a.ref[data-s]")) fecharPop(true);
+  const w = e.target.closest(".janela");
+  if (!w) return;
+  frente(w);
+  if (e.target.closest(".jn-alca")) return arrastar(e, w, "redim");
+  if (e.target.closest(".pop-cab") && !e.target.closest("button, a")) return arrastar(e, w, "mover");
+});
+document.addEventListener("pointerover", e => {
+  const a = e.target.closest && e.target.closest("a.ref[data-s]");
+  if (!a || e.pointerType !== "mouse" || pop.contains(a) || document.body.classList.contains("arrastando")) return;
+  clearTimeout(tAbre); clearTimeout(tFecha);
+  tAbre = setTimeout(() => abrirPop(a), 160);
+});
+document.addEventListener("pointerout", e => { const a = e.target.closest && e.target.closest("a.ref[data-s]"); if (a && e.pointerType === "mouse" && !pop.contains(a)){ clearTimeout(tAbre); fecharPop(); } });
+pop.addEventListener("pointerenter", () => clearTimeout(tFecha));
+pop.addEventListener("pointerleave", e => { if (e.pointerType === "mouse") fecharPop(); });
+document.addEventListener("focusin", e => {   // só foco pelo teclado (Tab); clique e toque são tratados abaixo
+  const a = e.target.closest && e.target.closest("a.ref[data-s]");
+  if (a && !pop.contains(a) && Date.now() - tPonteiro > 600) abrirPop(a);
+});
+document.addEventListener("keydown", e => {
+  if (e.key !== "Escape") return;
+  if (!pop.hidden){ fecharPop(true); return; }
+  fecharBusca();
+  const w = document.activeElement && document.activeElement.closest && document.activeElement.closest(".janela");
+  if (w) fecharJanela(w);
+});
+document.addEventListener("click", e => {
+  // botões da caixinha e das janelas
+  const cx = e.target.closest(".pop");
+  const bt = e.target.closest(".jn-b, .jn-chip");
+  if (cx && bt){
+    const st = cx === pop ? popEst : cx._st;
+    if (!st) return;
+    if (bt.classList.contains("jn-ant") && st.i > 0){ st.i--; redesenhar(cx); }
+    else if (bt.classList.contains("jn-prox") && st.i < st.alvos.length - 1){ st.i++; redesenhar(cx); }
+    else if (bt.classList.contains("jn-chip")){ st.i = +bt.dataset.k; redesenhar(cx); }
+    else if (bt.classList.contains("jn-fixar")){ const r = pop.getBoundingClientRect(); fecharPop(true); abrirJanela(st, r); }
+    else if (bt.classList.contains("jn-fechar")) fecharJanela(cx);
+    else if (bt.classList.contains("jn-topo")) encaixar(cx, "topo");
+    else if (bt.classList.contains("jn-base")) encaixar(cx, "base");
+    return;
+  }
+  // link de remissão: clique abre uma janela fixa (Ctrl/Cmd/Shift + clique segue o link)
+  const a = e.target.closest("a.ref[data-s]");
+  if (a && !(e.ctrlKey || e.metaKey || e.shiftKey || e.altKey)){
+    e.preventDefault();
+    const doPop = !pop.hidden && popLink === a;
+    if (toque && !doPop){ abrirPop(a); return; }
+    const perto = doPop ? pop.getBoundingClientRect() : (() => { const r = a.getBoundingClientRect(); return {left: r.left, top: r.bottom + 8}; })();
+    const st = doPop ? popEst : estadoDoLink(a);
+    fecharPop(true);
+    abrirJanela(st, perto);
+    return;
+  }
+  const cit = e.target.closest("button.cit");
+  if (cit){
+    const lista = cit.closest("section").querySelector(".cit-lista");
+    const aberto = !lista.hidden;
+    if (!aberto && !lista.innerHTML){
+      const [doc, art] = cit.dataset.k.split("|");
+      const vistos = new Set();
+      lista.innerHTML = (CITADO.get(cit.dataset.k) || []).filter(x => { const k = x.a + x.b + x.e; if (vistos.has(k)) return false; vistos.add(k); return true; })
+        .sort((x, y) => (x.a === doc) - (y.a === doc) || x.a.localeCompare(y.a))
+        .map(x => `<div class="cit-item"><a class="o" href="#${x.a}--${h(x.b && x.b !== "preambulo" ? x.b : "")}">${esc(DOCS.get(x.a).sigla)}${x.a === doc ? " (esta norma)" : ""}, ${esc(rotulo(x.a, x.b) || "preâmbulo")}</a>
+          <span class="para">cita ${esc(rotulo(x.d, x.e))}${x.g === "inferido" ? " · vínculo inferido" : ""}${x.g === "parcial" ? " · dispositivo inexistente" : ""}</span><span class="tr">“…${esc(x.h)}…”</span></div>`).join("");
+    }
+    lista.hidden = aberto; cit.setAttribute("aria-expanded", String(!aberto));
+    return;
+  }
+  const anc = e.target.closest("button.anc");
+  if (anc){
+    const texto = "#" + anc.dataset.a;
+    const ok = () => avisar(`Âncora copiada: ${texto}. Cole no fim do link do site.`);
+    if (navigator.clipboard && navigator.clipboard.writeText) navigator.clipboard.writeText(texto).then(ok, () => avisar(`Copie a âncora: ${texto}`));
+    else avisar(`Copie a âncora: ${texto}`);
+  }
+});
+function avisar(m){ const t = $("#toast"); t.textContent = m; t.hidden = false; clearTimeout(avisar.t); avisar.t = setTimeout(() => { t.hidden = true; }, 3600); }
+
+/* ---------- busca e salto direto ---------- */
+const q = $("#q"), res = $("#resultados");
+let sel = 0, itens = [];
+function fecharBusca(){ res.hidden = true; }
+function salto(texto){
+  const m = norm(texto).replace(/(\d)\.(\d{3})/g, "$1$2").match(/(\d{2,5})(?:\s*\/\s*\d{4})?\D*?\bart(?:igo)?\.?\s*(\d{1,3})(?:\s*-\s*([a-z]))?(?:\D*?(?:§|par(?:agrafo)?\.?)\s*(\d{1,2}|unico))?(?:\D*?\binc(?:iso)?\.?\s*([ivxlc]+))?/);
+  if (!m) return null;
+  const num = parseInt(m[1], 10);
+  const cands = D.docs.filter(d => d.num === num);
+  for (const d of cands){
+    const partes = [...d.partes].sort((a, b) => (a.id === "corpo") - (b.id === "corpo"));
+    for (const p of partes){
+      const b = p.B.find(b => b.k === "a" && !b.sec && !b.r.startsWith("Cláusula") && b.n.toLowerCase() === m[2] + (m[3] ? "-" + m[3] : ""));
+      if (!b) continue;
+      let alvo = b.id, cont = b.C;
+      if (m[4]){ const P = b.P.find(x => (m[4] === "unico" ? x.r.startsWith("Parágrafo") : x.r.replace(/\D/g, "") === m[4])); if (P){ alvo = P.id; cont = P; } }
+      if (m[5]){ const I = (cont.I || []).find(x => x.r.toLowerCase() === m[5]); if (I) alvo = I.id; }
+      return {d: d.id, s: alvo, rot: `${d.sigla} · ${rotulo(d.id, alvo)}`};
+    }
+  }
+  return null;
+}
+function buscar(){
+  const v = q.value.trim();
+  if (v.length < 2){ fecharBusca(); return; }
+  const nv = norm(v), pulo = salto(v);
+  const achados = [];
+  for (const x of BUSCA){ const i = x.n.indexOf(nv); if (i >= 0){ achados.push([x, i]); if (achados.length >= 40) break; } }
+  itens = [];
+  let s = "";
+  if (pulo){ itens.push(`#${pulo.d}--${h(pulo.s)}`); s += `<button type="button" class="res-item pulo" data-i="0"><span class="rr">Ir para</span><div><b>${esc(pulo.rot)}</b></div></button>`; }
+  for (const [x, i] of achados){
+    const ini = Math.max(0, i - 50), trecho = x.t.slice(ini, i) + "\u0001" + x.t.slice(i, i + v.length) + "\u0002" + x.t.slice(i + v.length, i + v.length + 90);
+    const tt = esc(trecho).replace("\u0001", "<mark>").replace("\u0002", "</mark>");
+    itens.push(x.s ? `#${x.d}--${h(x.s)}` : `#${x.d}`);
+    s += `<button type="button" class="res-item" data-i="${itens.length - 1}"><span class="rr">${esc(DOCS.get(x.d).sigla)} · ${esc(x.s ? rotulo(x.d, x.s) : x.rot)}</span><span class="rt">${ini ? "…" : ""}${tt}…</span></button>`;
+  }
+  res.innerHTML = s || `<div class="res-vazio">Nada encontrado para “${esc(v)}”. Para ir direto a um artigo, use o número do ato e do artigo, como <b>114 art 49</b>.</div>`;
+  res.hidden = false; sel = 0; marcarSel();
+}
+function marcarSel(){ res.querySelectorAll(".res-item").forEach((b, i) => b.classList.toggle("ativo", i === sel)); }
+q.addEventListener("input", buscar);
+q.addEventListener("focus", () => { if (q.value.trim().length >= 2) buscar(); });
+q.addEventListener("keydown", e => {
+  if (res.hidden) return;
+  if (e.key === "ArrowDown"){ sel = Math.min(sel + 1, itens.length - 1); marcarSel(); e.preventDefault(); }
+  if (e.key === "ArrowUp"){ sel = Math.max(sel - 1, 0); marcarSel(); e.preventDefault(); }
+  if (e.key === "Enter" && itens[sel]){ location.hash = itens[sel].slice(1); q.blur(); fecharBusca(); }
+});
+res.addEventListener("click", e => { const b = e.target.closest(".res-item"); if (b){ location.hash = itens[+b.dataset.i].slice(1); fecharBusca(); } });
+document.addEventListener("pointerdown", e => { if (!e.target.closest(".busca")) fecharBusca(); });
+
+rota();
+})();
+</script>

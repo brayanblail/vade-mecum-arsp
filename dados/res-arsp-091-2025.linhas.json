@@ -1,0 +1,906 @@
+[
+{
+"pag": 1,
+"texto": "RESOLUÇÃO ARSP Nº 091 DE 31 DE JULHO DE 2025"
+},
+{
+"pag": 1,
+"texto": "*Republicada para retificação do texto original. Extrato originalmente publicado no DIO-ES, Edição nº 26.535,"
+},
+{
+"pag": 1,
+"texto": "Caderno Poder Executivo, de 1° de agosto de 2025."
+},
+{
+"pag": 1,
+"texto": "Dispõe sobre os resultados da 1ª Revisão Tarifária"
+},
+{
+"pag": 1,
+"texto": "Ordinária da Companhia de Gás do Espírito Santo –"
+},
+{
+"pag": 1,
+"texto": "ES Gás e estabelece a estrutura tarifária aplicável ao"
+},
+{
+"pag": 1,
+"texto": "2º Ciclo Tarifário."
+},
+{
+"pag": 1,
+"texto": "A DIRETORIA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DO ESPÍRITO"
+},
+{
+"pag": 1,
+"texto": "SANTO ARSP, no uso de suas atribuições regimentais, à vista do disposto na Lei"
+},
+{
+"pag": 1,
+"texto": "Complementar nº 827, de 30 de junho de 2016;"
+},
+{
+"pag": 1,
+"texto": "Considerando que compete a ARSP fixar as tarifas e outras formas de contraprestação dos"
+},
+{
+"pag": 1,
+"texto": "serviços regulados, bem como os reajustes anuais e as revisões, tendo por objetivo assegurar"
+},
+{
+"pag": 1,
+"texto": "tanto o equilíbrio econômico-financeiro da prestação do serviço como a modicidade tarifária,"
+},
+{
+"pag": 1,
+"texto": "mediante mecanismos que induzam à eficiência e eficácia dos serviços e que permitam a"
+},
+{
+"pag": 1,
+"texto": "apropriação social dos ganhos de produtividade, no que couber;"
+},
+{
+"pag": 1,
+"texto": "Considerando o disposto no Contrato de Concessão dos Serviços Públicos de Distribuição de"
+},
+{
+"pag": 1,
+"texto": "Gás Canalizado, assinado em 22 julho de 2020;"
+},
+{
+"pag": 1,
+"texto": "Considerando as regras para definição das tarifas aplicáveis aos agentes livres de mercado,"
+},
+{
+"pag": 1,
+"texto": "na forma do da Resolução ARSP n° 046/2021;"
+},
+{
+"pag": 1,
+"texto": "Considerando que a Companhia de Gás do Espírito Santo – ES Gás encaminhou em 16 de"
+},
+{
+"pag": 1,
+"texto": "julho de 2025, a carta ES GAS/DAC/GREG Nº 090/2025, contendo pedido de homologação do"
+},
+{
+"pag": 1,
+"texto": "reajuste tarifário via custo médio do Preço do Gás (PG);"
+},
+{
+"pag": 1,
+"texto": "Considerando a Resolução ARSP n° 061/2023, que estabelece o procedimento de reajuste da"
+},
+{
+"pag": 1,
+"texto": "tarifa do gás canalizado contemplando a apuração, atualização e compensação dos saldos"
+},
+{
+"pag": 1,
+"texto": "entre o Preço Médio do Gás praticado na tabela tarifária e o Preço do Gás Devido praticado por"
+},
+{
+"pag": 1,
+"texto": "cada supridor e/ou transportador, dentre outras providências;"
+},
+{
+"pag": 1,
+"texto": "Considerando o PARECER PGE/PCA Nº 0770/2021 e Despacho PGE/PCA Nº 0931/2021 que"
+},
+{
+"pag": 1,
+"texto": "ratificam o PARECER PGE/PCA Nº 0033/2021 e Despacho PGE/PCA Nº 00334/2021 quanto"
+},
+{
+"pag": 1,
+"texto": "ao reajuste da margem média de distribuição em 01° de agosto;"
+},
+{
+"pag": 1,
+"texto": "Considerando o Parecer Técnico ARSP/DP/GET Nº 015/2025, que trata do reajuste trimestral"
+},
+{
+"pag": 1,
+"texto": "do preço do gás aplicável para agosto de 2025;"
+},
+{
+"pag": 2,
+"texto": "Considerando a Resolução ARSP nº 080/2024, que estabelece os critérios para a definição"
+},
+{
+"pag": 2,
+"texto": "da base de remuneração regulatória aplicável às revisões tarifárias ordinárias da Companhia"
+},
+{
+"pag": 2,
+"texto": "de Gás do Espírito Santo – ES Gás, especialmente o disposto em seu art. 19;"
+},
+{
+"pag": 2,
+"texto": "Considerando a Resolução ARSP nº 084/2025, que estabelece a metodologia de revisão da"
+},
+{
+"pag": 2,
+"texto": "margem média de distribuição aplicável à 1ª Revisão Tarifária Ordinária da Companhia de Gás"
+},
+{
+"pag": 2,
+"texto": "do Espírito Santo – ES Gás;"
+},
+{
+"pag": 2,
+"texto": "Considerando o Plano de Negócios encaminhado pela ES Gás, em 14 de abril de 2025, em"
+},
+{
+"pag": 2,
+"texto": "atendimento a cláusula IX do contrato de concessão;"
+},
+{
+"pag": 2,
+"texto": "Considerando o incentivo à transição para uma economia de baixo carbono presente no"
+},
+{
+"pag": 2,
+"texto": "programa ES MAIS+Gás, no Plano Estadual de Descarbonização e Neutralização de Emissões,"
+},
+{
+"pag": 2,
+"texto": "bem como nas metas estratégicas dos programas ES500 e ES Carbono Zero;"
+},
+{
+"pag": 2,
+"texto": "Considerando a previsão do início do segundo ciclo tarifário a partir de 1º de agosto de 2025;"
+},
+{
+"pag": 2,
+"texto": "Considerando a proposta da ES Gás para a estrutura tarifária encaminhada por meio da Carta"
+},
+{
+"pag": 2,
+"texto": "ES GAS/DAC/GREG Nº 091/2025, atualizada pelas cartas ES GAS/DAC/GREG Nº 094/2025,"
+},
+{
+"pag": 2,
+"texto": "ES GAS/DAC/GREG Nº 098/2025, ES GAS/DAC/GREG Nº 099/2025;"
+},
+{
+"pag": 2,
+"texto": "Considerando a Nota Técnica ARSP/DP/GET Nº 07/2025 e a Nota Técnica ARSP/DP/GET Nº"
+},
+{
+"pag": 2,
+"texto": "09/2025;"
+},
+{
+"pag": 2,
+"texto": "Considerando a Consulta Pública ARSP nº 06/2025, realizada de 28 de maio a 17 de junho de"
+},
+{
+"pag": 2,
+"texto": "2025 e a reunião participativa realizada em 25 de julho de 2025;"
+},
+{
+"pag": 2,
+"texto": "RESOLVE:"
+},
+{
+"pag": 2,
+"texto": "Art. 1º Aprovar os resultados finais da Revisão Tarifária Ordinária da Companhia de Gás do"
+},
+{
+"pag": 2,
+"texto": "Espírito Santo – ES Gás, na forma da Nota Técnica ARSP/DP/GET nº 09/2025."
+},
+{
+"pag": 2,
+"texto": "Art. 2º Aprovar a Margem Média de distribuição no valor de R$ 0,4702/m³ sem tributos."
+},
+{
+"pag": 2,
+"texto": "Art. 3º Homologar o Preço Médio do Gás reajustado somado à Parcela de Recuperação"
+},
+{
+"pag": 2,
+"texto": "apurada, no valor de R$ 2,0908/m³ para os segmentos Não Termoelétricos."
+},
+{
+"pag": 2,
+"texto": "Art. 4º Aprovar a Tarifa Teto Média do Serviço Público de Distribuição de Gás Canalizado no"
+},
+{
+"pag": 2,
+"texto": "valor de R$ 2,5610 /m³ sem tributos."
+},
+{
+"pag": 2,
+"texto": "Art. 5º Aprovar a nova estrutura tarifária, com a apresentação da tabela de tarifas, na forma do"
+},
+{
+"pag": 2,
+"texto": "Anexo I desta Resolução."
+},
+{
+"pag": 3,
+"texto": "Parágrafo único. Os valores das tarifas do Anexo I não incluem tributos, que serão aplicados"
+},
+{
+"pag": 3,
+"texto": "pela Concessionária, conforme a legislação vigente."
+},
+{
+"pag": 3,
+"texto": "Art. 6º Divulgar as Tarifas de Uso do Sistema de Distribuição (TUSD-GÁS), aplicável aos"
+},
+{
+"pag": 3,
+"texto": "agentes livres de mercado, conforme Anexo II desta Resolução."
+},
+{
+"pag": 3,
+"texto": "Parágrafo único. Os valores das tarifas do Anexo II não incluem tributos, que serão aplicados"
+},
+{
+"pag": 3,
+"texto": "pela Concessionária, conforme a legislação vigente."
+},
+{
+"pag": 3,
+"texto": "Art. 7º Fica aprovada a criação do subsegmento “Incentivo à Descarbonização”, no âmbito do"
+},
+{
+"pag": 3,
+"texto": "segmento Industrial, aplicável durante o segundo ciclo tarifário."
+},
+{
+"pag": 3,
+"texto": "§ 1º O subsegmento de Incentivo à Descarbonização é destinado a usuários industriais cujos"
+},
+{
+"pag": 3,
+"texto": "volumes contratados sejam iguais ou superiores a 10.000 m³/dia exclusivamente a volumes"
+},
+{
+"pag": 3,
+"texto": "adicionais ao previsto no Plano de Negócios da Revisão Tarifária Ordinária encaminhado pela"
+},
+{
+"pag": 3,
+"texto": "concessionária, e também, para novos usuários com volumes adicionais contratados que"
+},
+{
+"pag": 3,
+"texto": "excederem a 10.000 m³/dia."
+},
+{
+"pag": 3,
+"texto": "§ 2º Os descontos aplicados ao subsegmento de Incentivo à Descarbonização não serão"
+},
+{
+"pag": 3,
+"texto": "considerados para fins de caracterização de desequilíbrio econômico-financeiro, nem ensejarão"
+},
+{
+"pag": 3,
+"texto": "recomposição ou ajuste compensatório à concessionária."
+},
+{
+"pag": 3,
+"texto": "§ 3º O tratamento das receitas deste subsegmento, oriundas de volumes adicionais à projeção"
+},
+{
+"pag": 3,
+"texto": "de demanda considerada no cálculo da margem média de distribuição, será definido no"
+},
+{
+"pag": 3,
+"texto": "regulamento que estabelecerá a metodologia do terceiro ciclo tarifário, salvo na hipótese de"
+},
+{
+"pag": 3,
+"texto": "aplicação para fins de recomposição extraordinária do equilíbrio econômico-financeiro."
+},
+{
+"pag": 3,
+"texto": "§ 4º A concessionária deverá divulgar, de forma clara e acessível aos usuários, o volume de"
+},
+{
+"pag": 3,
+"texto": "gás canalizado passível de enquadramento no Subsegmento de Incentivo à Descarbonização."
+},
+{
+"pag": 3,
+"texto": "§ 5º Demais particularidades poderão ser regulamentadas pela ARSP."
+},
+{
+"pag": 3,
+"texto": "Art. 8º Esta Resolução entra em vigor em 01° de agosto de 2025."
+},
+{
+"pag": 3,
+"texto": "Vitória/ES, 31 de julho de 2025."
+},
+{
+"pag": 3,
+"texto": "Alexandre Ventorim"
+},
+{
+"pag": 3,
+"texto": "Diretor-Geral"
+},
+{
+"pag": 3,
+"texto": "Débora Cristina Niero"
+},
+{
+"pag": 3,
+"texto": "Diretora de Gás Canalizado e Energia"
+},
+{
+"pag": 3,
+"texto": "Jéssica Novelli"
+},
+{
+"pag": 3,
+"texto": "Diretora Setorial - Saneamento Básico -"
+},
+{
+"pag": 3,
+"texto": "Respondendo"
+},
+{
+"pag": 3,
+"texto": "Tatiana Santos de Oliveira"
+},
+{
+"pag": 3,
+"texto": "Diretora Setorial - Infraestrutura Viária e"
+},
+{
+"pag": 3,
+"texto": "Mobilidade Urbana"
+},
+{
+"pag": 3,
+"texto": "Eduardo Calegari Fabris"
+},
+{
+"pag": 3,
+"texto": "Diretor Administrativo e Financeiro"
+},
+{
+"pag": 4,
+"texto": "ANEXO I"
+},
+{
+"pag": 4,
+"texto": "TARIFAS DO GÁS NATURAL CANALIZADO"
+},
+{
+"pag": 4,
+"texto": "ES GÁS – COMPANHIA DE GÁS DO ESPÍRITO SANTO"
+},
+{
+"pag": 4,
+"texto": "VÁLIDA A PARTIR DE 01/08/2025"
+},
+{
+"pag": 4,
+"texto": "(*) Os valores não incluem tributos. Esses serão aplicados conforme a legislação vigente."
+},
+{
+"pag": 4,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 4,
+"texto": "1 - 7,00 14,83 3,0798"
+},
+{
+"pag": 4,
+"texto": "2 7,01 20,00 15,82 3,0798"
+},
+{
+"pag": 4,
+"texto": "3 20,01 30,00 19,78 3,0798"
+},
+{
+"pag": 4,
+"texto": "4 34,61 3,0798"
+},
+{
+"pag": 4,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 4,
+"texto": "1 - 60,00 29,67 4,0688"
+},
+{
+"pag": 4,
+"texto": "2 60,01 100,00 44,50 3,9699"
+},
+{
+"pag": 4,
+"texto": "3 100,01 200,00 79,12 3,9204"
+},
+{
+"pag": 4,
+"texto": "4 200,01 500,00 148,35 3,8710"
+},
+{
+"pag": 4,
+"texto": "5 247,25 3,8710"
+},
+{
+"pag": 4,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 4,
+"texto": "1 - 50,00 44,50 4,2369"
+},
+{
+"pag": 4,
+"texto": "2 50,01 200,00 59,34 4,1380"
+},
+{
+"pag": 4,
+"texto": "3 200,01 500,00 108,79 3,8907"
+},
+{
+"pag": 4,
+"texto": "4 500,01 1.000,00 168,13 3,8611"
+},
+{
+"pag": 4,
+"texto": "5 1.000,01 3.500,00 553,83 3,7226"
+},
+{
+"pag": 4,
+"texto": "6 3.500,01 6.000,00 1.285,68 3,6237"
+},
+{
+"pag": 4,
+"texto": "7 2.769,15 3,4853"
+},
+{
+"pag": 4,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 4,
+"texto": "1 - 1.000,00 95,84 4,8205"
+},
+{
+"pag": 4,
+"texto": "2 1.000,01 5.000,00 1.623,91 3,2927"
+},
+{
+"pag": 4,
+"texto": "3 5.000,01 50.000,00 4.258,40 2,7662"
+},
+{
+"pag": 4,
+"texto": "4 50.000,01 300.000,00 7.892,41 2,6945"
+},
+{
+"pag": 4,
+"texto": "5 300.000,01 500.000,00 20.294,78 2,6532"
+},
+{
+"pag": 4,
+"texto": "6 500.000,01 1.000.000,00 47.377,17 2,5990"
+},
+{
+"pag": 4,
+"texto": "7 1.000.000,01 10.000.000,00 141.700,90 2,5050"
+},
+{
+"pag": 4,
+"texto": "8 404.859,71 2,4789"
+},
+{
+"pag": 4,
+"texto": "- 2,3179"
+},
+{
+"pag": 4,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 4,
+"texto": "1 - 15.000,00 919,75 2,3776"
+},
+{
+"pag": 4,
+"texto": "2 2.076,86 2,3776"
+},
+{
+"pag": 4,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 4,
+"texto": "1 - 494,49 2,3677"
+},
+{
+"pag": 4,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 4,
+"texto": "1 - 300.000,00 29.669,44 2,3479"
+},
+{
+"pag": 4,
+"texto": "2 300.000,01 3.000.000,00 98.898,14 2,2886"
+},
+{
+"pag": 4,
+"texto": "3 494.490,71 2,1600"
+},
+{
+"pag": 4,
+"texto": "Acima de 10.000.000,01"
+},
+{
+"pag": 4,
+"texto": "Incentivo à descarbonização"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 4,
+"texto": "Residencial - Medição Individual"
+},
+{
+"pag": 4,
+"texto": "Tarifas Usuários Cativos"
+},
+{
+"pag": 4,
+"texto": "Acima de 30,01"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 4,
+"texto": "Residencial - Medição Coletiva"
+},
+{
+"pag": 4,
+"texto": "Acima de 500,01"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 4,
+"texto": "Comercial"
+},
+{
+"pag": 4,
+"texto": "Acima de 6.000,01"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 4,
+"texto": "Industrial"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 4,
+"texto": "Acima de 15.000,01"
+},
+{
+"pag": 4,
+"texto": "Cogeração e Climatização"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 4,
+"texto": "Matéria Prima"
+},
+{
+"pag": 4,
+"texto": "GNV - (Postos e Frotas)"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 4,
+"texto": "Acima de 3.000.000,01"
+},
+{
+"pag": 5,
+"texto": "ANEXO II"
+},
+{
+"pag": 5,
+"texto": "TARIFAS DE USO DO SISTEMA DE DISTRIBUIÇÃO – TUSD-GÁS"
+},
+{
+"pag": 5,
+"texto": "ES GÁS – COMPANHIA DE GÁS DO ESPÍRITO SANTO"
+},
+{
+"pag": 5,
+"texto": "VÁLIDA A PARTIR DE 01/08/2025"
+},
+{
+"pag": 5,
+"texto": "(*) A aplicação considera o limite volumétrico estabelecido na Lei Estadual Nº 11.173/2020 e na Resolução ARSP Nº046 /2021 aos agentes livres de mercado."
+},
+{
+"pag": 5,
+"texto": "(*) Os valores não incluem tributos. Esses serão aplicados conforme a legislação vigente."
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - 7,00 14,83 0,9890"
+},
+{
+"pag": 5,
+"texto": "2 7,01 20,00 15,82 0,9890"
+},
+{
+"pag": 5,
+"texto": "3 20,01 30,00 19,78 0,9890"
+},
+{
+"pag": 5,
+"texto": "4 34,61 0,9890"
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - 60,00 29,67 1,9780"
+},
+{
+"pag": 5,
+"texto": "2 60,01 100,00 44,50 1,8791"
+},
+{
+"pag": 5,
+"texto": "3 100,01 200,00 79,12 1,8296"
+},
+{
+"pag": 5,
+"texto": "4 200,01 500,00 148,35 1,7802"
+},
+{
+"pag": 5,
+"texto": "5 247,25 1,7802"
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - 50,00 44,50 2,1461"
+},
+{
+"pag": 5,
+"texto": "2 50,01 200,00 59,34 2,0472"
+},
+{
+"pag": 5,
+"texto": "3 200,01 500,00 108,79 1,7999"
+},
+{
+"pag": 5,
+"texto": "4 500,01 1.000,00 168,13 1,7703"
+},
+{
+"pag": 5,
+"texto": "5 1.000,01 3.500,00 553,83 1,6318"
+},
+{
+"pag": 5,
+"texto": "6 3.500,01 6.000,00 1.285,68 1,5329"
+},
+{
+"pag": 5,
+"texto": "7 2.769,15 1,3945"
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - 1.000,00 95,84 2,7297"
+},
+{
+"pag": 5,
+"texto": "2 1.000,01 5.000,00 1.623,91 1,2019"
+},
+{
+"pag": 5,
+"texto": "3 5.000,01 50.000,00 4.258,40 0,6754"
+},
+{
+"pag": 5,
+"texto": "4 50.000,01 300.000,00 7.892,41 0,6037"
+},
+{
+"pag": 5,
+"texto": "5 300.000,01 500.000,00 20.294,78 0,5624"
+},
+{
+"pag": 5,
+"texto": "6 500.000,01 1.000.000,00 47.377,17 0,5082"
+},
+{
+"pag": 5,
+"texto": "7 1.000.000,01 10.000.000,00 141.700,90 0,4142"
+},
+{
+"pag": 5,
+"texto": "8 Acima de 10.000.000,01 404.859,71 0,3881"
+},
+{
+"pag": 5,
+"texto": "Incentivo à descarbonização - 0,2271"
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - 15.000,00 919,75 0,2868"
+},
+{
+"pag": 5,
+"texto": "2 2.076,86 0,2868"
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - 494,49 0,2769"
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo (R$) Valor Variável (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - 300.000,00 29.669,44 0,2571"
+},
+{
+"pag": 5,
+"texto": "2 300.000,01 3.000.000,00 98.898,14 0,1978"
+},
+{
+"pag": 5,
+"texto": "3 494.490,71 0,0692"
+},
+{
+"pag": 5,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 5,
+"texto": "Acima de 3.000.000,01"
+},
+{
+"pag": 5,
+"texto": "GNV - (Postos e Frotas)"
+},
+{
+"pag": 5,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 5,
+"texto": "Matéria Prima"
+},
+{
+"pag": 5,
+"texto": "Cogeração e Climatização"
+},
+{
+"pag": 5,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 5,
+"texto": "Acima de 15.000,01"
+},
+{
+"pag": 5,
+"texto": "Acima de 6.000,01"
+},
+{
+"pag": 5,
+"texto": "Industrial"
+},
+{
+"pag": 5,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 5,
+"texto": "Acima de 500,01"
+},
+{
+"pag": 5,
+"texto": "Comercial"
+},
+{
+"pag": 5,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 5,
+"texto": "Acima de 30,01"
+},
+{
+"pag": 5,
+"texto": "Residencial - Medição Coletiva"
+},
+{
+"pag": 5,
+"texto": "Volume Mensal (m³)"
+},
+{
+"pag": 5,
+"texto": "TUSD-Gás"
+},
+{
+"pag": 5,
+"texto": "Residencial - Medição Individual"
+},
+{
+"pag": 5,
+"texto": "Volume Mensal (m³)"
+}
+]

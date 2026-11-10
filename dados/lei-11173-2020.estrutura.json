@@ -1,0 +1,680 @@
+{
+ "id": "lei-11173-2020",
+ "sigla": "Lei 11.173/2020",
+ "tipo": "lei",
+ "orgao": "ES",
+ "numero": "11173",
+ "ano": "2020",
+ "data": "2020-09-25",
+ "grupo": "Leis",
+ "arquivo": "Leis e Decretos/Estaduais/2020-09-25 - LEI 11173-2020 - Mercado livre de gas canalizado.pdf",
+ "titulo": "Dispõe sobre normas para o mercado livre de gás canalizado no âmbito do Estado do Espírito Santo e dá outras providências.",
+ "situacao": "Vigente",
+ "observacao": "Lei do mercado livre de gás no ES: consumidor livre, autoprodutor e autoimportador. TUSD-GÁS e TUSDE-GÁS.",
+ "link_oficial": "https://arsp.es.gov.br/Media/arsi/Legislação/Leis%20Estaduais%20e%20Municipais/Lei%2011.173-2020%20Mercado%20livre%20de%20gás.pdf",
+ "ocr": "nao",
+ "alvo_padrao": "",
+ "relacoes": "",
+ "partes": [
+  {
+   "id": "corpo",
+   "rotulo": "Texto da norma",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "linhas": [
+      "LEI Nº 11.173 Dispõe sobre normas para o mercado livre de gás canalizado no âmbito do Estado do Espírito Santo e dá outras providências.",
+      "O GOVERNADOR DO ESTADO DO ESPÍRITO SANTO",
+      "Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:"
+     ],
+     "pag": 1,
+     "refs_linhas": {
+      "0": [],
+      "1": [],
+      "2": []
+     }
+    },
+    {
+     "tipo": "artigo",
+     "num": "1",
+     "rotulo": "Art. 1º",
+     "id": "art1",
+     "pag": 1,
+     "caput": {
+      "id": "art1_cpt",
+      "texto": "Esta Lei dispõe sobre normas para o mercado livre de gás canalizado no âmbito do Estado do Espírito Santo e dá outras providências.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "2",
+     "rotulo": "Art. 2º",
+     "id": "art2",
+     "pag": 1,
+     "caput": {
+      "id": "art2_cpt",
+      "texto": "O agente livre de mercado é o usuário do serviço público de distribuição de gás canalizado que se qualifique, observado o disposto na legislação e em regulamento expedido pela agência reguladora do serviço público de distribuição de gás canalizado, como consumidor livre, autoprodutor ou autoimportador.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art2_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "Para os fins desta Lei e da regulamentação, ficam estabelecidas as seguintes definições:",
+       "incisos": [
+        {
+         "id": "art2_par1_inc1",
+         "rotulo": "I",
+         "num": 1,
+         "texto": "autoimportador: usuário do serviço público de distribuição de gás canalizado autorizado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis - ANP para a importação de gás e que utiliza parte ou totalidade do produto importado como matéria-prima ou combustível em suas instalações industriais;",
+         "alineas": [],
+         "pag": 1,
+         "refs": []
+        },
+        {
+         "id": "art2_par1_inc2",
+         "rotulo": "II",
+         "num": 2,
+         "texto": "autoprodutor: usuário do serviço público de distribuição de gás canalizado autorizado pela ANP a produzir, a molécula do gás, e que utiliza parte ou totalidade de sua produção como matéria-prima ou combustível em suas instalações industriais; e",
+         "alineas": [],
+         "pag": 1,
+         "refs": []
+        },
+        {
+         "id": "art2_par1_inc3",
+         "rotulo": "III",
+         "num": 3,
+         "texto": "consumidor livre: usuário do serviço público de distribuição de gás canalizado com volume de consumo igual ou superior a 10.000 m³/dia que, conforme critérios de enquadramento e condições fixados nesta Lei e em regulamento, tem a opção de adquirir a molécula do gás diretamente do supridor.",
+         "alineas": [],
+         "pag": 1,
+         "refs": []
+        }
+       ],
+       "pag": 1,
+       "refs": []
+      },
+      {
+       "id": "art2_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "Fica facultada a alteração do volume de consumo definido no inciso III do § 1º para fins de enquadramento do usuário como consumidor livre em regulamento da agência reguladora.",
+       "incisos": [],
+       "pag": 1,
+       "refs": [
+        {
+         "ini": 60,
+         "fim": 78,
+         "doc": "lei-11173-2020",
+         "disp": "art2_par1_inc3",
+         "art": "art2",
+         "conf": "exato"
+        }
+       ]
+      },
+      {
+       "id": "art2_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "A qualificação de agente como autoprodutor ou autoimportador condiciona-se às regras previstas na legislação federal.",
+       "incisos": [],
+       "pag": 1,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "3",
+     "rotulo": "Art. 3º",
+     "id": "art3",
+     "pag": 1,
+     "caput": {
+      "id": "art3_cpt",
+      "texto": "O mercado livre de gás canalizado no âmbito do Estado do Espírito Santo é norteado pelas seguintes diretrizes:",
+      "incisos": [
+       {
+        "id": "art3_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "promoção do livre mercado;",
+        "alineas": [],
+        "pag": 1,
+        "refs": []
+       },
+       {
+        "id": "art3_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "transparência, eficiência e estrutura tarifária adequada;",
+        "alineas": [],
+        "pag": 1,
+        "refs": []
+       },
+       {
+        "id": "art3_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "tratamento tarifário isonômico ao consumidor livre, ao autoprodutor e ao autoimportador, observadas as diferenças estabelecidas na legislação e em regulamento; e",
+        "alineas": [],
+        "pag": 1,
+        "refs": []
+       },
+       {
+        "id": "art3_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "ampliação da rede de distribuição de gás canalizado.",
+        "alineas": [],
+        "pag": 1,
+        "refs": []
+       }
+      ],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "4",
+     "rotulo": "Art. 4º",
+     "id": "art4",
+     "pag": 1,
+     "caput": {
+      "id": "art4_cpt",
+      "texto": "O agente livre de mercado que utilizar o sistema de distribuição deverá firmar contrato para a distribuição de gás canalizado com a concessionária, fazendo jus ao tratamento tarifário específico da tarifa de uso do sistema de distribuição de gás canalizado - TUSD-GÁS.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "5",
+     "rotulo": "Art. 5º",
+     "id": "art5",
+     "pag": 1,
+     "caput": {
+      "id": "art5_cpt",
+      "texto": "O agente livre de mercado que implantar o seu ramal dedicado deverá doar o ativo construído, conforme regulamento, e firmar contrato de operação e manutenção do ramal dedicado com a concessionária, fazendo jus a tratamento tarifário específico da tarifa de uso do sistema de distribuição exclusiva de gás canalizado - TUSDE-GÁS.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art5_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "A concessionária e os agentes livres de mercado poderão firmar, mediante mútuo acordo, observado o direito de preferência da concessionária em fazer o investimento do ramal dedicado e o disposto em regulamento, contratos que permitam a esses últimos:",
+       "incisos": [
+        {
+         "id": "art5_par1_inc1",
+         "rotulo": "I",
+         "num": 1,
+         "texto": "construir gasodutos e instalações de forma exclusiva;",
+         "alineas": [],
+         "pag": 1,
+         "refs": []
+        },
+        {
+         "id": "art5_par1_inc2",
+         "rotulo": "II",
+         "num": 2,
+         "texto": "construir gasodutos e instalações de forma compartilhada com a concessionária;",
+         "alineas": [],
+         "pag": 1,
+         "refs": []
+        },
+        {
+         "id": "art5_par1_inc3",
+         "rotulo": "III",
+         "num": 3,
+         "texto": "arcar integralmente com o custo da construção de gasodutos e instalações pela concessionária; e",
+         "alineas": [],
+         "pag": 1,
+         "refs": []
+        },
+        {
+         "id": "art5_par1_inc4",
+         "rotulo": "IV",
+         "num": 4,
+         "texto": "arcar parcialmente com o custo da construção de gasodutos e instalações pela concessionária.",
+         "alineas": [],
+         "pag": 1,
+         "refs": []
+        }
+       ],
+       "pag": 1,
+       "refs": []
+      },
+      {
+       "id": "art5_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "A concessionária avaliará a conveniência e a oportunidade na celebração dos contratos previstos no § 1º.",
+       "incisos": [],
+       "pag": 1,
+       "refs": [
+        {
+         "ini": 99,
+         "fim": 103,
+         "doc": "lei-11173-2020",
+         "disp": "art5_par1",
+         "art": "art5",
+         "conf": "exato"
+        }
+       ]
+      },
+      {
+       "id": "art5_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "O agente livre de mercado que não for ligado à rede de distribuição ou rede local poderá implantar ramal dedicado, conforme regras previstas em regulamento e observado o disposto no § 1º.",
+       "incisos": [],
+       "pag": 1,
+       "refs": [
+        {
+         "ini": 182,
+         "fim": 186,
+         "doc": "lei-11173-2020",
+         "disp": "art5_par1",
+         "art": "art5",
+         "conf": "exato"
+        }
+       ]
+      },
+      {
+       "id": "art5_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "O agente livre de mercado que já for usuário, ativo ou inativo, do sistema de distribuição somente poderá implantar ramal dedicado para volumes adicionais à capacidade instalada para o usuário, que devem ser entendidos como a máxima demanda contratada ao longo da vida deste usuário dentro da concessão, se:",
+       "incisos": [
+        {
+         "id": "art5_par4_inc1",
+         "rotulo": "I",
+         "num": 1,
+         "texto": "observado o disposto no § 1º;",
+         "alineas": [],
+         "pag": 1,
+         "refs": [
+          {
+           "ini": 24,
+           "fim": 28,
+           "doc": "lei-11173-2020",
+           "disp": "art5_par1",
+           "art": "art5",
+           "conf": "exato"
+          }
+         ]
+        },
+        {
+         "id": "art5_par4_inc2",
+         "rotulo": "II",
+         "num": 2,
+         "texto": "preenchidos os requisitos previstos no regulamento;",
+         "alineas": [],
+         "pag": 1,
+         "refs": []
+        },
+        {
+         "id": "art5_par4_inc3",
+         "rotulo": "III",
+         "num": 3,
+         "texto": "não afetada a modicidade tarifária dos demais usuários; e",
+         "alineas": [],
+         "pag": 1,
+         "refs": []
+        },
+        {
+         "id": "art5_par4_inc4",
+         "rotulo": "IV",
+         "num": 4,
+         "texto": "observado o equilíbrio econômico-financeiro da concessão.",
+         "alineas": [],
+         "pag": 1,
+         "refs": []
+        }
+       ],
+       "pag": 1,
+       "refs": []
+      },
+      {
+       "id": "art5_par5",
+       "rotulo": "§ 5º",
+       "num": 5,
+       "texto": "Nos casos em que o ramal dedicado compreender os volumes adicionais à capacidade instalada para o usuário, nos termos do § 4º, incidirá a TUSDE-GÁS, enquanto que sobre o volume atendido pela capacidade existente incidirá a TUSD-GÁS.",
+       "incisos": [],
+       "pag": 1,
+       "refs": [
+        {
+         "ini": 121,
+         "fim": 125,
+         "doc": "lei-11173-2020",
+         "disp": "art5_par4",
+         "art": "art5",
+         "conf": "exato"
+        }
+       ]
+      },
+      {
+       "id": "art5_par6",
+       "rotulo": "§ 6º",
+       "num": 6,
+       "texto": "Os investimentos realizados pelo agente livre de mercado no ramal dedicado não serão considerados na base de cálculo de remuneração dos ativos para efeito de remuneração do capital e para efeito de depreciação, na fixação e revisão de tarifas.",
+       "incisos": [],
+       "pag": 1,
+       "refs": []
+      },
+      {
+       "id": "art5_par7",
+       "rotulo": "§ 7º",
+       "num": 7,
+       "texto": "Para fins de enquadramento no disposto no § 4º é irrelevante a circunstância de a ligação do usuário à rede de distribuição ou à rede local ter ocorrido no curso da concessão do serviço público de distribuição de gás canalizado em vigor na data de publicação desta Lei ou no curso da concessão já extinta.",
+       "incisos": [],
+       "pag": 1,
+       "refs": [
+        {
+         "ini": 42,
+         "fim": 46,
+         "doc": "lei-11173-2020",
+         "disp": "art5_par4",
+         "art": "art5",
+         "conf": "exato"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "6",
+     "rotulo": "Art. 6º",
+     "id": "art6",
+     "pag": 1,
+     "caput": {
+      "id": "art6_cpt",
+      "texto": "As tarifas para uso do sistema de distribuição a serem cobradas dos agentes livres de mercado obedecerão ao disposto neste artigo.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art6_par1",
+       "rotulo": "§ 1º",
+       "num": 1,
+       "texto": "A TUSD-GÁS será estabelecida pela agência reguladora e é aplicável ao agente livre de mercado atendido pelo sistema de distribuição, nos termos do art. 4º.",
+       "incisos": [],
+       "pag": 1,
+       "refs": [
+        {
+         "ini": 147,
+         "fim": 154,
+         "doc": "lei-11173-2020",
+         "disp": "art4",
+         "art": "art4",
+         "conf": "exato"
+        }
+       ]
+      },
+      {
+       "id": "art6_par2",
+       "rotulo": "§ 2º",
+       "num": 2,
+       "texto": "A agência reguladora fixará a TUSD-GÁS, com a garantia da manutenção do equilíbrio econômico-financeiro do contrato de concessão do serviço público de distribuição de gás canalizado.",
+       "incisos": [],
+       "pag": 1,
+       "refs": [
+        {
+         "ini": 107,
+         "fim": 128,
+         "externo": "Contrato de Concessão",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art6_par3",
+       "rotulo": "§ 3º",
+       "num": 3,
+       "texto": "O valor da TUSD-GÁS corresponde à margem média de distribuição calculada de acordo com o segmento de usuário e da classe de consumo do agente livre de mercado na tabela de tarifas, nos termos estipulados no contrato de concessão do serviço público de distribuição de gás canalizado e em regulamento.",
+       "incisos": [],
+       "pag": 1,
+       "refs": [
+        {
+         "ini": 207,
+         "fim": 228,
+         "externo": "Contrato de Concessão",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
+      },
+      {
+       "id": "art6_par4",
+       "rotulo": "§ 4º",
+       "num": 4,
+       "texto": "A agência reguladora fixará a TUSDE-GÁS, apurada conforme regulamento, que será calculada pela concessionária de forma individualizada para os agentes livres de mercado que se enquadrarem nos termos do art. 5º.",
+       "incisos": [],
+       "pag": 1,
+       "refs": [
+        {
+         "ini": 202,
+         "fim": 209,
+         "doc": "lei-11173-2020",
+         "disp": "art5",
+         "art": "art5",
+         "conf": "exato"
+        }
+       ]
+      },
+      {
+       "id": "art6_par5",
+       "rotulo": "§ 5º",
+       "num": 5,
+       "texto": "A parcela relativa à amortização do valor da outorga, bem como sua respectiva remuneração, será inclusa no cálculo da TUSDE-GÁS.",
+       "incisos": [],
+       "pag": 1,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "7",
+     "rotulo": "Art. 7º",
+     "id": "art7",
+     "pag": 1,
+     "caput": {
+      "id": "art7_cpt",
+      "texto": "O regulamento, a ser editado pela agência reguladora, a respeito do mercado livre de gás canalizado observará, dentre outros, os seguintes critérios:",
+      "incisos": [
+       {
+        "id": "art7_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "prazo mínimo de migração do mercado cativo para o livre ou vice-versa; e",
+        "alineas": [],
+        "pag": 1,
+        "refs": []
+       },
+       {
+        "id": "art7_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "vigência mínima do contrato de utilização do sistema de distribuição.",
+        "alineas": [],
+        "pag": 1,
+        "refs": []
+       }
+      ],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "8",
+     "rotulo": "Art. 8º",
+     "id": "art8",
+     "pag": 1,
+     "caput": {
+      "id": "art8_cpt",
+      "texto": "A agência reguladora disciplinará em regulamento específico o procedimento para conexão dos agentes livres de mercado ao sistema de distribuição e às fontes de suprimento.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "9",
+     "rotulo": "Art. 9º",
+     "id": "art9",
+     "pag": 1,
+     "caput": {
+      "id": "art9_cpt",
+      "texto": "Os contratos celebrados na forma do art. 5º poderão conferir aos agentes livres de mercado a operação e manutenção (O&M) de gasodutos.",
+      "incisos": [],
+      "pag": 1,
+      "refs": [
+       {
+        "ini": 36,
+        "fim": 43,
+        "doc": "lei-11173-2020",
+        "disp": "art5",
+        "art": "art5",
+        "conf": "exato"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "10",
+     "rotulo": "Art. 10",
+     "id": "art10",
+     "pag": 1,
+     "caput": {
+      "id": "art10_cpt",
+      "texto": "A concessão do serviço público de distribuição de gás canalizado não confere à concessionária direito de exclusividade na comercialização de gás canalizado aos usuários qualificados como agentes livres de mercado.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "11",
+     "rotulo": "Art. 11",
+     "id": "art11",
+     "pag": 1,
+     "caput": {
+      "id": "art11_cpt",
+      "texto": "Aos agentes livres de mercado poderá ser franqueada pela concessionária do serviço público de distribuição de gás canalizado a participação conjunta em chamada pública para aquisição de gás, visando à obtenção de preços e condições mais competitivos e vantajosos.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "12",
+     "rotulo": "Art. 12",
+     "id": "art12",
+     "pag": 1,
+     "caput": {
+      "id": "art12_cpt",
+      "texto": "Para os agentes livres de mercado a contratação de transporte se dará conforme regulamento.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "13",
+     "rotulo": "Art. 13",
+     "id": "art13",
+     "pag": 1,
+     "caput": {
+      "id": "art13_cpt",
+      "texto": "A agência reguladora expedirá os regulamentos necessários à execução desta Lei no prazo de 180 (cento e oitenta) dias contados da sua publicação, podendo ser prorrogado por igual período, em caso de motivo justificado.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "14",
+     "rotulo": "Art. 14",
+     "id": "art14",
+     "pag": 1,
+     "caput": {
+      "id": "art14_cpt",
+      "texto": "Fica autorizada a instituição de tarifa social, consubstanciada no tratamento tarifário diferenciado à população de baixa renda do segmento residencial.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": [
+      {
+       "id": "art14_par1u",
+       "rotulo": "Parágrafo único",
+       "num": 0,
+       "texto": "A agência reguladora disciplinará o tratamento diferenciado referido no caput.",
+       "incisos": [],
+       "pag": 1,
+       "refs": []
+      }
+     ]
+    },
+    {
+     "tipo": "artigo",
+     "num": "15",
+     "rotulo": "Art. 15",
+     "id": "art15",
+     "pag": 1,
+     "caput": {
+      "id": "art15_cpt",
+      "texto": "Esta Lei entra em vigor na data de sua publicação.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "Palácio Anchieta, em Vitória, 25 de setembro de 2020."
+     ],
+     "pag": 1,
+     "fecho": true,
+     "refs_linhas": {
+      "0": []
+     }
+    }
+   ]
+  }
+ ],
+ "avisos": []
+}

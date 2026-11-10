@@ -1,0 +1,658 @@
+[
+{
+"pag": 1,
+"texto": "RESOLUÇÃO ARSP Nº 061, de 29 de março de 2023"
+},
+{
+"pag": 1,
+"texto": "Dispõe sobre procedimento de reajuste da tarifa do gás"
+},
+{
+"pag": 1,
+"texto": "canalizado contemplando apuração e recuperação dos"
+},
+{
+"pag": 1,
+"texto": "saldos provocados pelas variações do preço da molécula"
+},
+{
+"pag": 1,
+"texto": "e do transporte do gás, em função do custo médio, dentre"
+},
+{
+"pag": 1,
+"texto": "outras providências."
+},
+{
+"pag": 1,
+"texto": "A DIRETORIA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DO ESPÍRITO SANTO ARSP, no uso de"
+},
+{
+"pag": 1,
+"texto": "suas atribuições regimentais, à vista do disposto na Lei Complementar nº 827, de 30 de junho de 2016,"
+},
+{
+"pag": 1,
+"texto": "alterada pela Lei Complementar nº 954, de 02 de setembro de 2020;"
+},
+{
+"pag": 1,
+"texto": "Considerando que compete a ARSP fixar as tarifas e outras formas de contraprestação dos serviços"
+},
+{
+"pag": 1,
+"texto": "regulados, bem como os reajustes anuais e as revisões, tendo por objetivo assegurar tanto o equilíbrio"
+},
+{
+"pag": 1,
+"texto": "econômico-financeiro da prestação do serviço como a modicidade tarifária, mediante mecanismos que"
+},
+{
+"pag": 1,
+"texto": "induzam à eficiência e eficácia dos serviços e que permitam a apropriação social dos ganhos de"
+},
+{
+"pag": 1,
+"texto": "produtividade, no que couber;"
+},
+{
+"pag": 1,
+"texto": "Considerando o objetivo de manutenção do equilíbrio econômico e financeiro do Contrato de Concessão e"
+},
+{
+"pag": 1,
+"texto": "a entrada de novos supridores no mercado local;"
+},
+{
+"pag": 1,
+"texto": "Considerando que o Contrato de Concessão estabelece em sua cláusula XII, item 12.12.1 e 12.13, bem como"
+},
+{
+"pag": 1,
+"texto": "na cláusula IV do Anexo I, os regramentos para os reajustes tarifários;"
+},
+{
+"pag": 1,
+"texto": "Considerando as sentenças judiciais proferidas em 30 de janeiro, por meio das quais, a 5ª Vara da Fazenda"
+},
+{
+"pag": 1,
+"texto": "Pública Estadual e Municipal, Registros Públicos, Meio Ambiente e Saúde extinguiu as ações civis públicas,"
+},
+{
+"pag": 1,
+"texto": "revogando as decisões liminares que modificaram as condições de suprimento entre a Companhia de Gás do"
+},
+{
+"pag": 1,
+"texto": "Espírito Santo - ES Gás e a Petróleo Brasileiro S.A. - Petrobras;"
+},
+{
+"pag": 1,
+"texto": "Considerando o estabelecido para a TUSD-GÁS na cláusula VII, do anexo I do contrato de concessão e no art."
+},
+{
+"pag": 1,
+"texto": "43 da Resolução ARSP N º046/2021;"
+},
+{
+"pag": 1,
+"texto": "Considerando o objetivo de dar transparência e previsibilidade ao mercado quanto ao comportamento da"
+},
+{
+"pag": 1,
+"texto": "tarifa de gás canalizado;"
+},
+{
+"pag": 1,
+"texto": "Considerando o disposto na Nota Técnica ARSP/DC/ASTET nº 07/2022 e as contribuições recebidas na"
+},
+{
+"pag": 1,
+"texto": "Consulta Pública ARSP n° 008/2022, realizada no período de 30 de dezembro de 2022 a 30 de janeiro de"
+},
+{
+"pag": 1,
+"texto": "2023;"
+},
+{
+"pag": 1,
+"texto": "RESOLVE:"
+},
+{
+"pag": 2,
+"texto": "Art. 1º Estabelecer o mecanismo da Conta Gráfica para fins de apuração, atualização e compensação dos"
+},
+{
+"pag": 2,
+"texto": "saldos entre o Preço Médio do Gás praticado na tabela tarifária e o Preço do Gás Devido praticado por cada"
+},
+{
+"pag": 2,
+"texto": "supridor e/ou transportador."
+},
+{
+"pag": 2,
+"texto": "Parágrafo único. Na ocasião dos reajustes trimestrais, o Preço Médio do Gás será calculado com base nas"
+},
+{
+"pag": 2,
+"texto": "Quantidades Diárias Contratadas (QDC), nas Capacidades de Transporte Contratadas, quando couber, e no"
+},
+{
+"pag": 2,
+"texto": "preço da molécula e transporte conforme respectivos contratos."
+},
+{
+"pag": 2,
+"texto": "I - As faturas de molécula e de transporte, excluindo aquelas relativas às penalidades, efetivamente pagas"
+},
+{
+"pag": 2,
+"texto": "pela concessionária deverão ser apuradas mensalmente e os montantes correspondentes (R$) contabilizados"
+},
+{
+"pag": 2,
+"texto": "na Conta Gráfica;"
+},
+{
+"pag": 2,
+"texto": "II - Serão contabilizados mensalmente na Conta Gráfica o montante total (R$) da molécula, do transporte e"
+},
+{
+"pag": 2,
+"texto": "eventual parcela de recuperação faturados junto aos Usuários;"
+},
+{
+"pag": 2,
+"texto": "III - Mensalmente, o saldo apurado entre os montantes estabelecidos nos itens I e II deste artigo serão"
+},
+{
+"pag": 2,
+"texto": "lançadas na Conta Gráfica, sendo ele positivo ou negativo;"
+},
+{
+"pag": 2,
+"texto": "IV - O saldo apurado na Conta Gráfica será atualizado mensalmente, de acordo com a variação da taxa do"
+},
+{
+"pag": 2,
+"texto": "Sistema Especial de Liquidação e de Custódia – SELIC, ou de outra taxa que vier a sucedê-la;"
+},
+{
+"pag": 2,
+"texto": "V - A Parcela de Recuperação será calculada pela divisão do saldo da conta gráfica pelos volumes projetados,"
+},
+{
+"pag": 2,
+"texto": "com base nas Quantidades Diárias Contratadas (QDC) e nas Capacidades de Transporte Contratadas, quando"
+},
+{
+"pag": 2,
+"texto": "couber, para o trimestre do seu respectivo repasse."
+},
+{
+"pag": 2,
+"texto": "Art. 2º Para os efeitos desta Resolução são adotadas as seguintes definições:"
+},
+{
+"pag": 2,
+"texto": "I - Preço do Gás Devido: Preço Médio do Gás, incluindo preço da molécula e do transporte, calculado com"
+},
+{
+"pag": 2,
+"texto": "base no valor efetivamente pago pela Concessionária aos Supridores e Transportadores, considerando o"
+},
+{
+"pag": 2,
+"texto": "volume realizado."
+},
+{
+"pag": 2,
+"texto": "II - Preço Médio do Gás: Custo médio ponderado do gás, conforme contrato de concessão, cobrado pela"
+},
+{
+"pag": 2,
+"texto": "concessionária na tarifa final aos consumidores cativos, que contempla a média entre o preço de gás e"
+},
+{
+"pag": 2,
+"texto": "transporte, ponderada pelos volumes contratados (QDC) com cada supridor/transportador."
+},
+{
+"pag": 2,
+"texto": "III - Volume Realizado: volume (m³) efetivamente faturado pelos supridores/transportadores à"
+},
+{
+"pag": 2,
+"texto": "Concessionária."
+},
+{
+"pag": 2,
+"texto": "IV - Saldo da conta gráfica: Valor apurado mensalmente resultante da diferença entre o Preço Médio do Gás"
+},
+{
+"pag": 2,
+"texto": "e o Preço do Gás Devido, corrigido e acumulado para inclusão na tarifa do gás em período subsequente."
+},
+{
+"pag": 2,
+"texto": "V - Parcela de Recuperação: Valor que compõe a tarifa média do usuário cativo, correspondente ao saldo da"
+},
+{
+"pag": 2,
+"texto": "conta gráfica, expresso em R$/m³, sendo dividido pelo volume projetado (QDC) para o período de sua"
+},
+{
+"pag": 2,
+"texto": "aplicação."
+},
+{
+"pag": 3,
+"texto": "Art. 3º Os repasses da Parcela de Recuperação ocorrerão por ocasião dos reajustes trimestrais do preço do"
+},
+{
+"pag": 3,
+"texto": "gás nos meses de fevereiro, maio, agosto e novembro quando os preços de molécula e transporte contidos"
+},
+{
+"pag": 3,
+"texto": "na tarifa média serão atualizados."
+},
+{
+"pag": 3,
+"texto": "I - O saldo dos meses de dezembro, janeiro, e fevereiro serão repassados nos meses de maio, junho e julho;"
+},
+{
+"pag": 3,
+"texto": "II - O saldo dos meses de março, abril, e maio serão repassados nos meses de agosto, setembro e outubro;"
+},
+{
+"pag": 3,
+"texto": "III - O saldo dos meses de junho, julho e agosto serão repassados nos meses de novembro, dezembro e"
+},
+{
+"pag": 3,
+"texto": "janeiro;"
+},
+{
+"pag": 3,
+"texto": "IV - O saldo dos meses de setembro, outubro e novembro serão repassados nos meses de fevereiro, março"
+},
+{
+"pag": 3,
+"texto": "e abril."
+},
+{
+"pag": 3,
+"texto": "Art. 4º A concessionária deverá demonstrar os cálculos geradores da Parcela de Recuperação, podendo a"
+},
+{
+"pag": 3,
+"texto": "ARSP solicitar esclarecimentos e dados adicionais que julgar pertinentes."
+},
+{
+"pag": 3,
+"texto": "Art. 5º A concessionária deverá manter apuração mensal do saldo da Conta Gráfica, suas atualizações e"
+},
+{
+"pag": 3,
+"texto": "previsões de repasse."
+},
+{
+"pag": 3,
+"texto": "Parágrafo único. O acompanhamento deverá ser remetido à ARSP, mensalmente."
+},
+{
+"pag": 3,
+"texto": "Art. 6º O repasse da parcela de recuperação se dará a partir do reajuste do preço do gás em 01º de maio de"
+},
+{
+"pag": 3,
+"texto": "2023, considerando o saldo da conta gráfica a partir de 01º de janeiro de 2023."
+},
+{
+"pag": 3,
+"texto": "§ 1º Excepcionalmente para 01º de maio de 2023 serão considerados os saldos gerados em janeiro e"
+},
+{
+"pag": 3,
+"texto": "fevereiro/2023 dada a vigência contratual com novo supridor."
+},
+{
+"pag": 3,
+"texto": "§ 2º Para os demais reajustes, o repasse da parcela de recuperação seguirá o cronograma estabelecido nos"
+},
+{
+"pag": 3,
+"texto": "itens do Art. 3º."
+},
+{
+"pag": 3,
+"texto": "Art. 7º À medida que o repasse da Parcela de Recuperação for realizado, nos termos desta Resolução, o"
+},
+{
+"pag": 3,
+"texto": "montante da Conta Gráfica continuará sendo atualizado de modo permanente."
+},
+{
+"pag": 3,
+"texto": "Art. 8º O Preço Médio do Gás reajustado, somado à Parcela de Recuperação, será aplicado sobre a parcela"
+},
+{
+"pag": 3,
+"texto": "variável da tabela de tarifas, substituindo os anteriores."
+},
+{
+"pag": 3,
+"texto": "§1º O Preço Médio do Gás somado à Parcela de Recuperação, em valor unitário R$/m³, contido nas tarifas"
+},
+{
+"pag": 3,
+"texto": "deve ser igual, em sua aplicação, a todos os usuários de cada segmento e classe de consumo da tabela"
+},
+{
+"pag": 3,
+"texto": "tarifária."
+},
+{
+"pag": 3,
+"texto": "§2º A diferença entre o valor da tarifa aplicada e o Preço Médio do Gás somado à Parcela de Recuperação de"
+},
+{
+"pag": 3,
+"texto": "cada segmento e classe de consumo corresponde à margem de distribuição faturada, valores considerados"
+},
+{
+"pag": 3,
+"texto": "sem tributos e em R$/m³."
+},
+{
+"pag": 3,
+"texto": "§3º Para todos os efeitos, a Parcela de Recuperação em R$/m³ é considerada como componente na tarifa do"
+},
+{
+"pag": 3,
+"texto": "gás, ainda que destacada deste."
+},
+{
+"pag": 4,
+"texto": "Art. 9º A tabela de tarifas de uso do sistema de distribuição de gás canalizado - TUSD-GÁS é resultado da"
+},
+{
+"pag": 4,
+"texto": "exclusão do Preço Médio do Gás somado à Parcela de Recuperação da parcela variável da tabela de tarifas"
+},
+{
+"pag": 4,
+"texto": "aplicável ao mercado cativo."
+},
+{
+"pag": 4,
+"texto": "Parágrafo único. A Tabela TUSD-GÁS inicial consta do Anexo I desta Resolução."
+},
+{
+"pag": 4,
+"texto": "Vitória, 29 de março de 2023."
+},
+{
+"pag": 4,
+"texto": "Marcelo Campos Antunes"
+},
+{
+"pag": 4,
+"texto": "Diretor-Presidente"
+},
+{
+"pag": 4,
+"texto": "Joana Moraes Resende Magella"
+},
+{
+"pag": 4,
+"texto": "Diretora Administrativa e Financeira"
+},
+{
+"pag": 4,
+"texto": "Débora Cristina Niero"
+},
+{
+"pag": 4,
+"texto": "Diretora de Gás Canalizado e Energia – Respondendo"
+},
+{
+"pag": 4,
+"texto": "Odyléa Oliveira de Tassis"
+},
+{
+"pag": 4,
+"texto": "Diretora de Saneamento Básico e Infraestrutura Viária - Respondendo"
+},
+{
+"pag": 5,
+"texto": "ANEXO I"
+},
+{
+"pag": 5,
+"texto": "TARIFAS DE USO DO SISTEMA DE DISTRIBUIÇÃO – TUSD-GÁS"
+},
+{
+"pag": 5,
+"texto": "ES GÁS – COMPANHIA DE DISTRIBUIÇÃO DE GÁS DO ESPÍRITO SANTO"
+},
+{
+"pag": 5,
+"texto": "Os valores não incluem ICMS, PIS e COFINS e serão aplicados conforme a legislação vigente."
+},
+{
+"pag": 5,
+"texto": "*As tabelas referentes aos segmentos residencial individual e coletivo não foram consideradas em função do limite"
+},
+{
+"pag": 5,
+"texto": "volumétrico estabelecido na Lei Estadual Nº 11.173/2020 e na Resolução ARSP Nº046 /2021."
+},
+{
+"pag": 5,
+"texto": "Segmento GNV - Gás Natural Veicular"
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo Valor Variável"
+},
+{
+"pag": 5,
+"texto": "(R$) (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - - 4.811,01 0,1957"
+},
+{
+"pag": 5,
+"texto": "Segmento Comercial"
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo Valor Variável"
+},
+{
+"pag": 5,
+"texto": "(R$) (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - 200,00 73,25 1,5026"
+},
+{
+"pag": 5,
+"texto": "2 200,01 1.000,00 10,63 1,8157"
+},
+{
+"pag": 5,
+"texto": "3 1.000,01 5.000,00 224,80 1,6015"
+},
+{
+"pag": 5,
+"texto": "4 5.000,01 15.000,00 554,57 1,5355"
+},
+{
+"pag": 5,
+"texto": "5 Acima de 15.000,00 - 3.767,13 1,3214"
+},
+{
+"pag": 5,
+"texto": "Segmento Industrial"
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo Valor Variável"
+},
+{
+"pag": 5,
+"texto": "(R$) (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - 1.000,00 89,09 1,9837"
+},
+{
+"pag": 5,
+"texto": "2 1.000,01 5.000,00 906,75 1,1660"
+},
+{
+"pag": 5,
+"texto": "3 5.000,01 50.000,00 4.549,85 0,4374"
+},
+{
+"pag": 5,
+"texto": "4 50.000,01 300.000,00 7.197,20 0,3844"
+},
+{
+"pag": 5,
+"texto": "5 300.000,01 500.000,00 17.914,88 0,3487"
+},
+{
+"pag": 5,
+"texto": "6 500.000,01 1.000.000,00 35.686,06 0,3132"
+},
+{
+"pag": 5,
+"texto": "7 1.000.000,01 10.000.000,00 53.457,25 0,2954"
+},
+{
+"pag": 5,
+"texto": "8 Acima de 10.000.000,00 - 537.126,64 0,2470"
+},
+{
+"pag": 5,
+"texto": "Coogeração e Climatização"
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo Valor Variável"
+},
+{
+"pag": 5,
+"texto": "(R$) (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - 15.000,00 677,27 0,2721"
+},
+{
+"pag": 5,
+"texto": "2 15.000,01 45.000,00 1.078,49 0,2454"
+},
+{
+"pag": 5,
+"texto": "3 45.000,01 300.000,00 3.296,23 0,1961"
+},
+{
+"pag": 5,
+"texto": "4 300.000,01 900.000,00 9.726,83 0,1747"
+},
+{
+"pag": 5,
+"texto": "5 900.000,01 3.000.000,00 34.459,92 0,1472"
+},
+{
+"pag": 5,
+"texto": "6 Acima de 3.000.000,00 - 105.361,46 0,1236"
+},
+{
+"pag": 5,
+"texto": "Segmento Materia Prima"
+},
+{
+"pag": 5,
+"texto": "Classe Valor Fixo Valor Variável"
+},
+{
+"pag": 5,
+"texto": "(R$) (R$/m³)"
+},
+{
+"pag": 5,
+"texto": "1 - 300.000,00 13.123,78 0,2155"
+},
+{
+"pag": 5,
+"texto": "2 300.000,01 900.000,00 27.249,13 0,1684"
+},
+{
+"pag": 5,
+"texto": "3 900.000,01 3.000.000,00 68.306,06 0,1228"
+},
+{
+"pag": 5,
+"texto": "4 3.000.000,01 15.000.000,00 93.588,78 0,1144"
+},
+{
+"pag": 5,
+"texto": "5 15.000.000,01 60.000.000,00 390.385,91 0,0946"
+},
+{
+"pag": 5,
+"texto": "6 Acima de 60.000.000,00 - 1.060.927,57 0,0834"
+},
+{
+"pag": 5,
+"texto": "Valor Mensal"
+},
+{
+"pag": 5,
+"texto": "(m³)"
+},
+{
+"pag": 5,
+"texto": "Valor Mensal"
+},
+{
+"pag": 5,
+"texto": "(m³)"
+},
+{
+"pag": 5,
+"texto": "Valor Mensal"
+},
+{
+"pag": 5,
+"texto": "(m³)"
+},
+{
+"pag": 5,
+"texto": "Valor Mensal"
+},
+{
+"pag": 5,
+"texto": "(m³)"
+},
+{
+"pag": 5,
+"texto": "Valor Mensal"
+},
+{
+"pag": 5,
+"texto": "(m³)"
+}
+]

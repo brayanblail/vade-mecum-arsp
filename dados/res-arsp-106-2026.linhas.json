@@ -1,0 +1,798 @@
+[
+{
+"pag": 1,
+"texto": "RESOLUÇÃO ARSP Nº 106, de 17 de julho de 2026"
+},
+{
+"pag": 1,
+"texto": "Dispõe sobre o reajuste tarifário referente à atualização"
+},
+{
+"pag": 1,
+"texto": "do preço médio do gás e da margem média de"
+},
+{
+"pag": 1,
+"texto": "distribuição a ser praticado pela Companhia de Gás do"
+},
+{
+"pag": 1,
+"texto": "Espírito Santo - ES Gás."
+},
+{
+"pag": 1,
+"texto": "."
+},
+{
+"pag": 1,
+"texto": "A DIRETORIA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DO ESPÍRITO"
+},
+{
+"pag": 1,
+"texto": "SANTO - ARSP, no uso de suas atribuições regimentais, à vista do disposto na Lei"
+},
+{
+"pag": 1,
+"texto": "Complementar nº 827, de 30 de junho de 2016;"
+},
+{
+"pag": 1,
+"texto": "Considerando que compete a ARSP fixar as tarifas e outras formas de contraprestação dos"
+},
+{
+"pag": 1,
+"texto": "serviços regulados, bem como os reajustes anuais e as revisões, tendo por objetivo assegurar"
+},
+{
+"pag": 1,
+"texto": "tanto o equilíbrio econômico-financeiro da prestação do serviço como a modicidade tarifária,"
+},
+{
+"pag": 1,
+"texto": "mediante mecanismos que induzam à eficiência e eficácia dos serviços e que permitam a"
+},
+{
+"pag": 1,
+"texto": "apropriação social dos ganhos de produtividade, no que couber;"
+},
+{
+"pag": 1,
+"texto": "Considerando o disposto na cláusula I, item XXXVI e XXXVII; na cláusula 12.12.1, na"
+},
+{
+"pag": 1,
+"texto": "cláusula 12.13 e na cláusula IV do anexo I do Contrato de Concessão dos Serviços Públicos de"
+},
+{
+"pag": 1,
+"texto": "Distribuição de Gás Canalizado assinado em 22 julho de 2020 (Registro n° 2020-XMH9X4);"
+},
+{
+"pag": 1,
+"texto": "Considerando o estabelecido no artigo 43 da Resolução ARSP n° 046/2021 e na Resolução"
+},
+{
+"pag": 1,
+"texto": "ARSP n° 061/2023;"
+},
+{
+"pag": 1,
+"texto": "Considerando a existência de mais de um supridor e o estabelecido na Resolução ARSP n°"
+},
+{
+"pag": 1,
+"texto": "061, de 29 de março de 2023 sobre procedimento de reajuste da tarifa do gás canalizado"
+},
+{
+"pag": 1,
+"texto": "contemplando a apuração, atualização e compensação dos saldos entre o Preço Médio do Gás"
+},
+{
+"pag": 1,
+"texto": "praticado na tabela tarifária e o Preço do Gás Devido praticado por cada supridor e/ou"
+},
+{
+"pag": 1,
+"texto": "transportador, dentre outras providências;"
+},
+{
+"pag": 1,
+"texto": "Considerando que a Companhia de Gás do Espírito Santo - ES Gás encaminhou em 10 de"
+},
+{
+"pag": 1,
+"texto": "julho de 2026, a carta ES GÁS/DAC/GREG Nº 104/2026, com pedido de homologação do"
+},
+{
+"pag": 1,
+"texto": "reajuste tarifário via custo médio do Preço do Gás (PG), constituído da Parcela de Transporte"
+},
+{
+"pag": 1,
+"texto": "(PT) e da Parcela de Molécula (PM), nos termos previstos na cláusula 4.1.1 do contrato de"
+},
+{
+"pag": 1,
+"texto": "concessão, considerando os contratos de suprimento também denominados contratos de"
+},
+{
+"pag": 1,
+"texto": "compra e venda de gás natural e aditivos, firmados com a Petróleo Brasileiro S.A. –"
+},
+{
+"pag": 1,
+"texto": "PETROBRAS, com a GALP Energia Brasil S.A., e a metodologia prevista na Resolução ARSP"
+},
+{
+"pag": 1,
+"texto": "n° 061, de 29 de março de 2023;"
+},
+{
+"pag": 1,
+"texto": "Considerando que a Concessionária de Distribuição de Gás Canalizado – Companhia de Gás"
+},
+{
+"pag": 1,
+"texto": "do Espírito Santo (ES GÁS) apresentou também por meio da carta GÁS/DAC/GREG Nº"
+},
+{
+"pag": 1,
+"texto": "104/2026, pleito de reajuste anual da margem média de distribuição, em função de aplicação"
+},
+{
+"pag": 1,
+"texto": "do índice IGP-M do período, conforme estabelecido no Contrato de Concessão;"
+},
+{
+"pag": 1,
+"texto": "Considerando PARECER PGE/PCA Nº 0770/2021 e Despacho PGE/PCA Nº 0931/2021"
+},
+{
+"pag": 1,
+"texto": "que ratificam o PARECER PGE/PCA Nº 0033/2021 e Despacho PGE/PCA Nº 00334/2021"
+},
+{
+"pag": 1,
+"texto": "quanto ao reajuste da margem média de distribuição em 01° de agosto;"
+},
+{
+"pag": 1,
+"texto": "Considerando a NOTA TÉCNICA ARSP/DP/GET Nº 010/2026, que avaliou as"
+},
+{
+"pag": 1,
+"texto": "documentações e os pleitos apresentados pela ES Gás, com cálculo demonstrativo do Preço"
+},
+{
+"pag": 2,
+"texto": "Médio do Gás reajustado, que passa a equivaler a R$ 2,3608/m³ e que somado à Parcela de"
+},
+{
+"pag": 2,
+"texto": "Recuperação apurada no valor de R$ 0,0193/m³, parte integrante da tarifa nos termos da"
+},
+{
+"pag": 2,
+"texto": "Resolução ARSP n° 061/2023, resulta em uma parcela tarifária de R$ 2,3801/m³,"
+},
+{
+"pag": 2,
+"texto": "representando uma variação de 7,37%, e ainda que, com o reajuste da margem média de"
+},
+{
+"pag": 2,
+"texto": "distribuição, que passar a valer R$ 0,4794/m³, a tarifa média sem tributos passa a ser R$"
+},
+{
+"pag": 2,
+"texto": "2,8595/m³, o que representa uma variação de 6,42% em relação a tarifa média atual, a partir"
+},
+{
+"pag": 2,
+"texto": "de 01° de agosto de 2026."
+},
+{
+"pag": 2,
+"texto": "RESOLVE:"
+},
+{
+"pag": 2,
+"texto": "Art. 1º - Homologar o Preço Médio do Gás reajustado somado à Parcela de Recuperação"
+},
+{
+"pag": 2,
+"texto": "apurada, no valor de R$ 2,3801/m³ para os Segmentos não Termoelétricos."
+},
+{
+"pag": 2,
+"texto": "Art. 2° - Aprovar a Margem Média de Distribuição reajustada no valor de R$ 0,4794 /m³."
+},
+{
+"pag": 2,
+"texto": "Art. 3º - A tabela de tarifas reajustadas sem tributos, considerando o disposto no Artigo 1º e"
+},
+{
+"pag": 2,
+"texto": "2º constam no ANEXO I desta Resolução."
+},
+{
+"pag": 2,
+"texto": "Art. 4º - Homologar o reajuste das Tarifas de Uso do Sistema de Distribuição (TUSD-GÁS),"
+},
+{
+"pag": 2,
+"texto": "aplicável aos agentes livres de mercado, conforme Anexo II desta Resolução."
+},
+{
+"pag": 2,
+"texto": "Parágrafo único. Os valores das tarifas do Anexo II não incluem tributos, que serão"
+},
+{
+"pag": 2,
+"texto": "aplicados pela Concessionária, conforme a legislação vigente."
+},
+{
+"pag": 2,
+"texto": "Art. 5º - Esta Resolução e seus anexos estarão disponíveis para consulta no site da ARSP."
+},
+{
+"pag": 2,
+"texto": "Art. 6º - Esta Resolução entra em vigor em 01° de agosto de 2026."
+},
+{
+"pag": 2,
+"texto": "Vitória/ES, 17 de julho de 2026."
+},
+{
+"pag": 2,
+"texto": "Alexandre Careta Ventorim"
+},
+{
+"pag": 2,
+"texto": "Diretor Geral"
+},
+{
+"pag": 2,
+"texto": "Danielle Zanoli Gonçalves Jordão Ramos"
+},
+{
+"pag": 2,
+"texto": "Diretora de Infraestrutura, Mobilidade e Loteria – Respondendo"
+},
+{
+"pag": 2,
+"texto": "Débora Cristina Niero"
+},
+{
+"pag": 2,
+"texto": "Diretora de Gás Canalizado e Energia"
+},
+{
+"pag": 2,
+"texto": "Eduardo Calegari Fabris"
+},
+{
+"pag": 2,
+"texto": "Diretor Administrativo, Financeiro e Tarifário"
+},
+{
+"pag": 2,
+"texto": "Jessica Novelli"
+},
+{
+"pag": 2,
+"texto": "Diretora de Saneamento Básico - Respondendo"
+},
+{
+"pag": 3,
+"texto": "ANEXO I"
+},
+{
+"pag": 3,
+"texto": "TARIFAS DO GÁS NATURAL CANALIZADO"
+},
+{
+"pag": 3,
+"texto": "ES GÁS – COMPANHIA DE GÁS DO ESPÍRITO SANTO"
+},
+{
+"pag": 3,
+"texto": "VÁLIDA A PARTIR DE 01/08/2026"
+},
+{
+"pag": 3,
+"texto": "(*) Os valores na o incluem tributos. Esses sera o aplicados conforme a legislaça o vigente."
+},
+{
+"pag": 3,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 3,
+"texto": "1 - 7,00 15,12 3,3884"
+},
+{
+"pag": 3,
+"texto": "2 7,01 20,00 16,13 3,3884"
+},
+{
+"pag": 3,
+"texto": "3 20,01 30,00 20,17 3,3884"
+},
+{
+"pag": 3,
+"texto": "4 35,29 3,3884"
+},
+{
+"pag": 3,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 3,
+"texto": "1 - 60,00 30,25 4,3967"
+},
+{
+"pag": 3,
+"texto": "2 60,01 100,00 45,37 4,2958"
+},
+{
+"pag": 3,
+"texto": "3 100,01 200,00 80,66 4,2454"
+},
+{
+"pag": 3,
+"texto": "4 200,01 500,00 151,24 4,1950"
+},
+{
+"pag": 3,
+"texto": "5 252,07 4,1950"
+},
+{
+"pag": 3,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 3,
+"texto": "1 - 50,00 45,37 4,5681"
+},
+{
+"pag": 3,
+"texto": "2 50,01 200,00 60,50 4,4673"
+},
+{
+"pag": 3,
+"texto": "3 200,01 500,00 110,91 4,2152"
+},
+{
+"pag": 3,
+"texto": "4 500,01 1.000,00 171,41 4,1849"
+},
+{
+"pag": 3,
+"texto": "5 1.000,01 3.500,00 564,63 4,0438"
+},
+{
+"pag": 3,
+"texto": "6 3.500,01 6.000,00 1.310,75 3,9430"
+},
+{
+"pag": 3,
+"texto": "7 2.823,15 3,8018"
+},
+{
+"pag": 3,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 3,
+"texto": "1 - 1.000,00 97,71 5,1631"
+},
+{
+"pag": 3,
+"texto": "2 1.000,01 5.000,00 1.655,58 3,6055"
+},
+{
+"pag": 3,
+"texto": "3 5.000,01 50.000,00 4.341,45 3,0687"
+},
+{
+"pag": 3,
+"texto": "4 50.000,01 300.000,00 8.046,33 2,9956"
+},
+{
+"pag": 3,
+"texto": "5 300.000,01 500.000,00 20.690,55 2,9535"
+},
+{
+"pag": 3,
+"texto": "6 500.000,01 1.000.000,00 48.301,09 2,8983"
+},
+{
+"pag": 3,
+"texto": "7 1.000.000,01 10.000.000,00 144.464,26 2,8024"
+},
+{
+"pag": 3,
+"texto": "8 Acima de 10.000.000,01 412.755,03 2,7758"
+},
+{
+"pag": 3,
+"texto": "9 Incentivo à descarbonização - 2,6116"
+},
+{
+"pag": 3,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 3,
+"texto": "1 - 15.000,00 937,69 2,6725"
+},
+{
+"pag": 3,
+"texto": "2 2.117,36 2,6725"
+},
+{
+"pag": 3,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 3,
+"texto": "1 - 999.999.999,00 504,13 2,6625"
+},
+{
+"pag": 3,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 3,
+"texto": "1 - 300.000,00 30.248,04 2,6423"
+},
+{
+"pag": 3,
+"texto": "2 300.000,01 3.000.000,00 100.826,79 2,5818"
+},
+{
+"pag": 3,
+"texto": "3 504.133,95 2,4507"
+},
+{
+"pag": 3,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 3,
+"texto": "Acima de 3.000.000,01"
+},
+{
+"pag": 3,
+"texto": "GNV - (Postos e Frotas)"
+},
+{
+"pag": 3,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 3,
+"texto": "Matéria Prima"
+},
+{
+"pag": 3,
+"texto": "Cogeração e Climatização"
+},
+{
+"pag": 3,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 3,
+"texto": "Acima de 15.000,01"
+},
+{
+"pag": 3,
+"texto": "Acima de 6.000,01"
+},
+{
+"pag": 3,
+"texto": "Industrial"
+},
+{
+"pag": 3,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 3,
+"texto": "Acima de 500,01"
+},
+{
+"pag": 3,
+"texto": "Comercial"
+},
+{
+"pag": 3,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 3,
+"texto": "Acima de 30,01"
+},
+{
+"pag": 3,
+"texto": "Residencial - Medição Coletiva"
+},
+{
+"pag": 3,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 3,
+"texto": "Tarifas - Usuários Cativos"
+},
+{
+"pag": 3,
+"texto": "Residencial - Medição Individual"
+},
+{
+"pag": 3,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 4,
+"texto": "ANEXO II"
+},
+{
+"pag": 4,
+"texto": "TARIFAS DE USO DO SISTEMA DE DISTRIBUIÇÃO – TUSD-GÁS"
+},
+{
+"pag": 4,
+"texto": "ES GÁS – COMPANHIA DE GÁS DO ESPÍRITO SANTO"
+},
+{
+"pag": 4,
+"texto": "VÁLIDA A PARTIR DE 01/08/2026"
+},
+{
+"pag": 4,
+"texto": "(*) A aplicaça o considera o limite volume trico estabelecido na Lei Estadual Nº 11.173/2020 e na Resoluça o ARSP Nº046"
+},
+{
+"pag": 4,
+"texto": "/2021 aos agentes livres de mercado."
+},
+{
+"pag": 4,
+"texto": "(*) Os valores na o incluem tributos. Esses sera o aplicados conforme a legislaça o vigente."
+},
+{
+"pag": 4,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 4,
+"texto": "1 - 7,00 15,12 1,0083"
+},
+{
+"pag": 4,
+"texto": "2 7,01 20,00 16,13 1,0083"
+},
+{
+"pag": 4,
+"texto": "3 20,01 30,00 20,17 1,0083"
+},
+{
+"pag": 4,
+"texto": "4 35,29 1,0083"
+},
+{
+"pag": 4,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 4,
+"texto": "1 - 60,00 30,25 2,0165"
+},
+{
+"pag": 4,
+"texto": "2 60,01 100,00 45,37 1,9157"
+},
+{
+"pag": 4,
+"texto": "3 100,01 200,00 80,66 1,8653"
+},
+{
+"pag": 4,
+"texto": "4 200,01 500,00 151,24 1,8149"
+},
+{
+"pag": 4,
+"texto": "5 252,07 1,8149"
+},
+{
+"pag": 4,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 4,
+"texto": "1 - 50,00 45,37 2,1879"
+},
+{
+"pag": 4,
+"texto": "2 50,01 200,00 60,50 2,0871"
+},
+{
+"pag": 4,
+"texto": "3 200,01 500,00 110,91 1,8350"
+},
+{
+"pag": 4,
+"texto": "4 500,01 1.000,00 171,41 1,8048"
+},
+{
+"pag": 4,
+"texto": "5 1.000,01 3.500,00 564,63 1,6636"
+},
+{
+"pag": 4,
+"texto": "6 3.500,01 6.000,00 1.310,75 1,5628"
+},
+{
+"pag": 4,
+"texto": "7 2.823,15 1,4217"
+},
+{
+"pag": 4,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 4,
+"texto": "1 - 1.000,00 97,71 2,7829"
+},
+{
+"pag": 4,
+"texto": "2 1.000,01 5.000,00 1.655,58 1,2253"
+},
+{
+"pag": 4,
+"texto": "3 5.000,01 50.000,00 4.341,45 0,6885"
+},
+{
+"pag": 4,
+"texto": "4 50.000,01 300.000,00 8.046,33 0,6154"
+},
+{
+"pag": 4,
+"texto": "5 300.000,01 500.000,00 20.690,55 0,5734"
+},
+{
+"pag": 4,
+"texto": "6 500.000,01 1.000.000,00 48.301,09 0,5181"
+},
+{
+"pag": 4,
+"texto": "7 1.000.000,01 10.000.000,00 144.464,26 0,4223"
+},
+{
+"pag": 4,
+"texto": "8 Acima de 10.000.000,01 412.755,03 0,3956"
+},
+{
+"pag": 4,
+"texto": "9 Incentivo à descarbonização - 0,2315"
+},
+{
+"pag": 4,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 4,
+"texto": "1 - 15.000,00 937,69 0,2924"
+},
+{
+"pag": 4,
+"texto": "2 2.117,36 0,2924"
+},
+{
+"pag": 4,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 4,
+"texto": "1 - 999.999.999,00 504,13 0,2823"
+},
+{
+"pag": 4,
+"texto": "Classes Valor Fixo (R$) Valor Variável (R$/m3)"
+},
+{
+"pag": 4,
+"texto": "1 - 300.000,00 30.248,04 0,2621"
+},
+{
+"pag": 4,
+"texto": "2 300.000,01 3.000.000,00 100.826,79 0,2017"
+},
+{
+"pag": 4,
+"texto": "3 504.133,95 0,0706"
+},
+{
+"pag": 4,
+"texto": "TUSD - Gás"
+},
+{
+"pag": 4,
+"texto": "Residencial - Medição Individual"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 4,
+"texto": "Acima de 30,01"
+},
+{
+"pag": 4,
+"texto": "Residencial - Medição Coletiva"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 4,
+"texto": "Acima de 500,01"
+},
+{
+"pag": 4,
+"texto": "Comercial"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 4,
+"texto": "Acima de 6.000,01"
+},
+{
+"pag": 4,
+"texto": "Industrial"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 4,
+"texto": "Cogeração e Climatização"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 4,
+"texto": "Acima de 15.000,01"
+},
+{
+"pag": 4,
+"texto": "GNV - (Postos e Frotas)"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 4,
+"texto": "Matéria Prima"
+},
+{
+"pag": 4,
+"texto": "Volume Mensal (m3)"
+},
+{
+"pag": 4,
+"texto": "Acima de 3.000.000,01"
+}
+]

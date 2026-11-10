@@ -1,0 +1,13 @@
+---
+title: "Res. ARSP 114/2026 · Art. 2º"
+tags:
+  - dispositivo
+  - res-arsp-114-2026
+documento: res-arsp-114-2026
+pagina_pdf: 1
+---
+
+**Art. 2º** Ficam revogadas a Resolução ASPE nº 005, de 30 de julho de 2007, a Resolução ASPE nº 005, de 29 de maio de 2008, e a Resolução ASPE nº 003, de 15 de junho de 2011. ^cpt
+
+---
+[[resolucoes/res-arsp-114-2026/index|Res. ARSP 114/2026]] · [PDF, pág. 1](../../pdf/res-arsp-114-2026.pdf#page=1)
