@@ -2,7 +2,7 @@
 
 Site com as normas da ARSP (gás canalizado, Espírito Santo) ligadas dispositivo a dispositivo: cada remissão ("§ 7º do art. 43 da Resolução ARSP nº 46/2021") vira link para o dispositivo exato, com caixinha de prévia, "citado por" e linhagem entre atos. Os documentos são públicos. O site é estático e tem no máximo 2 usuários simultâneos.
 
-O piloto foi construído numa conversa no app do Claude e validado com 15 documentos: 558 artigos, 347 remissões e 0 não resolvidas. Esses números servem de referência para detectar regressões.
+O piloto foi construído numa conversa no app do Claude e validado com 15 documentos. Em 2026-11-10, as duas peças da CP 004/2026 (a minuta e a NT GGN 001/2026) saíram da base. Desde então, a referência para detectar regressões é de 13 documentos: 439 artigos, 203 remissões e 0 não resolvidas.
 
 ## Como rodar
 
@@ -73,11 +73,9 @@ Abra `site-piloto/index.html` no navegador (ou com Playwright). No painel do nav
 ## Pendências conhecidas
 
 - CUSD (Res. 053/2021), cláusula 5.3.1: cita "§7º, art. 42" da Res. 046, que não existe. Pelo assunto, o certo parece ser o art. 43, § 7º. Aparece como `parcial`; a decisão é do usuário, na aba "A conferir".
-- NT GGN 001/2026, item 2: o "Art. 25 (...) § 2º" transcreve a Constituição Federal, mas está ligado por inferência ao art. 25 da minuta.
 - Res. 061/2023, preâmbulo: "art. 43 da Resolução ARSP Nº 046/2021" liga só ao ato, não ao artigo.
 - Remissões a CLÁUSULAS do CUSD e ao contrato de concessão ainda não viram link.
 - Res. 048/2021 vem de OCR: vale conferir com o PDF.
-- NT GGN 001/2026 (CP 004/2026): 48 remissões inferidas para a minuta.
 - Tabelas de tarifas dos anexos saem como texto corrido.
 
 ## Ambiente (Windows)

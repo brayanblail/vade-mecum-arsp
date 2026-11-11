@@ -543,11 +543,11 @@ function mapa(){
   const t0 = t("2016-01-01"), t1 = t("2027-01-01");
   const X = s => M + 70 + (t(s) - t0) / (t1 - t0) * (W - 2 * M - 150);
   const largura = d => d.sigla.length * 6.6 + 18;
-  const lanes = GRUPOS.map(() => []);
+  const grupos = GRUPOS.filter(g => ds.some(d => d.grupo === g));   // grupo sem ato não ganha faixa
   const pos = new Map();
   let y = LANE0;
   const laneY = [];
-  GRUPOS.forEach((g, gi) => {
+  grupos.forEach((g, gi) => {
     const rows = [];
     ds.filter(d => d.grupo === g).forEach(d => {
       const x = Math.min(X(d.data) - largura(d) / 2, W - 12 - largura(d));
@@ -563,7 +563,7 @@ function mapa(){
   const H = y + 6;
   let s = `<svg viewBox="0 0 ${W} ${H}" width="${W}" height="${H}" role="img" aria-label="Mapa de citações entre os atos">`;
   for (let a = 2016; a <= 2027; a++){ const x = X(`${a}-01-01`); s += `<line class="grade" x1="${x}" y1="28" x2="${x}" y2="${H - 6}"/><text class="eixo" x="${x + 4}" y="22">${a}</text>`; }
-  GRUPOS.forEach((g, gi) => { s += `<text class="faixa" x="${M}" y="${laneY[gi].y + 15}">${g === "Consultas públicas" ? "Consultas" : g}</text>`; });
+  grupos.forEach((g, gi) => { s += `<text class="faixa" x="${M}" y="${laneY[gi].y + 15}">${g === "Consultas públicas" ? "Consultas" : g}</text>`; });
   const arestas = [];
   DOC_CITA.forEach((m, a) => m.forEach((q, b) => arestas.push({a, b, q, rel: false})));
   RELS.forEach(r => arestas.push({a: r.de, b: r.para, q: 1, rel: true}));
@@ -579,7 +579,7 @@ function mapa(){
     s += `<g class="nd" data-id="${d.id}" tabindex="0" role="link" aria-label="${esc(d.sigla)}"><rect x="${p.x}" y="${p.y}" width="${p.w}" height="22" rx="5"/><text x="${p.x + 9}" y="${p.y + 15}">${esc(d.sigla)}</text></g>`; }
   s += `</svg>`;
   vista.innerHTML = `<div class="abre"><h1>Mapa de citações</h1><p>Cada caixa é um ato, na posição da sua data. As linhas ligam quem cita a quem é citado; a espessura cresce com o número de remissões. Passe o mouse sobre um ato para ver só as ligações dele; clique para abrir.</p></div>
-    <div class="mapa-caixa" id="mapa-caixa">${s}</div><p class="legenda">Linha tracejada: relação declarada no cadastro (a minuta originou a Res. 114; a nota técnica fundamenta a minuta).</p>`;
+    <div class="mapa-caixa" id="mapa-caixa">${s}</div>${RELS.length ? `<p class="legenda">Linha tracejada: relação declarada no cadastro (${RELS.map(r => `${esc(DOCS.get(r.de).sigla)} ${esc(r.tipo)} ${esc(DOCS.get(r.para).sigla)}`).join("; ")}).</p>` : ""}`;
   const caixa = $("#mapa-caixa");
   caixa.querySelectorAll(".nd").forEach(n => {
     const foco = on => { caixa.classList.toggle("focando", on); if (!on) return;

@@ -31,7 +31,7 @@ O `construir.py` também gera um site num arquivo só, com o mesmo conteúdo. Ne
 | `pipeline/construir.py` | Roda tudo: extrai, estrutura, liga remissões e gera as saídas |
 | `pipeline/*.py` | As etapas (extrair, estruturar, remissoes, gerar_quartz, gerar_piloto) |
 | `ocr/` | Texto da Res. 048/2021 obtido por OCR (o PDF original tem a camada de texto corrompida) |
-| `content/` | **Saída pronta para o Quartz/Obsidian**: 15 atos, 558 notas de artigo, PDFs em `content/pdf/` |
+| `content/` | **Saída pronta para o Quartz/Obsidian**: 13 atos, 439 notas de artigo, PDFs em `content/pdf/` |
 | `dados/` | Arquivos intermediários. Os dois que interessam: `remissoes.json` (todas as ligações) e `nao_resolvidas.csv` |
 
 ## 1. Rodar o pipeline (Windows)
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 python pipeline\construir.py --pdfs "D:\Claude\Resoluções ARSP"
 ```
 
-Leva cerca de 1 minuto para os 15 documentos. Ao final, confira:
+Leva cerca de 1 minuto para os 13 documentos. Ao final, confira:
 
 - `content\revisao.md`: remissões **parciais** (o dispositivo citado não existe no destino) e **inferidas** (o texto não diz de qual ato é o artigo);
 - `dados\nao_resolvidas.csv`: citações que não viraram link.
@@ -63,7 +63,7 @@ Leva cerca de 1 minuto para os 15 documentos. Ao final, confira:
 
 Colunas opcionais:
 
-- `alvo_padrao`: o ato para onde vão os "art. N" que não dizem de qual ato são. A nota técnica da CP 004/2026 usa a minuta.
+- `alvo_padrao`: o ato para onde vão os "art. N" que não dizem de qual ato são. Uma nota técnica de consulta pública, por exemplo, pode apontar para a minuta que ela fundamenta.
 - `relacoes`: ligações declaradas à mão, como `originou:res-arsp-114-2026`.
 - `ocr=sim`: o texto vem de `ocr\p<numero>-NN.txt`.
 

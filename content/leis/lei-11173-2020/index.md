@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Citado por:** [[consultas/cp-004-2026-nt/index|CP 004/2026 – NT GGN 001/2026]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (1) · [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] (1) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (1) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (1) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (1)
+**Citado por:** [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (1) · [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] (1) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (1) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (1) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (1)
 
 ## Texto
 

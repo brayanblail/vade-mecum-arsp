@@ -5,12 +5,12 @@ title: Normas de gás canalizado – ARSP/ES
 Resoluções, leis e consultas públicas da ARSP com **link direto para cada artigo, parágrafo, inciso e alínea**. Passe o mouse sobre uma remissão para ver o dispositivo; no fim de cada artigo aparece quem o cita.
 
 > [!warning] Piloto
-> 15 documentos, 347 remissões detectadas automaticamente em 10/11/2026. Em caso de dúvida, vale o PDF original. Veja [[revisao|o que conferir]].
+> 13 documentos, 203 remissões detectadas automaticamente em 10/11/2026. Em caso de dúvida, vale o PDF original. Veja [[revisao|o que conferir]].
 
 ## Leis
 
-- [[leis/lei-11173-2020/index|Lei 11.173/2020]] – Dispõe sobre normas para o mercado livre de gás canalizado no âmbito do Estado do Espírito Santo e dá outras providências. *(15 dispositivos, citado 6× por outros atos)*
-- [[leis/lc-827-2016/index|LC 827/2016]] – Cria a Agência de Regulação de Serviços Públicos - ARSP, em decorrência da fusão da ARSI e da ASPE, e dá outras providências. *(45 dispositivos, citado 18× por outros atos)*
+- [[leis/lei-11173-2020/index|Lei 11.173/2020]] – Dispõe sobre normas para o mercado livre de gás canalizado no âmbito do Estado do Espírito Santo e dá outras providências. *(15 dispositivos, citado 5× por outros atos)*
+- [[leis/lc-827-2016/index|LC 827/2016]] – Cria a Agência de Regulação de Serviços Públicos - ARSP, em decorrência da fusão da ARSI e da ASPE, e dá outras providências. *(45 dispositivos, citado 13× por outros atos)*
 
 ## Resoluções
 
@@ -25,11 +25,6 @@ Resoluções, leis e consultas públicas da ARSP com **link direto para cada art
 - [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] – Dispõe sobre o modelo do Contrato de Uso do Serviço de Distribuição – CUSD a ser celebrado entre a Concessionária e os Agentes Livres de Mer *(38 dispositivos)*
 - [[resolucoes/res-arsp-048-2021/index|Res. ARSP 048/2021]] – Define infrações, penalidades e as regras do processo sancionador à prestadora de serviços públicos de distribuição de gás canalizado no Est *(41 dispositivos, citado 6× por outros atos)*
 - [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] – Dispõe sobre as regras para o Mercado Livre de Gás Canalizado e as condições para a prestação do Serviço Público de Distribuição de Gás Cana *(56 dispositivos, citado 14× por outros atos)*
-
-## Consultas públicas
-
-- [[consultas/cp-004-2026-minuta/index|CP 004/2026 – Minuta]] – Minuta de resolução submetida à Consulta Pública ARSP nº 004/2026 (Condições Gerais da Prestação dos Serviços Locais de Gás Canalizado). *(92 dispositivos, citado 48× por outros atos)*
-- [[consultas/cp-004-2026-nt/index|CP 004/2026 – NT GGN 001/2026]] – Nota Técnica GGN nº 001/2026, que fundamenta a minuta da Consulta Pública ARSP nº 004/2026. *(27 dispositivos)*
 
 ## Como citar no Word
 
