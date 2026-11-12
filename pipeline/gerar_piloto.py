@@ -87,7 +87,7 @@ def executar(docs, arestas, pasta_out, pasta_pdfs, revisoes=()):
     dados_docs = []
     for d in docs:
         dados_docs.append({
-            "id": d["id"], "sigla": d["sigla"], "num": int(d["numero"]), "tipo": d["tipo"], "grupo": d["grupo"], "data": d["data"],
+            "id": d["id"], "sigla": d["sigla"], "num": int(d["numero"] or 0),"tipo": d["tipo"], "grupo": d["grupo"], "data": d["data"],
             "titulo": d["titulo"], "situacao": d["situacao"], "obs": d.get("observacao", ""),
             "link": d.get("link_oficial", ""), "rel": d.get("relacoes", ""), "padrao": d.get("alvo_padrao", ""),
             "partes": [{"id": p["id"], "r": p["rotulo"], "B": [bloco(b) for b in p["blocos"]]} for p in d["partes"]],

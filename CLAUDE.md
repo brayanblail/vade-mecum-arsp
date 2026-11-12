@@ -2,7 +2,7 @@
 
 Site com as normas da ARSP (gás canalizado, Espírito Santo) ligadas dispositivo a dispositivo: cada remissão ("§ 7º do art. 43 da Resolução ARSP nº 46/2021") vira link para o dispositivo exato, com caixinha de prévia, "citado por" e linhagem entre atos. Os documentos são públicos. O site é estático e tem no máximo 2 usuários simultâneos.
 
-O piloto foi construído numa conversa no app do Claude e validado com 15 documentos. Em 2026-11-10, as duas peças da CP 004/2026 (a minuta e a NT GGN 001/2026) saíram da base. Desde então, a referência para detectar regressões é de 13 documentos: 439 artigos, 203 remissões e 0 não resolvidas.
+O piloto foi construído numa conversa no app do Claude e validado com 15 documentos. Em 2026-11-10, as duas peças da CP 004/2026 (a minuta e a NT GGN 001/2026) saíram da base. Em 2026-11-12 entrou o Contrato de Concessão da ES Gás (2020). Desde então, a referência para detectar regressões é de 14 documentos: 481 artigos e cláusulas, 315 remissões (5 inferidas, 1 parcial) e 0 não resolvidas.
 
 ## Como rodar
 
@@ -24,6 +24,7 @@ Depois de qualquer mudança, confira `content/revisao.md` (parciais e inferidas)
 
 - O site de página única é publicado em https://brayanblail.github.io/vade-mecum-arsp/ pelo workflow `.github/workflows/pages.yml`, a cada push na `main` que altere `site-piloto/`.
 - Para incluir uma resolução ARSP ou uma decisão ARSP/DG nova, use `/nova-resolucao` (`.claude/skills/nova-resolucao/`). Atos da ASPE ainda não são suportados: o `remissoes.py` registra toda resolução como ARSP.
+- O Contrato de Concessão (`contrato-concessao-2020`, grupo "Contratos") não passa pelo `/nova-resolucao`: veja "Contrato de concessão" abaixo.
 - Para aplicar as decisões da aba "A conferir" (aceitar, tirar ou corrigir um link), use `/revisar` (`.claude/skills/revisar/`). O site guarda as decisões no navegador, e o botão "Copiar para o Claude Code" gera o texto que o comando recebe.
 - A aba "A conferir" é só do mantenedor. No site publicado ela fica escondida e aparece apenas no navegador que abriu o endereço uma vez com `?revisor` (`?revisor=nao` desliga). Na cópia local (arquivo ou localhost) aparece sempre. Isso só esconde a aba: quem a abrir não muda nada no site, porque as decisões só valem depois do `/revisar`.
 
@@ -33,6 +34,13 @@ Depois de qualquer mudança, confira `content/revisao.md` (parciais e inferidas)
 - A remissão é achada pelo ato e dispositivo de origem e pelo texto exato da citação. Se o texto mudar, a decisão fica "sem correspondência": a etapa 3 avisa, e o `revisoes.py validar` e o `apoio.py comparar` acusam.
 - `decisao`: `aceitar` (o link fica e sai dos pendentes), `sem_link` (o trecho vira texto simples) ou `corrigir` (o link vai para `novo_alvo`, no formato do endereço do site, como `res-arsp-046-2021--art43-par7`).
 - O texto da norma nunca muda, só o link. Link corrigido é verde, e a caixinha diz para onde o detector ligava antes.
+
+## Contrato de concessão
+
+- Fonte: `Analise Termoeletrica/Contrato de Concessão ES Gás.pdf`. É o mesmo documento da pasta `Gás Canalizado (aba do site)/01 Concessão` (E-DOCS 2020-XMH9X4), mas com camada de OCR; o daquela pasta só tem a imagem. `tipo=contrato`, `numero` vazio.
+- Extração (`extrair.py`, `AJUSTES["contrato-concessao-2020"]`): `camada_ocr` agrupa as linhas da página inteira, descarta a rubrica da margem direita e corrige erros típicos (`corrigir_camada`). `corrigir` tem as correções pontuais, cada uma conferida no PDF (marcadores de inciso que o OCR perdeu). Assinaturas e cartório são omitidos; fórmulas e as tabelas dos Anexos III e IV viram "[Fórmula/Tabela: ver o PDF, p. N]".
+- Estrutura (`estruturar.py`, `tipo == "contrato"`): Cláusula (`cl12`) > item (`cl12_it12-12-1`) > inciso (`cl1_it1-1_inc37`) > alínea; anexos com prefixo (`anx1_cl4_it4-1-1`). Item com número repetido no original ganha sufixo `b` no endereço (`anx1_cl6_it6-5b`).
+- Remissões (`remissoes.py`): "cláusula", "item" e "anexo" só viram token no próprio contrato e nos trechos que citam o contrato de concessão. "Contrato de Concessão" liga ao contrato, exceto na LC 827 (`CONTRATO_GENERICO`: lá é qualquer contrato da ARSP). Item que não existe no corpo, mas existe num anexo ("cláusula 4.1.1 do contrato"), liga ao anexo como `inferido`. "Anexo II do contrato" sozinho liga ao ato (as partes não têm endereço).
 
 ## Etapas do pipeline
 
@@ -73,8 +81,10 @@ Abra `site-piloto/index.html` no navegador (ou com Playwright). No painel do nav
 ## Pendências conhecidas
 
 - CUSD (Res. 053/2021), cláusula 5.3.1: cita "§7º, art. 42" da Res. 046, que não existe. Pelo assunto, o certo parece ser o art. 43, § 7º. Aparece como `parcial`; a decisão é do usuário, na aba "A conferir".
-- Res. 061/2023, preâmbulo: "art. 43 da Resolução ARSP Nº 046/2021" liga só ao ato, não ao artigo.
-- Remissões a CLÁUSULAS do CUSD e ao contrato de concessão ainda não viram link.
+- Remissões a CLÁUSULAS do próprio CUSD ainda não viram link (as do contrato de concessão viram).
+- Contrato de concessão: 5 remissões `inferido` para conferir na aba "A conferir" (Res. 106/2026 e Decisão 007/2026: "cláusula I, item XXXVI e XXXVII", com o nome do contrato só no fim da frase, e "cláusula 4.1.1 do contrato", que só existe no Anexo I).
+- Contrato de concessão, erros de numeração do próprio original (o texto não muda): Cláusula I, 1.1, o 50º inciso está impresso "XL" (tratado como o 50º, com o número impresso); itens 6.5 (Anexo I) e 4.3.5 (Anexo II) repetidos; faltam 15.2, 22.7 e 26.2.
+- Contrato de concessão: texto de OCR. Fórmulas e as tabelas dos Anexos III e IV não estão transcritas; vale o PDF.
 - Res. 048/2021 vem de OCR: vale conferir com o PDF.
 - Tabelas de tarifas dos anexos saem como texto corrido.
 

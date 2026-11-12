@@ -303,9 +303,9 @@
          {
           "ini": 0,
           "fim": 21,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        },
@@ -365,9 +365,9 @@
          {
           "ini": 187,
           "fim": 208,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        },
@@ -1180,9 +1180,9 @@
         {
          "ini": 321,
          "fim": 342,
-         "externo": "Contrato de Concessão",
-         "url": null,
-         "conf": "externo"
+         "doc": "contrato-concessao-2020",
+         "disp": null,
+         "conf": "documento"
         }
        ]
       }

@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Cita:** [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (2)
+**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (7) · [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (2)
 
 **Citado por:** [[resolucoes/dec-arsp-dg-007-2026/index|Decisão ARSP/DG 007/2026]] (3) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (1) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (4)
 
@@ -29,13 +29,13 @@ A DIRETORIA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DO ESPÍRITO SANTO
 
 Considerando que compete a ARSP fixar as tarifas e outras formas de contraprestação dos serviços regulados, bem como os reajustes anuais e as revisões, tendo por objetivo assegurar tanto o equilíbrio econômico-financeiro da prestação do serviço como a modicidade tarifária, mediante mecanismos que induzam à eficiência e eficácia dos serviços e que permitam a apropriação social dos ganhos de produtividade, no que couber;
 
-Considerando o objetivo de manutenção do equilíbrio econômico e financeiro do Contrato de Concessão e a entrada de novos supridores no mercado local;
+Considerando o objetivo de manutenção do equilíbrio econômico e financeiro do [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] e a entrada de novos supridores no mercado local;
 
-Considerando que o Contrato de Concessão estabelece em sua cláusula XII, item 12.12.1 e 12.13, bem como na cláusula IV do Anexo I, os regramentos para os reajustes tarifários;
+Considerando que o [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] estabelece em sua [[contratos/contrato-concessao-2020/clausula-xii#^it12-12-1|cláusula XII, item 12.12.1]] e [[contratos/contrato-concessao-2020/clausula-xii#^it12-13|12.13]], bem como na [[contratos/contrato-concessao-2020/anexo-i-clausula-iv|cláusula IV do Anexo I]], os regramentos para os reajustes tarifários;
 
 Considerando as sentenças judiciais proferidas em 30 de janeiro, por meio das quais, a 5ª Vara da Fazenda Pública Estadual e Municipal, Registros Públicos, Meio Ambiente e Saúde extinguiu as ações civis públicas, revogando as decisões liminares que modificaram as condições de suprimento entre a Companhia de Gás do Espírito Santo - ES Gás e a Petróleo Brasileiro S.A. - Petrobras;
 
-Considerando o estabelecido para a TUSD-GÁS na cláusula VII, do anexo I do contrato de concessão e no art. 43 da [[resolucoes/res-arsp-046-2021/index|Resolução ARSP N º046/2021]];
+Considerando o estabelecido para a TUSD-GÁS na [[contratos/contrato-concessao-2020/anexo-i-clausula-vii|cláusula VII, do anexo I do contrato de concessão]] e no [[resolucoes/res-arsp-046-2021/art-43|art. 43 da Resolução ARSP N º046/2021]];
 
 Considerando o objetivo de dar transparência e previsibilidade ao mercado quanto ao comportamento da tarifa de gás canalizado;
 
@@ -59,7 +59,7 @@ RESOLVE:
 **Art. 2º** Para os efeitos desta Resolução são adotadas as seguintes definições:
 
 - **I –** Preço do Gás Devido: Preço Médio do Gás, incluindo preço da molécula e do transporte, calculado com base no valor efetivamente pago pela Concessionária aos Supridores e Transportadores, considerando o volume realizado.
-- **II –** Preço Médio do Gás: Custo médio ponderado do gás, conforme contrato de concessão, cobrado pela concessionária na tarifa final aos consumidores cativos, que contempla a média entre o preço de gás e transporte, ponderada pelos volumes contratados (QDC) com cada supridor/transportador.
+- **II –** Preço Médio do Gás: Custo médio ponderado do gás, conforme [[contratos/contrato-concessao-2020/index|contrato de concessão]], cobrado pela concessionária na tarifa final aos consumidores cativos, que contempla a média entre o preço de gás e transporte, ponderada pelos volumes contratados (QDC) com cada supridor/transportador.
 - **III –** Volume Realizado: volume (m³) efetivamente faturado pelos supridores/transportadores à Concessionária.
 - **IV –** Saldo da conta gráfica: Valor apurado mensalmente resultante da diferença entre o Preço Médio do Gás e o Preço do Gás Devido, corrigido e acumulado para inclusão na tarifa do gás em período subsequente.
 - **V –** Parcela de Recuperação: Valor que compõe a tarifa média do usuário cativo, correspondente ao saldo da conta gráfica, expresso em R\$/m³, sendo dividido pelo volume projetado (QDC) para o período de sua aplicação.

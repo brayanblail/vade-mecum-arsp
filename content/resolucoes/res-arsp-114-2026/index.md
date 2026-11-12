@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Cita:** [[leis/lc-827-2016/index|LC 827/2016]] (1)
+**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (3) · [[leis/lc-827-2016/index|LC 827/2016]] (1)
 
 ## Texto
 
@@ -70,13 +70,13 @@ Vitória/ES, 18 de setembro de 2026 Alexandre Careta Ventorim Diretor-Geral Déb
 - **IX –** Consumidor Livre: Usuário do Serviço Público de Distribuição de Gás Canalizado que, conforme critérios de enquadramento e condições fixados em Lei e neste regulamento, tem a opção de adquirir a molécula do Gás diretamente do Supridor;
 - **X –** Consumidor Parcialmente Livre: Unidade Usuária que possua contratação simultânea no mercado livre e no mercado cativo;
 - **XI –** Contrato de Adesão: instrumento cujas cláusulas estão vinculadas às normas e regulamentos aprovados pela ARSP, podendo o seu conteúdo ser modificado pela Concessionária quando houver prévia aprovação da ARSP;
-- **XII –** Contrato de Concessão: instrumento cujo objeto é a outorga do direito da exploração de Serviços Públicos de Distribuição de Gás Canalizado, celebrado entre o Governo do Estado do Espírito Santo e a Concessionária;
+- **XII –** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]]: instrumento cujo objeto é a outorga do direito da exploração de Serviços Públicos de Distribuição de Gás Canalizado, celebrado entre o Governo do Estado do Espírito Santo e a Concessionária;
 - **XIII –** Contrato de Fornecimento: instrumento contratual em que a Concessionária e o Usuário ajustam as características técnicas e as condições comerciais do fornecimento de gás canalizado ao mercado cativo;
 - **XIV –** Contrato de Prestação do Serviço de Distribuição: instrumento contratual celebrado entre a Concessionária e o Usuário, inclusive agente livre de mercado, que disciplina as condições técnicas e comerciais da prestação do serviço de distribuição de gás canalizado, formalizado, conforme o regime de contratação, por meio de Contrato de Fornecimento ou Contrato de Adesão (mercado cativo) ou de Contrato de Uso do Serviço de Distribuição - CUSD (mercado livre);
 - **XV –** Contrato de Uso do Serviço de Distribuição-CUSD: instrumento contratual celebrado entre a Concessionária e o agente livre de mercado, que estabelece as condições técnicas, comerciais e operacionais para utilização do sistema de distribuição de gás canalizado, nos termos da regulamentação específica;
 - **XVI –** Gás: é o energético distribuído pela concessionária aos usuários, podendo ser gás natural, biometano ou similares, conforme especificações da ANP;
 - **XVII –** Instalação Interna: infraestrutura localizada na propriedade do Usuário, situada a jusante do Conjunto de Regulagem, do Conjunto de Regulagem e Medição ou do Conjunto de Medição, o que for mais próximo da delimitação de propriedade, compreendendo tubulações, conexões, válvulas e outros componentes, incluindo os equipamentos que utilizam o Gás, que é de propriedade e responsabilidade exclusiva do Usuário, inclusive no que se refere à adequação técnica, à manutenção e à segurança da Instalação Interna da Unidade Usuária;
-- **XVIII –** Mercado Livre: mercado onde há a comercialização direta de gás canalizado entre supridores e agentes livres de mercado nas condições estabelecidas em regulamento, observadas as regras do contrato de concessão;
+- **XVIII –** Mercado Livre: mercado onde há a comercialização direta de gás canalizado entre supridores e agentes livres de mercado nas condições estabelecidas em regulamento, observadas as regras do [[contratos/contrato-concessao-2020/index|contrato de concessão]];
 - **XIX –** Poder Concedente: ente federado que detém a titularidade do serviço público de distribuição de gás canalizado;
 - **XX –** Ponto de Entrega: local de entrega do gás ao Usuário, situado na última válvula a jusante do Conjunto de Regulagem, do Conjunto de Regulagem e Medição ou do Conjunto de Medição, o que for mais próximo da delimitação de propriedade do Usuário, independentemente da localização do Medidor fiscal;
 - **XXI –** Ponto de Recepção: local físico ou virtual onde ocorre a transferência de propriedade do gás do supridor para a concessionária ou para os agentes livres de mercado de gás canalizado;
@@ -199,7 +199,7 @@ Vitória/ES, 18 de setembro de 2026 Alexandre Careta Ventorim Diretor-Geral Déb
 
 **§ 5º** Os custos da verificação do PCS ou da pressão, com a expressa ressalva do [[resolucoes/res-arsp-114-2026/anexo-i-art-9#^par6|Parágrafo 6º deste Artigo]], devem ser informados ao Usuário, no momento da solicitação da medição, ficando condicionado o início do serviço à sua respectiva aceitação pelo Usuário.
 
-**§ 6º** Quando o resultado da verificação demonstrar valores que não se enquadrem nos padrões estabelecidos, os correspondentes custos correrão por conta da Concessionária, sem prejuízo do eventual pagamento de valor associado a erros de faturamento, de leitura ou de medição em favor do Usuário, de acordo com o estabelecido no Contrato de Concessão e demais regulamentos da ARSP.
+**§ 6º** Quando o resultado da verificação demonstrar valores que não se enquadrem nos padrões estabelecidos, os correspondentes custos correrão por conta da Concessionária, sem prejuízo do eventual pagamento de valor associado a erros de faturamento, de leitura ou de medição em favor do Usuário, de acordo com o estabelecido no [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] e demais regulamentos da ARSP.
 
 <small>[[resolucoes/res-arsp-114-2026/anexo-i-art-9|abrir Art. 9º]]</small>
 

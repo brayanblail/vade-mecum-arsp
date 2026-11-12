@@ -333,7 +333,7 @@ body{padding-bottom:var(--respiro,0px)}
 "use strict";
 const D = JSON.parse(document.getElementById("dados").textContent);
 const DOCS = new Map(D.docs.map(d => [d.id, d]));
-const GRUPOS = ["Leis", "Resoluções", "Consultas públicas"];
+const GRUPOS = ["Leis", "Contratos", "Resoluções", "Consultas públicas"];
 const $ = s => document.querySelector(s);
 const esc = s => String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
 const h = id => id.replace(/_/g, "-");
@@ -451,7 +451,7 @@ function cartao(d){
   const ci = [...(DOC_CITADO.get(d.id) || new Map()).values()].reduce((a, b) => a + b, 0);
   const ct = [...(DOC_CITA.get(d.id) || new Map()).values()].reduce((a, b) => a + b, 0);
   return `<a class="cartao" href="#${d.id}"><b>${esc(d.sigla)}</b><span class="t">${esc(d.titulo)}</span>
-    <span class="m">${n} ${d.tipo === "nota-tecnica" ? "itens" : "artigos"} · cita ${ct} · citado ${ci}</span></a>`;
+    <span class="m">${n} ${d.tipo === "nota-tecnica" ? "itens" : d.tipo === "contrato" ? "cláusulas" : "artigos"} · cita ${ct} · citado ${ci}</span></a>`;
 }
 function inicio(){
   docAtual = null; indice("inicio");
@@ -757,7 +757,7 @@ function revisao(manter){
   docAtual = null; indice("revisao");
   const par = PEND.filter(i => i.g === "parcial"), inf = PEND.filter(i => i.g === "inferido"), feitas = [...REV_FEITAS.values()];
   const vazio = `<p class="rev-vazio">Nenhuma pendente.</p>`;
-  vista.innerHTML = `<div class="abre"><h1>Remissões a conferir</h1><p>O detector marca dois casos para revisão humana. <b>Parcial</b>: o dispositivo citado não existe no ato de destino (erro na norma ou numeração alterada); o link vai para o artigo. <b>Inferida</b>: o texto não diz de qual ato é o artigo, e foi usado o ato padrão do documento.</p>
+  vista.innerHTML = `<div class="abre"><h1>Remissões a conferir</h1><p>O detector marca dois casos para revisão humana. <b>Parcial</b>: o dispositivo citado não existe no ato de destino (erro na norma ou numeração alterada); o link vai para o artigo. <b>Inferida</b>: o texto não diz de qual ato é o artigo, e foi usado o ato padrão do documento (no contrato de concessão: o ato ou o anexo vem da frase).</p>
     <p>Para cada uma, escolha <b>Aceitar o link</b> (fica como está), <b>Tirar o link</b> (o trecho vira texto simples) ou <b>Corrigir…</b> (aponte o dispositivo certo). O texto da norma nunca muda, só o link.</p></div>
     ${barraRev()}
     <section class="grupo"><h2>Parciais (${par.length})</h2>${par.map(itemPend).join("") || vazio}</section>
@@ -834,7 +834,11 @@ function conteudo(st, fixa){
   const d = DOCS.get(st.d), alvo = st.alvos[st.i], info = IDX.get(st.d + "|" + alvo);
   if (!d || !info) return "";
   let aviso = "";
-  if (st.c === "inferido") aviso = `<span class="aviso inferido">Vínculo inferido: o texto não diz de qual ato é este artigo; usamos ${esc(d.sigla)}.</span>`;
+  if (st.c === "inferido") aviso = `<span class="aviso inferido">Vínculo inferido: ${d.tipo !== "contrato"
+    ? `o texto não diz de qual ato é este artigo; usamos ${esc(d.sigla)}.`
+    : /contrato/i.test(st.texto || "")
+      ? `o texto cita o contrato sem dizer o anexo, e este número só existe no ${esc(((info.p && info.p.r) || "anexo").split(" – ")[0])}.`
+      : `o nome do contrato não está junto da cláusula (vem depois, na mesma frase); usamos ${esc(d.sigla)}.`}</span>`;
   if (st.c === "parcial") aviso = `<span class="aviso parcial">O texto cita “${esc(st.texto)}”, mas esse dispositivo não existe aqui. Mostrando o artigo.</span>`;
   if (st.c === "corrigido") aviso = `<span class="aviso corrigido">Link corrigido na revisão${st.o ? `: o detector ligava a ${esc(st.o)}` : ""}.${st.n ? " " + esc(st.n) : ""}</span>`;
   if (st.v) aviso += `<span class="aviso conferido">Conferido na revisão: link mantido.${st.n ? " " + esc(st.n) : ""}</span>`;

@@ -17,17 +17,17 @@ situacao: Vigente
 
 ## Linhagem
 
-**Cita:** [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (3) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (1)
+**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (7) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (3) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (1)
 
 ## Texto
 
-DECISÃO ARSP/DG Nº 007 DE 20 DE OUTUBRO DE 2026 Dispõe sobre a homologação do reajuste tarifário em função da alteração do preço do gás canalizado, adotando Preço Médio do Gás, em decorrência dos contratos de suprimento, de transporte e aditivos firmados pela Companhia de Gás do Espírito Santo (ES GÁS), em acordo com o contrato de concessão para exploração dos serviços públicos de distribuição de gás canalizado e [[resolucoes/res-arsp-061-2023/index|Resolução ARSP n° 061/2023]].
+DECISÃO ARSP/DG Nº 007 DE 20 DE OUTUBRO DE 2026 Dispõe sobre a homologação do reajuste tarifário em função da alteração do preço do gás canalizado, adotando Preço Médio do Gás, em decorrência dos contratos de suprimento, de transporte e aditivos firmados pela Companhia de Gás do Espírito Santo (ES GÁS), em acordo com o [[contratos/contrato-concessao-2020/index|contrato de concessão]] para exploração dos serviços públicos de distribuição de gás canalizado e [[resolucoes/res-arsp-061-2023/index|Resolução ARSP n° 061/2023]].
 
-A Diretora de Gás Canalizado e Energia da Agência de Regulação de Serviços Públicos – ARSP no uso de atribuição delegada pelo Diretor Geral com concordância da Diretoria Colegiada da ARSP, através da Instrução de Serviço nº 019, de 19 de maio de 2023, para homologar reajustes do preço de venda pelo supridor na forma prevista no contrato de concessão e regulamentos vigentes, e
+A Diretora de Gás Canalizado e Energia da Agência de Regulação de Serviços Públicos – ARSP no uso de atribuição delegada pelo Diretor Geral com concordância da Diretoria Colegiada da ARSP, através da Instrução de Serviço nº 019, de 19 de maio de 2023, para homologar reajustes do preço de venda pelo supridor na forma prevista no [[contratos/contrato-concessao-2020/index|contrato de concessão]] e regulamentos vigentes, e
 
 Considerando que compete à ARSP, no âmbito de suas atribuições de regulação, aprovar níveis e estruturas tarifárias e homologar tarifas;
 
-Considerando o disposto na cláusula I, item XXXVII; na cláusula 12.12.1, na cláusula 12.13 e na cláusula IV do anexo I do Contrato de Concessão dos Serviços Públicos de Distribuição de Gás Canalizado assinado em 22 julho de 2020 (Registro n° 2020-XMH9X4);
+Considerando o disposto na [[contratos/contrato-concessao-2020/clausula-i#^it1-1-inc37|cláusula I, item XXXVII]]; na [[contratos/contrato-concessao-2020/clausula-xii#^it12-12-1|cláusula 12.12.1]], na [[contratos/contrato-concessao-2020/clausula-xii#^it12-13|cláusula 12.13]] e na [[contratos/contrato-concessao-2020/anexo-i-clausula-iv|cláusula IV do anexo I do Contrato de Concessão]] dos Serviços Públicos de Distribuição de Gás Canalizado assinado em 22 julho de 2020 (Registro n° 2020-XMH9X4);
 
 Considerando às sentenças judiciais notificadas à ARSP em 30 de janeiro de 2023, que julgaram extintos os processos associados às ações civis públicas n° 5000335- 91.2022.8.08.0024 e 5000284-80.2022.8.08.0024 (sob registro anterior nº 0017766- 63.2021.8.08.0024) e revogaram todas decisões liminares;
 
@@ -35,7 +35,7 @@ Considerando a existência de mais de um supridor e o estabelecido na [[resoluco
 
 Considerando a estrutura tarifária aplicável ao 2º ciclo tarifário, estabelecida pela [[resolucoes/res-arsp-091-2025/index|Resolução ARSP nº 091 de 31 de julho de 2025]];
 
-Considerando que a concessionária responsável pelos serviços de distribuição de gás canalizado – a Companhia de Gás do Espírito Santo (ES Gás) encaminhou em 08 de outubro de 2026, a carta ES GAS/DAC/GREG Nº 140/2026 complementada pela carta ES GAS/DAC/GREG Nº 144/2026, de 15 de outubro de 2026, com pedido de homologação do reajuste tarifário via custo médio do Preço do Gás (PG), constituído da Parcela de Transporte (PT) e da Parcela de Molécula (PM), nos termos previstos na cláusula 4.1.1 do contrato de concessão, considerando: os contratos de transporte e aditivos firmados com a Transportadora Associada de Gás S.A. – TAG e os contratos de suprimento, também denominados contratos de compra e venda de gás natural, e aditivos, firmados com a Petróleo Brasileiro S.A. – PETROBRAS e com a GALP Energia Brasil S.A.;
+Considerando que a concessionária responsável pelos serviços de distribuição de gás canalizado – a Companhia de Gás do Espírito Santo (ES Gás) encaminhou em 08 de outubro de 2026, a carta ES GAS/DAC/GREG Nº 140/2026 complementada pela carta ES GAS/DAC/GREG Nº 144/2026, de 15 de outubro de 2026, com pedido de homologação do reajuste tarifário via custo médio do Preço do Gás (PG), constituído da Parcela de Transporte (PT) e da Parcela de Molécula (PM), nos termos previstos na [[contratos/contrato-concessao-2020/anexo-i-clausula-iv#^it4-1-1|cláusula 4.1.1 do contrato de concessão]], considerando: os contratos de transporte e aditivos firmados com a Transportadora Associada de Gás S.A. – TAG e os contratos de suprimento, também denominados contratos de compra e venda de gás natural, e aditivos, firmados com a Petróleo Brasileiro S.A. – PETROBRAS e com a GALP Energia Brasil S.A.;
 
 Considerando o PARECER TÉCNICO PT/ARSP/GET/Nº 030/2026, que avaliou as documentações e os pleitos apresentados pela ES Gás, com cálculo demonstrativo das variações e do Preço Médio do Gás reajustado, que passa a equivaler a R\$ 2,4261/m³ e que somado à Parcela de Recuperação apurada no valor de R\$ 0,1787/m³, parte integrante da tarifa nos termos da [[resolucoes/res-arsp-061-2023/index|Resolução ARSP n° 061/2023]], resulta em uma parcela tarifária de R\$ 2,6048/m³, e ainda que, com a manutenção da margem média de distribuição, a tarifa média sem tributos passa a ser R\$ 3,0842/m³, a partir de 01º de novembro de 2026.
 

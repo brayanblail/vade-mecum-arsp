@@ -82,9 +82,9 @@
        {
         "ini": 69,
         "fim": 90,
-        "externo": "Contrato de Concessão",
-        "url": null,
-        "conf": "externo"
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
        }
       ],
       "7": [],
@@ -466,30 +466,30 @@
          {
           "ini": 112,
           "fim": 133,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          },
          {
           "ini": 267,
           "fim": 288,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          },
          {
           "ini": 423,
           "fim": 444,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          },
          {
           "ini": 579,
           "fim": 600,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        }
@@ -509,16 +509,16 @@
         {
          "ini": 235,
          "fim": 256,
-         "externo": "Contrato de Concessão",
-         "url": null,
-         "conf": "externo"
+         "doc": "contrato-concessao-2020",
+         "disp": null,
+         "conf": "documento"
         },
         {
          "ini": 360,
          "fim": 381,
-         "externo": "Contrato de Concessão",
-         "url": null,
-         "conf": "externo"
+         "doc": "contrato-concessao-2020",
+         "disp": null,
+         "conf": "documento"
         }
        ]
       },
@@ -640,9 +640,9 @@
          {
           "ini": 514,
           "fim": 535,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        }
@@ -691,9 +691,9 @@
          {
           "ini": 198,
           "fim": 219,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        },
@@ -778,23 +778,23 @@
          {
           "ini": 66,
           "fim": 87,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          },
          {
           "ini": 573,
           "fim": 594,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          },
          {
           "ini": 784,
           "fim": 805,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        }
@@ -861,9 +861,9 @@
          {
           "ini": 592,
           "fim": 613,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        }
@@ -894,23 +894,23 @@
          {
           "ini": 1147,
           "fim": 1168,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          },
          {
           "ini": 2299,
           "fim": 2320,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          },
          {
           "ini": 2568,
           "fim": 2589,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        }
@@ -969,9 +969,9 @@
         {
          "ini": 306,
          "fim": 327,
-         "externo": "Contrato de Concessão",
-         "url": null,
-         "conf": "externo"
+         "doc": "contrato-concessao-2020",
+         "disp": null,
+         "conf": "documento"
         }
        ]
       },
@@ -1007,9 +1007,9 @@
          {
           "ini": 69,
           "fim": 90,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        }

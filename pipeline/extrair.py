@@ -4,6 +4,9 @@
 - Remove texto tachado (redações anteriores nos textos consolidados da Assembleia).
 - Para PDFs com camada de texto corrompida (coluna ocr=sim), usa o texto de OCR
   salvo em ocr/<prefixo>-NN.txt (gerado com Tesseract, idioma por).
+- Para PDFs escaneados que já trazem uma camada de OCR boa (o contrato de concessão),
+  AJUSTES[...]["camada_ocr"] agrupa as linhas da página inteira e corrige os erros típicos;
+  fórmulas e tabelas escaneadas viram um aviso com a página do PDF.
 - Para na página de assinaturas do E-DOCS.
 
 Saída: dados/<id>.linhas.json  ->  [{"pag": 1, "texto": "..."}, ...]
@@ -40,9 +43,40 @@ FIM_GERAL = re.compile(r"^(Documento original assinado eletronicamente|INFORMAÇ
 
 # Ajustes por documento: início e fim do trecho útil (ex.: página do Diário Oficial
 # que traz outros atos além da lei).
+#   inicio / fim   regex da primeira linha útil / da linha onde o texto termina
+#   pular          regex de linhas descartadas
+#   camada_ocr     PDF escaneado com camada de OCR: agrupa as linhas da página inteira pela altura
+#                  (o OCR quebra linhas justificadas em blocos soltos), descarta o que estiver além de
+#                  `margem_dir` (fração da largura: carimbos e rubricas) e corrige erros típicos (corrigir_camada)
+#   omitir         [(de, ate)]: mantém a linha `de` e descarta as seguintes até antes de `ate`
+#   tabelas        [(de, ate)]: troca as linhas de `de` até antes de `ate` por um aviso com a página do PDF
+#                  (tabelas escaneadas saem com números trocados de coluna ou faltando)
+#   formulas       troca as linhas entre a frase que apresenta a fórmula e o "onde:" por um aviso
+#   corrigir       [(regex, troca)]: correções pontuais conferidas no PDF (o OCR perdeu o marcador)
 AJUSTES = {
     "lei-11173-2020": {"inicio": r"^LEI N[º°] 11\.173", "fim": r"^(RENATO CASAGRANDE|JOSÉ RENATO CASAGRANDE)"},
     "res-arsp-053-2021": {"pular": r"\.{6,}\s*\d+\s*$"},  # linhas do índice com pontilhado
+    "contrato-concessao-2020": {
+        "camada_ocr": True,
+        "margem_dir": 0.95,
+        "fim": r"^CAPTURADO POR$",                     # página de captura do E-DOCS
+        "omitir": [(r"^Vitória, 22 de julho de 2020", r"^ANEXO I - ")],   # assinaturas e cartório
+        "tabelas": [(r"^Denominação Valor Novo", r"^\* A descrição dos ativos"),          # Anexo III
+                    (r"^Segmento Residencial - Medição Individual", r"^\* Os valores serão")],  # Anexo IV
+        "formulas": True,
+        "corrigir": [(r"^taxa de regulação e fiscalização dos SERVI", r"II - \g<0>"),      # Anexo I, 2.1, p. 34
+                     (r"^arcar integralmente com o custo da construção", r"III - \g<0>"),  # 5.2.1, p. 8
+                     (r"^IV arcar parcialmente o custo da construção$", "IV - arcar parcialmente com o custo da construção"),
+                     (r"^- com de gasodutos e instalações pela$", "de gasodutos e instalações pela"),
+                     (r"^proporcionar o auxílio que seja solicitado", r"II - \g<0>"),     # 8.11, p. 11
+                     (r"^executar, direta ou indiretamente, os serviços", r"III - \g<0>"),  # 16.2, p. 21
+                     (r"^VIII estimular o aumento", "VIII - estimular o aumento"),        # 15.1, p. 21
+                     (r"sóC10\(S\)", "SÓCIO(S)"),                                         # título da Cláusula XXIX
+                     (r"art\. 207, SIO da", "art. 207, §1º da"),                          # 4.2, p. 6
+                     (r"do art\. 60 da Lei Federal", "do art. 6º da Lei Federal"),        # 8.2.1, p. 9
+                     (r"do art\. 70 da Lei Estadual", "do art. 7º da Lei Estadual"),
+                     (r"\bCO CESSIONÁRIA", "CONCESSIONÁRIA")],                            # 1.1, XVIII, p. 2
+    },
 }
 
 
@@ -98,34 +132,63 @@ def _linhas_visuais(bloco):
     return grupos
 
 
+def _linhas_pagina(pagina, margem_dir):
+    """Como _linhas_visuais, mas para a página inteira: junta as linhas de todos os blocos que estão
+    na mesma altura. Serve para PDFs escaneados, em que o OCR separa palavras de uma linha
+    justificada (e o "I" de "I - ...") em blocos diferentes."""
+    largura = pagina.rect.width
+    ls = [l for b in pagina.get_text("dict")["blocks"] for l in b.get("lines", [])
+          if l["bbox"][0] <= margem_dir * largura]
+    ls.sort(key=lambda l: (l["bbox"][1] + l["bbox"][3]) / 2)
+    grupos = []
+    for l in ls:
+        y0, y1 = l["bbox"][1], l["bbox"][3]
+        ym = (y0 + y1) / 2
+        if grupos and abs(grupos[-1]["ym"] - ym) < 0.45 * min(y1 - y0, grupos[-1]["h"]):
+            grupos[-1]["spans"] += l["spans"]
+        else:
+            grupos.append({"ym": ym, "h": y1 - y0, "y0": y0, "y1": y1, "spans": list(l["spans"])})
+    for g in grupos:
+        g["spans"].sort(key=lambda s: s["bbox"][0])
+    return grupos
+
+
 def extrair_pdf(caminho, doc_id):
+    aj = AJUSTES.get(doc_id, {})
     doc = pymupdf.open(caminho)
     brutas, tachados = [], 0
     for n, pag in enumerate(doc, start=1):
         hs = _linhas_horizontais(pag)
         altura = pag.rect.height
-        for bloco in pag.get_text("dict")["blocks"]:
-            for g in _linhas_visuais(bloco):
-                vivos, mortos = [], []
-                ant_x1 = None
-                for s in g["spans"]:
-                    sep = " " if ant_x1 is not None and s["bbox"][0] - ant_x1 > 1.0 else ""
-                    ant_x1 = s["bbox"][2]
-                    if hs and _riscado(s["bbox"], hs):
-                        tachados += 1
-                        mortos.append(sep + s["text"])
-                    else:
-                        vivos.append(sep + s["text"])
-                t = re.sub(r"\s+", " ", "".join(vivos)).strip()
-                tm = re.sub(r"\s+", " ", "".join(mortos)).strip()
+        if aj.get("camada_ocr"):
+            visuais = _linhas_pagina(pag, aj.get("margem_dir", 1.0))
+        else:
+            visuais = [g for bloco in pag.get_text("dict")["blocks"] for g in _linhas_visuais(bloco)]
+        for g in visuais:
+            vivos, mortos = [], []
+            ant_x1 = None
+            for s in g["spans"]:
+                sep = " " if ant_x1 is not None and s["bbox"][0] - ant_x1 > 1.0 else ""
+                ant_x1 = s["bbox"][2]
+                if hs and _riscado(s["bbox"], hs):
+                    tachados += 1
+                    mortos.append(sep + s["text"])
+                else:
+                    vivos.append(sep + s["text"])
+            t = re.sub(r"\s+", " ", "".join(vivos)).strip()
+            tm = re.sub(r"\s+", " ", "".join(mortos)).strip()
+            if not t and not tm:
+                continue
+            y = g["y0"]
+            if t and re.fullmatch(r"\d{1,3}", t) and (y < altura * 0.08 or y > altura * 0.90):
+                continue
+            if t and _eh_ruido(t):
+                continue
+            if t and aj.get("camada_ocr"):
+                t = corrigir_camada(t)
                 if not t and not tm:
                     continue
-                y = g["y0"]
-                if t and re.fullmatch(r"\d{1,3}", t) and (y < altura * 0.08 or y > altura * 0.90):
-                    continue
-                if t and _eh_ruido(t):
-                    continue
-                brutas.append({"pag": n, "texto": t, "tachado": tm})
+            brutas.append({"pag": n, "texto": t, "tachado": tm})
     # Dispositivo inteiro tachado seguido de "(Dispositivo revogado ...)":
     # mantém o número com a marca (Revogado) para não quebrar a sequência.
     saida, run = [], []
@@ -174,6 +237,68 @@ def corrigir_ocr(t):
     return t
 
 
+def _romano_ocr(s):
+    """Algarismo romano lido pelo OCR: 'xxvii' -> 'XXVII', 'l' -> 'I', 'Il' -> 'II'.
+    Devolve None se não parece romano."""
+    if s == "l":
+        return "I"
+    if any(c.isupper() for c in s):
+        s = s.replace("l", "I")
+    elif "l" not in s:
+        s = s.upper()
+    return s if re.fullmatch(r"[IVXLC]+", s) else None
+
+
+def corrigir_camada(t):
+    """Erros típicos da camada de OCR de contratos escaneados (E-DOCS)."""
+    if re.fullmatch(r"[-–—•.]+", t):
+        return ""                         # travessão de inciso que o OCR pôs numa linha própria
+    if t == "l.":
+        return "I."                       # fim de "... ANEXO" + "I." na linha seguinte
+    t = re.sub(r"\bCLA[ÚU]SULA", "CLÁUSULA", t)                                   # "CLAÚSULA XVIII"
+    # romanos em minúscula ou com l no lugar de I: no início de inciso e depois de CLÁUSULA/ANEXO
+    m = re.match(r"^([IVXLCivxlc]{1,7})(\s*[-–—]\s)", t)
+    if m and _romano_ocr(m.group(1)):
+        t = _romano_ocr(m.group(1)) + m.group(2) + t[m.end():]
+    t = re.sub(r"\b(CL[ÁA]USULAS?|[Cc]l[áa]usulas?|ANEXO|[Aa]nexo)\s+([IVXLCivxlc]{1,7})\b",
+               lambda m: f"{m.group(1)} {_romano_ocr(m.group(2)) or m.group(2)}", t)
+    t = re.sub(r"(?<![\d.,])1 1\.(?=\d)", "11.", t)                                    # "1 1.2." -> "11.2."
+    # "0" no lugar de "o"
+    t = re.sub(r"^(\d{1,2}(?:\.\d{1,2}){1,3}\.?) 0 (?=[A-ZÀ-Ú])", r"\1 O ", t)      # "12.10 0 REGULADOR"
+    t = re.sub(r"^0 (?=[A-ZÀ-Ú]{2})", "O ", t)
+    t = re.sub(r"(?<=[A-Za-zÀ-ú,;] )0(?= [A-Za-zÀ-ú])", "o", t)                       # "observado 0 disposto"
+    t = re.sub(r"(?<!\w)S (\d)0(?=,| do art)", r"§ \1º", t)                             # "S 20 do art. 25", "arts. 25, S 20,"
+    t = re.sub(r"(?<=[A-ZÁÉÍÓÚÂÊÔÃÕÇ])l(?=[A-ZÁÉÍÓÚÂÊÔÃÕÇ])", "I", t)                  # "ESPíRlTO"
+    t = re.sub(r"(?<=[A-ZÁÉÓÚÂÊÔÃÕÇ])í(?=[A-ZÁÉÍÓÚÂÊÔÃÕÇ])", "Í", t)
+    t = re.sub(r"\belou\b", "e/ou", t)
+    t = re.sub(r"\bno (?=\d)", "nº ", t)                                               # "Lei Estadual no 10.955/2018"
+    t = re.sub(r"(?<=[\s/(])m3\b", "m³", t)
+    return t
+
+
+def _formulas(linhas):
+    """Fórmulas escaneadas viram texto ilegível: troca as linhas entre a frase que apresenta a
+    fórmula ("...seguinte fórmula:", "...fórmula abaixo.", "...a seguir:") e o "onde:" por um aviso."""
+    out, i = [], 0
+    abre = re.compile(r"(f[óo]rmula|abaixo|a seguir)\s*[:.]?\s*$", re.I)
+    estrutura = re.compile(r"^(\d{1,2}\.\d|CL[ÁA]USULA|ANEXO|[IVXLC]+ [-–—] |[a-z]\) )")
+    while i < len(linhas):
+        out.append(linhas[i])
+        if abre.search(linhas[i]["texto"]):
+            j = i + 1
+            while j < len(linhas) and j - i <= 8 and not re.match(r"^onde\s*:", linhas[j]["texto"]):
+                if estrutura.match(linhas[j]["texto"]) or len(linhas[j]["texto"]) > 80:
+                    j = len(linhas)     # texto normal antes do "onde:": não é fórmula
+                    break
+                j += 1
+            if j < len(linhas) and j - i <= 8 and j > i + 1:
+                out.append({"pag": linhas[i + 1]["pag"], "texto": f"[Fórmula: ver o PDF, p. {linhas[i + 1]['pag']}.]"})
+                i = j
+                continue
+        i += 1
+    return out
+
+
 def recortar(linhas, doc_id):
     aj = AJUSTES.get(doc_id, {})
     if "inicio" in aj:
@@ -184,14 +309,41 @@ def recortar(linhas, doc_id):
                 break
     fim = re.compile(aj["fim"]) if "fim" in aj else None
     pular = re.compile(aj["pular"]) if "pular" in aj else None
+    corrigir = [(re.compile(a), b) for a, b in aj.get("corrigir", [])]
     out = []
     for l in linhas:
         if FIM_GERAL.search(l["texto"]) or (fim and fim.search(l["texto"])):
             break
         if pular and pular.search(l["texto"]):
             continue
+        for r, troca in corrigir:
+            l = dict(l, texto=r.sub(troca, l["texto"]))
         out.append(l)
+    for de, ate in aj.get("omitir", []):
+        out = _trecho(out, de, ate, manter_inicio=True)
+    for de, ate in aj.get("tabelas", []):
+        out = _trecho(out, de, ate, aviso="[Tabela: ver o PDF, {pag}.]")
+    if aj.get("formulas"):
+        out = _formulas(out)
     return out
+
+
+def _trecho(linhas, de, ate, manter_inicio=False, aviso=None):
+    """Tira as linhas de `de` até antes de `ate` (o primeiro par encontrado)."""
+    r_de, r_ate = re.compile(de), re.compile(ate)
+    i = next((k for k, l in enumerate(linhas) if r_de.search(l["texto"])), None)
+    if i is None:
+        raise ValueError(f"AJUSTES: trecho não encontrado: {de!r}")
+    j = next((k for k in range(i + 1, len(linhas)) if r_ate.search(linhas[k]["texto"])), None)
+    if j is None:
+        raise ValueError(f"AJUSTES: fim do trecho não encontrado: {ate!r}")
+    meio = []
+    if manter_inicio:
+        meio = [linhas[i]]
+    elif aviso:
+        p0, p1 = linhas[i]["pag"], linhas[j - 1]["pag"]
+        meio = [{"pag": p0, "texto": aviso.format(pag=f"p. {p0}" if p0 == p1 else f"pp. {p0}–{p1}")}]
+    return linhas[:i] + meio + linhas[j:]
 
 
 def executar(docs, pasta_pdfs, pasta_dados):

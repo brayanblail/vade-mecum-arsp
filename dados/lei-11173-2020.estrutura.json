@@ -437,9 +437,9 @@
         {
          "ini": 107,
          "fim": 128,
-         "externo": "Contrato de Concessão",
-         "url": null,
-         "conf": "externo"
+         "doc": "contrato-concessao-2020",
+         "disp": null,
+         "conf": "documento"
         }
        ]
       },
@@ -454,9 +454,9 @@
         {
          "ini": 207,
          "fim": 228,
-         "externo": "Contrato de Concessão",
-         "url": null,
-         "conf": "externo"
+         "doc": "contrato-concessao-2020",
+         "disp": null,
+         "conf": "documento"
         }
        ]
       },

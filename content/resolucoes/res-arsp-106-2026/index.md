@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Cita:** [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (1) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (4)
+**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (7) · [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (1) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (4)
 
 ## Texto
 
@@ -27,15 +27,15 @@ A DIRETORIA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DO ESPÍRITO SANTO
 
 Considerando que compete a ARSP fixar as tarifas e outras formas de contraprestação dos serviços regulados, bem como os reajustes anuais e as revisões, tendo por objetivo assegurar tanto o equilíbrio econômico-financeiro da prestação do serviço como a modicidade tarifária, mediante mecanismos que induzam à eficiência e eficácia dos serviços e que permitam a apropriação social dos ganhos de produtividade, no que couber;
 
-Considerando o disposto na cláusula I, item XXXVI e XXXVII; na cláusula 12.12.1, na cláusula 12.13 e na cláusula IV do anexo I do Contrato de Concessão dos Serviços Públicos de Distribuição de Gás Canalizado assinado em 22 julho de 2020 (Registro n° 2020-XMH9X4);
+Considerando o disposto na [[contratos/contrato-concessao-2020/clausula-i#^it1-1-inc36|cláusula I, item XXXVI]] e [[contratos/contrato-concessao-2020/clausula-i#^it1-1-inc37|XXXVII]]; na [[contratos/contrato-concessao-2020/clausula-xii#^it12-12-1|cláusula 12.12.1]], na [[contratos/contrato-concessao-2020/clausula-xii#^it12-13|cláusula 12.13]] e na [[contratos/contrato-concessao-2020/anexo-i-clausula-iv|cláusula IV do anexo I do Contrato de Concessão]] dos Serviços Públicos de Distribuição de Gás Canalizado assinado em 22 julho de 2020 (Registro n° 2020-XMH9X4);
 
 Considerando o estabelecido no [[resolucoes/res-arsp-046-2021/art-43|artigo 43 da Resolução ARSP n° 046/2021]] e na [[resolucoes/res-arsp-061-2023/index|Resolução ARSP n° 061/2023]];
 
 Considerando a existência de mais de um supridor e o estabelecido na [[resolucoes/res-arsp-061-2023/index|Resolução ARSP n° 061, de 29 de março de 2023]] sobre procedimento de reajuste da tarifa do gás canalizado contemplando a apuração, atualização e compensação dos saldos entre o Preço Médio do Gás praticado na tabela tarifária e o Preço do Gás Devido praticado por cada supridor e/ou transportador, dentre outras providências;
 
-Considerando que a Companhia de Gás do Espírito Santo - ES Gás encaminhou em 10 de julho de 2026, a carta ES GÁS/DAC/GREG Nº 104/2026, com pedido de homologação do reajuste tarifário via custo médio do Preço do Gás (PG), constituído da Parcela de Transporte (PT) e da Parcela de Molécula (PM), nos termos previstos na cláusula 4.1.1 do contrato de concessão, considerando os contratos de suprimento também denominados contratos de compra e venda de gás natural e aditivos, firmados com a Petróleo Brasileiro S.A. – PETROBRAS, com a GALP Energia Brasil S.A., e a metodologia prevista na [[resolucoes/res-arsp-061-2023/index|Resolução ARSP n° 061, de 29 de março de 2023]];
+Considerando que a Companhia de Gás do Espírito Santo - ES Gás encaminhou em 10 de julho de 2026, a carta ES GÁS/DAC/GREG Nº 104/2026, com pedido de homologação do reajuste tarifário via custo médio do Preço do Gás (PG), constituído da Parcela de Transporte (PT) e da Parcela de Molécula (PM), nos termos previstos na [[contratos/contrato-concessao-2020/anexo-i-clausula-iv#^it4-1-1|cláusula 4.1.1 do contrato de concessão]], considerando os contratos de suprimento também denominados contratos de compra e venda de gás natural e aditivos, firmados com a Petróleo Brasileiro S.A. – PETROBRAS, com a GALP Energia Brasil S.A., e a metodologia prevista na [[resolucoes/res-arsp-061-2023/index|Resolução ARSP n° 061, de 29 de março de 2023]];
 
-Considerando que a Concessionária de Distribuição de Gás Canalizado – Companhia de Gás do Espírito Santo (ES GÁS) apresentou também por meio da carta GÁS/DAC/GREG Nº 104/2026, pleito de reajuste anual da margem média de distribuição, em função de aplicação do índice IGP-M do período, conforme estabelecido no Contrato de Concessão;
+Considerando que a Concessionária de Distribuição de Gás Canalizado – Companhia de Gás do Espírito Santo (ES GÁS) apresentou também por meio da carta GÁS/DAC/GREG Nº 104/2026, pleito de reajuste anual da margem média de distribuição, em função de aplicação do índice IGP-M do período, conforme estabelecido no [[contratos/contrato-concessao-2020/index|Contrato de Concessão]];
 
 Considerando PARECER PGE/PCA Nº 0770/2021 e Despacho PGE/PCA Nº 0931/2021 que ratificam o PARECER PGE/PCA Nº 0033/2021 e Despacho PGE/PCA Nº 00334/2021 quanto ao reajuste da margem média de distribuição em 01° de agosto;
 

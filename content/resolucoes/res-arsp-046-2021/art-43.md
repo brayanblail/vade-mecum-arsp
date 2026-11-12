@@ -11,9 +11,9 @@ pagina_pdf: 16
 
 **§ 1º** A TUSD-GÁS será estabelecida pelo REGULADOR e é aplicável ao AGENTE LIVRE DE MERCADO atendido pelo SISTEMA DE DISTRIBUIÇÃO. ^par1
 
-**§ 2º** O REGULADOR fixará a TUSD-GÁS a cada revisão tarifária, com a garantia da manutenção do equilíbrio econômico-financeiro do CONTRATO DE CONCESSÃO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO. ^par2
+**§ 2º** O REGULADOR fixará a TUSD-GÁS a cada revisão tarifária, com a garantia da manutenção do equilíbrio econômico-financeiro do [[contratos/contrato-concessao-2020/index|CONTRATO DE CONCESSÃO]] do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO. ^par2
 
-**§ 3º** O valor da TUSD-GÁS corresponde à margem média de distribuição calculada de acordo com o segmento de USUÁRIO e da classe de consumo do AGENTE LIVRE DE MERCADO na tabela de tarifas, nos termos estipulados no CONTRATO DE CONCESSÃO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO e em regulamento. ^par3
+**§ 3º** O valor da TUSD-GÁS corresponde à margem média de distribuição calculada de acordo com o segmento de USUÁRIO e da classe de consumo do AGENTE LIVRE DE MERCADO na tabela de tarifas, nos termos estipulados no [[contratos/contrato-concessao-2020/index|CONTRATO DE CONCESSÃO]] do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO e em regulamento. ^par3
 
 **§ 4º** Para cálculo da TUSD-GÁS, poderá(ão) ser deduzido(s) da margem média de distribuição o(s) valor(es) referente(s) ao(s) encargo(s) que, conforme critérios técnicos, deixe(m) de existir no segmento de USUÁRIO do AGENTE LIVRE DE MERCADO, conferindo a devida transparência do cálculo durante o processo de Revisão Tarifária. ^par4
 
@@ -44,6 +44,7 @@ pagina_pdf: 16
 ---
 [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] · [PDF, pág. 16](../../pdf/res-arsp-046-2021.pdf#page=16)
 
-## Citado por (1)
+## Citado por (2)
 
+- [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023 · preâmbulo]] → Art. 43
 - [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026 · preâmbulo]] → Art. 43

@@ -23,7 +23,7 @@ RE_TITULO = re.compile(
 RE_ANEXO = re.compile(r"^(ANEXO|Anexo)(?:\s+([IVXLC]+|[ÚU]NICO))?\s*[-–—.:]?\s*(.*)$")
 RE_ART = re.compile(r"^Art(?:igo)?\.?\s*(\d{1,3})\s*[º°o]?\s?(?:-([A-Z])(?=[\s.:º°]))?\s*[.:\-–—]?\s*(.*)$")
 RE_PAR = re.compile(r"^(?:§\s*(\d{1,2})\s*[º°o]?\s*[.:\-–—]?|Par[áa]grafo\s+[úu]nico\s*[.:\-–—]?)\s*(.*)$")
-RE_INC = re.compile(r"^([IVXLC]{1,6})\s*[-–—.)]\s*(.*)$")
+RE_INC = re.compile(r"^([IVXLC]{1,7})\s*[-–—.)]\s*(.*)$")     # 7 letras: XXXVIII
 RE_ALI = re.compile(r"^([a-z])\s*\)\s*(.*)$")
 RE_FECHO = re.compile(r"^(Pal[áa]cio Anchieta|Vit[óo]ria\s*[/(]?\s*ES\)?,?\s+(?:em\s+)?\d{1,2}|Vit[óo]ria,\s+\d{1,2}|Bras[íi]lia,\s+\d{1,2})")
 RE_CLAUSULA = re.compile(r"^CL[ÁA]USULA\s+([IVXLC]+)\b\.?\s*[-–—.:]?\s*(.*)$")
@@ -113,9 +113,9 @@ class Construtor:
         self.inc = None
         self.ultimo = p
 
-    def add_inciso(self, n, texto, pag):
+    def add_inciso(self, n, texto, pag, rotulo=None):
         iid = f"{self.cont['id']}_inc{n}"
-        i = {"id": iid, "rotulo": int_para_romano(n), "num": n, "texto": texto, "alineas": [], "pag": pag}
+        i = {"id": iid, "rotulo": rotulo or int_para_romano(n), "num": n, "texto": texto, "alineas": [], "pag": pag}
         self.cont["incisos"].append(i)
         self.inc = i
         self.ultimo = i
@@ -170,12 +170,19 @@ class Construtor:
             return True
         return False
 
-    def aceita_inciso(self, n):
+    def aceita_inciso(self, n, folga=0):
+        """folga=1: aceita pular um número (o OCR às vezes perde o marcador), com aviso."""
         if not self.cont:
             return False
         incs = self.cont["incisos"]
         ult = incs[-1]["num"] if incs else 0
-        return n == ult + 1 or (n == 1 and ult == 0)
+        if n == ult + 1 or (n == 1 and ult == 0):
+            return True
+        if folga and ult and ult + 1 < n <= ult + 1 + folga:
+            self.avisos.append(f"{self.art['rotulo']}, {self.cont.get('rotulo') or 'caput'}: "
+                               f"salto de inciso {int_para_romano(ult)} -> {int_para_romano(n)}")
+            return True
+        return False
 
     def aceita_alinea(self, letra):
         alvo = self.inc if self.inc else self.cont
@@ -188,13 +195,18 @@ class Construtor:
 
 
 def estruturar_norma(meta, linhas):
+    """Normas articuladas. Contratos (tipo 'contrato') usam cláusulas também no corpo:
+    Cláusula > item numerado (12.12.1) > inciso > alínea."""
     c = Construtor(meta)
+    contrato = meta.get("tipo") == "contrato"
     em_clausulas = False
     n_anexo = 0
     for l in linhas:
         t, pag = l["texto"], l["pag"]
 
         m = RE_ANEXO.match(t)
+        if contrato and m and not re.match(r"^ANEXO\s+[IVX]+\s+[-–—]\s+[A-ZÁÉÍÓÚÂÊÔÃÕÇ]", t):
+            m = None    # no contrato, "ANEXO I e no REGULAMENTO" em começo de linha não abre anexo
         if m and (m.group(1) == "ANEXO" or len(t) <= 40) and not re.search(r"\b(desta|deste|da presente)\b", t):
             n_anexo += 1
             num = m.group(2) or ""
@@ -212,12 +224,24 @@ def estruturar_norma(meta, linhas):
             c.parte["titulo_pendente"] = False
             continue
         c.parte["titulo_pendente"] = False
+        if contrato and c.parte["id"] != "corpo" and not c.parte["blocos"] and len(t.split()) <= 4 \
+                and t.upper() == t and not RE_CLAUSULA.match(t):
+            # fim do título do anexo na linha seguinte ("... DE GÁS" + "CANALIZADO")
+            c.parte["rotulo"] += " " + t
+            continue
 
         m = RE_CLAUSULA.match(t)
         n = romano_para_int(m.group(1)) if m else None
         ult_cl = int(c.art["num"]) if (em_clausulas and c.art) else 0
-        if m and c.parte["id"] != "corpo" and n and (n == ult_cl + 1 or n == 1):
-            if n == 1 and ult_cl:
+        if contrato:
+            # sem sumário a descartar; o OCR pode perder um título de cláusula (aceita pular um, com aviso)
+            ok = m and n and ult_cl < n <= ult_cl + 2
+            if ok and n != ult_cl + 1:
+                c.avisos.append(f"{c.parte['rotulo']}: salto de cláusula {ult_cl} -> {n}")
+        else:
+            ok = m and c.parte["id"] != "corpo" and n and (n == ult_cl + 1 or n == 1)
+        if ok:
+            if n == 1 and ult_cl and not contrato:
                 # a sequência anterior era o índice (sumário) do contrato: descarta
                 sobra = [b["caput"]["texto"] for b in c.parte["blocos"] if b["tipo"] == "artigo" and b["caput"]["texto"]]
                 c.parte["blocos"] = [b for b in c.parte["blocos"] if b["tipo"] != "artigo"]
@@ -243,16 +267,53 @@ def estruturar_norma(meta, linhas):
             if not c.art["paragrafos"] and not c.art["caput"]["texto"] and t.isupper() and len(t) < 90:
                 c.art["titulo"] = juntar(c.art.get("titulo", ""), t)
                 continue
+            if contrato and (RE_FECHO.match(t) or re.match(r"^E,? por estarem", t)):
+                # "E por estarem assim justas e contratadas..." / "Vitória, 22 de julho de 2020."
+                em_clausulas = False
+                c.art = c.cont = c.inc = None
+                c.ultimo = c.bloco({"tipo": "texto", "linhas": [t], "pag": pag, "fecho": True})
+                continue
             m = RE_ITEM.match(t)
+            if m and contrato and m.group(1).split(".")[0] != c.art["num"]:
+                m = None    # item de outra cláusula: número mal lido ou texto que começa com número
+            if m and c.art["paragrafos"]:
+                ant = tuple(int(x) for x in c.art["paragrafos"][-1]["num"].split("."))
+                if tuple(int(x) for x in m.group(1).split(".")) < ant:
+                    m = None    # número para trás: é quebra de linha ("nos itens 4.3 e" + "4.8 sejam ..."), não item
             if m:
                 num = m.group(1)
-                p = {"id": f"{c.art['id']}_it{num.replace('.', '-')}", "rotulo": num, "num": num,
+                pid = f"{c.art['id']}_it{num.replace('.', '-')}"
+                if any(x["id"] == pid for x in c.art["paragrafos"]):
+                    # número repetido no próprio contrato (dois itens 6.5): o segundo ganha sufixo no endereço
+                    c.avisos.append(f"{c.parte['rotulo'] if c.parte['id'] != 'corpo' else 'Corpo'}, "
+                                    f"{c.art['rotulo']}: item {num} repetido no original; o segundo fica com o endereço {pid}b")
+                    pid += "b"
+                p = {"id": pid, "rotulo": num, "num": num,
                      "texto": m.group(2), "incisos": [], "pag": pag, "nivel": num.count(".")}
                 c.art["paragrafos"].append(p)
                 c.cont = p
                 c.inc = None
                 c.ultimo = p
                 continue
+            if contrato:
+                m = RE_INC.match(t)
+                if m:
+                    n = romano_para_int(m.group(1))
+                    if n and c.aceita_inciso(n, folga=1):
+                        c.add_inciso(n, m.group(2), pag)
+                        continue
+                    ult = c.cont["incisos"][-1]["num"] if c.cont and c.cont["incisos"] else 0
+                    if n and 1 < n <= ult:
+                        # erro de numeração do próprio contrato ("XL" depois do "XLIX"): o texto não muda;
+                        # o inciso entra como o próximo da sequência, com o número impresso
+                        c.avisos.append(f"{c.art['rotulo']}, {c.cont.get('rotulo') or 'caput'}: inciso "
+                                        f"{m.group(1)} impresso depois do {int_para_romano(ult)}; tratado como o {ult + 1}º")
+                        c.add_inciso(ult + 1, m.group(2), pag, rotulo=m.group(1))
+                        continue
+                m = RE_ALI.match(t)
+                if m and c.aceita_alinea(m.group(1)):
+                    c.add_alinea(m.group(1), m.group(2), pag)
+                    continue
             c.continuar(t, pag)
             continue
 

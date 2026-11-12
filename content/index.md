@@ -5,12 +5,16 @@ title: Normas de gás canalizado – ARSP/ES
 Resoluções, leis e consultas públicas da ARSP com **link direto para cada artigo, parágrafo, inciso e alínea**. Passe o mouse sobre uma remissão para ver o dispositivo; no fim de cada artigo aparece quem o cita.
 
 > [!warning] Piloto
-> 13 documentos, 203 remissões detectadas automaticamente em 10/11/2026. Em caso de dúvida, vale o PDF original. Veja [[revisao|o que conferir]].
+> 14 documentos, 315 remissões detectadas automaticamente em 12/11/2026. Em caso de dúvida, vale o PDF original. Veja [[revisao|o que conferir]].
 
 ## Leis
 
 - [[leis/lei-11173-2020/index|Lei 11.173/2020]] – Dispõe sobre normas para o mercado livre de gás canalizado no âmbito do Estado do Espírito Santo e dá outras providências. *(15 dispositivos, citado 5× por outros atos)*
 - [[leis/lc-827-2016/index|LC 827/2016]] – Cria a Agência de Regulação de Serviços Públicos - ARSP, em decorrência da fusão da ARSI e da ASPE, e dá outras providências. *(45 dispositivos, citado 13× por outros atos)*
+
+## Contratos
+
+- [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] – Contrato de concessão para exploração do serviço público de distribuição de gás canalizado que entre si celebram o Estado do Espírito Santo  *(42 dispositivos, citado 73× por outros atos)*
 
 ## Resoluções
 

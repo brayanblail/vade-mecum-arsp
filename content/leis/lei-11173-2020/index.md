@@ -17,6 +17,8 @@ situacao: Vigente
 
 ## Linhagem
 
+**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (2)
+
 **Citado por:** [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (1) · [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] (1) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (1) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (1) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (1)
 
 ## Texto
@@ -91,9 +93,9 @@ Faço saber que a Assembleia Legislativa decretou e eu sanciono a seguinte Lei:
 
 **§ 1º** A TUSD-GÁS será estabelecida pela agência reguladora e é aplicável ao agente livre de mercado atendido pelo sistema de distribuição, nos termos do [[leis/lei-11173-2020/art-4|art. 4º]].
 
-**§ 2º** A agência reguladora fixará a TUSD-GÁS, com a garantia da manutenção do equilíbrio econômico-financeiro do contrato de concessão do serviço público de distribuição de gás canalizado.
+**§ 2º** A agência reguladora fixará a TUSD-GÁS, com a garantia da manutenção do equilíbrio econômico-financeiro do [[contratos/contrato-concessao-2020/index|contrato de concessão]] do serviço público de distribuição de gás canalizado.
 
-**§ 3º** O valor da TUSD-GÁS corresponde à margem média de distribuição calculada de acordo com o segmento de usuário e da classe de consumo do agente livre de mercado na tabela de tarifas, nos termos estipulados no contrato de concessão do serviço público de distribuição de gás canalizado e em regulamento.
+**§ 3º** O valor da TUSD-GÁS corresponde à margem média de distribuição calculada de acordo com o segmento de usuário e da classe de consumo do agente livre de mercado na tabela de tarifas, nos termos estipulados no [[contratos/contrato-concessao-2020/index|contrato de concessão]] do serviço público de distribuição de gás canalizado e em regulamento.
 
 **§ 4º** A agência reguladora fixará a TUSDE-GÁS, apurada conforme regulamento, que será calculada pela concessionária de forma individualizada para os agentes livres de mercado que se enquadrarem nos termos do [[leis/lei-11173-2020/art-5|art. 5º]].
 

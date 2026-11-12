@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Cita:** [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[resolucoes/res-arsp-048-2021/index|Res. ARSP 048/2021]] (2)
+**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (4) · [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[resolucoes/res-arsp-048-2021/index|Res. ARSP 048/2021]] (2)
 
 ## Texto
 
@@ -29,13 +29,13 @@ A DIRETORIA COLEGIADA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DO ESPÍ
 
 CONSIDERANDO que a ARSP tem por finalidade, regular, controlar e fiscalizar, no âmbito do Estado do Espírito Santo, os serviços públicos de distribuição de gás canalizado;
 
-CONSIDERANDO que o contrato de concessão tem por objeto a concessão, com exclusividade do serviço público de distribuição de gás canalizado no Estado do Espírito Santo;
+CONSIDERANDO que o [[contratos/contrato-concessao-2020/index|contrato de concessão]] tem por objeto a concessão, com exclusividade do serviço público de distribuição de gás canalizado no Estado do Espírito Santo;
 
 CONSIDERANDO que o serviço público de distribuição de gás é prestado, sob competência regulatória estadual, com o objetivo de assegurar as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas, e compreende o planejamento, a construção, a operação e a manutenção do sistema de distribuição e as medições desde as estações de transferência de custódia até os pontos de entrega da molécula do gás aos usuários cativos e agentes livres de mercado;
 
-CONSIDERANDO o estabelecido no anexo II do contrato de concessão que o regulador deverá expedir regulamento considerando indicadores e seus respectivos valores de referência;
+CONSIDERANDO o estabelecido no [[contratos/contrato-concessao-2020/index|anexo II do contrato de concessão]] que o regulador deverá expedir regulamento considerando indicadores e seus respectivos valores de referência;
 
-CONSIDERANDO que os indicadores constantes no anexo II do contrato de concessão não são exaustivos, podendo ser revistos, suprimidos ou incluídos, por ocasião da elaboração de regulamento;
+CONSIDERANDO que os indicadores constantes no [[contratos/contrato-concessao-2020/index|anexo II do contrato de concessão]] não são exaustivos, podendo ser revistos, suprimidos ou incluídos, por ocasião da elaboração de regulamento;
 
 CONSIDERANDO que os indicadores do serviço público de distribuição de gás canalizado constituem instrumento essencial para regulação e fiscalização e visam estabelecer referências e monitorar os serviços de distribuição de gás canalizado, que devem ser prestados de forma regular, contínua, com segurança e atendendo a qualidade especificada;
 
@@ -43,7 +43,7 @@ CONSIDERANDO que a ação fiscalizadora da ARSP visará, primordialmente, à edu
 
 CONSIDERANDO que compete a ARSP no âmbito de suas atribuições de fiscalização dos serviços de distribuição de gás canalizado, a apuração de infrações e a aplicação de penalidades nos termos da [[resolucoes/res-arsp-048-2021/index|Resolução ARSP n°048, de 16 de junho de 2021]] e/ou outra que vier a substituí-la ou alterá-la;
 
-CONSIDERANDO a necessidade de aprimoramento das regras estabelecidas na Resolução ASPE - Nº. 004/2013 em consonância com o atual contrato de concessão;
+CONSIDERANDO a necessidade de aprimoramento das regras estabelecidas na Resolução ASPE - Nº. 004/2013 em consonância com o atual [[contratos/contrato-concessao-2020/index|contrato de concessão]];
 
 CONSIDERANDO que a ARSP, em Consulta Pública N° 006/2022, que esteve disponível de 18 de novembro de 2022 a 02 de dezembro de 2022, submeteu à apreciação e contribuições da sociedade, a Nota Técnica/GGN Nº 01/2022 e minuta de Resolução;
 

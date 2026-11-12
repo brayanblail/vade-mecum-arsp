@@ -61,9 +61,9 @@
        {
         "ini": 27,
         "fim": 48,
-        "externo": "Contrato de Concessão",
-        "url": null,
-        "conf": "externo"
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
        }
       ],
       "5": [
@@ -114,11 +114,12 @@
       ],
       "12": [
        {
-        "ini": 114,
+        "ini": 99,
         "fim": 135,
-        "externo": "Contrato de Concessão",
-        "url": null,
-        "conf": "externo"
+        "doc": "contrato-concessao-2020",
+        "disp": "cl9",
+        "art": "cl9",
+        "conf": "exato"
        }
       ],
       "13": [],

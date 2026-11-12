@@ -4,7 +4,7 @@ import re
 
 from comum import int_para_romano
 
-PASTA_GRUPO = {"Leis": "leis", "Resoluções": "resolucoes", "Consultas públicas": "consultas"}
+PASTA_GRUPO = {"Leis": "leis", "Contratos": "contratos", "Resoluções": "resolucoes", "Consultas públicas": "consultas"}
 
 
 def carregar(docs_meta, pasta_dados):

@@ -25,6 +25,8 @@ Rotina: PDF na pasta → linha no CSV → pipeline → revisão → GitHub → s
 - **Com argumento:** aceite o nome do arquivo, parte dele, "065/2023" ou "65". Procure o PDF na pasta principal e pergunte ao usuário se houver mais de um candidato.
 - **Ato da ASPE:** não inclua. Explique que o pipeline só reconhece resoluções ARSP: `Indice.por_chave` e `doc_do_token` em `pipeline/remissoes.py` fixam o órgão. Incluir a ASPE exige mudar o pipeline antes.
 - **PDF fora da pasta principal** (como `Leis e Decretos/…` ou `Consulta Pública/…`): o `sugerir` não cobre esse caso. Preencha a linha à mão. O `arquivo` é o caminho relativo à pasta dos PDFs, com `/`.
+- **PDF escaneado que já tem camada de OCR** (como o contrato de concessão): não use `ocr=sim`. Crie uma entrada em `AJUSTES` no `extrair.py` com `camada_ocr` e confira no PDF cada marcador que o OCR perdeu (veja "Contrato de concessão" no `CLAUDE.md`).
+- **Contrato** (cláusulas em vez de artigos): `tipo=contrato`, grupo `Contratos`, `numero` vazio. O pipeline hoje supõe um contrato só no cadastro (`Indice.contrato` em `remissoes.py`).
 
 ## 2. Preencher a linha do CSV
 

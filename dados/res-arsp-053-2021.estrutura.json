@@ -81,18 +81,18 @@
        {
         "ini": 19,
         "fim": 40,
-        "externo": "Contrato de Concessão",
-        "url": null,
-        "conf": "externo"
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
        }
       ],
       "8": [
        {
         "ini": 19,
         "fim": 40,
-        "externo": "Contrato de Concessão",
-        "url": null,
-        "conf": "externo"
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
        }
       ],
       "9": [
@@ -378,6 +378,27 @@
         "conf": "externo"
        },
        {
+        "ini": 4490,
+        "fim": 4511,
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
+       },
+       {
+        "ini": 7511,
+        "fim": 7532,
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
+       },
+       {
+        "ini": 7743,
+        "fim": 7764,
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
+       },
+       {
         "ini": 14375,
         "fim": 14395,
         "externo": "Constituição Federal",
@@ -619,17 +640,7 @@
        "id": "anx1_cl4_it4-9",
        "rotulo": "4.9",
        "num": "4.9",
-       "texto": "Caso as condições de entrega do GÁS pelo USUÁRIO à CONCESSIONÁRIA definidas nos itens 4.3 e",
-       "incisos": [],
-       "pag": 12,
-       "nivel": 1,
-       "refs": []
-      },
-      {
-       "id": "anx1_cl4_it4-8",
-       "rotulo": "4.8",
-       "num": "4.8",
-       "texto": "sejam descumpridas e, comprovadamente, haja danos diretos causados ao SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO da CONCESSIONÁRIA e demais USUÁRIOS do SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO, o USUÁRIO deverá arcar com tais danos, que devem ser devidamente comprovados e justificados pela CONCESSIONÁRIA.",
+       "texto": "Caso as condições de entrega do GÁS pelo USUÁRIO à CONCESSIONÁRIA definidas nos itens 4.3 e 4.8 sejam descumpridas e, comprovadamente, haja danos diretos causados ao SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO da CONCESSIONÁRIA e demais USUÁRIOS do SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO, o USUÁRIO deverá arcar com tais danos, que devem ser devidamente comprovados e justificados pela CONCESSIONÁRIA.",
        "incisos": [],
        "pag": 12,
        "nivel": 1,
@@ -3052,6 +3063,13 @@
        "pag": 34,
        "nivel": 1,
        "refs": [
+        {
+         "ini": 113,
+         "fim": 134,
+         "doc": "contrato-concessao-2020",
+         "disp": null,
+         "conf": "documento"
+        },
         {
          "ini": 139,
          "fim": 164,

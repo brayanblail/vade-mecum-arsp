@@ -1,0 +1,6802 @@
+[
+{
+"pag": 1,
+"texto": "Contrato de concessão para exploração do serviço"
+},
+{
+"pag": 1,
+"texto": "público de distribuição de gás canalizado que entre si"
+},
+{
+"pag": 1,
+"texto": "celebram o Estado do Espírito Santo e a Companhia de"
+},
+{
+"pag": 1,
+"texto": "Gás do Espírito Santo (ES GÁS)."
+},
+{
+"pag": 1,
+"texto": "Pelo presente Contrato de Concessão de Serviços Públicos, o ESTADO DO ESPÍRITO SANTO,"
+},
+{
+"pag": 1,
+"texto": "pessoa jurídica de direito público interno, com sede na Praça João Clímaco, s/n, Cidade Alta,"
+},
+{
+"pag": 1,
+"texto": "Centro, Vitória/ES, CEP 29015-110, inscrito no CNPJ sob o nº 27.080.530/0001-43, doravante"
+},
+{
+"pag": 1,
+"texto": "designado apenas como PODER CONCEDENTE, neste ato representado por seu Governador,"
+},
+{
+"pag": 1,
+"texto": "JOSÉ RENATO CASAGRANDE, pelo Secretário de Estado de Desenvolvimento, MARCOS KNEIP"
+},
+{
+"pag": 1,
+"texto": "NAVARRO, e pelo Procurador-Geral do Estado, RODRIGO FRANCISCO DE PAULA, e a"
+},
+{
+"pag": 1,
+"texto": "COMPANHIA DE GÁS DO ESPÍRITO SANTO (ES GÁS), sociedade de economia mista, com sede"
+},
+{
+"pag": 1,
+"texto": "na Av. Nossa Senhora da Penha, nº 1688, Bloco 1, 20 andar, Barro Vermelho, Vitória/ES, CEP"
+},
+{
+"pag": 1,
+"texto": "29057-550, inscrita no CNPJ sob o nº 34.307.295/0001-65, doravante designada apenas como"
+},
+{
+"pag": 1,
+"texto": "CONCESSIONÁRIA, neste ato representada pelo seu Diretor-Presidente, HEBER VIANA DE"
+},
+{
+"pag": 1,
+"texto": "RESENDE, e seu Diretor de Operações FREDERICO BICHARA HENRIQUES, na qualidade de"
+},
+{
+"pag": 1,
+"texto": "PARTES contratantes, no intuito de disciplinarem a CONCESSÃO DO SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 1,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO, de forma a bem atender a população e a propiciar o"
+},
+{
+"pag": 1,
+"texto": "desenvolvimento sadio da atividade econômica, têm entre si justo e acordado o presente Contrato"
+},
+{
+"pag": 1,
+"texto": "de Concessão, que passa a vigorar de acordo com os termos e condições a seguir descritos."
+},
+{
+"pag": 1,
+"texto": "CLÁUSULA I - DEFINIÇÕES"
+},
+{
+"pag": 1,
+"texto": "1.1. Para os fins do disposto neste CONTRATO e da sua execução pelas PARTES contratantes,"
+},
+{
+"pag": 1,
+"texto": "ficam estabelecidas as seguintes definições:"
+},
+{
+"pag": 1,
+"texto": "I - AGENTE LIVRE DE MERCADO: USUÁRIO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE"
+},
+{
+"pag": 1,
+"texto": "GÁS CANALIZADO que se qualifique, observado o disposto na legislação e em REGULAMENTO,"
+},
+{
+"pag": 1,
+"texto": "como CONSUMIDOR LIVRE, como AUTOPRODUTOR ou como AUTOIMPORTADOR;"
+},
+{
+"pag": 1,
+"texto": "II - AUTOIMPORTADOR: USUÁRIO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 1,
+"texto": "CANALIZADO autorizado pela ANP para a importação de GÁS e que utiliza parte ou totalidade do"
+},
+{
+"pag": 1,
+"texto": "produto importado como matéria-prima ou combustível em suas instalações industriais;"
+},
+{
+"pag": 1,
+"texto": "III - AUTOPRODUTOR: USUÁRIO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 1,
+"texto": "CANALIZADO autorizado pela ANP a produzir, a molécula do GÁS, e que utiliza parte ou totalidade"
+},
+{
+"pag": 1,
+"texto": "de sua produção como matéria-prima ou combustível em suas instalações industriais;"
+},
+{
+"pag": 1,
+"texto": "IV - BASE DE ATIVOS REGULATÓRIOS (BAR): são os bens vinculados à concessão,"
+},
+{
+"pag": 1,
+"texto": "compreendendo os bens materiais e imateriais, móveis ou imóveis, necessários à prestação"
+},
+{
+"pag": 1,
+"texto": "adequada e contínua do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 1,
+"texto": "V - BASE DE REMUNERAÇÃO REGULATÓRIA BRUTA (BRRB): ativo composto pelo valor da"
+},
+{
+"pag": 1,
+"texto": "BAR e pelo valor da OUTORGA, considerando critérios de elegibilidade e índice de aproveitamento,"
+},
+{
+"pag": 1,
+"texto": "não incluindo a participação financeira do USUÁRIO, doações, subvenções e ativos não onerosos,"
+},
+{
+"pag": 1,
+"texto": "terrenos, as obras e conversões em andamento e o almoxarifado de materiais e equipamentos"
+},
+{
+"pag": 2,
+"texto": "empregados em obras, exceto reserva técnica, conforme critérios estabelecidos neste CONTRATO"
+},
+{
+"pag": 2,
+"texto": "e em REGULAMENTO;"
+},
+{
+"pag": 2,
+"texto": "VI - BASE DE REMUNERAÇÃO REGULATÓRIA LÍQUIDA (BRRL): valor da BASE DE"
+},
+{
+"pag": 2,
+"texto": "REMUNERAÇÃO REGULATÓRIA BRUTA (BRRB) deduzida da depreciação e amortização"
+},
+{
+"pag": 2,
+"texto": "acumuladas e dos ativos totalmente depreciados, e acrescida de terrenos, conforme critérios"
+},
+{
+"pag": 2,
+"texto": "estabelecidos neste CONTRATO e em REGULAMENTO;"
+},
+{
+"pag": 2,
+"texto": "VII - CHAMADA PÚBLICA: procedimento destinado a selecionar SUPRIDOR(ES), no qual se"
+},
+{
+"pag": 2,
+"texto": "garanta a observância dos princípios da isonomia, da legalidade, da impessoalidade, da moralidade,"
+},
+{
+"pag": 2,
+"texto": "da igualdade, da publicidade, da probidade administrativa, da vinculação ao instrumento"
+},
+{
+"pag": 2,
+"texto": "convocatório, do julgamento objetivo e dos que lhes são correlatos;"
+},
+{
+"pag": 2,
+"texto": "VIII - CICLO TARIFÁRIO: intervalo de tempo de 5 (cinco) anos entre uma e outra REVISÃO"
+},
+{
+"pag": 2,
+"texto": "TARIFÁRIA ORDINÁRIA;"
+},
+{
+"pag": 2,
+"texto": "IX - COMERCIALIZAÇÃO DE GÁS CANALIZADO: atividade de compra e venda de GÁS"
+},
+{
+"pag": 2,
+"texto": "CANALIZADO, realizada por meio da celebração de contratos negociados entre os interessados e"
+},
+{
+"pag": 2,
+"texto": "registrados na ANP, ressalvado o disposto no § 2º do art. 25 da Constituição Federal;"
+},
+{
+"pag": 2,
+"texto": "X - CONCESSÃO: relação jurídica formada pela delegação, à CONCESSIONÁRIA, pelo PODER"
+},
+{
+"pag": 2,
+"texto": "CONCEDENTE, da prestação do serviço público referido no preâmbulo deste CONTRATO, que"
+},
+{
+"pag": 2,
+"texto": "será remunerado mediante tarifa paga pelo USUÁRIO;"
+},
+{
+"pag": 2,
+"texto": "XI - CONCESSIONÁRIA: sociedade à qual é adjudicada, mediante CONCESSÃO, a PRESTAÇÃO"
+},
+{
+"pag": 2,
+"texto": "DO SERVIÇO PÚBICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 2,
+"texto": "XII - CONSUMIDOR LIVRE: USUÁRIO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 2,
+"texto": "CANALIZADO que, conforme critérios de enquadramento e condições fixados em REGULAMENTO,"
+},
+{
+"pag": 2,
+"texto": "tem a opção de adquirir a molécula do GÁS diretamente do SUPRIDOR;"
+},
+{
+"pag": 2,
+"texto": "XIII - CONTRATO: instrumento de OUTORGA da CONCESSÃO, celebrado entre o PODER"
+},
+{
+"pag": 2,
+"texto": "CONCEDENTE e a CONCESSIONÁRIA, que tem por objeto regular as condições de exploração"
+},
+{
+"pag": 2,
+"texto": "do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO no Estado do Espírito Santo;"
+},
+{
+"pag": 2,
+"texto": "XIV - CUSTOS OPERACIONAIS EFICIENTES: custos e demais gastos incorridos com a prestação"
+},
+{
+"pag": 2,
+"texto": "do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, observado o disposto em"
+},
+{
+"pag": 2,
+"texto": "REGULAMENTO;"
+},
+{
+"pag": 2,
+"texto": "XV - EQUILÍBRIO ECONÔMICO-FINANCEIRO: relação de equilíbrio entre os encargos e as"
+},
+{
+"pag": 2,
+"texto": "receitas da CONCESSÃO, observada a adequada prestação do serviço e sua remuneração;"
+},
+{
+"pag": 2,
+"texto": "conforme disposto neste CONTRATO e em REGULAMENTO;"
+},
+{
+"pag": 2,
+"texto": "XVI - ESTAÇÃO DE TRANSFERÊNCIA DE CUSTÓDIA OU CITY GATE: local físico onde ocorre a"
+},
+{
+"pag": 2,
+"texto": "transferência do GÁS sob custódia do carregador para a custódia da CONCESSIONÁRIA ou para"
+},
+{
+"pag": 2,
+"texto": "os AGENTES LIVRES DE MERCADO de GÁS CANALIZADO, por intermédio de conjunto de"
+},
+{
+"pag": 2,
+"texto": "equipamentos e instalações que tem por finalidade regular a pressão, assim como medir e registrar"
+},
+{
+"pag": 2,
+"texto": "a quantidade de GÁS nas condições de entrega e odorizar o GÁS a ser distribuído;"
+},
+{
+"pag": 2,
+"texto": "XVII - ESTRUTURA TARIFÁRIA: conjunto de tabelas de tarifas aplicadas para o faturamento do"
+},
+{
+"pag": 2,
+"texto": "SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, que reflete a diferenciação entre"
+},
+{
+"pag": 2,
+"texto": "os segmentos de USUÁRIOS e classes tarifárias;"
+},
+{
+"pag": 2,
+"texto": "XVIII - FATOR X: índice estabelecido pelo REGULAMENTO por ocasião da RTO, que tem por"
+},
+{
+"pag": 2,
+"texto": "objetivo repassar os potenciais ganhos de produtividade da CONCESSIONÁRIA;"
+},
+{
+"pag": 3,
+"texto": "XIX - FLUXO DE CAIXA LIVRE DA CONCESSÃO: mecanismo utilizado para projetar receitas,"
+},
+{
+"pag": 3,
+"texto": "custos, despesas e investimentos, bem como outros desembolsos e encargos da"
+},
+{
+"pag": 3,
+"texto": "CONCESSIONÁRIA, observado o estabelecido neste CONTRATO e em REGULAMENTO;"
+},
+{
+"pag": 3,
+"texto": "XX - FONTE DE SUPRIMENTO: qualquer conexão para entrega de GÁS que não seja derivada do"
+},
+{
+"pag": 3,
+"texto": "SISTEMA DE DISTRIBUIÇÃO, tais como UPGNs, terminais de regaseificação de GNL (TGNL),"
+},
+{
+"pag": 3,
+"texto": "gasodutos de escoamento, de transporte ou as demais unidades produtoras de GÁS;"
+},
+{
+"pag": 3,
+"texto": "XXI - GÁS: É o energético distribuído pela CONCESSIONÁRIA aos USUÁRIOS, podendo ser gás"
+},
+{
+"pag": 3,
+"texto": "natural, biometano ou similares conforme especificações da ANP;"
+},
+{
+"pag": 3,
+"texto": "XXII - GÁS CANALIZADO: É o GÁS distribuído por meio de gasodutos, através de SISTEMA DE"
+},
+{
+"pag": 3,
+"texto": "DISTRIBUIÇÃO adequado;"
+},
+{
+"pag": 3,
+"texto": "XXIII - JUROS SOBRE OBRAS EM ANDAMENTO (JOA): remuneração das conversões,"
+},
+{
+"pag": 3,
+"texto": "observada a legislação e o REGULAMENTO, e das obras em andamento relativa ao WACC vigente"
+},
+{
+"pag": 3,
+"texto": "no período de execução e considerando os prazos médios de construção de cada ativo, que são"
+},
+{
+"pag": 3,
+"texto": "incorporados ao seu respectivo valor;"
+},
+{
+"pag": 3,
+"texto": "XXIV - MARGEM MÉDIA DE DISTRIBUIÇÃO: Valor expresso em R$/m³, resultante da fórmula"
+},
+{
+"pag": 3,
+"texto": "paramétrica contratual, a qual calcula o FLUXO DE CAIXA LIVRE DA CONCESSÃO para o CICLO"
+},
+{
+"pag": 3,
+"texto": "TARIFÁRIO com Valor Presente Líquido igual a zero, sendo este necessário para cobertura dos"
+},
+{
+"pag": 3,
+"texto": "custos eficientes, da remuneração dos investimentos, do valor da OUTORGA e do CAPITAL DE"
+},
+{
+"pag": 3,
+"texto": "GIRO NECESSÁRIO (NCG), dos encargos e de outras despesas previstos neste CONTRATO,"
+},
+{
+"pag": 3,
+"texto": "decorrentes da prestação do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO,"
+},
+{
+"pag": 3,
+"texto": "cujos parâmetros e metodologias são definidos neste CONTRATO e em REGULAMENTO;"
+},
+{
+"pag": 3,
+"texto": "XXV - MERCADO LIVRE DE GÁS CANALIZADO: mercado onde há a comercialização direta de"
+},
+{
+"pag": 3,
+"texto": "GÁS CANALIZADO entre SUPRIDORES e AGENTES LIVRES DE MERCADO nas condições"
+},
+{
+"pag": 3,
+"texto": "estabelecidas em REGULAMENTO, observadas as regras do presente CONTRATO;"
+},
+{
+"pag": 3,
+"texto": "XXVI - NECESSIDADE DE CAPITAL DE GIRO (NCG): reserva de recursos que serão utilizados"
+},
+{
+"pag": 3,
+"texto": "para suprir as necessidades financeiras operacionais da CONCESSIONÁRIA, conforme"
+},
+{
+"pag": 3,
+"texto": "REGULAMENTO;"
+},
+{
+"pag": 3,
+"texto": "XXVII - OUTORGA: delegação à CONCESSIONÁRIA, pelo PODER CONCEDENTE, nos termos"
+},
+{
+"pag": 3,
+"texto": "da Lei Estadual nº 10.955/2018 e na forma prevista neste CONTRATO, do SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 3,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO no Estado do Espírito santo;"
+},
+{
+"pag": 3,
+"texto": "XXVIII - PARTES: PODER CONCEDENTE e CONCESSIONÁRIA;"
+},
+{
+"pag": 3,
+"texto": "XXIX - PLANO DE NEGÓCIOS: base de informações para a definição da MARGEM MÉDIA DE"
+},
+{
+"pag": 3,
+"texto": "DISTRIBUIÇÃO, que deve conter, no mínimo, os objetivos, as metas e as estratégias previamente"
+},
+{
+"pag": 3,
+"texto": "fixados, bem como as informações do cenário macroeconômico, do mercado, de investimentos e"
+},
+{
+"pag": 3,
+"texto": "de custos necessários ao alcance dos objetivos pretendidos em cada CICLO TARIFÁRIO,"
+},
+{
+"pag": 3,
+"texto": "observado o disposto em REGULAMENTO;"
+},
+{
+"pag": 3,
+"texto": "XXX - PODER CONCEDENTE: ente federado que detém a titularidade do SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 3,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 3,
+"texto": "XXXI - PONTO DE ENTREGA: local físico de entrega do GÁS pela CONCESSIONÁRIA aos"
+},
+{
+"pag": 3,
+"texto": "USUÁRIOS ou o local físico onde o GÁS CANALIZADO ingressa no estabelecimento do AGENTE"
+},
+{
+"pag": 3,
+"texto": "LIVRE DE MERCADO, a partir da última válvula de bloqueio de saída do conjunto de regulagem e"
+},
+{
+"pag": 3,
+"texto": "medição, observado do disposto em REGULAMENTO;"
+},
+{
+"pag": 4,
+"texto": "XXXII - PONTO DE RECEPÇÃO: local físico ou virtual onde ocorre a transferência de propriedade"
+},
+{
+"pag": 4,
+"texto": "do GÁS do SUPRIDOR para a CONCESSIONÁRIA ou para os AGENTES LIVRES DE MERCADO"
+},
+{
+"pag": 4,
+"texto": "de GÁS CANALIZADO;"
+},
+{
+"pag": 4,
+"texto": "XXXIII - PREÇO DA MOLÉCULA DO GÁS: valor de aquisição da molécula do GÁS, cujas"
+},
+{
+"pag": 4,
+"texto": "condições são definidas no(s) contrato(s) de suprimento(s) firmado(s) entre a CONCESSIONÁRIA"
+},
+{
+"pag": 4,
+"texto": "e seu(s) SUPRIDOR(ES) e aprovado(s) pelo REGULADOR;"
+},
+{
+"pag": 4,
+"texto": "XXXIV - PREÇO DO TRANSPORTE DO GÁS: valor do serviço de transporte do GÁS, conforme"
+},
+{
+"pag": 4,
+"texto": "definido no(s) contrato(s) para prestação desse serviço;"
+},
+{
+"pag": 4,
+"texto": "XXXV - RAMAL DEDICADO: todo duto de distribuição, incluindo válvulas, acessórios e outros"
+},
+{
+"pag": 4,
+"texto": "elementos auxiliares, que inicialmente conecta o AGENTE LIVRE DE MERCADO diretamente a"
+},
+{
+"pag": 4,
+"texto": "uma FONTE DE SUPRIMENTO;"
+},
+{
+"pag": 4,
+"texto": "XXXVI - REAJUSTE DA MARGEM MÉDIA DE DISTRIBUIÇÃO: atualização anual da MARGEM"
+},
+{
+"pag": 4,
+"texto": "MÉDIA DE DISTRIBUIÇÃO a partir de índice que reflita a inflação do período, mais ou menos o"
+},
+{
+"pag": 4,
+"texto": "FATOR X, cujos parâmetros e metodologias observam REGULAMENTO e o disposto neste"
+},
+{
+"pag": 4,
+"texto": "CONTRATO;"
+},
+{
+"pag": 4,
+"texto": "XXXVII - REAJUSTE DO PREÇO DA MOLÉCULA DO GÁS: atualização do custo da"
+},
+{
+"pag": 4,
+"texto": "CONCESSIONÁRIA com a compra de GÁS, de acordo com as condições estabelecidas no(s)"
+},
+{
+"pag": 4,
+"texto": "contrato(s) de suprimento(s), observado o disposto neste CONTRATO e em REGULAMENTO;"
+},
+{
+"pag": 4,
+"texto": "XXXVIII - REAJUSTE DO PREÇO DO TRANSPORTE DO GÁS: atualização do custo da"
+},
+{
+"pag": 4,
+"texto": "CONCESSIONÁRIA com o transporte de GÁS, de acordo com as condições estabelecidas no(s)"
+},
+{
+"pag": 4,
+"texto": "contrato(s) para prestação desse serviço, observado o disposto neste CONTRATO e em"
+},
+{
+"pag": 4,
+"texto": "REGULAMENTO;"
+},
+{
+"pag": 4,
+"texto": "XXXIX - RECEITA DE COMERCIALIZAÇÃO: receitas provenientes da comercialização do GÁS"
+},
+{
+"pag": 4,
+"texto": "CANALIZADO pela CONCESSIONÁRIA ao AGENTE LIVRE DE MERCADO, podendo ser aplicada"
+},
+{
+"pag": 4,
+"texto": "ao USUÁRIO CATIVO, em situação específica, temporária e previamente aprovada pelo"
+},
+{
+"pag": 4,
+"texto": "REGULADOR;"
+},
+{
+"pag": 4,
+"texto": "XL - RECEITAS ACESSÓRIAS: receitas provenientes de atividades ligadas ao SERVIÇO"
+},
+{
+"pag": 4,
+"texto": "PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, cuja execução não seja considerada"
+},
+{
+"pag": 4,
+"texto": "exclusiva da CONCESSIONÁRIA, conforme REGULAMENTO;"
+},
+{
+"pag": 4,
+"texto": "XLI - RECEITAS CORRELATAS: receitas provenientes de atividades ligadas ao SERVIÇO"
+},
+{
+"pag": 4,
+"texto": "PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, cuja execução seja considerada exclusiva"
+},
+{
+"pag": 4,
+"texto": "da CONCESSIONÁRIA, conforme REGULAMENTO, realizadas diretamente ou por meio de"
+},
+{
+"pag": 4,
+"texto": "empresa(s) contratada(s);"
+},
+{
+"pag": 4,
+"texto": "XLII - REDE DE DISTRIBUIÇÃO: todo duto destinado ao SERVIÇO PÚBLICO DE DISTRIBUIÇÃO"
+},
+{
+"pag": 4,
+"texto": "DE GÁS CANALIZADO, incluindo válvulas, acessórios e outros elementos auxiliares, que é"
+},
+{
+"pag": 4,
+"texto": "construído, operado e mantido pela CONCESSIONÁRIA;"
+},
+{
+"pag": 4,
+"texto": "XLIII - REDE LOCAL: gasodutos que se encontram isolados em determinada região, não conectada"
+},
+{
+"pag": 4,
+"texto": "fisicamente ao SISTEMA DE DISTRIBUIÇÃO, mas integrando-a por meio de estruturas de"
+},
+{
+"pag": 4,
+"texto": "compressão/descompressão de GÁS CANALIZADO, armazenamento, transporte, carga e descarga"
+},
+{
+"pag": 4,
+"texto": "de GÁS comprimido ou liquefeito;"
+},
+{
+"pag": 5,
+"texto": "XLIV - REEQUILÍBRIO ECONÔMICO-FINANCEIRO: procedimento adotado para restaurar as"
+},
+{
+"pag": 5,
+"texto": "condições contratuais pactuadas, podendo ser imediato ou no CICLO TARIFÁRIO seguinte,"
+},
+{
+"pag": 5,
+"texto": "conforme disposto neste CONTRATO e em REGULAMENTO;"
+},
+{
+"pag": 5,
+"texto": "XLV - REGULADOR: autarquia dotada de personalidade jurídica de direito público, designada por"
+},
+{
+"pag": 5,
+"texto": "lei com o objetivo de regular e fiscalizar, no Estado do Espírito Santo, a CONCESSÃO do SERVIÇO"
+},
+{
+"pag": 5,
+"texto": "PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 5,
+"texto": "XLVI - REGULAMENTO: ato regulamentar expedido pelo REGULADOR para tratar de assuntos"
+},
+{
+"pag": 5,
+"texto": "referentes ao SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;"
+},
+{
+"pag": 5,
+"texto": "XLVII - REVISÃO TARIFÁRIA EXTRAORDINÁRIA (RTE)•. revisão tarifária da MARGEM MÉDIA"
+},
+{
+"pag": 5,
+"texto": "DE DISTRIBUIÇÃO, visando REEQUILÍBRIO ECONÔMICO-FINANCEIRO, que poderá ocorrer a"
+},
+{
+"pag": 5,
+"texto": "qualquer tempo, quando se verificar necessidade urgente, causada por fato superveniente e"
+},
+{
+"pag": 5,
+"texto": "imprevisível a uma das PARTES, assim reconhecidos pelo REGULADOR, observado o disposto"
+},
+{
+"pag": 5,
+"texto": "neste CONTRATO e em REGULAMENTO;"
+},
+{
+"pag": 5,
+"texto": "XLVIII - REVISÃO TARIFÁRIA ORDINÁRIA (RTO): revisão da MARGEM MÉDIA DE"
+},
+{
+"pag": 5,
+"texto": "DISTRIBUIÇÃO, considerando as alterações na estrutura de custos e de mercado da"
+},
+{
+"pag": 5,
+"texto": "CONCESSIONÁRIA, os estímulos à eficiência e à modicidade das tarifas, o PLANO DE NEGÓCIOS"
+},
+{
+"pag": 5,
+"texto": "e as metas de qualidade e de eficiência para o CICLO TARIFÁRIO, observando o disposto neste"
+},
+{
+"pag": 5,
+"texto": "CONTRATO e em REGULAMENTO;"
+},
+{
+"pag": 5,
+"texto": "XLIX - SEGMENTO TERMOELÉTRICO: segmento de usuários que utiliza o GÁS em usinas"
+},
+{
+"pag": 5,
+"texto": "exclusivamente para produção de energia elétrica;"
+},
+{
+"pag": 5,
+"texto": "XL - SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO: serviço público atribuído"
+},
+{
+"pag": 5,
+"texto": "pela Constituição Federal aos Estados-Membros, sujeito à regulação estadual, consistente na"
+},
+{
+"pag": 5,
+"texto": "distribuição do GÁS CANALIZADO aos seus USUÁRIOS, com o objetivo de assegurar as condições"
+},
+{
+"pag": 5,
+"texto": "de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua"
+},
+{
+"pag": 5,
+"texto": "prestação e modicidade das tarifas;"
+},
+{
+"pag": 5,
+"texto": "LI - SISTEMA DE DISTRIBUIÇÃO: sistema que compreende toda a infraestrutura operada e"
+},
+{
+"pag": 5,
+"texto": "mantida pela CONCESSIONÁRIA para distribuir GÁS CANALIZADO aos seus USUÁRIOS,"
+},
+{
+"pag": 5,
+"texto": "incluindo REDES DE DISTRIBUIÇÃO, RAMAIS DEDICADOS E REDES LOCAIS;"
+},
+{
+"pag": 5,
+"texto": "LII - SUPRIDOR: todo produtor, importador ou outro agente autorizado pela Agência Nacional do"
+},
+{
+"pag": 5,
+"texto": "Petróleo, Gás Natural e Biocombustíveis (ANP) a comercializar a molécula do GÁS;"
+},
+{
+"pag": 5,
+"texto": "LIII - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-GÁS):"
+},
+{
+"pag": 5,
+"texto": "tarifa fixada pelo REGULADOR a ser cobrada dos AGENTES LIVRES DE MERCADO pelo uso do"
+},
+{
+"pag": 5,
+"texto": "SISTEMA DE DISTRIBUIÇÃO, observado o disposto neste CONTRATO e em REGULAMENTO;"
+},
+{
+"pag": 5,
+"texto": "LIV - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO EXCLUSIVA DE GÁS CANALIZADO"
+},
+{
+"pag": 5,
+"texto": "(TUSDE-GÁS): tarifa fixada pelo REGULADOR a ser cobrada dos AGENTES LIVRES DE"
+},
+{
+"pag": 5,
+"texto": "MERCADO atendidos por RAMAL DEDICADO, observado o disposto neste CONTRATO e em"
+},
+{
+"pag": 5,
+"texto": "REGULAMENTO;"
+},
+{
+"pag": 5,
+"texto": "LV - TARIFA TETO DO SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO (PRICE"
+},
+{
+"pag": 5,
+"texto": "CAP): tarifa obtida a partir do somatório do PREÇO DA MOLÉCULA DO GÁS, do PREÇO DO"
+},
+{
+"pag": 5,
+"texto": "TRANSPORTE DO GÁS e da MARGEM MÉDIA DE DISTRIBUIÇÃO;"
+},
+{
+"pag": 5,
+"texto": "LVI - TRANSPORTADOR: empresa autorizada ou concessionária apta a atuar na atividade de"
+},
+{
+"pag": 5,
+"texto": "transporte de GÁS por meio de dutos;"
+},
+{
+"pag": 6,
+"texto": "LVII - USUÁRIO CATIVO: pessoa física ou jurídica que utiliza o SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 6,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO, o qual contrata a compra do GÁS CANALIZADO junto a"
+},
+{
+"pag": 6,
+"texto": "CONCESSIONÁRIA, bem como sua efetiva entrega através do SISTEMA DE DISTRIBUIÇÃO,"
+},
+{
+"pag": 6,
+"texto": "LVIII - USUÁRIO: pessoa física ou jurídica que utiliza o SERVIÇO PÚBLICO DE DISTRIBUIÇÃO"
+},
+{
+"pag": 6,
+"texto": "DE GÁS CANALIZADO; e"
+},
+{
+"pag": 6,
+"texto": "LIX - WEIGHTED A VERAGE COST OF CAPITAL (WACC): custo médio ponderado de capital, que"
+},
+{
+"pag": 6,
+"texto": "expressa o cálculo da taxa de remuneração deste CONTRATO, nos termos do ANEXO I."
+},
+{
+"pag": 6,
+"texto": "CLÁUSULA II - ANEXOS"
+},
+{
+"pag": 6,
+"texto": "2.1. Integram este CONTRATO, para todos os efeitos legais e contratuais, os seguintes anexos:"
+},
+{
+"pag": 6,
+"texto": "I - ANEXO I - CONDIÇÕES ECONÔMICO-FINANCEIRAS;"
+},
+{
+"pag": 6,
+"texto": "II - ANEXO II - DOS INDICADORES DO SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 6,
+"texto": "CANALIZADO;"
+},
+{
+"pag": 6,
+"texto": "III - ANEXO III - BAR INICIAL; e"
+},
+{
+"pag": 6,
+"texto": "IV - ANEXO IV - TABELA DE TARIFAS DO PRIMEIRO CICLO TARIFÁRIO."
+},
+{
+"pag": 6,
+"texto": "2.2. Durante a execução do CONTRATO, se houver acordo entre as PARTES, com prévia"
+},
+{
+"pag": 6,
+"texto": "manifestação do REGULADOR, poderão ser instituídos outros anexos, devendo ser respeitado o"
+},
+{
+"pag": 6,
+"texto": "EQUILÍBRIO ECONÔMICO-FINANCEIRO do presente instrumento."
+},
+{
+"pag": 6,
+"texto": "2.3. Havendo concordância das PARTES, com prévia manifestação do REGULADOR, os anexos"
+},
+{
+"pag": 6,
+"texto": "previstos poderão ser aprimorados, complementados ou suprimidos, respeitado o EQUILÍBRIO"
+},
+{
+"pag": 6,
+"texto": "ECONÔMICO-FINANCEIRO do CONTRATO."
+},
+{
+"pag": 6,
+"texto": "CLÁUSULA III - LEGISLAÇÃO APLICÁVEL"
+},
+{
+"pag": 6,
+"texto": "3.1. A CONCESSÃO reger-se-á pelos arts. 25, § 2º, 173 e 175 da Constituição Federal, pelo art."
+},
+{
+"pag": 6,
+"texto": "210 da Constituição do Estado do Espírito Santo, pelas Leis Federais nº 8.987/1995, 9.074/1995 e"
+},
+{
+"pag": 6,
+"texto": "11.909/2009, pelo Decreto Federal nº 7.382/2010 e pelas Leis Estaduais nº 5.720/1998 e"
+},
+{
+"pag": 6,
+"texto": "10.955/2018, sem prejuízo de outras leis eventualmente aplicáveis."
+},
+{
+"pag": 6,
+"texto": "CLÁUSULA IV - OBJETO E ÁREA DA CONCESSÃO"
+},
+{
+"pag": 6,
+"texto": "4.1. Este CONTRATO tem por objeto a CONCESSÃO, com exclusividade, do SERVIÇO PÚBLICO"
+},
+{
+"pag": 6,
+"texto": "DE DISTRIBUIÇÃO DE GÁS CANALIZADO no Estado do Espírito Santo."
+},
+{
+"pag": 6,
+"texto": "4.2. O serviço público concedido será exercido, tendo em vista o disposto no art. 173 da Constituição"
+},
+{
+"pag": 6,
+"texto": "Federal e no art. 207, §1º da Constituição do Estado do Espírito Santo, como função de utilidade"
+},
+{
+"pag": 6,
+"texto": "pública prioritária."
+},
+{
+"pag": 7,
+"texto": "4.2.1. O SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO é prestado, sob"
+},
+{
+"pag": 7,
+"texto": "competência regulatória estadual, com o objetivo de assegurar as condições de regularidade,"
+},
+{
+"pag": 7,
+"texto": "continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e"
+},
+{
+"pag": 7,
+"texto": "modicidade das tarifas, e compreende o planejamento, a construção, a operação e a manutenção"
+},
+{
+"pag": 7,
+"texto": "do SISTEMA DE DISTRIBUIÇÃO e as medições desde as ESTAÇÕES DE TRANSFERÊNCIA DE"
+},
+{
+"pag": 7,
+"texto": "CUSTÓDIA até os PONTOS DE ENTREGA da molécula do GÁS aos USUÁRIOS CATIVOS e"
+},
+{
+"pag": 7,
+"texto": "AGENTES LIVRES DE MERCADO."
+},
+{
+"pag": 7,
+"texto": "4.2.2. A CONCESSÃO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DO GÁS CANALIZADO não"
+},
+{
+"pag": 7,
+"texto": "confere à CONCESSIONÁRIA direito de exclusividade na COMERCIALIZAÇÃO DE GÁS"
+},
+{
+"pag": 7,
+"texto": "CANALIZADO aos USUÁRIOS qualificados como AGENTES LIVRES DE MERCADO, assim"
+},
+{
+"pag": 7,
+"texto": "considerados o CONSUMIDOR LIVRE, o AUTOPRODUTOR e o AUTOIMPORTADOR,"
+},
+{
+"pag": 7,
+"texto": "4.3. A CONCESSIONÁRIA compromete-se a somente exercer atividades não abarcadas pelo"
+},
+{
+"pag": 7,
+"texto": "SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, com o propósito de auferir"
+},
+{
+"pag": 7,
+"texto": "RECEITAS DE COMERCIALIZAÇÃO no âmbito do MERCADO LIVRE DE GÁS CANALIZADO,"
+},
+{
+"pag": 7,
+"texto": "RECEITAS ACESSÓRIAS e RECEITAS CORRELATAS, se assim o autorizar REGULAMENTO e"
+},
+{
+"pag": 7,
+"texto": "nas condições nele previstos."
+},
+{
+"pag": 7,
+"texto": "4.4. O SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO terá como destinatários"
+},
+{
+"pag": 7,
+"texto": "todos os USUÁRIOS do Estado do Espírito Santo, abarcando, portanto, USUÁRIOS CATIVOS e"
+},
+{
+"pag": 7,
+"texto": "AGENTES LIVRES DE MERCADO."
+},
+{
+"pag": 7,
+"texto": "4.5. Quaisquer normas, instruções, regulamentação ou determinação de caráter geral aplicáveis à"
+},
+{
+"pag": 7,
+"texto": "CONCESSIONÁRIA, quando expedidas pelo PODER CONCEDENTE ou pelo REGULADOR,"
+},
+{
+"pag": 7,
+"texto": "aplicar-se-ão automaticamente ao objeto da CONCESSÃO como condições implícitas deste"
+},
+{
+"pag": 7,
+"texto": "CONTRATO, obrigando a CONCESSIONÁRIA, observado, em todos os casos, o seu EQUILÍBRIO"
+},
+{
+"pag": 7,
+"texto": "ECONÔMICO-FINANCEIRO, cujas diretrizes são estabelecidas no ANEXO I."
+},
+{
+"pag": 7,
+"texto": "4.6. A CONCESSÃO disciplinada neste CONTRATO substitui e extingue, após o início de sua"
+},
+{
+"pag": 7,
+"texto": "vigência, quaisquer outras outorgadas anteriormente."
+},
+{
+"pag": 7,
+"texto": "CLÁUSULA V - MERCADO LIVRE DE GÁS CANALIZADO"
+},
+{
+"pag": 7,
+"texto": "5.1. O AGENTE LIVRE DE MERCADO que utilizar o SISTEMA DE DISTRIBUIÇÃO deverá firmar"
+},
+{
+"pag": 7,
+"texto": "contrato para a distribuição de GÁS CANALIZADO com a CONCESSIONÁRIA, fazendo jus ao"
+},
+{
+"pag": 7,
+"texto": "tratamento tarifário específico da TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 7,
+"texto": "CANALIZADO (TUSD-GÁS)."
+},
+{
+"pag": 7,
+"texto": "5.2. O AGENTE LIVRE DE MERCADO que implantar o seu RAMAL DEDICADO deverá doar o ativo"
+},
+{
+"pag": 7,
+"texto": "construído, conforme REGULAMENTO, e firmar contrato de operação e manutenção do RAMAL"
+},
+{
+"pag": 7,
+"texto": "DEDICADO com a CONCESSIONÁRIA, fazendo jus a tratamento tarifário específico da TARIFA"
+},
+{
+"pag": 7,
+"texto": "DE USO DO SISTEMA DE DISTRIBUIÇÃO EXCLUSIVA DE GÁS CANALIZADO (TUSDE-GÁS)."
+},
+{
+"pag": 7,
+"texto": "5.2.1. A CONCESSIONÁRIA e os AGENTES LIVRES DE MERCADO poderão firmar, mediante"
+},
+{
+"pag": 7,
+"texto": "mútuo acordo, observado o direito de preferência da CONCESSIONÁRIA em fazer o investimento"
+},
+{
+"pag": 7,
+"texto": "do RAMAL DEDICADO e o disposto em REGULAMENTO, contratos que permitam a esses últimos:"
+},
+{
+"pag": 7,
+"texto": "I - construir gasodutos e instalações de forma exclusiva;"
+},
+{
+"pag": 7,
+"texto": "II - construir gasodutos e instalações de forma compartilhada com a CONCESSIONÁRIA;"
+},
+{
+"pag": 8,
+"texto": "III - arcar integralmente com o custo da construção de gasodutos e instalações pela"
+},
+{
+"pag": 8,
+"texto": "CONCESSIONÁRIA; e"
+},
+{
+"pag": 8,
+"texto": "IV - arcar parcialmente com o custo da construção"
+},
+{
+"pag": 8,
+"texto": "de gasodutos e instalações pela"
+},
+{
+"pag": 8,
+"texto": "CONCESSIONÁRIA."
+},
+{
+"pag": 8,
+"texto": "5.2.1.1. Aprimoramentos nas formas de investimento nos termos dos incisos I a IV do item 5.2.1 em"
+},
+{
+"pag": 8,
+"texto": "relação ao RAMAL DEDICADO pelo AGENTE LIVRE DE MERCADO serão incorporadas ao"
+},
+{
+"pag": 8,
+"texto": "presente CONTRATO em conformidade com a legislação."
+},
+{
+"pag": 8,
+"texto": "5.2.2. A CONCESSIONÁRIA avaliará a conveniência e a oportunidade na celebração dos contratos"
+},
+{
+"pag": 8,
+"texto": "previstos no item 5.2.1."
+},
+{
+"pag": 8,
+"texto": "5.2.3. Na hipótese do item 5.2.1 incidirá a TUSDE-GÁS."
+},
+{
+"pag": 8,
+"texto": "5.3. O REGULAMENTO a respeito do MERCADO LIVRE DE GÁS CANALIZADO observará, dentre"
+},
+{
+"pag": 8,
+"texto": "outros, os seguintes critérios:"
+},
+{
+"pag": 8,
+"texto": "I - prazo mínimo de migração do mercado cativo para o livre ou vice-versa; e"
+},
+{
+"pag": 8,
+"texto": "II - vigência mínima do CONTRATO de utilização do SISTEMA DE DISTRIBUIÇÃO."
+},
+{
+"pag": 8,
+"texto": "5.4. Aprimoramento na forma de prestação de SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 8,
+"texto": "CANALIZADO em relação ao operação e manutenção, que eventualmente possa ser delegada pela"
+},
+{
+"pag": 8,
+"texto": "CONCESSIONÁRIA ao AGENTE LIVRE DE MERCADO, serão incorporadas ao presente"
+},
+{
+"pag": 8,
+"texto": "CONTRATO em conformidade com a legislação estadual/federal."
+},
+{
+"pag": 8,
+"texto": "5.4.1. A transferência de responsabilidade de atividades somente será efetivada após a edição de"
+},
+{
+"pag": 8,
+"texto": "REGULAMENTO, que disporá sobre a competência técnica e a capacidade econômico-financeira"
+},
+{
+"pag": 8,
+"texto": "mínima para a delegação."
+},
+{
+"pag": 8,
+"texto": "5.5. O AGENTE LIVRE DE MERCADO que não for ligado à REDE DE DISTRIBUIÇÃO ou REDE"
+},
+{
+"pag": 8,
+"texto": "LOCAL, poderá implantar RAMAL DEDICADO, conforme regras previstas em REGULAMENTO e"
+},
+{
+"pag": 8,
+"texto": "observado o disposto no item 5.2.1."
+},
+{
+"pag": 8,
+"texto": "5.6. O AGENTE LIVRE DE MERCADO que já for USUÁRIO, ativo ou inativo, do SISTEMA DE"
+},
+{
+"pag": 8,
+"texto": "DISTRIBUIÇÃO somente poderá implantar RAMAL DEDICADO para volumes adicionais à"
+},
+{
+"pag": 8,
+"texto": "capacidade instalada para o USUÁRIO, que devem ser entendidos como a máxima demanda"
+},
+{
+"pag": 8,
+"texto": "contratada ao longo da vida deste USUÁRIO dentro da CONCESSÃO, se:"
+},
+{
+"pag": 8,
+"texto": "I - observado o disposto no item 5.2.1;"
+},
+{
+"pag": 8,
+"texto": "II - preenchidos os requisitos previstos no REGULAMENTO;"
+},
+{
+"pag": 8,
+"texto": "III - não afetada a modicidade tarifária dos demais USUÁRIOS; e"
+},
+{
+"pag": 8,
+"texto": "IV - observado o EQUILÍBRIO ECONÔMICO-FINANCEIRO da CONCESSÃO."
+},
+{
+"pag": 8,
+"texto": "5.6.1. Nos casos em que o RAMAL DEDICADO compreender os volumes adicionais à capacidade"
+},
+{
+"pag": 8,
+"texto": "instalada para o USUÁRIO, incidirá a TUSDE-GAS, enquanto que sobre o volume atendido pela"
+},
+{
+"pag": 8,
+"texto": "capacidade existente, incidirá a TUSD-GAS."
+},
+{
+"pag": 8,
+"texto": "5.7. os investimentos realizados pelo AGENTE LIVRE DE MERCADO no RAMAL DEDICADO não"
+},
+{
+"pag": 8,
+"texto": "serão considerados na base de cálculo de remuneração dos ativos para efeito de remuneração do"
+},
+{
+"pag": 8,
+"texto": "capital e para efeito de depreciação, na fixação e revisão de tarifas."
+},
+{
+"pag": 8,
+"texto": "5.8. O REGULADOR disciplinará em REGULAMENTO específico o procedimento para conexão dos"
+},
+{
+"pag": 8,
+"texto": "AGENTES LIVRES DE MERCADO ao SISTEMA DE DISTRIBUIÇÃO e às FONTES DE"
+},
+{
+"pag": 9,
+"texto": "SUPRIMENTO, bem como o detalhamento das regras do MERCADO LIVRE DE GÁS"
+},
+{
+"pag": 9,
+"texto": "CANALIZADO, atendendo o disposto neste CONTRATO."
+},
+{
+"pag": 9,
+"texto": "CLÁUSULA VI - PRAZO DA CONCESSÃO"
+},
+{
+"pag": 9,
+"texto": "6.1. Fica outorgada a concessão do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 9,
+"texto": "CANALIZADO pelo prazo de 25 (vinte e cinco) anos."
+},
+{
+"pag": 9,
+"texto": "6.1.1 A data de assinatura do presente CONTRATO dará início a contagem do prazo da concessão"
+},
+{
+"pag": 9,
+"texto": "acima, entretanto, a eficácia do presente CONTRATO só ocorrerá em 01/08/2020, data em que a"
+},
+{
+"pag": 9,
+"texto": "CONCESSIONÁRIA iniciará efetivamente a prestação do serviço objeto deste instrumento."
+},
+{
+"pag": 9,
+"texto": "6.2. É vedada a prestação do serviço concedido antes do início de vigência deste CONTRATO."
+},
+{
+"pag": 9,
+"texto": "CLÁUSULA VII - RISCOS DA CONCESSÃO"
+},
+{
+"pag": 9,
+"texto": "7.1. A CONCESSIONÁRIA assumirá integral responsabilidade por todos os riscos inerentes à"
+},
+{
+"pag": 9,
+"texto": "concessão, ressalvada a configuração de fatos imprevisíveis ou previsíveis, mas de consequências"
+},
+{
+"pag": 9,
+"texto": "incalculáveis que afetem o EQUILÍBRIO ECONÔMICO-FINANCEIRO do CONTRATO."
+},
+{
+"pag": 9,
+"texto": "7.2. Quando verificar, em concreto, a ocorrência de alteração unilateral do CONTRATO pelo"
+},
+{
+"pag": 9,
+"texto": "PODER CONCEDENTE ou a imposição de obrigações à CONCESSIONÁRIA que afete seu"
+},
+{
+"pag": 9,
+"texto": "EQUILÍBRIO ECONÔMICO-FINANCEIRO, a CONCESSIONÁRIA poderá solicitar ao REGULADOR"
+},
+{
+"pag": 9,
+"texto": "o REEQUILÍBRIO ECONÔMICO-FINANCEIRO."
+},
+{
+"pag": 9,
+"texto": "7.3. Os riscos relativos ao objeto do presente CONTRATO, tanto de responsabilidade da"
+},
+{
+"pag": 9,
+"texto": "CONCESSIONÁRIA, quanto do PODER CONCEDENTE, têm suas diretrizes veiculadas no ANEXO"
+},
+{
+"pag": 9,
+"texto": "I."
+},
+{
+"pag": 9,
+"texto": "CLÁUSULA VIII - MODO, FORMA E CONDIÇÕES DA PRESTAÇÃO DOS SERVIÇOS"
+},
+{
+"pag": 9,
+"texto": "8.1. Na execução do objeto da CONCESSÃO, a CONCESSIONÁRIA terá liberdade na direção de"
+},
+{
+"pag": 9,
+"texto": "seus negócios, investimentos, pessoal e tecnologia, obrigando-se a prestar o SERVIÇO PÚBLICO"
+},
+{
+"pag": 9,
+"texto": "DE DISTRIBUIÇÃO DE GÁS CANALIZADO em conformidade com a legislação, as normas"
+},
+{
+"pag": 9,
+"texto": "técnicas, os REGULAMENTOS aplicáveis e as disposições do presente CONTRATO."
+},
+{
+"pag": 9,
+"texto": "8.2. A CONCESSIONÁRIA obriga-se a adotar tecnologia adequada e empregar as melhores"
+},
+{
+"pag": 9,
+"texto": "práticas setoriais, notadamente quanto à operação, manutenção, planejamento da expansão e"
+},
+{
+"pag": 9,
+"texto": "modernização das instalações, com emprego de materiais, equipamentos e instalações que,"
+},
+{
+"pag": 9,
+"texto": "atendidas as normas técnicas brasileiras, garantam a prestação do serviço adequado de distribuição"
+},
+{
+"pag": 9,
+"texto": "de GÁS CANALIZADO, inclusive a segurança das pessoas e das instalações."
+},
+{
+"pag": 9,
+"texto": "8.2.1. Serviço adequado é o que satisfaz as condições de regularidade, continuidade, eficiência,"
+},
+{
+"pag": 9,
+"texto": "segurança, atualidade, eficácia, generalidade na prestação e modicidade das tarifas, observadas"
+},
+{
+"pag": 9,
+"texto": "as definições constantes do art. 6º da Lei Federal nº 8.987/1995 e do art. 7º da Lei Estadual no"
+},
+{
+"pag": 9,
+"texto": "5.720/1998."
+},
+{
+"pag": 10,
+"texto": "8.3. Sem prejuízo da preservação do interesse da coletividade e observado o disposto em"
+},
+{
+"pag": 10,
+"texto": "REGULAMENTO, não se caracteriza como descontinuidade do serviço a sua interrupção:"
+},
+{
+"pag": 10,
+"texto": "I - em situação de emergência; ou"
+},
+{
+"pag": 10,
+"texto": "II - após prévio aviso:"
+},
+{
+"pag": 10,
+"texto": "a) quando motivada por razões de ordem técnica ou de segurança das instalações; ou"
+},
+{
+"pag": 10,
+"texto": "b) quando se verificar inadimplemento do USUÁRIO."
+},
+{
+"pag": 10,
+"texto": "8.4. A CONCESSIONÁRIA somente prestará atividades não abarcadas pelo SERVIÇO PÚBLICO"
+},
+{
+"pag": 10,
+"texto": "DE DISTRIBUIÇÃO DE GÁS CANALIZADO:"
+},
+{
+"pag": 10,
+"texto": "I - quando se relacionarem ao seu objeto, isto é, à execução do SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 10,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO; e"
+},
+{
+"pag": 10,
+"texto": "quando autorizadas pelo REGULADOR, nos termos e condições especificadas em"
+},
+{
+"pag": 10,
+"texto": "REGULAMENTO."
+},
+{
+"pag": 10,
+"texto": "8.4.1. Incluem-se entre as atividades referidas no item anterior as que geram, para a"
+},
+{
+"pag": 10,
+"texto": "CONCESSIONÁRIA, RECEITAS DE COMERCIALIZAÇÃO, RECEITAS ACESSÓRIAS e"
+},
+{
+"pag": 10,
+"texto": "RECEITAS CORRELATAS."
+},
+{
+"pag": 10,
+"texto": "8.4.2. Para efeito do disposto no item 8.4, REGULAMENTO definirá a lista de atividades exclusivas,"
+},
+{
+"pag": 10,
+"texto": "geradoras de RECEITAS CORRELATAS, bem como seus respectivos valores."
+},
+{
+"pag": 10,
+"texto": "8.5. O resultado das operações que gerem, para a CONCESSIONÁRIA, RECEITAS ACESSÓRIAS,"
+},
+{
+"pag": 10,
+"texto": "RECEITAS CORRELATAS e RECEITAS DE COMERCIALIZAÇÃO, será apurado, após efetiva"
+},
+{
+"pag": 10,
+"texto": "dedução dos seus custos, despesas e encargos e tal resultado será compartilhado entre a"
+},
+{
+"pag": 10,
+"texto": "CONCESSIONÁRIA e os USUÁRIOS, observado o estabelecido em REGULAMENTO."
+},
+{
+"pag": 10,
+"texto": "8.5.1. A CONCESSIONÁRIA deverá contabilizar de forma a permitir a demonstração segregada das"
+},
+{
+"pag": 10,
+"texto": "operações referidas no item 8.5."
+},
+{
+"pag": 10,
+"texto": "8.6. A CONCESSIONÁRIA deverá contratar GÁS e transporte em quantidades, qualidade e prazos"
+},
+{
+"pag": 10,
+"texto": "que atendam às necessidades dos USUÁRIOS CATIVOS, de modo a que a sua aquisição, quando"
+},
+{
+"pag": 10,
+"texto": "considerados preço, forma de pagamento, condições de reajuste, entre outros fatores, atenda aos"
+},
+{
+"pag": 10,
+"texto": "princípios da economicidade, da eficiência, da transparência e da modicidade tarifária, assegurando"
+},
+{
+"pag": 10,
+"texto": "condições de continuidade, de regularidade e de segurança."
+},
+{
+"pag": 10,
+"texto": "8.6.1 Para os AGENTES LIVRES DE MERCADO a contração de transporte se dará conforme"
+},
+{
+"pag": 10,
+"texto": "REGULAMENTO."
+},
+{
+"pag": 10,
+"texto": "8.7. Na aquisição de GÁS com o objetivo de distribuí-lo, a CONCESSIONÁRIA buscará os menores"
+},
+{
+"pag": 10,
+"texto": "custos e as melhores condições encontrados no mercado, realizando prioritariamente CHAMADA"
+},
+{
+"pag": 10,
+"texto": "PÚBLICA para aquisição do GÁS."
+},
+{
+"pag": 10,
+"texto": "8.7.1. A CONCESSIONÁRIA poderá adquirir o GÁS diretamente dos SUPRIDORES que"
+},
+{
+"pag": 10,
+"texto": "apresentarem preço e condições de reajuste e pagamentos mais vantajosos do que aqueles obtidos"
+},
+{
+"pag": 10,
+"texto": "no processo de CHAMADA PÚBLICA ou em situações emergenciais que visem à manutenção da"
+},
+{
+"pag": 10,
+"texto": "continuidade dos serviços, ocasiões em que será dispensada a realização de CHAMADA PÚBLICA."
+},
+{
+"pag": 10,
+"texto": "8.7.2. O contrato de aquisição de GÁS deverá ser submetido à aprovação do REGULADOR,"
+},
+{
+"pag": 10,
+"texto": "conforme REGULAMENTO."
+},
+{
+"pag": 11,
+"texto": "8.8. A CONCESSIONÁRIA poderá franquear aos AGENTES LIVRES DE MERCADO participação"
+},
+{
+"pag": 11,
+"texto": "conjunta na CHAMADA PÚBLICA referida no item 8.7, para obtenção de preços e condições mais"
+},
+{
+"pag": 11,
+"texto": "competitivos e vantajosos."
+},
+{
+"pag": 11,
+"texto": "8.9. As atividades de distribuição, comerciais e de atendimento deverão ser gerenciadas de maneira"
+},
+{
+"pag": 11,
+"texto": "integrada e sistêmica, englobando todos os requisitos de qualidade, meio ambiente,"
+},
+{
+"pag": 11,
+"texto": "responsabilidade social, saúde e segurança contidos em cada processo."
+},
+{
+"pag": 11,
+"texto": "8.10. A qualidade do serviço envolve a adoção de procedimentos e práticas visando à otimização"
+},
+{
+"pag": 11,
+"texto": "do fornecimento, ao atendimento das especificações do produto e da pressão estabelecida para a"
+},
+{
+"pag": 11,
+"texto": "entrega do GÁS CANALIZADO, bem como ao atendimento aos USUÁRIOS, de modo a prevenir"
+},
+{
+"pag": 11,
+"texto": "riscos à sua saúde e segurança."
+},
+{
+"pag": 11,
+"texto": "8.10.1. A CONCESSIONÁRIA compromete-se a respeitar os padrões de qualidade estabelecidos"
+},
+{
+"pag": 11,
+"texto": "em REGULAMENTO, observado o estabelecido no ANEXO II."
+},
+{
+"pag": 11,
+"texto": "8.10.2. O descumprimento dos padrões de qualidade obriga a CONCESSIONÁRIA, sem prejuízo"
+},
+{
+"pag": 11,
+"texto": "das demais penalidades cabíveis, a compensar os USUÁRIOS pela não conformidade da prestação"
+},
+{
+"pag": 11,
+"texto": "do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, mediante a comprovação da"
+},
+{
+"pag": 11,
+"texto": "sua ocorrência, observado o disposto em REGULAMENTO."
+},
+{
+"pag": 11,
+"texto": "8.10.3. A CONCESSIONÁRIA será responsável pelos prejuízos comprovadamente causados a"
+},
+{
+"pag": 11,
+"texto": "terceiros, decorrentes da operação e manutenção inadequadas das instalações utilizadas na"
+},
+{
+"pag": 11,
+"texto": "prestação do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, observado 0"
+},
+{
+"pag": 11,
+"texto": "estabelecido no ANEXO II."
+},
+{
+"pag": 11,
+"texto": "8.10.3.1. Verificada a culpa ou dolo do USUÁRIO ou de terceiros, cumpre à CONCESSIONÁRIA"
+},
+{
+"pag": 11,
+"texto": "acioná-los para ressarcimento dos prejuízos causados, observado o disposto em REGULAMENTO."
+},
+{
+"pag": 11,
+"texto": "8.11. A segurança envolve práticas que deverão ser adotadas pela CONCESSIONÁRIA para evitar"
+},
+{
+"pag": 11,
+"texto": "ou minimizar a exposição dos USUÁRIOS e da comunidade a riscos que resultem da inadequada"
+},
+{
+"pag": 11,
+"texto": "utilização do GÁS e da não conformidade do serviço prestado com as normas técnicas sobre ele"
+},
+{
+"pag": 11,
+"texto": "incidentes, cabendo à CONCESSIONÁRIA, além das providências previstas em REGULAMENTO:"
+},
+{
+"pag": 11,
+"texto": "I - capacitar os seus trabalhadores para prevenção e atendimento de eventos específicos de"
+},
+{
+"pag": 11,
+"texto": "acidente e incidentes;"
+},
+{
+"pag": 11,
+"texto": "II - proporcionar o auxílio que seja solicitado pelas autoridades competentes em caso de"
+},
+{
+"pag": 11,
+"texto": "emergência;"
+},
+{
+"pag": 11,
+"texto": "III - fazer campanhas de esclarecimentos e prevenção de acidentes acerca dos perigos do produto"
+},
+{
+"pag": 11,
+"texto": "e das instalações à segurança junto às comunidades onde atua; e"
+},
+{
+"pag": 11,
+"texto": "IV- elaborar plano de contingência."
+},
+{
+"pag": 11,
+"texto": "8.12. A CONCESSIONÁRIA atenderá aos pedidos de ligação ou religação à REDE DE"
+},
+{
+"pag": 11,
+"texto": "DISTRIBUIÇÃO ou, conforme o caso, à REDE LOCAL situada no domicílio dos requerentes nos"
+},
+{
+"pag": 11,
+"texto": "prazos e condições fixados em REGULAMENTO, assegurando tratamento não discriminatório aos"
+},
+{
+"pag": 11,
+"texto": "USUÁRIOS."
+},
+{
+"pag": 11,
+"texto": "8.13. À CONCESSIONÁRIA é vedado condicionar a ligação ou religação ao SISTEMA DE"
+},
+{
+"pag": 11,
+"texto": "DISTRIBUIÇÃO situada no domicílio dos requerentes ao pagamento de valores não previstos em"
+},
+{
+"pag": 11,
+"texto": "REGULAMENTO ou de débitos comprovadamente a eles não imputáveis."
+},
+{
+"pag": 12,
+"texto": "8.14. A CONCESSIONÁRIA não poderá dispensar tratamento discriminatório, inclusive tarifário, aos"
+},
+{
+"pag": 12,
+"texto": "USUÁRIOS, exceto nas situações dispostas em REGULAMENTO."
+},
+{
+"pag": 12,
+"texto": "8.15. O conteúdo dos contratos e aditivos celebrados pela CONCESSIONÁRIA com seus"
+},
+{
+"pag": 12,
+"texto": "SUPRIDORES e TRANSPORTADORES será oportunamente publicado pelo REGULADOR,"
+},
+{
+"pag": 12,
+"texto": "observado o disposto em REGULAMENTO."
+},
+{
+"pag": 12,
+"texto": "8.16. O REGULAMENTO disporá sobre as hipóteses de publicidade e sigilo dos contratos firmados:"
+},
+{
+"pag": 12,
+"texto": "I - pela CONCESSIONÁRIA e USUÁRIOS; e"
+},
+{
+"pag": 12,
+"texto": "II - entre AGENTES LIVRES DE MERCADO e seus SUPRIDORES e TRANSPORTADORES."
+},
+{
+"pag": 12,
+"texto": "8.17. A CONCESSIONÁRIA deverá incluir nos contratos que assinar disposições informando que"
+},
+{
+"pag": 12,
+"texto": "as partes deles signatárias se sujeitam às condições estipuladas neste CONTRATO e em"
+},
+{
+"pag": 12,
+"texto": "REGULAMENTOS."
+},
+{
+"pag": 12,
+"texto": "8.18. A CONCESSIONÁRIA deverá manter registros das solicitações e reclamações dos"
+},
+{
+"pag": 12,
+"texto": "USUÁRIOS do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, observado"
+},
+{
+"pag": 12,
+"texto": "disposto em REGULAMENTO."
+},
+{
+"pag": 12,
+"texto": "8.19. A CONCESSIONÁRIA deverá prestar o serviço público objeto deste CONTRATO a todo"
+},
+{
+"pag": 12,
+"texto": "USUÁRIO que o requeira, mediante demonstração da viabilidade técnica e viabilidade econômica."
+},
+{
+"pag": 12,
+"texto": "8.19.1. Sem prejuízo de REGULAMENTO, os critérios de viabilidade técnica e viabilidade"
+},
+{
+"pag": 12,
+"texto": "econômica serão objeto de procedimento emitido pela CONCESSIONÁRIA e aprovado pelo"
+},
+{
+"pag": 12,
+"texto": "REGULADOR."
+},
+{
+"pag": 12,
+"texto": "8.19.2. Quando não for comprovada a viabilidade econômica do atendimento ao requerimento, o"
+},
+{
+"pag": 12,
+"texto": "serviço poderá ser prestado ao requerente, desde que este se disponha a custear o investimento"
+},
+{
+"pag": 12,
+"texto": "correspondente a parcela inviável, observado o disposto em REGULAMENTO."
+},
+{
+"pag": 12,
+"texto": "8.20. A CONCESSIONÁRIA fica obrigada a efetuar a análise e o registro dos valores do poder"
+},
+{
+"pag": 12,
+"texto": "calorífico superior do GÁS nas ESTAÇÕES DE TRANSFERÊNCIA DE CUSTÓDIA."
+},
+{
+"pag": 12,
+"texto": "8.21. O detalhamento das regras de medição e faturamento será objeto de REGULAMENTO."
+},
+{
+"pag": 12,
+"texto": "8.22. As normas técnicas, métodos e procedimentos empregados pela CONCESSIONÁRIA na"
+},
+{
+"pag": 12,
+"texto": "execução do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO serão apresentados"
+},
+{
+"pag": 12,
+"texto": "ao REGULADOR."
+},
+{
+"pag": 12,
+"texto": "8.23. A CONCESSIONÁRIA deverá realizar atividades de planejamento e definir responsabilidades,"
+},
+{
+"pag": 12,
+"texto": "práticas, rotinas, procedimentos, processos e recursos de forma a atingir os indicadores de"
+},
+{
+"pag": 12,
+"texto": "qualidade estabelecidos no ANEXO II."
+},
+{
+"pag": 12,
+"texto": "8.24. A CONCESSIONÁRIA implementará um sistema de gestão da qualidade em seus principais"
+},
+{
+"pag": 12,
+"texto": "processos, que deverá atender aos critérios, indicadores, fórmulas e parâmetros definidores da"
+},
+{
+"pag": 12,
+"texto": "qualidade dos serviços especificados em REGULAMENTO."
+},
+{
+"pag": 12,
+"texto": "8.24.1. O sistema de gestão da qualidade deve atender os requisitos de qualidade do produto e do"
+},
+{
+"pag": 12,
+"texto": "serviço, com base em boas práticas do mercado."
+},
+{
+"pag": 12,
+"texto": "8.24.2. A CONCESSIONÁRIA deverá utilizar este sistema de gestão da qualidade para buscar a"
+},
+{
+"pag": 12,
+"texto": "melhoria contínua de seu desempenho, verificando se os resultados vêm igualando ou superando"
+},
+{
+"pag": 12,
+"texto": "os objetivos estabelecidos, visando à evolução dos mesmos ao longo do tempo."
+},
+{
+"pag": 13,
+"texto": "8.24.3. A ênfase na melhoria da satisfação dos USUÁRIOS e na conformidade do produto deve"
+},
+{
+"pag": 13,
+"texto": "estar acompanhada pela redução contínua dos impactos indesejáveis do processo e do produto no"
+},
+{
+"pag": 13,
+"texto": "ambiente, na sociedade, nas pessoas que trabalham na organização e em outras partes"
+},
+{
+"pag": 13,
+"texto": "interessadas."
+},
+{
+"pag": 13,
+"texto": "8.24.4. O sistema de gestão da qualidade deverá estar em conformidade com a legislação em vigor"
+},
+{
+"pag": 13,
+"texto": "e com os REGULAMENTOS aplicáveis, envolvendo também a criação de um plano de"
+},
+{
+"pag": 13,
+"texto": "monitoramento e controle da qualidade do GÁS distribuído, controle da qualidade do SERVIÇO"
+},
+{
+"pag": 13,
+"texto": "PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO e desenvolvimento de atividades correlatas,"
+},
+{
+"pag": 13,
+"texto": "visando à obtenção das certificações para as atividades de distribuição, comercialização e"
+},
+{
+"pag": 13,
+"texto": "atendimento ao público."
+},
+{
+"pag": 13,
+"texto": "8.25. Na sistemática de supervisão da qualidade serão contemplados enfoques sobre a"
+},
+{
+"pag": 13,
+"texto": "continuidade do fornecimento, sobre a qualidade do produto, do atendimento comercial"
+},
+{
+"pag": 13,
+"texto": "(relacionamento do USUÁRIO com a área comercial da CONCESSIONÁRIA), as perdas de GÁS"
+},
+{
+"pag": 13,
+"texto": "CANALIZADO, a satisfação do USUÁRIO e a segurança do serviço prestado."
+},
+{
+"pag": 13,
+"texto": "8.26. os REGULAMENTOS, em vigor na data do início da eficácia deste CONTRATO, serão"
+},
+{
+"pag": 13,
+"texto": "aplicáveis, podendo sofrer revisões, para adequação."
+},
+{
+"pag": 13,
+"texto": "8.27. A CONCESSIONÁRIA estará sujeita a penalidades por violação ao sistema de gestão da"
+},
+{
+"pag": 13,
+"texto": "qualidade, conforme disposto na CLÁUSULA XXII."
+},
+{
+"pag": 13,
+"texto": "CLÁUSULA IX - PLANO DE NEGÓCIOS"
+},
+{
+"pag": 13,
+"texto": "9.1. A CONCESSIONÁRIA deverá apresentar ao REGULADOR, antes da RTO, em prazo definido"
+},
+{
+"pag": 13,
+"texto": "em REGULAMENTO, PLANO DE NEGÓCIOS, que contemple o plano de investimentos para balizar"
+},
+{
+"pag": 13,
+"texto": "a fixação da MARGEM MÉDIA DE DISTRIBUIÇÃO."
+},
+{
+"pag": 13,
+"texto": "9.2. O PLANO DE NEGÓCIOS deverá demonstrar:"
+},
+{
+"pag": 13,
+"texto": "I - os investimentos, o compromisso com a segurança e a qualidade do serviço e a busca"
+},
+{
+"pag": 13,
+"texto": "permanente da satisfação dos USUÁRIOS existentes e potenciais dos diferentes mercados, em"
+},
+{
+"pag": 13,
+"texto": "toda a área de concessão; e"
+},
+{
+"pag": 13,
+"texto": "II - que a tecnologia e a estrutura técnica são adequadas para a implantação e operação do"
+},
+{
+"pag": 13,
+"texto": "SISTEMA DE DISTRIBUIÇÃO que atenderá aos segmentos de USUÁRIOS."
+},
+{
+"pag": 13,
+"texto": "9.3. Os planos de investimentos da CONCESSIONÁRIA para os dois primeiros CICLOS"
+},
+{
+"pag": 13,
+"texto": "TARIFÁRIOS contemplarão, pelo menos, a previsão obrigatória das seguintes aplicações:"
+},
+{
+"pag": 13,
+"texto": "I - ligação de, no mínimo, 60 (sessenta) mil USUÁRIOS do segmento residencial, atendendo bairros"
+},
+{
+"pag": 13,
+"texto": "onde, em média, pelo menos 15% (quinze por cento) dos domicílios tenham renda igual ou inferior"
+},
+{
+"pag": 13,
+"texto": "a 2 (dois) salários mínimos; e"
+},
+{
+"pag": 13,
+"texto": "II - investimentos, com recursos próprios, no montante de R$ 298.000.000,00 (duzentos e noventa"
+},
+{
+"pag": 13,
+"texto": "e oito milhões de reais), visando à ampliação do SISTEMA DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 13,
+"texto": "CANALIZADO."
+},
+{
+"pag": 13,
+"texto": "9.3.1. O REGULADOR poderá aprovar ou solicitar modificações nos planos de investimentos"
+},
+{
+"pag": 13,
+"texto": "apresentados pela CONCESSIONÁRIA para os dois primeiros CICLOS TARIFÁRIOS, observadas,"
+},
+{
+"pag": 13,
+"texto": "necessariamente, as aplicações mínimas especificadas pelos incisos I e II do item 9.3, os prazos e"
+},
+{
+"pag": 14,
+"texto": "condições previstos em REGULAMENTO, o EQUILÍBRIO ECONÔMICO-FINANCEIRO deste"
+},
+{
+"pag": 14,
+"texto": "CONTRATO e a política de desenvolvimento fixada pelo PODER CONCEDENTE para a prestação"
+},
+{
+"pag": 14,
+"texto": "do serviço público concedido."
+},
+{
+"pag": 14,
+"texto": "9.4. O PLANO DE NEGÓCIOS para o primeiro CICLO TARIFÁRIO deverá ser apresentado para"
+},
+{
+"pag": 14,
+"texto": "aprovação do REGULADOR no prazo de 180 (cento e oitenta) dias do início da eficácia deste"
+},
+{
+"pag": 14,
+"texto": "CONTRATO."
+},
+{
+"pag": 14,
+"texto": "9.5. O PLANO DE NEGÓCIOS para o atendimento à demanda de GÁS CANALIZADO pelo mercado"
+},
+{
+"pag": 14,
+"texto": "deverá ser submetido à aprovação do REGULADOR previamente às respectivas revisões tarifárias,"
+},
+{
+"pag": 14,
+"texto": "observado quanto aos dois primeiros CICLOS TARIFÁRIOS o disposto no item 9.3."
+},
+{
+"pag": 14,
+"texto": "9.5.1. Os planos de investimentos deverão conter no mínimo: o tipo de investimento, a"
+},
+{
+"pag": 14,
+"texto": "caracterização das obras, os custos, os objetivos, a localidade, o mercado e o número de"
+},
+{
+"pag": 14,
+"texto": "USUÁRIOS e de unidades consumidoras a serem atendidos, além do cronograma físico-financeiro"
+},
+{
+"pag": 14,
+"texto": "da construção e da entrada em operação."
+},
+{
+"pag": 14,
+"texto": "9.5.2. A CONCESSIONÁRIA deverá prestar contas ao REGULADOR, anualmente, da execução do"
+},
+{
+"pag": 14,
+"texto": "plano de investimentos."
+},
+{
+"pag": 14,
+"texto": "9.6. A elaboração do PLANO DE NEGÓCIOS pela CONCESSIONÁRIA e a sua posterior aprovação"
+},
+{
+"pag": 14,
+"texto": "pelo REGULADOR, deverá observar as premissas e diretrizes estabelecidas em REGULAMENTO"
+},
+{
+"pag": 14,
+"texto": "e neste CONTRATO."
+},
+{
+"pag": 14,
+"texto": "9.6.1. A CONCESSIONÁRIA fica obrigada a implementar instalações, bem como a ampliá-las e"
+},
+{
+"pag": 14,
+"texto": "modificá-las, de modo a garantir o atendimento da demanda de seu mercado presente e futuro de"
+},
+{
+"pag": 14,
+"texto": "GÁS CANALIZADO, observados os princípios norteadores mencionados no presente CONTRATO."
+},
+{
+"pag": 14,
+"texto": "9.6.2. A CONCESSIONÁRIA é responsável pelo planejamento da expansão e ampliação do"
+},
+{
+"pag": 14,
+"texto": "SISTEMA DE DISTRIBUIÇÃO, considerando as possibilidades de integração com o sistema de"
+},
+{
+"pag": 14,
+"texto": "transporte e de outros sistemas de distribuição."
+},
+{
+"pag": 14,
+"texto": "9.6.3. As novas instalações e as modificações das instalações existentes deverão obedecer ao"
+},
+{
+"pag": 14,
+"texto": "disposto em REGULAMENTO, e serão incorporados à CONCESSÃO."
+},
+{
+"pag": 14,
+"texto": "CLÁUSULA X - BENS VINCULADOS À CONCESSÃO"
+},
+{
+"pag": 14,
+"texto": "10.1. Entende-se por bens vinculados à concessão todos os bens materiais e imateriais, móveis ou"
+},
+{
+"pag": 14,
+"texto": "imóveis, necessários à prestação adequada e contínua do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO"
+},
+{
+"pag": 14,
+"texto": "DE GÁS CANALIZADO."
+},
+{
+"pag": 14,
+"texto": "10.1.1. Os bens vinculados à concessão comporão a Base de Ativos Regulatória (BAR)."
+},
+{
+"pag": 14,
+"texto": "10.2. Eventualmente, poderão ser considerados bens vinculados outros ativos, tais como contratos,"
+},
+{
+"pag": 14,
+"texto": "direitos, marcas, patentes, desde que devidamente aprovados pelo REGULADOR em observância"
+},
+{
+"pag": 14,
+"texto": "ao disposto em REGULAMENTO."
+},
+{
+"pag": 14,
+"texto": "10.3. O valor inicial da BAR, corresponde ao montante de R$ 401.165.810,83 (quatrocentos e um"
+},
+{
+"pag": 14,
+"texto": "milhões, cento e sessenta e cinco mil, oitocentos e dez reais e oitenta e três centavos), conforme"
+},
+{
+"pag": 14,
+"texto": "Laudo de Avaliação. 6"
+},
+{
+"pag": 15,
+"texto": "10.4. A lista resumida dos ativos que compõem a BAR inicial consta do ANEXO III e a lista completa"
+},
+{
+"pag": 15,
+"texto": "será divulgada pelo REGULADOR."
+},
+{
+"pag": 15,
+"texto": "10.5. A CONCESSIONÁRIA deverá manter sistema de contabilidade patrimonial e regulatória para"
+},
+{
+"pag": 15,
+"texto": "registro dos bens vinculados à concessão, considerando a elegibilidade, a apropriação, a"
+},
+{
+"pag": 15,
+"texto": "contabilização, o controle físico-financeiro, os inventários, o índice de aproveitamento, os prazos de"
+},
+{
+"pag": 15,
+"texto": "obras para fins de cálculo de juros durante a construção, observada regulamentação específica com"
+},
+{
+"pag": 15,
+"texto": "critérios e detalhamentos a ser publicada pelo REGULADOR."
+},
+{
+"pag": 15,
+"texto": "10.6. A BAR será avaliada periodicamente por ocasião das revisões tarifárias conforme"
+},
+{
+"pag": 15,
+"texto": "REGULAMENTO."
+},
+{
+"pag": 15,
+"texto": "10.7. A CONCESSIONÁRIA é responsável pela administração, registro e inventário, operação,"
+},
+{
+"pag": 15,
+"texto": "guarda, utilização, manutenção, modernização e substituição, em adequadas condições"
+},
+{
+"pag": 15,
+"texto": "operacionais, de todos os bens vinculados à concessão (BAR)."
+},
+{
+"pag": 15,
+"texto": "CLÁUSULA XI - BASE DE REMUNERAÇÃO REGULATÓRIA"
+},
+{
+"pag": 15,
+"texto": "11.1. A base de remuneração regulatória, observados os critérios de elegibilidade e índice de"
+},
+{
+"pag": 15,
+"texto": "aproveitamento, é classificada em:"
+},
+{
+"pag": 15,
+"texto": "I - BASE DE REMUNERAÇÃO REGULATÓRIA BRUTA (BRRB)•, e"
+},
+{
+"pag": 15,
+"texto": "II - BASE DE REMUNERAÇÃO REGULATÓRIA LÍQUIDA (BRRL)."
+},
+{
+"pag": 15,
+"texto": "11.2. A BRRB resulta do somatório dos valores da BAR e da OUTORGA, não incluindo:"
+},
+{
+"pag": 15,
+"texto": "I - as obras e conversões em andamento;"
+},
+{
+"pag": 15,
+"texto": "II - o almoxarifado de materiais e equipamentos empregados em obras, exceto os materiais e"
+},
+{
+"pag": 15,
+"texto": "equipamentos referentes à reserva técnica, observado o REGULAMENTO editado pelo"
+},
+{
+"pag": 15,
+"texto": "REGULADOR;"
+},
+{
+"pag": 15,
+"texto": "III - a participação financeira do USUÁRIO, incluindo os investimentos realizados:"
+},
+{
+"pag": 15,
+"texto": "a) por AGENTES LIVRES DE MERCADO na construção de RAMAIS DEDICADOS; e"
+},
+{
+"pag": 15,
+"texto": "b) pela CONCESSIONÁRIA, na construção de RAMAIS DEDICADOS com recursos dos AGENTES"
+},
+{
+"pag": 15,
+"texto": "LIVRES DE MERCADO;"
+},
+{
+"pag": 15,
+"texto": "IV - as doações, subvenções e ativos não onerosos; e"
+},
+{
+"pag": 15,
+"texto": "V - terrenos."
+},
+{
+"pag": 15,
+"texto": "11.2.1. As conversões concluídas referentes ao primeiro e segundo CICLOS TARIFÁRIOS serão"
+},
+{
+"pag": 15,
+"texto": "consideradas na BRRB, exceto se disposto em sentido contrário pela legislação estadual, e as"
+},
+{
+"pag": 15,
+"texto": "conversões a serem realizadas nos demais CICLOS TARIFÁRIOS serão objeto de"
+},
+{
+"pag": 15,
+"texto": "REGULAMENTO e da legislação pertinente."
+},
+{
+"pag": 15,
+"texto": "11.3. Ao custo das obras e conversões em andamento serão incorporados JOA no período de sua"
+},
+{
+"pag": 15,
+"texto": "execução, conforme REGULAMENTO, que disciplinará os tempos de execução por tipo de obras"
+},
+{
+"pag": 15,
+"texto": "rotineiramente realizadas pela CONCESSIONÁRIA."
+},
+{
+"pag": 15,
+"texto": "11.3.1. Poderão ser acordados entre REGULADOR e CONCESSIONÁRIA prazos específicos em"
+},
+{
+"pag": 15,
+"texto": "função de situações não previstas em REGULAMENTO."
+},
+{
+"pag": 16,
+"texto": "11.3.2. O cálculo do JOA levará em consideração o WACC, proporcional ao período de sua"
+},
+{
+"pag": 16,
+"texto": "execução."
+},
+{
+"pag": 16,
+"texto": "11.4. O valor atribuído à OUTORGA corresponde ao montante de R$ 230.000.000,00 (duzentos e"
+},
+{
+"pag": 16,
+"texto": "trinta milhões de reais) e não será reavaliado nas revisões tarifárias."
+},
+{
+"pag": 16,
+"texto": "11.5. A BRRB deverá ser atualizada monetariamente anualmente por índice Geral de Preços do"
+},
+{
+"pag": 16,
+"texto": "Mercado-lGPM, podendo esse índice ser alterado por REGULAMENTO."
+},
+{
+"pag": 16,
+"texto": "11.6. A BRRB será depreciada e amortizada no prazo contratual até que seja expedido"
+},
+{
+"pag": 16,
+"texto": "REGULAMENTO, que deverá observar o disposto em 11.6.1."
+},
+{
+"pag": 16,
+"texto": "11.6.1. O valor da OUTORGA será amortizado à taxa fixa de 4% (quatro por cento) ao ano, de forma"
+},
+{
+"pag": 16,
+"texto": "que ao final do prazo contratual de 25 (vinte e cinco) anos o seu valor residual seja igual a zero."
+},
+{
+"pag": 16,
+"texto": "11.6.2. O valor anual da amortização da OUTORGA será considerado como custo a ser repassado"
+},
+{
+"pag": 16,
+"texto": "no cálculo da MARGEM MÉDIA DE DISTRIBUIÇÃO, na forma prevista na CLÁUSULA XII."
+},
+{
+"pag": 16,
+"texto": "11.7. A BRRL corresponde a BRRB deduzida da depreciação e amortização acumuladas e dos"
+},
+{
+"pag": 16,
+"texto": "ativos totalmente depreciados, acrescida de terrenos, conforme critérios estabelecidos neste"
+},
+{
+"pag": 16,
+"texto": "CONTRATO e em REGULAMENTO."
+},
+{
+"pag": 16,
+"texto": "11.8. A CONCESSIONÁRIA receberá remuneração do capital multiplicando a BRRL e a NCG pelo"
+},
+{
+"pag": 16,
+"texto": "WACC vigente."
+},
+{
+"pag": 16,
+"texto": "CLÁUSULA XII - TARIFAS, REAJUSTE E REVISÃO TARIFÁRIA ORDINÁRIA"
+},
+{
+"pag": 16,
+"texto": "12.1. A prestação do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO confere à"
+},
+{
+"pag": 16,
+"texto": "CONCESSIONÁRIA o recebimento de tarifas fixadas utilizando-se do mecanismo de TARIFA TETO"
+},
+{
+"pag": 16,
+"texto": "DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO, observado o disposto neste"
+},
+{
+"pag": 16,
+"texto": "CONTRATO e em REGULAMENTO."
+},
+{
+"pag": 16,
+"texto": "12.2. sem prejuízo do disposto no ANEXO I, a MARGEM MÉDIA DE DISTRIBUIÇÃO é composta"
+},
+{
+"pag": 16,
+"texto": "por:"
+},
+{
+"pag": 16,
+"texto": "I - CUSTOS OPERACIONAIS EFICIENTES:"
+},
+{
+"pag": 16,
+"texto": "a) despesas operacionais, comerciais e administrativas, conceituadas em REGULAMENTO; e"
+},
+{
+"pag": 16,
+"texto": "b) custos com operação e manutenção;"
+},
+{
+"pag": 16,
+"texto": "II - taxa de regulação e fiscalização dos SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 16,
+"texto": "CANALIZADO prevista na legislação estadual;"
+},
+{
+"pag": 16,
+"texto": "III - receitas irrecuperáveis, qualificadas, para efeito da execução deste CONTRATO, como parcela"
+},
+{
+"pag": 16,
+"texto": "da receita total faturada e não recebida pela CONCESSIONÁRIA, apurada conforme"
+},
+{
+"pag": 16,
+"texto": "REGULAMENTO;"
+},
+{
+"pag": 16,
+"texto": "IV - gastos com pesquisa e desenvolvimento em projetos voltados a alocar recursos humanos e"
+},
+{
+"pag": 16,
+"texto": "financeiros, visando à inovação e/ou ao aprimoramento dos produtos e da prestação de serviços,"
+},
+{
+"pag": 16,
+"texto": "nos processos e usos finais do GÁS, de acordo com REGULAMENTO;"
+},
+{
+"pag": 17,
+"texto": "V - encargos da tarifa social, qualificados, para efeito da execução deste CONTRATO, como"
+},
+{
+"pag": 17,
+"texto": "encargos destinados ao atendimento da população de baixa renda com tarifas diferenciadas,"
+},
+{
+"pag": 17,
+"texto": "observado REGULAMENTO;"
+},
+{
+"pag": 17,
+"texto": "VI - custo de capital, composto pela soma das seguintes parcelas:"
+},
+{
+"pag": 17,
+"texto": "a) remuneração do capital, apurada a partir da BRRL, da NCG e do WACC; e"
+},
+{
+"pag": 17,
+"texto": "b) valor da depreciação e amortização, observado o REGULAMENTO;"
+},
+{
+"pag": 17,
+"texto": "VII - volume de GÁS a ser distribuído, que corresponderá às previsões anuais de distribuição no"
+},
+{
+"pag": 17,
+"texto": "CICLO TARIFÁRIO;"
+},
+{
+"pag": 17,
+"texto": "VIII - valor dos investimentos a serem realizados no CICLO TARIFÁRIO;"
+},
+{
+"pag": 17,
+"texto": "IX - outras despesas apresentadas pela CONCESSIONÁRIA e aprovadas pelo REGULADOR; e"
+},
+{
+"pag": 17,
+"texto": "X - outras receitas, dentre as quais aquelas advindas das operações correlatas, acessórias, de"
+},
+{
+"pag": 17,
+"texto": "comercialização, apresentadas pela CONCESSIONÁRIA e aprovadas pelo REGULADOR."
+},
+{
+"pag": 17,
+"texto": "12.3. As características de fornecimento e atendimento ao SEGMENTO TERMOELÉTRICO e aos"
+},
+{
+"pag": 17,
+"texto": "AGENTES LIVRES DE MERCADO poderão contribuir para modicidade tarifária, conforme"
+},
+{
+"pag": 17,
+"texto": "REGULAMENTO."
+},
+{
+"pag": 17,
+"texto": "12.4. A MARGEM MÉDIA DE DISTRIBUIÇÃO será calculada considerando a metodologia do"
+},
+{
+"pag": 17,
+"texto": "FLUXO DE CAIXA LIVRE DA CONCESSÃO do CICLO TARIFÁRIO que deve ter Valor Presente"
+},
+{
+"pag": 17,
+"texto": "Líquido igual à zero ao utilizar o WACC aprovado como taxa de desconto."
+},
+{
+"pag": 17,
+"texto": "12.5. As RECEITAS CORRELATAS, RECEITAS ACESSÓRIAS e RECEITAS DE"
+},
+{
+"pag": 17,
+"texto": "COMERCIALIZAÇÃO, bem como os custos, despesas e encargos associados às operações de"
+},
+{
+"pag": 17,
+"texto": "prestação de serviços geradores de tais receitas deverão ser contabilizados em separado e parte"
+},
+{
+"pag": 17,
+"texto": "do resultado poderá ser aplicada à MARGEM MÉDIA DE DISTRIBUIÇÃO, conforme"
+},
+{
+"pag": 17,
+"texto": "REGULAMENTO."
+},
+{
+"pag": 17,
+"texto": "12.6. A MARGEM MÉDIA DE DISTRIBUIÇÃO, a ser estabelecida ao início de cada CICLO"
+},
+{
+"pag": 17,
+"texto": "TARIFÁRIO, deverá observar os estímulos à eficiência, modicidade tarifária e previsibilidade das"
+},
+{
+"pag": 17,
+"texto": "regras, podendo incluir melhoria da qualidade, conforme disposto em REGULAMENTO."
+},
+{
+"pag": 17,
+"texto": "12.7. Ao final de cada CICLO TARIFÁRIO serão revistos os parâmetros utilizados, por ocasião da"
+},
+{
+"pag": 17,
+"texto": "REVISÃO TARIFÁRIA ORDINÁRIA (RTO), com base na previsão para o próximo CICLO"
+},
+{
+"pag": 17,
+"texto": "TARIFÁRIO, determinando-se, em consequência, nova MARGEM MÉDIA DE DISTRIBUIÇÃO."
+},
+{
+"pag": 17,
+"texto": "12.8. Durante o prazo de concessão, o REGULADOR poderá estabelecer margens diferenciadas"
+},
+{
+"pag": 17,
+"texto": "para os consumidores em função das características técnicas, de consumo e dos custos específicos"
+},
+{
+"pag": 17,
+"texto": "provenientes do atendimento aos distintos segmentos de USUÁRIOS."
+},
+{
+"pag": 17,
+"texto": "12.9. O REGULADOR disciplinará o tratamento diferenciado à população de baixa renda do"
+},
+{
+"pag": 17,
+"texto": "segmento residencial (tarifa social)."
+},
+{
+"pag": 17,
+"texto": "12.10 O REGULADOR fixará as TUSD-GÁS, com a garantia da manutenção do EQUILÍBRIO"
+},
+{
+"pag": 17,
+"texto": "ECONÔMICO-FINANCEIRO do presente CONTRATO."
+},
+{
+"pag": 17,
+"texto": "12.11. O REGULADOR fixará as TUSDE-GÁS, apurada conforme REGULAMENTO, de forma"
+},
+{
+"pag": 17,
+"texto": "individualizada para os AGENTES LIVRES DE MERCADO que se enquadrarem nas hipóteses"
+},
+{
+"pag": 17,
+"texto": "previstas no item 5.2.1-"
+},
+{
+"pag": 17,
+"texto": "(6"
+},
+{
+"pag": 17,
+"texto": "12.12. Os mecanismos para o reposicionamento tarifário são:"
+},
+{
+"pag": 18,
+"texto": "I - reajuste tarifário; e"
+},
+{
+"pag": 18,
+"texto": "II - revisão tarifária."
+},
+{
+"pag": 18,
+"texto": "12.12.1. O reajuste tarifário compreende:"
+},
+{
+"pag": 18,
+"texto": "I - REAJUSTE DO PREÇO DA MOLÉCULA DO GÁS, observado o disposto neste CONTRATO e"
+},
+{
+"pag": 18,
+"texto": "nos contratos firmados com os SUPRIDORES;"
+},
+{
+"pag": 18,
+"texto": "II - REAJUSTE DO PREÇO DO TRANSPORTE DO GÁS, observado o disposto neste CONTRATO"
+},
+{
+"pag": 18,
+"texto": "e, se existente, a tarifa fixada pela ANP; e"
+},
+{
+"pag": 18,
+"texto": "III - REAJUSTE DA MARGEM MÉDIA DE DISTRIBUIÇÃO, observado o disposto neste"
+},
+{
+"pag": 18,
+"texto": "CONTRATO."
+},
+{
+"pag": 18,
+"texto": "12.12.2. A revisão tarifária compreende:"
+},
+{
+"pag": 18,
+"texto": "I - REVISÃO TARIFÁRIA ORDINÁRIA (RTO), realizada a cada CICLO TARIFÁRIO; e"
+},
+{
+"pag": 18,
+"texto": "II - REVISÃO TARIFÁRIA EXTRAORDINÁRIA (RTE), realizada, sempre que necessário, observado"
+},
+{
+"pag": 18,
+"texto": "o disposto neste CONTRATO."
+},
+{
+"pag": 18,
+"texto": "12.13. O repasse, pela CONCESSIONÁRIA, do REAJUSTE DO PREÇO DA MOLÉCULA DO GÁS"
+},
+{
+"pag": 18,
+"texto": "e do REAJUSTE DO PREÇO DO TRANSPORTE DO GÁS à TARIFA TETO DO SISTEMA DE"
+},
+{
+"pag": 18,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO ocorrerá no mesmo momento previsto nos contratos"
+},
+{
+"pag": 18,
+"texto": "firmados, com a devida homologação do REGULADOR."
+},
+{
+"pag": 18,
+"texto": "12.13.1. Os contratos de aquisição e de transporte de GÁS firmados pela CONCESSIONÁRIA"
+},
+{
+"pag": 18,
+"texto": "deverão ser aprovados pelo REGULADOR."
+},
+{
+"pag": 18,
+"texto": "12.14. No primeiro CICLO TARIFÁRIO, a MARGEM MÉDIA DE DISTRIBUIÇÃO corresponderá à"
+},
+{
+"pag": 18,
+"texto": "R$ 0,21266/m³ e a Tabela de Tarifas de partida da CONCESSÃO é a constante no ANEXO IV."
+},
+{
+"pag": 18,
+"texto": "12.15. A partir do segundo CICLO TARIFÁRIO, a CONCESSIONÁRIA deverá, a cada RTO, fornecer"
+},
+{
+"pag": 18,
+"texto": "ao REGULADOR, conforme REGULAMENTO, PLANO DE NEGÓCIOS que conterá, dentre outras,"
+},
+{
+"pag": 18,
+"texto": "as seguintes informações:"
+},
+{
+"pag": 18,
+"texto": "I - valor da BAR, bem como da BRRB e da BRRL, por meio de laudo de avaliação;"
+},
+{
+"pag": 18,
+"texto": "II - plano de investimentos (físico e financeiro), observado o disposto na CLÁUSULA IX;"
+},
+{
+"pag": 18,
+"texto": "III - receitas e custos operacionais;"
+},
+{
+"pag": 18,
+"texto": "IV - informações históricas relativas a custos, receitas, quilometragem de REDES DE"
+},
+{
+"pag": 18,
+"texto": "DISTRIBUIÇÃO, RAMAIS DEDICADOS E REDES LOCAIS, número de USUÁRIOS e quantidade"
+},
+{
+"pag": 18,
+"texto": "de GÁS CANALIZADO distribuído;"
+},
+{
+"pag": 18,
+"texto": "V - estudos de mercado e projeções das grandezas citadas no inciso anterior para o CICLO"
+},
+{
+"pag": 18,
+"texto": "TARIFÁRIO em processamento; e"
+},
+{
+"pag": 18,
+"texto": "VI - fluxo de caixa descontado, obtido tendo em vista o WACC."
+},
+{
+"pag": 18,
+"texto": "12.16. A R TO ocorrerá a cada 5 (cinco) anos, ou seja, a cada CICLO TARIFÁRIO, visando à"
+},
+{
+"pag": 18,
+"texto": "manutenção do EQUILÍBRIO ECONÔMICO-FINANCEIRO do presente CONTRATO."
+},
+{
+"pag": 18,
+"texto": "12.17. Os dados, as informações requeridas e o cronograma para R TO serão estabelecidos por"
+},
+{
+"pag": 18,
+"texto": "REGULAMENTO."
+},
+{
+"pag": 19,
+"texto": "12.18. O processo de RTO tem como objetivo revisar a MARGEM MÉDIA DE DISTRIBUIÇÃO,"
+},
+{
+"pag": 19,
+"texto": "considerando a estrutura de custos e de mercado da CONCESSIONÁRIA, os estímulos à eficiência"
+},
+{
+"pag": 19,
+"texto": "e à modicidade das tarifas, o plano de investimentos, as metas de qualidade para o CICLO"
+},
+{
+"pag": 19,
+"texto": "TARIFÁRIO em processamento e a preservação do EQUILÍBRIO ECONÔMICO-FINANCEIRO,"
+},
+{
+"pag": 19,
+"texto": "devendo ocorrer dentro do último ano do CICLO TARIFÁRIO que se encerra, conforme"
+},
+{
+"pag": 19,
+"texto": "REGULAMENTO."
+},
+{
+"pag": 19,
+"texto": "12.19. Ao final de cada ano serão verificados os investimentos realizados e comparados aos"
+},
+{
+"pag": 19,
+"texto": "investimentos aprovados, cujas diferenças verificadas serão aplicadas no CICLO TARIFÁRIO"
+},
+{
+"pag": 19,
+"texto": "seguinte, conforme REGULAMENTO."
+},
+{
+"pag": 19,
+"texto": "CLÁUSULA XIII - REVISÃO TARIFÁRIA EXTRAORDINÁRIA E MANUTENÇÃO DO"
+},
+{
+"pag": 19,
+"texto": "EQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO"
+},
+{
+"pag": 19,
+"texto": "13.1. Considera-se mantido o EQUILÍBRIO ECONÔMICO-FINANCEIRO deste CONTRATO"
+},
+{
+"pag": 19,
+"texto": "sempre que atendidos os termos e condições nele estabelecidos."
+},
+{
+"pag": 19,
+"texto": "13.2. Verificada necessidade urgente, assim compreendida aquela resultante de fato(s)"
+},
+{
+"pag": 19,
+"texto": "superveniente(s) e imprevisível(is) ou previsível(is) mas de consequência(s) incalculável(is),"
+},
+{
+"pag": 19,
+"texto": "reconhecido(s) pelo REGULADOR como passíveis de comprometer imediatamente a continuidade"
+},
+{
+"pag": 19,
+"texto": "do serviço e/ou a capacidade financeira da CONCESSIONÁRIA, será admissível a R T E, observado"
+},
+{
+"pag": 19,
+"texto": "o estabelecido no ANEXO I e no REGULAMENTO."
+},
+{
+"pag": 19,
+"texto": "13.3. A R TE poderá ser levada a efeito a qualquer tempo, desde que identificado e comprovado o"
+},
+{
+"pag": 19,
+"texto": "evento de desequilíbrio econômico-financeiro, visando ao restabelecimento entre as PARTES do"
+},
+{
+"pag": 19,
+"texto": "EQUILÍBRIO ECONÔMICO-FINANCEIRO do presente CONTRATO."
+},
+{
+"pag": 19,
+"texto": "13.4. A R TE poderá ser realizada de ofício pelo REGULADOR ou mediante requerimento das"
+},
+{
+"pag": 19,
+"texto": "pARTES."
+},
+{
+"pag": 19,
+"texto": "13.5. O pedido da R TE deverá conter, no mínimo, os seguintes requisitos:"
+},
+{
+"pag": 19,
+"texto": "I - a descrição e demonstração do(s) fato(s) ensejador(es) do desequilíbrio econômico-financeiro;"
+},
+{
+"pag": 19,
+"texto": "II - evidência de desequilíbrio econômico-financeiro;"
+},
+{
+"pag": 19,
+"texto": "III - nexo de causalidade entre o(s) fato(s) ensejador(es) e o desequilíbrio econômico-financeiro; e"
+},
+{
+"pag": 19,
+"texto": "IV - apresentação de iniciativas tomadas pela CONCESSIONÁRIA para equacionar o alegado"
+},
+{
+"pag": 19,
+"texto": "desequilíbrio econômico-financeiro."
+},
+{
+"pag": 19,
+"texto": "13.6. Não serão admitidos pedidos de R TE que tenham por objetivo:"
+},
+{
+"pag": 19,
+"texto": "I - compensar fatos comprovadamente resultantes tão somente da ineficiência empresarial da"
+},
+{
+"pag": 19,
+"texto": "CONCESSIONÁRIA; e/ou"
+},
+{
+"pag": 19,
+"texto": "II - atualizar parâmetros regulatórios em decorrência de alterações metodológicas ainda não"
+},
+{
+"pag": 19,
+"texto": "refletidas no cálculo tarifário."
+},
+{
+"pag": 19,
+"texto": "13.7. Ressalvados os impostos sobre a renda, a criação, alteração ou extinção de quaisquer tributos"
+},
+{
+"pag": 19,
+"texto": "ou encargos legais, quando comprovado o seu impacto, implicará na revisão da MARGEM MÉDIA"
+},
+{
+"pag": 19,
+"texto": "DE DISTRIBUIÇÃO, para mais ou para menos, conforme o caso."
+},
+{
+"pag": 20,
+"texto": "13.8. Os principais eventos que acarretam o desequilíbrio econômico-financeiro são detalhados na"
+},
+{
+"pag": 20,
+"texto": "CLÁUSULA VI do ANEXO I."
+},
+{
+"pag": 20,
+"texto": "CLÁUSULA XIV - SUSTENTABILIDADE ECONÔMICA E FINANCEIRA"
+},
+{
+"pag": 20,
+"texto": "14.1. A CONCESSIONÁRIA compromete-se a preservar, durante toda a concessão, condição de"
+},
+{
+"pag": 20,
+"texto": "sustentabilidade econômica e financeira na gestão dos seus custos e despesas, da solvência de"
+},
+{
+"pag": 20,
+"texto": "endividamento, dos investimentos em reposição, melhoria e expansão, além da responsabilidade"
+},
+{
+"pag": 20,
+"texto": "no pagamento de tributos e na distribuição de proventos."
+},
+{
+"pag": 20,
+"texto": "14.2. Nas condições estabelecidas neste CONTRATO, a CONCESSIONÁRIA poderá, mediante"
+},
+{
+"pag": 20,
+"texto": "aprovação do REGULADOR, oferecer os direitos emergentes da concessão que lhe é outorgada,"
+},
+{
+"pag": 20,
+"texto": "inclusive créditos operacionais futuros, em garantia de empréstimos e financiamentos ou qualquer"
+},
+{
+"pag": 20,
+"texto": "outra operação vinculada ao objeto da concessão, desde que não comprometa a operacionalização"
+},
+{
+"pag": 20,
+"texto": "e a continuidade da prestação do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO."
+},
+{
+"pag": 20,
+"texto": "14.3. A realização da operação referida no item anterior fica condicionada ao estabelecimento, no(s)"
+},
+{
+"pag": 20,
+"texto": "contrato(s) firmado(s) com instituição(ões) financeira(s), de previsão expressa no sentido de que o"
+},
+{
+"pag": 20,
+"texto": "REGULADOR e o PODER CONCEDENTE não serão chamados a responder pelos compromissos"
+},
+{
+"pag": 20,
+"texto": "financeiros contraídos pela CONCESSIONÁRIA em caso de inadimplemento."
+},
+{
+"pag": 20,
+"texto": "14.4. Aplicam-se ao disposto nesta cláusula e em seus itens os parâmetros de sustentabilidade"
+},
+{
+"pag": 20,
+"texto": "econômica e financeira especificados em REGULAMENTO."
+},
+{
+"pag": 20,
+"texto": "CLÁUSULA XV - DIREITOS E OBRIGAÇÕES DO PODER CONCEDENTE"
+},
+{
+"pag": 20,
+"texto": "15.1. Incumbe ao PODER CONCEDENTE e/ou ao REGULADOR, conforme disposto na legislação:"
+},
+{
+"pag": 20,
+"texto": "I - regulamentar o SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO concedido e"
+},
+{
+"pag": 20,
+"texto": "fiscalizar, permanentemente, a sua prestação;"
+},
+{
+"pag": 20,
+"texto": "II - intervir na concessão nos casos e condições previstos em lei e no presente CONTRATO;"
+},
+{
+"pag": 20,
+"texto": "III - proceder aos reajustes e às revisões das tarifas na forma da lei, das normas pertinentes e do"
+},
+{
+"pag": 20,
+"texto": "presente CONTRATO;"
+},
+{
+"pag": 20,
+"texto": "IV - extinguir e retomar a concessão na forma e nos casos previstos em lei e no presente"
+},
+{
+"pag": 20,
+"texto": "CONTRATO;"
+},
+{
+"pag": 20,
+"texto": "V - cumprir e fazer cumprir as disposições regulamentares do SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 20,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO e as cláusulas do presente CONTRATO;"
+},
+{
+"pag": 20,
+"texto": "VI - zelar pela boa qualidade do serviço, receber, apurar e solucionar queixas e reclamações dos"
+},
+{
+"pag": 20,
+"texto": "USUÁRIOS, que serão cientificados das providências tomadas;"
+},
+{
+"pag": 20,
+"texto": "VII - declarar de utilidade pública os bens necessários à execução do serviço, promovendo as"
+},
+{
+"pag": 20,
+"texto": "desapropriações, diretamente ou mediante outorga de poderes à CONCESSIONÁRIA, caso em que"
+},
+{
+"pag": 20,
+"texto": "será desta a responsabilidade pelas indenizações cabíveis;"
+},
+{
+"pag": 21,
+"texto": "VIII - estimular o aumento da qualidade, produtividade, preservação do meio-ambiente e"
+},
+{
+"pag": 21,
+"texto": "conservação;"
+},
+{
+"pag": 21,
+"texto": "IX - incentivar a competitividade;"
+},
+{
+"pag": 21,
+"texto": "X - estimular a formação de associações de USUÁRIOS para defesa de interesses relativos ao"
+},
+{
+"pag": 21,
+"texto": "serviço;"
+},
+{
+"pag": 21,
+"texto": "XI - aplicar as penalidades regulamentares e contratuais; e"
+},
+{
+"pag": 21,
+"texto": "XII - declarar de necessidade ou utilidade pública, para fins de instituição de servidão administrativa,"
+},
+{
+"pag": 21,
+"texto": "as áreas necessárias à implantação de instalações concedidas, bem como os demais bens"
+},
+{
+"pag": 21,
+"texto": "necessários à execução do serviço ou obra pública, promovendo-a diretamente ou mediante"
+},
+{
+"pag": 21,
+"texto": "outorga de poderes à CONCESSIONÁRIA, caso em que será desta a responsabilidade pelas"
+},
+{
+"pag": 21,
+"texto": "indenizações cabíveis."
+},
+{
+"pag": 21,
+"texto": "15.2.1. No exercício da fiscalização, o PODER CONCEDENTE e o REGULADOR, conforme"
+},
+{
+"pag": 21,
+"texto": "disposto na legislação, terão amplos poderes junto à CONCESSIONÁRIA para verificação dos"
+},
+{
+"pag": 21,
+"texto": "dados relativos à sua administração, contabilidade, recursos técnicos, econômicos e financeiros."
+},
+{
+"pag": 21,
+"texto": "15.2.2. A fiscalização do serviço será feita periodicamente pelo REGULADOR, conforme previsto"
+},
+{
+"pag": 21,
+"texto": "na CLÁUSULA XIX."
+},
+{
+"pag": 21,
+"texto": "15.3. O PODER CONCEDENTE e o REGULADOR atuarão para manter, na forma da lei e do"
+},
+{
+"pag": 21,
+"texto": "presente instrumento, o EQUILÍBRIO ECONÔMICO-FINANCEIRO do CONTRATO."
+},
+{
+"pag": 21,
+"texto": "CLÁUSULA XVI - DIREITOS E OBRIGAÇÕES DA CONCESSIONÁRIA"
+},
+{
+"pag": 21,
+"texto": "16.1. A CONCESSIONÁRIA obriga-se a prestar serviços adequados a USUÁRIOS localizados em"
+},
+{
+"pag": 21,
+"texto": "sua área de concessão, acompanhando o desenvolvimento tecnológico, mantendo-se"
+},
+{
+"pag": 21,
+"texto": "permanentemente atualizada e obrigando-se, ainda, a utilizar equipamentos, instalações e métodos"
+},
+{
+"pag": 21,
+"texto": "operativos que garantam os níveis adequados de segurança, qualidade, continuidade e"
+},
+{
+"pag": 21,
+"texto": "confiabilidade do serviço, estipulados na legislação e nas normas especificas, bem como manter"
+},
+{
+"pag": 21,
+"texto": "recursos humanos adequadamente capacitados."
+},
+{
+"pag": 21,
+"texto": "16.2. Incumbe, ainda, à CONCESSIONÁRIA:"
+},
+{
+"pag": 21,
+"texto": "I - comunicar, previamente, ao REGULADOR quaisquer circunstâncias que afetem a qualidade, a"
+},
+{
+"pag": 21,
+"texto": "continuidade, a eficiência e a segurança da prestação do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO"
+},
+{
+"pag": 21,
+"texto": "DE GÁS CANALIZADO, bem como as circunstâncias que atinjam os USUÁRIOS ou impliquem na"
+},
+{
+"pag": 21,
+"texto": "modificação das condições da prestação do referido serviço;"
+},
+{
+"pag": 21,
+"texto": "II - contratar e manter vigentes seguros para fazer face à cobertura de bens e pessoas, pelos riscos"
+},
+{
+"pag": 21,
+"texto": "inerentes à exploração do serviço, conforme disposto na CLÁUSULA XVIII;"
+},
+{
+"pag": 21,
+"texto": "III - executar, direta ou indiretamente, os serviços de contenção de vazamento de GÁS"
+},
+{
+"pag": 21,
+"texto": "CANALIZADO em suas instalações;"
+},
+{
+"pag": 21,
+"texto": "IV - manter em dia o inventário e o registro dos bens vinculados à concessão e por atender às"
+},
+{
+"pag": 21,
+"texto": "exigências legais e regulamentares a eles relativas;"
+},
+{
+"pag": 21,
+"texto": "V - captar, aplicar e gerir os recursos financeiros necessários à prestação do serviço;"
+},
+{
+"pag": 22,
+"texto": "VI - prestar contas da gestão do serviço conforme previsto em seu estatuto e em legislação"
+},
+{
+"pag": 22,
+"texto": "pertinente e nos termos definidos neste CONTRATO;"
+},
+{
+"pag": 22,
+"texto": "VII - zelar pela integridade dos bens vinculados à prestação dos serviços, bem como segurá-los"
+},
+{
+"pag": 22,
+"texto": "adequadamente;"
+},
+{
+"pag": 22,
+"texto": "VIII — permitir aos encarregados da fiscalização livre acesso, em qualquer época, às obras, aos"
+},
+{
+"pag": 22,
+"texto": "equipamentos e às instalações integrantes do serviço, bem como a seus registros contábeis;"
+},
+{
+"pag": 22,
+"texto": "IX - cumprir e fazer cumprir as disposições regulamentares do SERVIÇO PÚBLICO DE"
+},
+{
+"pag": 22,
+"texto": "DISTRIBUIÇÃO DE GÁS CANALIZADO e as cláusulas do presente CONTRATO; e"
+},
+{
+"pag": 22,
+"texto": "X - promover desapropriações e constituir servidões autorizadas pelo PODER CONCEDENTE."
+},
+{
+"pag": 22,
+"texto": "16.3. A CONCESSIONÁRIA é responsável pela administração, operação, guarda, utilização,"
+},
+{
+"pag": 22,
+"texto": "modernização, substituição e manutenção em adequadas condições operacionais de todos os bens"
+},
+{
+"pag": 22,
+"texto": "vinculados à concessão."
+},
+{
+"pag": 22,
+"texto": "16.4. As contratações, inclusive de mão-de-obra, feitas pela CONCESSIONÁRIA serão regidas"
+},
+{
+"pag": 22,
+"texto": "pelas disposições de direito privado e pela legislação trabalhista, não se estabelecendo qualquer"
+},
+{
+"pag": 22,
+"texto": "relação entre os terceiros contratados pela CONCESSIONÁRIA e o PODER CONCEDENTE."
+},
+{
+"pag": 22,
+"texto": "16.5. Caso a CONCESSIONÁRIA venha receber bens e instalações revertidos ou entregues à sua"
+},
+{
+"pag": 22,
+"texto": "administração, deverá arcar com a responsabilidade pela sua manutenção e conservação, assim"
+},
+{
+"pag": 22,
+"texto": "como pela sua reposição, cujos gastos relacionados serão tratados como previsto no presente"
+},
+{
+"pag": 22,
+"texto": "CONTRATO, seja como despesa operacional, seja como investimento."
+},
+{
+"pag": 22,
+"texto": "16.6. A CONCESSIONÁRIA deverá investir em pesquisa e desenvolvimento, seguindo as normas"
+},
+{
+"pag": 22,
+"texto": "estabelecidas pelo REGULADOR."
+},
+{
+"pag": 22,
+"texto": "16.7. A CONCESSIONÁRIA fica obrigada a planejar e implementar a expansão e a ampliação do"
+},
+{
+"pag": 22,
+"texto": "SISTEMA DE DISTRIBUIÇÃO, de modo a garantir o atendimento da demanda do SERVIÇO"
+},
+{
+"pag": 22,
+"texto": "PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, considerando as possibilidades de"
+},
+{
+"pag": 22,
+"texto": "integração com o sistema de transporte e de outros sistemas de distribuição."
+},
+{
+"pag": 22,
+"texto": "16.8. As novas instalações e as modificações das instalações existentes deverão obedecer aos"
+},
+{
+"pag": 22,
+"texto": "procedimentos específicos, regulando-se pela disposição deste CONTRATO e pelas normas legais"
+},
+{
+"pag": 22,
+"texto": "e regulamentares."
+},
+{
+"pag": 22,
+"texto": "16.9. A CONCESSIONÁRIA submeterá à prévia autorização do PODER CONCEDENTE a alteração"
+},
+{
+"pag": 22,
+"texto": "de seu controle societário."
+},
+{
+"pag": 22,
+"texto": "CLÁUSULA XVII - DIREITOS E OBRIGAÇÕES DOS USUÁRIOS"
+},
+{
+"pag": 22,
+"texto": "17.1. Este CONTRATO observará, no que concerne aos direitos e obrigações dos USUÁRIOS, o"
+},
+{
+"pag": 22,
+"texto": "disposto nas Leis Federais nos 8.987/1995 e 13.460/2017, na Lei Estadual nº 5.720/1998, em outras"
+},
+{
+"pag": 22,
+"texto": "leis que porventura vierem a substituí-las ou complementá-las e nos regulamentos expedidos pelos"
+},
+{
+"pag": 22,
+"texto": "órgãos competentes."
+},
+{
+"pag": 23,
+"texto": "CLÁUSULA XVIII - SEGUROS"
+},
+{
+"pag": 23,
+"texto": "18.1. A CONCESSIONÁRIA deverá contratar os seguros exigidos neste CONTRATO e manter as"
+},
+{
+"pag": 23,
+"texto": "respectivas apólices válidas durante todo o prazo de duração da CONCESSÃO, de forma a garantir"
+},
+{
+"pag": 23,
+"texto": "efetivamente a cobertura dos riscos inerentes à execução das atividades."
+},
+{
+"pag": 23,
+"texto": "18.2. A CONCESSIONÁRIA deverá fornecer, em prazo não superior a 90 (noventa) dias do início"
+},
+{
+"pag": 23,
+"texto": "da eficácia do contrato e em prazo não superior a 30 (trinta) dias do início de cada um dos demais"
+},
+{
+"pag": 23,
+"texto": "anos da concessão, certificado(s) emitido(s) pela(s) seguradora(s), que ateste(m) que as apólices"
+},
+{
+"pag": 23,
+"texto": "de seguros contratadas estão válidas e que os respectivos prêmios encontram-se pagos."
+},
+{
+"pag": 23,
+"texto": "18.3. Havendo parcelamento na contratação do seguro, a CONCESSIONÁRIA deverá apresentar,"
+},
+{
+"pag": 23,
+"texto": "no prazo especificado no item anterior, o comprovante das parcelas quitadas e, posteriormente,"
+},
+{
+"pag": 23,
+"texto": "enviar os comprovantes de quitação das parcelas subsequentes."
+},
+{
+"pag": 23,
+"texto": "18.4. Os encargos relativos às apólices de seguros comporão as despesas operacionais a serem"
+},
+{
+"pag": 23,
+"texto": "consideradas na MARGEM MÉDIA DE DISTRIBUIÇÃO."
+},
+{
+"pag": 23,
+"texto": "18.5. O PODER CONCEDENTE e o REGULADOR deverão ser indicados como cossegurados nas"
+},
+{
+"pag": 23,
+"texto": "referidas apólices de seguros, devendo o cancelamento, a suspensão, a modificação ou a"
+},
+{
+"pag": 23,
+"texto": "substituição de quaisquer das condições dos seguros serem previamente aprovados pelo"
+},
+{
+"pag": 23,
+"texto": "REGULADOR."
+},
+{
+"pag": 23,
+"texto": "18.6. As apólices de seguro deverão conter, ainda, cláusula expressa de renúncia pela seguradora"
+},
+{
+"pag": 23,
+"texto": "de eventual exercício de sub-rogação nos direitos que tenha ou venha a ter contra o PODER"
+},
+{
+"pag": 23,
+"texto": "CONCEDENTE e/ou o REGULADOR."
+},
+{
+"pag": 23,
+"texto": "18.7. A CONCESSIONÁRIA deverá fazer constar das apólices de seguro a obrigação da seguradora"
+},
+{
+"pag": 23,
+"texto": "informar por escrito, com antecedência mínima de 30 (trinta) dias, e ao REGULADOR, quaisquer"
+},
+{
+"pag": 23,
+"texto": "fatos que possam implicar o cancelamento, total ou parcial, dos seguros contratados, a redução na"
+},
+{
+"pag": 23,
+"texto": "cobertura, o aumento de franquias ou a redução das importâncias seguradas."
+},
+{
+"pag": 23,
+"texto": "18.8. A CONCESSIONÁRIA contratará e manterá em vigor, ao longo do prazo da concessão, seguro"
+},
+{
+"pag": 23,
+"texto": "de responsabilidade civil, cobrindo eventual responsabilização sua, do PODER CONCEDENTE ou"
+},
+{
+"pag": 23,
+"texto": "do REGULADOR por danos, indenizações, despesas processuais e outras pretensões relativas a"
+},
+{
+"pag": 23,
+"texto": "mora ou lesão de pessoas e danos a bens vinculados ao serviço concedido."
+},
+{
+"pag": 23,
+"texto": "18.8.1. O seguro também deverá cobrir bens de terceiros afetados por riscos inerentes à execução"
+},
+{
+"pag": 23,
+"texto": "das atividades pertinentes à CONCESSÃO."
+},
+{
+"pag": 23,
+"texto": "18.8.2. Os valores da cobertura do seguro de responsabilidade civil serão previamente acordados"
+},
+{
+"pag": 23,
+"texto": "entre as PARTES a cada ano."
+},
+{
+"pag": 23,
+"texto": "18.9. Qualquer indenização devida em decorrência de sinistros cobertos pelo seguro previsto nesta"
+},
+{
+"pag": 23,
+"texto": "cláusula, deverá ser objeto de comunicação ao REGULADOR com 30 (trinta) dias de antecedência"
+},
+{
+"pag": 23,
+"texto": "ao pagamento."
+},
+{
+"pag": 23,
+"texto": "18.10. O disposto no item anterior deverá constar expressamente da apólice correspondente."
+},
+{
+"pag": 23,
+"texto": "18.11. A CONCESSIONÁRIA deverá registrar na comunicação referida no item 18.9 0 montante"
+},
+{
+"pag": 23,
+"texto": "devido, bem como as causas que deram origem à indenização e a data de ocorrência."
+},
+{
+"pag": 24,
+"texto": "CLÁUSULA XIX - DA FISCALIZAÇÃO"
+},
+{
+"pag": 24,
+"texto": "19.1. A exploração dos serviços objeto deste CONTRATO será regulada, acompanhada e"
+},
+{
+"pag": 24,
+"texto": "fiscalizada pelo REGULADOR, com a cooperação dos USUÁRIOS, na forma da lei e do"
+},
+{
+"pag": 24,
+"texto": "REGULAMENTO."
+},
+{
+"pag": 24,
+"texto": "19.2. A fiscalização abrangerá o acompanhamento e o controle das ações da CONCESSIONÁRIA"
+},
+{
+"pag": 24,
+"texto": "nas áreas administrativas, comercial, técnica, operacional, econômica, financeira e contábil,"
+},
+{
+"pag": 24,
+"texto": "podendo o REGULADOR estabelecer diretrizes de procedimentos ou sustar ações ou práticas que"
+},
+{
+"pag": 24,
+"texto": "considere incompatíveis com as exigências da prestação do serviço adequado ou que possam"
+},
+{
+"pag": 24,
+"texto": "comprometer o EQUILÍBRIO ECONÔMICO-FINANCEIRO do CONTRATO."
+},
+{
+"pag": 24,
+"texto": "19.3. Os agentes do REGULADOR terão livre e irrestrito acesso, em qualquer época, a toda e"
+},
+{
+"pag": 24,
+"texto": "qualquer documentação, sistema computacional, projetos, obras, instalações e equipamentos"
+},
+{
+"pag": 24,
+"texto": "vinculados ao serviço concedido, podendo acessar, inclusive, os registros contábeis da"
+},
+{
+"pag": 24,
+"texto": "CONCESSIONÁRIA e requisitar a ela documentos, informações e esclarecimentos que permitam"
+},
+{
+"pag": 24,
+"texto": "aferir o cumprimento deste CONTRATO e da legislação vigente."
+},
+{
+"pag": 24,
+"texto": "19.4. É vedado à CONCESSIONÁRIA restringir, sob qualquer alegação, o acesso às informações,"
+},
+{
+"pag": 24,
+"texto": "documentos e esclarecimentos mencionados no item anterior."
+},
+{
+"pag": 24,
+"texto": "19.5. A CONCESSIONÁRIA deverá disponibilizar ao REGULADOR, sempre que solicitado, acesso"
+},
+{
+"pag": 24,
+"texto": "remoto a todos os sistemas utilizados para a prestação do serviço concedido, pelo período que se"
+},
+{
+"pag": 24,
+"texto": "fizer necessário, e nos prazos requisitados."
+},
+{
+"pag": 24,
+"texto": "19.6. A fiscalização técnica e comercial do serviço concedido será objeto de REGULAMENTO, e"
+},
+{
+"pag": 24,
+"texto": "abrangerá, sem prejuízo de outros, principalmente:"
+},
+{
+"pag": 24,
+"texto": "I - a execução de projetos, obras e instalações;"
+},
+{
+"pag": 24,
+"texto": "II - a exploração dos serviços;"
+},
+{
+"pag": 24,
+"texto": "III - a observância das normas técnicas, legais e contratuais;"
+},
+{
+"pag": 24,
+"texto": "IV - o desempenho e a avaliação da prestação dos serviços no tocante à qualidade e continuidade"
+},
+{
+"pag": 24,
+"texto": "da prestação realizada à observância dos padrões estabelecidos para o fornecimento do produto e"
+},
+{
+"pag": 24,
+"texto": "à segurança das instalações e das pessoas;"
+},
+{
+"pag": 24,
+"texto": "V - a execução dos programas de incremento à oferta de GÁS CANALIZADO e à eficiência do seu"
+},
+{
+"pag": 24,
+"texto": "uso;"
+},
+{
+"pag": 24,
+"texto": "VI - a estrutura e qualidade do atendimento aos USUÁRIOS e da operação e manutenção do"
+},
+{
+"pag": 24,
+"texto": "SISTEMA DE DISTRIBUIÇÃO e de suas respectivas instalações; e"
+},
+{
+"pag": 24,
+"texto": "VII - o acesso irrestrito e imediato aos contratos celebrados com USUÁRIOS e SUPRIDORES."
+},
+{
+"pag": 24,
+"texto": "19.7. Também a fiscalização contábil e patrimonial do serviço concedido será objeto de"
+},
+{
+"pag": 24,
+"texto": "REGULAMENTO, e abrangerá, sem prejuízo de outros, principalmente:"
+},
+{
+"pag": 24,
+"texto": "I - o exame dos lançamentos e registros contábeis e patrimoniais;"
+},
+{
+"pag": 24,
+"texto": "II - o exame dos balancetes, relatórios das demonstrações financeiras e prestação de contas da"
+},
+{
+"pag": 24,
+"texto": "CONCESSIONÁRIA;"
+},
+{
+"pag": 24,
+"texto": "III - o controle dos bens vinculados à concessão e sob administração da CONCESSIONÁRIA; e"
+},
+{
+"pag": 25,
+"texto": "IV - o exame da avaliação da BAR."
+},
+{
+"pag": 25,
+"texto": "19.8. O REGULADOR deverá estabelecer o plano de contas contábil regulatório e especificar"
+},
+{
+"pag": 25,
+"texto": "relatórios e demonstrações financeiras que deverão ser emitidos pela CONCESSIONÁRIA."
+},
+{
+"pag": 25,
+"texto": "19.9 A fiscalização econômico-financeira do serviço concedido será, de igual modo, objeto de"
+},
+{
+"pag": 25,
+"texto": "REGULAMENTO, sem prejuízo de outros e abrangerá, principalmente:"
+},
+{
+"pag": 25,
+"texto": "I avaliação da sustentabilidade econômico-financeira dos serviços prestados pela"
+},
+{
+"pag": 25,
+"texto": "CONCESSIONÁRIA; e"
+},
+{
+"pag": 25,
+"texto": "II - outros que o REGULADOR considere necessários a uma adequada avaliação da gestão dos"
+},
+{
+"pag": 25,
+"texto": "serviços que correspondem ao objeto da CONCESSÃO."
+},
+{
+"pag": 25,
+"texto": "19.10. A CONCESSIONÁRIA deverá segregar as informações contábeis relativas às atividades"
+},
+{
+"pag": 25,
+"texto": "alheias ao objeto do presente CONTRATO, de modo a possibilitar ao REGULADOR a identificação"
+},
+{
+"pag": 25,
+"texto": "das receitas, dos custos e das despesas de cada operação."
+},
+{
+"pag": 25,
+"texto": "19.11. O REGULADOR poderá impor à CONCESSIONÁRIA a rescisão de qualquer contrato por"
+},
+{
+"pag": 25,
+"texto": "ela celebrado, quando verificar, observado o disposto em REGULAMENTO, que dele possam"
+},
+{
+"pag": 25,
+"texto": "resultar danos ao serviço concedido ou tratamento discriminatório a USUÁRIOS."
+},
+{
+"pag": 25,
+"texto": "19.12. A fiscalização do REGULADOR não diminui nem exime as responsabilidades da"
+},
+{
+"pag": 25,
+"texto": "CONCESSIONÁRIA quanto à adequação das suas obras e instalações e quanto à correção e"
+},
+{
+"pag": 25,
+"texto": "legalidade de seus registros contábeis e de suas operações financeiras e comerciais."
+},
+{
+"pag": 25,
+"texto": "19.13. Do não atendimento, pela CONCESSIONÁRIA, às solicitações, recomendações e"
+},
+{
+"pag": 25,
+"texto": "determinações da fiscalização resultará a aplicação das penalidades previstas em REGULAMENTO"
+},
+{
+"pag": 25,
+"texto": "e neste CONTRATO."
+},
+{
+"pag": 25,
+"texto": "CLÁUSULA XX - PRESTAÇÃO DE CONTAS"
+},
+{
+"pag": 25,
+"texto": "20.1. A CONCESSIONÁRIA prestará contas anualmente ao REGULADOR a respeito dos serviços"
+},
+{
+"pag": 25,
+"texto": "correspondentes ao objeto do presente CONTRATO e apresentará periodicamente dados e"
+},
+{
+"pag": 25,
+"texto": "informações, observado o disposto em REGULAMENTO."
+},
+{
+"pag": 25,
+"texto": "20.2. A gestão financeira e contábil da execução do serviço concedido deverá ser realizada de forma"
+},
+{
+"pag": 25,
+"texto": "individualizada e independente, permitindo o levantamento, em separado, de balancetes e relatórios"
+},
+{
+"pag": 25,
+"texto": "de quaisquer outros registros da CONCESSIONÁRIA."
+},
+{
+"pag": 25,
+"texto": "CLÁUSULA XXI - EXIGÊNCIA DA PUBLICAÇÃO DAS DEMONSTRAÇÕES FINANCEIRAS"
+},
+{
+"pag": 25,
+"texto": "21.1. A CONCESSIONÁRIA apresentará e publicará, anualmente, visando à boa prática de"
+},
+{
+"pag": 25,
+"texto": "governança e o interesse público:"
+},
+{
+"pag": 25,
+"texto": "I - o relatório da administração e as suas demonstrações financeiras, observando, quanto ao"
+},
+{
+"pag": 25,
+"texto": "particular, o disposto na Lei Federal nº 6.404/1976; e"
+},
+{
+"pag": 25,
+"texto": "II - outras informações definidas em REGULAMENTO."
+},
+{
+"pag": 26,
+"texto": "CLÁUSULA XXII - PENALIDADES"
+},
+{
+"pag": 26,
+"texto": "22.1. A CONCESSIONÁRIA estará sujeita às sanções administrativas previstas neste CONTRATO,"
+},
+{
+"pag": 26,
+"texto": "em REGULAMENTO e/ou em lei pelo descumprimento das disposições legais, regulamentares e"
+},
+{
+"pag": 26,
+"texto": "contratuais pertinentes à prestação do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DO GÁS"
+},
+{
+"pag": 26,
+"texto": "CANALIZADO."
+},
+{
+"pag": 26,
+"texto": "22.2. A CONCESSIONÁRIA estará sujeita à penalidade de multa no valor máximo de 2% (dois por"
+},
+{
+"pag": 26,
+"texto": "cento), por infração incorrida, aplicada sobre o faturamento anual, tomando-se como referência os"
+},
+{
+"pag": 26,
+"texto": "12 (doze) meses anteriores ao mês de lavratura do auto de infração, exceto nos casos de"
+},
+{
+"pag": 26,
+"texto": "reincidência, em que poderá não ser aplicado o referido limite."
+},
+{
+"pag": 26,
+"texto": "22.2.1. O valor do somatório de todas as multas aplicadas à CONCESSIONÁRIA em um período"
+},
+{
+"pag": 26,
+"texto": "de um ano não poderá exceder a 2% (dois por cento) do faturamento, exceto nos casos de"
+},
+{
+"pag": 26,
+"texto": "reincidência, em que poderá não ser aplicado o referido limite."
+},
+{
+"pag": 26,
+"texto": "22.2.2. As demais regras para fixação da multa serão definidas em REGULAMENTO, observadas"
+},
+{
+"pag": 26,
+"texto": "as regras deste CONTRATO, e as multas deverão observar o princípio da proporcionalidade."
+},
+{
+"pag": 26,
+"texto": "22.3. As penalidades serão aplicadas pelo REGULADOR após prévio procedimento administrativo,"
+},
+{
+"pag": 26,
+"texto": "guardando proporção com a gravidade da infração, assegurando-se à CONCESSIONÁRIA o direito"
+},
+{
+"pag": 26,
+"texto": "à ampla defesa."
+},
+{
+"pag": 26,
+"texto": "22.4. Quando a penalidade consistir em multa e o respectivo valor não for recolhido nos prazos e"
+},
+{
+"pag": 26,
+"texto": "condições estabelecidos neste CONTRATO e na legislação, o REGULADOR poderá promover sua"
+},
+{
+"pag": 26,
+"texto": "cobrança judicial."
+},
+{
+"pag": 26,
+"texto": "22.5. As multas e outras penalidades pecuniárias decorrentes deste CONTRATO serão atualizados"
+},
+{
+"pag": 26,
+"texto": "pelo Índice Geral de Preços do Mercado - IGPM, ou de outro índice que vier a sucedê-lo."
+},
+{
+"pag": 26,
+"texto": "22.6. Inexistindo o índice sucedâneo de que trata o item anterior, o REGULADOR estabelecerá novo"
+},
+{
+"pag": 26,
+"texto": "índice equivalente."
+},
+{
+"pag": 26,
+"texto": "22.8. As penalidades previstas neste CONTRATO serão aplicadas independentemente de"
+},
+{
+"pag": 26,
+"texto": "intervenção por parte do PODER CONCEDENTE na CONCESSÃO, conforme previsto na"
+},
+{
+"pag": 26,
+"texto": "legislação."
+},
+{
+"pag": 26,
+"texto": "CLÁUSULA XXIII - INTERVENÇÃO, EXTINÇÃO DA CONCESSÃO E INDENIZAÇÃO"
+},
+{
+"pag": 26,
+"texto": "23.1. Este CONTRATO observará, no que concerne a intervenção, a extinção da concessão e a"
+},
+{
+"pag": 26,
+"texto": "indenização, o disposto na Lei Federal nº 8.987/1995 e na Lei Estadual nº 5.720/1998."
+},
+{
+"pag": 26,
+"texto": "23.2. A intervenção far-se-á por decreto do PODER CONCEDENTE, que conterá a designação do"
+},
+{
+"pag": 26,
+"texto": "interventor, o prazo da intervenção e os objetivos e os limites da medida."
+},
+{
+"pag": 26,
+"texto": "23.3. Declarada a intervenção, o PODER CONCEDENTE deverá, no prazo de 30 (trinta) dias,"
+},
+{
+"pag": 26,
+"texto": "instaurar procedimento administrativo para comprovar as causas determinantes da medida e apurar"
+},
+{
+"pag": 26,
+"texto": "responsabilidades, assegurado à CONCESSIONÁRIA o direito do contraditório e de ampla defesa."
+},
+{
+"pag": 26,
+"texto": "23.4. A concessão considerar-se-á extinta por: 6"
+},
+{
+"pag": 26,
+"texto": "I - advento do termo contratual;"
+},
+{
+"pag": 27,
+"texto": "II - encampação;"
+},
+{
+"pag": 27,
+"texto": "III - caducidade;"
+},
+{
+"pag": 27,
+"texto": "IV - rescisão;"
+},
+{
+"pag": 27,
+"texto": "V - anulação; e"
+},
+{
+"pag": 27,
+"texto": "VI - falência ou extinção da CONCESSIONÁRIA."
+},
+{
+"pag": 27,
+"texto": "23.5. Extinta a concessão, a CONCESSIONÁRIA fará jus a indenização pelos bens e direitos que"
+},
+{
+"pag": 27,
+"texto": "tenham sido integrados à concessão e que ainda não tenham sido integralmente amortizados ou"
+},
+{
+"pag": 27,
+"texto": "depreciados, respeitado o disposto no item 23.8.1, e retornam ao PODER CONCEDENTE todos os"
+},
+{
+"pag": 27,
+"texto": "bens reversíveis, direitos e privilégios transferidos ao CONCESSIONÁRIO conforme estabelecido"
+},
+{
+"pag": 27,
+"texto": "no presente CONTRATO."
+},
+{
+"pag": 27,
+"texto": "23.6. Para fins de indenização, considera-se a parcela não depreciada/amortizada dos bens e"
+},
+{
+"pag": 27,
+"texto": "instalações vinculados ao serviço concedido decorrentes de investimentos realizados pela"
+},
+{
+"pag": 27,
+"texto": "CONCESSIONÁRIA, bem como a parcela não amortizada do valor da OUTORGA, respeitado o"
+},
+{
+"pag": 27,
+"texto": "disposto no item 23.8.1, observado, ainda, o disposto na CLÁUSULA X."
+},
+{
+"pag": 27,
+"texto": "23.7. Na hipótese de encampação, será esta, ainda, indenizada pelos danos devidamente"
+},
+{
+"pag": 27,
+"texto": "comprovados, tais como encargos e ônus decorrentes de multas, rescisões e indenizações que se"
+},
+{
+"pag": 27,
+"texto": "fizerem devidas a fornecedores, contratados e terceiros em geral, em decorrência do consequente"
+},
+{
+"pag": 27,
+"texto": "rompimento dos respectivos vínculos contratuais celebrados em função do CONTRATO."
+},
+{
+"pag": 27,
+"texto": "23.8. Considera-se reversão o retorno ao PODER CONCEDENTE dos bens reversíveis ao término"
+},
+{
+"pag": 27,
+"texto": "do CONTRATO."
+},
+{
+"pag": 27,
+"texto": "23.8.1. Na hipótese de reversão, não serão indenizados os seguintes bens:"
+},
+{
+"pag": 27,
+"texto": "I - recebidos a título de doações, subvenções e ativos não onerosos; e"
+},
+{
+"pag": 27,
+"texto": "II - os bens adquiridos mediante participação financeira do USUÁRIO, incluindo os investimentos"
+},
+{
+"pag": 27,
+"texto": "realizados:"
+},
+{
+"pag": 27,
+"texto": "a) por AGENTES LIVRES DE MERCADO na construção de RAMAIS DEDICADOS; e"
+},
+{
+"pag": 27,
+"texto": "b) pela CONCESSIONÁRIA, na construção de RAMAIS DEDICADOS com recursos dos AGENTES"
+},
+{
+"pag": 27,
+"texto": "LIVRES DE MERCADO."
+},
+{
+"pag": 27,
+"texto": "23.9. Para os fins previstos no item 23.8 obriga-se a CONCESSIONÁRIA a entregar os bens"
+},
+{
+"pag": 27,
+"texto": "reversíveis em perfeitas condições de operacionalidade, utilização e manutenção, sem prejuízo do"
+},
+{
+"pag": 27,
+"texto": "normal desgaste resultante do seu uso, e livres de ônus ou encargos, de que tipos forem."
+},
+{
+"pag": 27,
+"texto": "23.10. Extinta a concessão, haverá a imediata assunção do serviço pelo PODER CONCEDENTE,"
+},
+{
+"pag": 27,
+"texto": "procedendo-se aos levantamentos, avaliações e liquidações necessárias."
+},
+{
+"pag": 27,
+"texto": "23.11. A assunção do serviço autoriza a ocupação das instalações e a utilização, pelo PODER"
+},
+{
+"pag": 27,
+"texto": "CONCEDENTE, de todos os bens reversíveis."
+},
+{
+"pag": 27,
+"texto": "23.12. Nos casos previstos nos incisos I e II do item 23.4, o PODER CONCEDENTE, antecipando-"
+},
+{
+"pag": 27,
+"texto": "se à extinção da concessão, procederá aos levantamentos e avaliações necessários à"
+},
+{
+"pag": 27,
+"texto": "determinação dos montantes da indenização que será devida à CONCESSIONÁRIA."
+},
+{
+"pag": 27,
+"texto": "23.13. A reversão no advento do termo contratual far-se-á com a indenização das parcelas dos"
+},
+{
+"pag": 27,
+"texto": "investimentos vinculados a bens reversíveis, ainda não amortizados ou depreciados, que tenham"
+},
+{
+"pag": 27,
+"texto": "sido realizados com o objetivo de garantir a continuidade e atualidade do serviço concedido."
+},
+{
+"pag": 28,
+"texto": "23.14. Considera-se encampação a retomada do serviço pelo PODER CONCEDENTE durante o"
+},
+{
+"pag": 28,
+"texto": "prazo da concessão, por motivo de interesse público, mediante lei autorizativa específica e após"
+},
+{
+"pag": 28,
+"texto": "prévio pagamento da indenização."
+},
+{
+"pag": 28,
+"texto": "23.15. A inexecução total ou parcial do CONTRATO acarretará, a critério do PODER"
+},
+{
+"pag": 28,
+"texto": "CONCEDENTE, resguardado o direito de defesa da CONCESSIONÁRIA, a declaração de"
+},
+{
+"pag": 28,
+"texto": "caducidade da concessão ou a aplicação das sanções contratuais, respeitadas as disposições"
+},
+{
+"pag": 28,
+"texto": "legais, contratuais e as normas convencionadas entre as PARTES."
+},
+{
+"pag": 28,
+"texto": "23.16. O CONTRATO poderá ser rescindido por iniciativa da CONCESSIONÁRIA, no caso de"
+},
+{
+"pag": 28,
+"texto": "descumprimento das normas contratuais pelo PODER CONCEDENTE, mediante ação judicial"
+},
+{
+"pag": 28,
+"texto": "especialmente intentada para esse fim, não podendo o serviço prestado ser interrompido ou"
+},
+{
+"pag": 28,
+"texto": "paralisado, até a decisão judicial transitada em julgado."
+},
+{
+"pag": 28,
+"texto": "23.17. Em qualquer hipótese de extinção da CONCESSÃO, o PODER CONCEDENTE poderá"
+},
+{
+"pag": 28,
+"texto": "assumir, imediatamente, a prestação dos serviços, para garantir a sua continuidade e regularidade."
+},
+{
+"pag": 28,
+"texto": "CLÁUSULA XXIV - BENS REVERSÍVEIS"
+},
+{
+"pag": 28,
+"texto": "24.1. Para efeito da reversão, consideram-se os bens e instalações vinculados ao serviço"
+},
+{
+"pag": 28,
+"texto": "concedido, observado, ainda, o disposto na CLÁUSULA X."
+},
+{
+"pag": 28,
+"texto": "24.2. Os bens revertidos deverão estar em condições adequadas de operação, funcionamento,"
+},
+{
+"pag": 28,
+"texto": "utilização e manutenção, e com características e requisitos técnicos que permitam a continuidade"
+},
+{
+"pag": 28,
+"texto": "do serviço concedido."
+},
+{
+"pag": 28,
+"texto": "24.3. A alienação dos bens reversíveis pela CONCESSIONÁRIA a terceiros, bem como a"
+},
+{
+"pag": 28,
+"texto": "constituição de ônus sobre eles ou a sua transferência, por qualquer modalidade, observará os"
+},
+{
+"pag": 28,
+"texto": "limites legais e o REGULAMENTO, que atenderá, cumulativamente, os seguintes requisitos:"
+},
+{
+"pag": 28,
+"texto": "I - não comprometimento da continuidade na prestação do serviço concedido; e"
+},
+{
+"pag": 28,
+"texto": "II - não comprometimento da qualidade na prestação do serviço concedido."
+},
+{
+"pag": 28,
+"texto": "24.4. Os contratos vinculados à construção, à operação e à manutenção dos bens reversíveis"
+},
+{
+"pag": 28,
+"texto": "firmados com prazos de execução que tenham a potencialidade de ultrapassar o período de"
+},
+{
+"pag": 28,
+"texto": "CONCESSÃO deverão conter cláusula prevendo, expressamente, a sua sub-rogação em favor do"
+},
+{
+"pag": 28,
+"texto": "PODER CONCEDENTE por ocasião da extinção."
+},
+{
+"pag": 28,
+"texto": "24.5. A sub-rogação contratual referida no item anterior fica condicionada à manifestação de"
+},
+{
+"pag": 28,
+"texto": "interesse por parte do PODER CONCEDENTE ou do REGULADOR, conforme disposto na"
+},
+{
+"pag": 28,
+"texto": "legislação estadual."
+},
+{
+"pag": 28,
+"texto": "CLÁUSULA XXV - PRESERVAÇÃO DO MEIO AMBIENTE"
+},
+{
+"pag": 28,
+"texto": "25.1. A CONCESSIONÁRIA deverá nortear suas atividades pelos princípios da preservação,"
+},
+{
+"pag": 28,
+"texto": "conservação, proteção e restauração ambiental."
+},
+{
+"pag": 28,
+"texto": "25.2. Também compete à CONCESSIONÁRIA:"
+},
+{
+"pag": 29,
+"texto": "I - manter rígido sistema de controle interno, visando a evitar toda e qualquer forma de agressão ao"
+},
+{
+"pag": 29,
+"texto": "meio ambiente;"
+},
+{
+"pag": 29,
+"texto": "II - observar a legislação atinente ao tema ambiental; e"
+},
+{
+"pag": 29,
+"texto": "III - empregar técnicas modernas disponíveis, no intuito de preservar o ecossistema em que se"
+},
+{
+"pag": 29,
+"texto": "insere e no qual desenvolve suas atividades."
+},
+{
+"pag": 29,
+"texto": "CLÁUSULA XXVI - NÃO CORRUPÇÃO E GOVERNANÇA CORPORATIVA"
+},
+{
+"pag": 29,
+"texto": "26.1. Na execução do presente CONTRATO é vedado às PARTES, bem como a seus empregados,"
+},
+{
+"pag": 29,
+"texto": "administradores e prepostos:"
+},
+{
+"pag": 29,
+"texto": "I - prometer, oferecer ou dar, direta ou indiretamente, vantagem indevida a agente público, a terceira"
+},
+{
+"pag": 29,
+"texto": "pessoa a ele relacionada ou a quem quer que seja;"
+},
+{
+"pag": 29,
+"texto": "II - criar, de modo fraudulento ou irregular, pessoa jurídica para celebrar o presente CONTRATO;"
+},
+{
+"pag": 29,
+"texto": "III - obter vantagem ou benefício indevido, de modo fraudulento ou irregular, provenientes de"
+},
+{
+"pag": 29,
+"texto": "modificações no presente CONTRATO efetivadas sem autorização em lei, REGULAMENTOS ou"
+},
+{
+"pag": 29,
+"texto": "nos respectivos instrumentos contratuais;"
+},
+{
+"pag": 29,
+"texto": "IV - manipular ou fraudar o EQUILÍBRIO ECONÔMICO-FINANCEIRO do presente CONTRATO;"
+},
+{
+"pag": 29,
+"texto": "V - fraudar, por qualquer meio, o presente CONTRATO; e"
+},
+{
+"pag": 29,
+"texto": "VI - realizar quaisquer ações ou omissões que constituam prática ilegal ou de corrupção, nos termos"
+},
+{
+"pag": 29,
+"texto": "da Lei Federal nº 12.846/2013 ou de quaisquer outras leis ou regulamentos aplicáveis, ainda que"
+},
+{
+"pag": 29,
+"texto": "não relacionadas com o presente CONTRATO."
+},
+{
+"pag": 29,
+"texto": "262. A CONCESSIONÁRIA fica obrigada a manter controle rigoroso sobre suas práticas e sobre a"
+},
+{
+"pag": 29,
+"texto": "conduta de seus funcionários, de modo a orientar, prevenir e punir quaisquer atos que se"
+},
+{
+"pag": 29,
+"texto": "enquadrem nas proibições elencadas no item anterior ou atentem contra os princípios da"
+},
+{
+"pag": 29,
+"texto": "Administração Pública."
+},
+{
+"pag": 29,
+"texto": "26.3. Também é obrigação da CONCESSIONÁRIA adotar as práticas de boa governança"
+},
+{
+"pag": 29,
+"texto": "corporativa, em especial aquelas estabelecidas na Lei Federal nº 13.303/2016."
+},
+{
+"pag": 29,
+"texto": "CLÁUSULA XXVII - SUBCONCESSÃO E SUBCONTRATAÇÕES"
+},
+{
+"pag": 29,
+"texto": "27.1. Admitir-se-á a subconcessão, desde que seja do interesse da CONCESSIONÁRIA e mediante"
+},
+{
+"pag": 29,
+"texto": "autorização expressa do PODER CONCEDENTE, observado o disposto na Lei Federal no"
+},
+{
+"pag": 29,
+"texto": "8.987/1995, na Lei Estadual nº 5.720/1998 e em REGULAMENTO."
+},
+{
+"pag": 29,
+"texto": "27.2. A subconcessionária se sub-rogará todos os direitos e obrigações da subconcedente dentro"
+},
+{
+"pag": 29,
+"texto": "dos limites da subconcessão."
+},
+{
+"pag": 29,
+"texto": "27.3. A CONCESSIONÁRIA poderá, sob sua inteira responsabilidade e risco, independentemente"
+},
+{
+"pag": 29,
+"texto": "de autorização, contratar com terceiros a prestação parcial dos serviços ou a execução de obras"
+},
+{
+"pag": 29,
+"texto": "necessárias."
+},
+{
+"pag": 30,
+"texto": "27.4. As contratações feitas pela CONCESSIONÁRIA serão regidas pelas disposições de direito"
+},
+{
+"pag": 30,
+"texto": "privado, não se estabelecendo nenhuma relação entre os contratos da CONCESSIONÁRIA e o"
+},
+{
+"pag": 30,
+"texto": "PODER CONCEDENTE."
+},
+{
+"pag": 30,
+"texto": "27.5. Em qualquer hipótese, a subconcessão deverá estar de acordo com os princípios norteadores"
+},
+{
+"pag": 30,
+"texto": "da Administração Pública."
+},
+{
+"pag": 30,
+"texto": "27.6. A subconcessionária fica sujeita à regulação estadual, submetendo-se à atividade de"
+},
+{
+"pag": 30,
+"texto": "fiscalização e ao poder normativo exercido pelo REGULADOR."
+},
+{
+"pag": 30,
+"texto": "27.7. A subconcessão será instrumentalizada observado o disposto em REGULAMENTO."
+},
+{
+"pag": 30,
+"texto": "CLÁUSULA XXVIII - ARBITRAGEM, FORO E O MODO AMIGÁVEL DE SOLUÇÃO DE"
+},
+{
+"pag": 30,
+"texto": "DIVERGÊNCIAS CONTRATUAIS"
+},
+{
+"pag": 30,
+"texto": "28.1. Qualquer disputa ou controvérsia relativa à interpretação ou execução deste CONTRATO, ou"
+},
+{
+"pag": 30,
+"texto": "de qualquer forma oriunda ou associada a ele, e que não seja dirimida amigavelmente entre as"
+},
+{
+"pag": 30,
+"texto": "PARTES, deverá ser resolvida de forma definitiva por arbitragem."
+},
+{
+"pag": 30,
+"texto": "28.2. As PARTES concordam que, caso haja necessidade de medidas coercitivas ou cautelares,"
+},
+{
+"pag": 30,
+"texto": "anteriormente ou no curso da arbitragem, deverão solicitá-las diretamente ao órgão do Poder"
+},
+{
+"pag": 30,
+"texto": "Judiciário que seria originariamente competente para julgar a causa, ficando expressamente"
+},
+{
+"pag": 30,
+"texto": "entendido que tal medida não será interpretada como uma renúncia ao procedimento arbitral."
+},
+{
+"pag": 30,
+"texto": "28.3. As PARTES elegem como originariamente competente para julgar a causa de que trata o item"
+},
+{
+"pag": 30,
+"texto": "anterior o Foro de Vitória, Capital do Espírito Santo, para qualquer ação ou medida judicial originada"
+},
+{
+"pag": 30,
+"texto": "ou referente a este CONTRATO."
+},
+{
+"pag": 30,
+"texto": "28.4. As PARTES deverão envidar os melhores esforços para resolver amigavelmente qualquer"
+},
+{
+"pag": 30,
+"texto": "divergência ou conflito de interesse que venha a surgir em decorrência do presente CONTRATO,"
+},
+{
+"pag": 30,
+"texto": "utilizando-se do princípio da boa-fé, por meio de negociação direta."
+},
+{
+"pag": 30,
+"texto": "28.5. Na ocorrência de divergências ou conflitos de interesse nos termos desta cláusula, a PARTE"
+},
+{
+"pag": 30,
+"texto": "interessada notificará por escrito a outra PARTE apresentando todas as suas alegações acerca da"
+},
+{
+"pag": 30,
+"texto": "divergência ou conflito de interesse, devendo também ser acompanhada de sugestão para sua"
+},
+{
+"pag": 30,
+"texto": "solução e/ou elucidação."
+},
+{
+"pag": 30,
+"texto": "28.6. A PARTE notificada terá um prazo de 30 (trinta) dias, contados do recebimento da notificação,"
+},
+{
+"pag": 30,
+"texto": "para responder se concorda com a solução ou elucidação proposta."
+},
+{
+"pag": 30,
+"texto": "28.7. Caso a PARTE notificada concorde com a solução ou elucidação apresentada, as PARTES"
+},
+{
+"pag": 30,
+"texto": "darão por encerrada a divergência ou conflito de interesse e tomarão as medidas necessárias para"
+},
+{
+"pag": 30,
+"texto": "implementar o que foi acordado."
+},
+{
+"pag": 30,
+"texto": "28.7.1. Caso não concorde, a PARTE notificada deverá apresentar à outra PARTE, também no"
+},
+{
+"pag": 30,
+"texto": "prazo de 30 (trinta) dias, os motivos pelos quais discorda da solução ou elucidação apresentada,"
+},
+{
+"pag": 30,
+"texto": "devendo, nessa hipótese, apresentar uma proposta alternativa para o caso."
+},
+{
+"pag": 30,
+"texto": "28.8. A adoção dos procedimentos indicados nesta cláusula não exonera as PARTES de dar"
+},
+{
+"pag": 30,
+"texto": "seguimento e cumprimento às suas obrigações contratuais, sendo dever delas assegurar a"
+},
+{
+"pag": 30,
+"texto": "continuidade da prestação dos serviços e a realização dos investimentos necessários."
+},
+{
+"pag": 31,
+"texto": "28.9. A autocomposição do conflito ainda poderá ocorrer perante câmara de prevenção e resolução"
+},
+{
+"pag": 31,
+"texto": "administrativa de conflitos ou por mediação, observado o disposto na Lei nº 13.140/2015."
+},
+{
+"pag": 31,
+"texto": "28.10. Em caso de a autocomposição do conflito não lograr êxito, qualquer das PARTES poderá"
+},
+{
+"pag": 31,
+"texto": "dar início à arbitragem."
+},
+{
+"pag": 31,
+"texto": "28.10.1. A escolha da Câmara de Arbitragem observará as regras existentes na legislação e/ou"
+},
+{
+"pag": 31,
+"texto": "no(s) regulamento(s) expedido(s) pelo Estado do Espírito Santo."
+},
+{
+"pag": 31,
+"texto": "28.10.2. Se inexistir legislação/regulamento a respeito do tema e as PARTES não chegarem a um"
+},
+{
+"pag": 31,
+"texto": "acordo quanto à escolha da Câmara de Arbitragem no prazo de 60 (sessenta) dias, a PARTE que"
+},
+{
+"pag": 31,
+"texto": "tiver solicitado a instauração da arbitragem submeterá, com a devida notificação, o nome de 3 (três)"
+},
+{
+"pag": 31,
+"texto": "Câmaras de Arbitragem notoriamente reconhecidas e de reputação ilibada para escolha da"
+},
+{
+"pag": 31,
+"texto": "instituição responsável pelo procedimento arbitral pela outra PARTE."
+},
+{
+"pag": 31,
+"texto": "28.10.3. A PARTE notificada terá um prazo de 10 (dez) dias, contados do recebimento da"
+},
+{
+"pag": 31,
+"texto": "comunicação, para eleger uma das 3 (três) Câmaras de Arbitragem."
+},
+{
+"pag": 31,
+"texto": "28.10.4. Em caso de não ser efetuada a indicação no prazo fixado no item 28.10.3, a PARTE que"
+},
+{
+"pag": 31,
+"texto": "tiver solicitado o início do procedimento arbitral elegerá a Câmara de Arbitragem."
+},
+{
+"pag": 31,
+"texto": "28.11. A arbitragem será de direito, no idioma Português do Brasil e decidida com base na legislação"
+},
+{
+"pag": 31,
+"texto": "brasileira."
+},
+{
+"pag": 31,
+"texto": "28.12. Se houver consenso entre as PARTES, será nomeado apenas um árbitro e, se houver"
+},
+{
+"pag": 31,
+"texto": "dissenso, cada parte nomeará um árbitro, e os dois nomeados escolherão um terceiro, para compor"
+},
+{
+"pag": 31,
+"texto": "o Tribunal Arbitral."
+},
+{
+"pag": 31,
+"texto": "28.13. Somente se admitirá a paralisação dos serviços ou a postergação da realização dos"
+},
+{
+"pag": 31,
+"texto": "investimentos necessários quando o objeto da divergência ou conflito de interesse implicar riscos à"
+},
+{
+"pag": 31,
+"texto": "segurança de pessoas."
+},
+{
+"pag": 31,
+"texto": "CLÁUSULA XXIX - COMPROMISSOS DO(S) SÓCIO(S) CONTROLADOR(ES)"
+},
+{
+"pag": 31,
+"texto": "29.1. O(s) sócio(s) controlador(es) obriga(m)-se a não transferir, ceder ou de qualquer forma alienar,"
+},
+{
+"pag": 31,
+"texto": "direta ou indiretamente, gratuita ou onerosamente, as ações que fazem parte do grupo de controle,"
+},
+{
+"pag": 31,
+"texto": "sem a prévia concordância do PODER CONCEDENTE."
+},
+{
+"pag": 31,
+"texto": "29.1.1. A transferência, integral ou parcial, de ações que resultem em um novo controlador, só será"
+},
+{
+"pag": 31,
+"texto": "reconhecida pelo PODER CONCEDENTE quando o(s) novo(s) sócio(s) controlador(es) assinarem"
+},
+{
+"pag": 31,
+"texto": "o termo de anuência e submissão às condições deste CONTRATO e às normas legais e"
+},
+{
+"pag": 31,
+"texto": "regulamentares da concessão."
+},
+{
+"pag": 31,
+"texto": "CLÁUSULA XXX - DISPOSIÇÕES FINAIS"
+},
+{
+"pag": 31,
+"texto": "30.1. O PODER CONCEDENTE e o REGULADOR comprometem-se a não usar de qualquer"
+},
+{
+"pag": 31,
+"texto": "prerrogativa de que dispõe para, de qualquer forma dificultar, impedir, forçar situação desfavorável"
+},
+{
+"pag": 31,
+"texto": "à CONCESSIONÁRIA, por sua ação ou omissão, na implementação deste CONTRATO."
+},
+{
+"pag": 32,
+"texto": "30.2. Não integram o compromisso referido no item anterior a prática, por agentes estatais"
+},
+{
+"pag": 32,
+"texto": "vinculados ao PODER CONCEDENTE e ao REGULADOR, de atos concretos cuja prática lhes é"
+},
+{
+"pag": 32,
+"texto": "imposta, com o propósito de promover a realização do interesse público, pelas Constituições"
+},
+{
+"pag": 32,
+"texto": "Federal e Estadual, pelas leis ou por REGULAMENTO."
+},
+{
+"pag": 32,
+"texto": "30.3. Eventual novo acionista fica obrigado a cumprir todas as obrigações entabuladas neste"
+},
+{
+"pag": 32,
+"texto": "CONTRATO, sob pena de responsabilização."
+},
+{
+"pag": 32,
+"texto": "30.4. O presente CONTRATO somente poderá ser alterado ou modificado por escrito, atendidas as"
+},
+{
+"pag": 32,
+"texto": "exigências legais."
+},
+{
+"pag": 32,
+"texto": "30.5. O presente CONTRATO deverá ser publicado em extrato, no Diário Oficial do Estado do"
+},
+{
+"pag": 32,
+"texto": "Espírito Santo, por iniciativa do PODER CONCEDENTE."
+},
+{
+"pag": 32,
+"texto": "30.6. As PARTES indicam como local para efetivação de quaisquer comunicações o endereço de"
+},
+{
+"pag": 32,
+"texto": "cada sede."
+},
+{
+"pag": 32,
+"texto": "30.7. Qualquer tolerância que uma das PARTES tiver para com o exercício de seus direitos ou no"
+},
+{
+"pag": 32,
+"texto": "cumprimento das obrigações da outra PARTE não significará alteração contratual, novação ou"
+},
+{
+"pag": 32,
+"texto": "transação e nem resulta para a PARTE tolerante inadimplemento a qualquer direito que possa vir a"
+},
+{
+"pag": 32,
+"texto": "ser alegado."
+},
+{
+"pag": 32,
+"texto": "30.8. Os casos omissos serão objeto de consulta e aprovação junto ao REGULADOR."
+},
+{
+"pag": 32,
+"texto": "E por estarem assim justas e contratadas, firmam o presente em três vias de igual teor e forma,"
+},
+{
+"pag": 32,
+"texto": "juntamente com duas testemunhas, obrigando-se por si e por seus sucessores a cumpri-lo em todos"
+},
+{
+"pag": 32,
+"texto": "os seus termos. O"
+},
+{
+"pag": 32,
+"texto": "Vitória, 22 de julho de 2020."
+},
+{
+"pag": 34,
+"texto": "ANEXO I - CONDIÇÕES ECONÔMICO-FINANCEIRAS"
+},
+{
+"pag": 34,
+"texto": "CLÁUSULA I - OBJETO"
+},
+{
+"pag": 34,
+"texto": "1.1. Conforme disposto no CONTRATO, o presente anexo tem por objeto definir as CONDIÇÕES"
+},
+{
+"pag": 34,
+"texto": "ECONÔMICO-FINANCEIRAS que permitirão o EQUILÍBRIO ECONÔMICO-FINANCEIRO"
+},
+{
+"pag": 34,
+"texto": "contratual, nos termos das cláusulas abaixo."
+},
+{
+"pag": 34,
+"texto": "CLÁUSULA II - CÁLCULO DA MARGEM MÉDIA DE DISTRIBUIÇÃO"
+},
+{
+"pag": 34,
+"texto": "2.1. A MARGEM MÉDIA DE DISTRIBUIÇÃO terá como base o PLANO DE NEGÓCIOS para o"
+},
+{
+"pag": 34,
+"texto": "CICLO TARIFÁRIO e é composta por:"
+},
+{
+"pag": 34,
+"texto": "I - CUSTOS OPERACIONAIS EFICIENTES:"
+},
+{
+"pag": 34,
+"texto": "a) despesas operacionais, comerciais e administrativas, conceituadas em REGULAMENTO; e"
+},
+{
+"pag": 34,
+"texto": "b) custos com operação e manutenção;"
+},
+{
+"pag": 34,
+"texto": "II - taxa de regulação e fiscalização dos SERVIÇOS PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 34,
+"texto": "CANALIZADO prevista na legislação estadual;"
+},
+{
+"pag": 34,
+"texto": "III - receitas irrecuperáveis, qualificadas, para efeito da execução deste CONTRATO, como parcela"
+},
+{
+"pag": 34,
+"texto": "da receita total faturada e não recebida pela CONCESSIONÁRIA, apurada conforme"
+},
+{
+"pag": 34,
+"texto": "REGULAMENTO;"
+},
+{
+"pag": 34,
+"texto": "IV - gastos com pesquisa e desenvolvimento em projetos voltados a alocar recursos humanos e"
+},
+{
+"pag": 34,
+"texto": "financeiros, visando à inovação e/ou ao aprimoramento dos produtos e da prestação de serviços,"
+},
+{
+"pag": 34,
+"texto": "nos processos e usos finais do GÁS, de acordo com REGULAMENTO;"
+},
+{
+"pag": 34,
+"texto": "V - encargos da tarifa social, qualificados, para efeito da execução deste CONTRATO, como"
+},
+{
+"pag": 34,
+"texto": "encargos destinados ao atendimento da população de baixa renda com tarifas diferenciadas,"
+},
+{
+"pag": 34,
+"texto": "observado REGULAMENTO;"
+},
+{
+"pag": 34,
+"texto": "VI - custo de capital, composto pela soma das seguintes parcelas:"
+},
+{
+"pag": 34,
+"texto": "a) remuneração do capital, apurada a partir da BRRL, da NCG e do WACC; e"
+},
+{
+"pag": 34,
+"texto": "b) valor da depreciação e amortização, observado o REGULAMENTO;"
+},
+{
+"pag": 34,
+"texto": "VII - volume de GÁS a ser distribuído, que corresponderá às previsões anuais de distribuição no"
+},
+{
+"pag": 34,
+"texto": "CICLO TARIFÁRIO;"
+},
+{
+"pag": 34,
+"texto": "VIII - valor dos investimentos a serem realizados no CICLO TARIFÁRIO;"
+},
+{
+"pag": 34,
+"texto": "IX - outras despesas apresentadas pela CONCESSIONÁRIA e aprovadas pelo REGULADOR; e"
+},
+{
+"pag": 34,
+"texto": "X - outras receitas, dentre as quais aquelas advindas das operações correlatas, acessórias e de"
+},
+{
+"pag": 34,
+"texto": "comercialização, apresentadas pela CONCESSIONÁRIA e aprovadas pelo REGULADOR."
+},
+{
+"pag": 34,
+"texto": "2.1.1. As características de fornecimento e atendimento ao SEGMENTO TERMOELÉTRICO e aos"
+},
+{
+"pag": 34,
+"texto": "AGENTES LIVRES DE MERCADO poderão contribuir para modicidade tarifária, conforme"
+},
+{
+"pag": 34,
+"texto": "REGULAMENTO."
+},
+{
+"pag": 35,
+"texto": "2.1.2. As RECEITAS CORRELATAS, RECEITAS ACESSÓRIAS e RECEITAS DE"
+},
+{
+"pag": 35,
+"texto": "COMERCIALIZAÇÃO, bem como os custos, despesas e encargos associados às operações de"
+},
+{
+"pag": 35,
+"texto": "prestação de serviços geradores de tais receitas deverão ser contabilizados em separado e parte"
+},
+{
+"pag": 35,
+"texto": "do resultado poderá ser aplicada à MARGEM MÉDIA DE DISTRIBUIÇÃO, conforme"
+},
+{
+"pag": 35,
+"texto": "REGULAMENTO."
+},
+{
+"pag": 35,
+"texto": "2.1.3. A MARGEM MÉDIA DE DISTRIBUIÇÃO será calculada para CICLO TARIFÁRIO através da"
+},
+{
+"pag": 35,
+"texto": "seguinte fórmula:"
+},
+{
+"pag": 35,
+"texto": "[Fórmula: ver o PDF, p. 35.]"
+},
+{
+"pag": 35,
+"texto": "onde:"
+},
+{
+"pag": 35,
+"texto": "MM: MARGEM MÉDIA DE DISTRIBUIÇÃO do segmento não termoelétrico (R$/m³)."
+},
+{
+"pag": 35,
+"texto": "BRRLo: base de remuneração regulatória inicial líquida de depreciações (R$)."
+},
+{
+"pag": 35,
+"texto": "BRRLT.• base de remuneração regulatória líquida ao final do ciclo tarifário (R$)."
+},
+{
+"pag": 35,
+"texto": "NCGi.• valor da NECESSIDADE DE CAPITAL DE GIRO no ano i (R$)."
+},
+{
+"pag": 35,
+"texto": "NCGr: valor da NECESSIDADE DE CAPITAL DE GIRO ao final do ciclo tarifário (R$)."
+},
+{
+"pag": 35,
+"texto": "Opexs custos operacionais, administrativos e de comercialização no ano i (R$)."
+},
+{
+"pag": 35,
+"texto": "ODespj: outras despesas, gastos, e receitas irrecuperáveis no ano i (R$)."
+},
+{
+"pag": 35,
+"texto": "D: depreciação e amortização no ano i (R$)."
+},
+{
+"pag": 35,
+"texto": "LBstj: lucro bruto do segmento termoelétrico no ano i (R$)."
+},
+{
+"pag": 35,
+"texto": "Capexj.• investimentos realizados no ano i (R$)."
+},
+{
+"pag": 35,
+"texto": "ON: outras receitas consideradas na modicidade tarifária (R$)."
+},
+{
+"pag": 35,
+"texto": "T: número de anos do ciclo tarifário (anos)."
+},
+{
+"pag": 35,
+"texto": "t: taxa de impostos."
+},
+{
+"pag": 35,
+"texto": "rwacc: WACC real após impostos."
+},
+{
+"pag": 35,
+"texto": "VI.' volume de GÁS canalizado do segmento não termoelétrico no ano i (m³)."
+},
+{
+"pag": 35,
+"texto": "2.1.3.1. A fórmula do item 2.1.3 estará sujeita à alteração a partir do segundo CICLO TARIFÁRIO,"
+},
+{
+"pag": 35,
+"texto": "caso se identifique algum elemento novo para sua composição ou algum existente que necessite"
+},
+{
+"pag": 35,
+"texto": "ser alterado, sendo objeto de REGULAMENTO."
+},
+{
+"pag": 35,
+"texto": "2.2. O cálculo da MARGEM MÉDIA DE DISTRIBUIÇÃO deverá ser realizado para o período de 5"
+},
+{
+"pag": 35,
+"texto": "(cinco) anos, compondo um CICLO TARIFÁRIO."
+},
+{
+"pag": 35,
+"texto": "2.2.1. A BRRB, bem como a BRRL, avaliada no momento da RTO, será projetada para os demais"
+},
+{
+"pag": 35,
+"texto": "anos do CICLO TARIFÁRIO, considerando o acréscimo dos investimentos anuais previstos para o"
+},
+{
+"pag": 35,
+"texto": "período e as datas em que os mesmos passarão a integrar a BRRB, incluindo também os valores"
+},
+{
+"pag": 35,
+"texto": "do JOA."
+},
+{
+"pag": 35,
+"texto": "2.3. Deverá ser elaborado o FLUXO DE CAIXA LIVRE DA CONCESSÃO utilizando o valor de"
+},
+{
+"pag": 35,
+"texto": "moeda corrente do ano zero, aplicando o WACC calculado para o CICLO TARIFÁRIO."
+},
+{
+"pag": 35,
+"texto": "2.3.1. Para fins de apuração dos impostos sobre o resultado, deverão ser utilizados valores de"
+},
+{
+"pag": 35,
+"texto": "depreciação e amortização (Di) conforme regramento da legislação fiscal vigente."
+},
+{
+"pag": 36,
+"texto": "2.3.2. os valores dos investimentos que comporão o FLUXO DE CAIXA LIVRE DA CONCESSÃO"
+},
+{
+"pag": 36,
+"texto": "deverão estar de acordo com o PLANO DE NEGÓCIOS da CONCESSIONÁRIA."
+},
+{
+"pag": 36,
+"texto": "2.4. A MARGEM MÉDIA DE DISTRIBUIÇÃO resulta do FLUXO DE CAIXA LIVRE DA CONCESSÃO"
+},
+{
+"pag": 36,
+"texto": "para o correspondente CICLO TARIFÁRIO cujo VPL é zero quando descontado o WACC."
+},
+{
+"pag": 36,
+"texto": "2.4.1. O valor da MARGEM MÉDIA DE DISTRIBUIÇÃO calculado segundo essa metodologia estará"
+},
+{
+"pag": 36,
+"texto": "ainda sem a inclusão dos impostos PIS, COFINS, ICMS e/ou outros de mesma natureza que"
+},
+{
+"pag": 36,
+"texto": "possam vir a ser aplicados e a inclusão desses impostos será calculada no momento da elaboração"
+},
+{
+"pag": 36,
+"texto": "e divulgação da Tabela de Tarifas."
+},
+{
+"pag": 36,
+"texto": "2.4.2. A margem dos USUÁRIOS do SEGMENTO TERMOELÉTRICO observará as regras do(s)"
+},
+{
+"pag": 36,
+"texto": "contrato(s) que se encontra(m) em vigor na data do início da eficácia deste CONTRATO e dos"
+},
+{
+"pag": 36,
+"texto": "REGULAMENTOS."
+},
+{
+"pag": 36,
+"texto": "2.4.3. Poderão ser incluídos no cálculo da MARGEM MÉDIA DE DISTRIBUIÇÃO os efeitos"
+},
+{
+"pag": 36,
+"texto": "econômico-financeiros do MERCADO LIVRE DE GÁS CANALIZADO, respeitada a justa"
+},
+{
+"pag": 36,
+"texto": "remuneração da CONCESSIONÁRIA, conforme REGULAMENTO."
+},
+{
+"pag": 36,
+"texto": "2.5. As eventuais receitas e despesas provenientes da aplicação de penalidades por"
+},
+{
+"pag": 36,
+"texto": "descumprimento do volume contratado e consumido junto aos SUPRIDORES e aos USUÁRIOS,"
+},
+{
+"pag": 36,
+"texto": "poderão ser incluídas no cálculo da MARGEM MÉDIA DE DISTRIBUIÇÃO, conforme"
+},
+{
+"pag": 36,
+"texto": "REGULAMENTO."
+},
+{
+"pag": 36,
+"texto": "2.6. A partir do cálculo da MARGEM MÉDIA DE DISTRIBUIÇÃO, a CONCESSIONÁRIA deverá"
+},
+{
+"pag": 36,
+"texto": "apresentar para aprovação do REGULADOR a Tabela de Tarifas para os diferentes segmentos dos"
+},
+{
+"pag": 36,
+"texto": "USUÁRIOS."
+},
+{
+"pag": 36,
+"texto": "2.6.1. A ESTRUTURA TARIFÁRIA será definida pelo REGULADOR."
+},
+{
+"pag": 36,
+"texto": "CLÁUSULA III - CRITÉRIOS PARA O CÁLCULO DO WACC"
+},
+{
+"pag": 36,
+"texto": "3.1. A presente cláusula tem por objeto determinar critérios para o cálculo do WACC, que é a taxa"
+},
+{
+"pag": 36,
+"texto": "de remuneração regulatória a ser aplicada em cada CICLO TARIFÁRIO."
+},
+{
+"pag": 36,
+"texto": "3.1.1 , seu cálculo será apresentado pela CONCESSIONÁRIA em cada CICLO TARIFÁRIO de RTO,"
+},
+{
+"pag": 36,
+"texto": "seguindo os parâmetros definidos pelo REGULADOR."
+},
+{
+"pag": 36,
+"texto": "3.2. Para o primeiro CICLO TARIFÁRIO, o WACC será de 9,96% (nove vírgula noventa e seis por"
+},
+{
+"pag": 36,
+"texto": "cento) ao ano, conforme a Lei Estadual nº 10.955/2018, cálculo feito após todos os tributos"
+},
+{
+"pag": 36,
+"texto": "incidentes (post-tax) e que foi definida considerando as seguintes premissas:"
+},
+{
+"pag": 36,
+"texto": "Elementos da fórmula Premissas"
+},
+{
+"pag": 36,
+"texto": "Participação do capital próprio Estrutura de Capital Geral do setor distribuição de"
+},
+{
+"pag": 36,
+"texto": "gás (Média ponderada)"
+},
+{
+"pag": 36,
+"texto": "Custo do capital próprio nominal Calculado CAPM nominal"
+},
+{
+"pag": 36,
+"texto": "Custo do capital próprio real Calculado (taxa inflação EUA)"
+},
+{
+"pag": 37,
+"texto": "Participação do capital de terceiros Estrutura de Capital Geral do setor distribuição de"
+},
+{
+"pag": 37,
+"texto": "gás (Média ponderada)"
+},
+{
+"pag": 37,
+"texto": "Custo do capital de terceiros nominal Calculado CAPM da dívida"
+},
+{
+"pag": 37,
+"texto": "Custo do capital de terceiros real Calculado (taxa inflação EUA)"
+},
+{
+"pag": 37,
+"texto": "Taxa de inflação projetada EUA Média Inflação Projetada final 2018"
+},
+{
+"pag": 37,
+"texto": "Alíquota dos impostos sobre a renda Alíquota Receita Federal (IR + CSLL)"
+},
+{
+"pag": 37,
+"texto": "Taxa livre de risco Média dos Títulos do Tesouro dos Estados"
+},
+{
+"pag": 37,
+"texto": "Unidos a 10 anos (UST-10), do período de janeiro"
+},
+{
+"pag": 37,
+"texto": "de 1928 até o mês anterior ao mês de início da"
+},
+{
+"pag": 37,
+"texto": "Revisão Tarifária"
+},
+{
+"pag": 37,
+"texto": "Beta Equity Brasil Estrutura de Capital e Taxa de impostos do Brasil"
+},
+{
+"pag": 37,
+"texto": "Prêmio de risco do mercado Média do índice SP500 Standard &Poor's, acima"
+},
+{
+"pag": 37,
+"texto": "da taxa livre de risco, do período de janeiro de"
+},
+{
+"pag": 37,
+"texto": "1928 até o mês anterior ao mês de início da"
+},
+{
+"pag": 37,
+"texto": "Revisão Tarifária."
+},
+{
+"pag": 37,
+"texto": "Risco País % Média EMBI + Brasil"
+},
+{
+"pag": 37,
+"texto": "Risco Tamanho % Prêmio atribuído por lbbotson em \"2015"
+},
+{
+"pag": 37,
+"texto": "ValuationYearbook\" às empresas de gás natural"
+},
+{
+"pag": 37,
+"texto": "\"LowCap\""
+},
+{
+"pag": 37,
+"texto": "3.2.2 O WACC, para os demais CICLOS TARIFÁRIOS, será calculado através da fórmula"
+},
+{
+"pag": 37,
+"texto": "[Fórmula: ver o PDF, p. 37.]"
+},
+{
+"pag": 37,
+"texto": "onde:"
+},
+{
+"pag": 37,
+"texto": "WACC: taxa de remuneração regulatória para determinado ciclo tarifário, em %."
+},
+{
+"pag": 37,
+"texto": "we: participação do capital próprio (equity), em %."
+},
+{
+"pag": 37,
+"texto": "re: custo do capital próprio (equity), depois dos impostos, em %."
+},
+{
+"pag": 37,
+"texto": "WD•. participação do capital de terceiros, em %."
+},
+{
+"pag": 37,
+"texto": "RI): custo do capital de terceiros, em %."
+},
+{
+"pag": 37,
+"texto": "t : alíquota dos impostos sobre a renda, em 0/0."
+},
+{
+"pag": 37,
+"texto": "77: taxa livre de risco, em %."
+},
+{
+"pag": 37,
+"texto": "Fe: beta."
+},
+{
+"pag": 37,
+"texto": "(rm — 77): prêmio de risco do mercado, em %."
+},
+{
+"pag": 38,
+"texto": "RP: risco país, em %."
+},
+{
+"pag": 38,
+"texto": "3.2.2.1 A fórmula do item 3.2.2 poderá considerar outros parâmetros, entre eles o risco tamanho"
+},
+{
+"pag": 38,
+"texto": "(R T), conforme REGULAMENTO, que deverá avaliar a necessidade ou não de inserção do"
+},
+{
+"pag": 38,
+"texto": "elemento, considerando as condições do mercado quando ocorrer a RTO."
+},
+{
+"pag": 38,
+"texto": "CLÁUSULA IV - DO CÁLCULO DO REAJUSTE"
+},
+{
+"pag": 38,
+"texto": "4.1. O reajuste das tarifas ocorrerá nas seguintes situações:"
+},
+{
+"pag": 38,
+"texto": "I - REAJUSTE DO PREÇO DA MOLÉCULA DO GÁS;"
+},
+{
+"pag": 38,
+"texto": "II - REAJUSTE DO PREÇO DO TRANSPORTE DO GÁS; e"
+},
+{
+"pag": 38,
+"texto": "III - REAJUSTE DA MARGEM MÉDIA DE DISTRIBUIÇÃO, dentro do CICLO TARIFÁRIO, a cada"
+},
+{
+"pag": 38,
+"texto": "12 (doze) meses."
+},
+{
+"pag": 38,
+"texto": "4.1.1. Os reajustes das tarifas em razão da alteração DO PREÇO DA MOLÉCULA DO GÁS e/ou"
+},
+{
+"pag": 38,
+"texto": "PREÇO DO TRANSPORTE DO GÁS serão submetidos à homologação do REGULADOR com"
+},
+{
+"pag": 38,
+"texto": "antecedência mínima de 20 (vinte) dias, e tendo esse órgão o prazo máximo de 10 (dez) dias para"
+},
+{
+"pag": 38,
+"texto": "manifestação, permitindo a publicação da Tabela de Tarifas reajustada nos canais de comunicação,"
+},
+{
+"pag": 38,
+"texto": "dando ampla publicidade ao ato antes da sua efetiva vigência."
+},
+{
+"pag": 38,
+"texto": "4.1.1.1. Na existência de mais de um SUPRIDOR e/ou TRANSPORTADOR, poderá ser calculado"
+},
+{
+"pag": 38,
+"texto": "o custo médio ponderado da molécula e/ou do transporte, de acordo com REGULAMENTO."
+},
+{
+"pag": 38,
+"texto": "4.2. A TARIFA TETO DO SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS (Treaj), por ocasião do"
+},
+{
+"pag": 38,
+"texto": "reajuste do gás (molécula e transporte), será calculada através da seguinte fórmula:"
+},
+{
+"pag": 38,
+"texto": "[Fórmula: ver o PDF, p. 38.]"
+},
+{
+"pag": 38,
+"texto": "onde:"
+},
+{
+"pag": 38,
+"texto": "TARIFA TETO DO SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO"
+},
+{
+"pag": 38,
+"texto": "reaj •"
+},
+{
+"pag": 38,
+"texto": "reajustada a ser cobrada pela CONCESSIONÁRIA em R$/m³ a partir de reajuste do PREÇO DA"
+},
+{
+"pag": 38,
+"texto": "MOLÉCULA DO GÁS e/ou do TRANSPORTE DO GÁS."
+},
+{
+"pag": 38,
+"texto": "MM: MARGEM MÉDIA DE DISTRIBUIÇÃO, em R$/m³."
+},
+{
+"pag": 38,
+"texto": "PG PREÇO DA MOLÉCULA DO GÁS e/ou DO TRANSPORTE DO GÁS reajustado, em R$/m³."
+},
+{
+"pag": 38,
+"texto": "reaj •"
+},
+{
+"pag": 38,
+"texto": "4.3. A MARGEM MÉDIA DE DISTRIBUIÇÃO será reajustada anualmente, exceto nos anos que"
+},
+{
+"pag": 38,
+"texto": "ocorrer às revisões tarifárias ordinárias, com vigência em 01 de janeiro de cada ano do CICLO"
+},
+{
+"pag": 38,
+"texto": "TARIFÁRIO, conforme fórmula a seguir:"
+},
+{
+"pag": 38,
+"texto": "[Fórmula: ver o PDF, p. 38.]"
+},
+{
+"pag": 38,
+"texto": "onde:"
+},
+{
+"pag": 38,
+"texto": "MM • MARGEM MÉDIA DE DISTRIBUIÇÃO reajustada no ano i, em R$/m³."
+},
+{
+"pag": 38,
+"texto": "reaj i •"
+},
+{
+"pag": 38,
+"texto": "MM MARGEM MÉDIA DE DISTRIBUIÇÃO no ano i -1, em R$/m³."
+},
+{
+"pag": 38,
+"texto": "IGPM: índice Geral de Preços do Mercado, divulgado pela Fundação Getúlio Vargas (FGV),"
+},
+{
+"pag": 38,
+"texto": "compreendendo a variação de 12 meses até o antepenúltimo mês anterior ao reajuste, sendo o"
+},
+{
+"pag": 39,
+"texto": "índice divulgado no penúltimo mês antes da vigência do reajuste, ou, ocorrendo a descontinuidade"
+},
+{
+"pag": 39,
+"texto": "desse índice, aquele que vier sucedê-lo."
+},
+{
+"pag": 39,
+"texto": "X: FATOR X, calculado conforme metodologia definida pelo REGULADOR, em %."
+},
+{
+"pag": 39,
+"texto": "CLÁUSULA V - APLICAÇÃO DO FATOR X"
+},
+{
+"pag": 39,
+"texto": "5.1. O FATOR X terá por objetivo permitir o compartilhamento dos ganhos de eficiência e"
+},
+{
+"pag": 39,
+"texto": "produtividade da CONCESSIONÁRIA com os USUÁRIOS durante o CICLO TARIFÁRIO."
+},
+{
+"pag": 39,
+"texto": "5.2. As diretrizes para aplicação do FATOR X são previstas abaixo."
+},
+{
+"pag": 39,
+"texto": "5.2.1. No primeiro CICLO TARIFÁRIO ocorrerá a coleta e a avaliação de dados históricos, não"
+},
+{
+"pag": 39,
+"texto": "sendo aplicado, nesse período, a metodologia do FATOR X."
+},
+{
+"pag": 39,
+"texto": "5.2.2. No segundo CICLO TARIFÁRIO em diante, será aplicado o FATOR X tendo como base"
+},
+{
+"pag": 39,
+"texto": "metodologia que será definida pelo REGULADOR."
+},
+{
+"pag": 39,
+"texto": "5.3. O FATOR X estabelecido nas REVISÕES TARIFÁRIAS ORDINÁRIAS se manterá fixo para os"
+},
+{
+"pag": 39,
+"texto": "anos subsequentes do CICLO TARIFÁRIO."
+},
+{
+"pag": 39,
+"texto": "CLÁUSULA VI - DOS RISCOS ECONÔMICO-FINANCEIROS"
+},
+{
+"pag": 39,
+"texto": "6.1. A CONCESSIONÁRIA assumirá integral responsabilidade por todos os riscos inerentes à"
+},
+{
+"pag": 39,
+"texto": "CONCESSÃO, ressalvada a configuração de fatos imprevisíveis ou previsíveis mas de"
+},
+{
+"pag": 39,
+"texto": "consequências incalculáveis que afetem o EQUILÍBRIO ECONÔMICO-FINANCEIRO do"
+},
+{
+"pag": 39,
+"texto": "CONTRATO."
+},
+{
+"pag": 39,
+"texto": "6.2. Para o primeiro CICLO TARIFÁRIO caberá a RTE, observado o estabelecido na CLÁUSULA"
+},
+{
+"pag": 39,
+"texto": "XIII deste contrato, caso haja uma variação percentual de volume anual maior que 13,26% (treze"
+},
+{
+"pag": 39,
+"texto": "vírgula vinte e seis por cento) considerando o volume não termoelétrico de GÁS movimentado no"
+},
+{
+"pag": 39,
+"texto": "SISTEMA DE DISTRIBUIÇÃO, ao confrontar o volume distribuído com o aprovado."
+},
+{
+"pag": 39,
+"texto": "6.2.1. Serão considerados para análise do pedido de RTE e restabelecimento do EQUILÍBRIO"
+},
+{
+"pag": 39,
+"texto": "ECONOMICO FINANCEIRO já pactuado nº 10 CICLO TARIFÁRIO, no mínimo, as seguintes"
+},
+{
+"pag": 39,
+"texto": "variáveis, sem prejuízo ao disposto nas CLÁUSULAS XII e XIII:"
+},
+{
+"pag": 39,
+"texto": "I - lucro líquido;"
+},
+{
+"pag": 39,
+"texto": "II - reserva legal e dividendos;"
+},
+{
+"pag": 39,
+"texto": "III - investimento total; e"
+},
+{
+"pag": 39,
+"texto": "IV - caixa após investimento total."
+},
+{
+"pag": 39,
+"texto": "6.2.2. A RTE será avaliada de forma a promover o REEQUILÍBRIO ECONÔMICO-FINANCEIRO,"
+},
+{
+"pag": 39,
+"texto": "cabendo ao REGULADOR apurar o quantum devido, que tem como objetivo atingir a taxa"
+},
+{
+"pag": 39,
+"texto": "remuneração regulatória."
+},
+{
+"pag": 39,
+"texto": "6.2.2.1. O quantum apurado na REVISÃO TARIFÁRIA EXTRAORDINÁRIA poderá ser objeto de"
+},
+{
+"pag": 39,
+"texto": "reposição imediata ou no ciclo seguinte."
+},
+{
+"pag": 40,
+"texto": "6.2.3. As condições previstas no item 6.2. se aplicam apenas ao 10 Ciclo."
+},
+{
+"pag": 40,
+"texto": "6.2.4. Para fins do item 6.2, será considerado o volume adotado para a fixação da MARGEM MÉDIA"
+},
+{
+"pag": 40,
+"texto": "DE DISTRIBUIÇÃO do primeiro CICLO TARIFÁRIO."
+},
+{
+"pag": 40,
+"texto": "6.2.5. Para os CICLOS TARIFÁRIOS subsequentes o indicador de admissibilidade do desequilíbrio"
+},
+{
+"pag": 40,
+"texto": "econômico-financeiro será objeto de REGULAMENTO."
+},
+{
+"pag": 40,
+"texto": "6.2.6. Não será objeto de R TE os eventuais impactos financeiros advindos de decisões da"
+},
+{
+"pag": 40,
+"texto": "CONCESSIONÁRIA sobre gestão do endividamento (capacidade de liquidez) e exposição em"
+},
+{
+"pag": 40,
+"texto": "financiamentos contratados."
+},
+{
+"pag": 40,
+"texto": "6.2.7. A variação anual de volume distribuído do SEGMENTO TERMOELÉTRICO ao confrontar"
+},
+{
+"pag": 40,
+"texto": "com o volume aprovado terá seus efeitos compensados na RTO."
+},
+{
+"pag": 40,
+"texto": "6.3. Os riscos comerciais, administrativos e operacionais, exceto o custo do GÁS (molécula e"
+},
+{
+"pag": 40,
+"texto": "transporte), são assumidos pela CONCESSIONÁRIA no exercício do presente CONTRATO e"
+},
+{
+"pag": 40,
+"texto": "compreendem, principalmente:"
+},
+{
+"pag": 40,
+"texto": "I - variação de custos de insumos, custos operacionais, custos de manutenção, ou de qualquer outro"
+},
+{
+"pag": 40,
+"texto": "custo incorrido pela CONCESSIONÁRIA na execução do objeto contratual;"
+},
+{
+"pag": 40,
+"texto": "II - escassez de insumos operacionais, como materiais, equipamentos e fornecedores de mão-de-"
+},
+{
+"pag": 40,
+"texto": "obra, os quais afetem a prestação do serviço;"
+},
+{
+"pag": 40,
+"texto": "III - falhas na prestação dos serviços, defeitos nas obras ou equipamentos, bem como erros ou"
+},
+{
+"pag": 40,
+"texto": "falhas, estes causados pelos terceirizados ou subcontratados;"
+},
+{
+"pag": 40,
+"texto": "IV - roubos, furtos, destruição, perdas ou avarias nos locais de obras ou em seus ativos cuja"
+},
+{
+"pag": 40,
+"texto": "materialização não tenha sido provocada pelo PODER CONCEDENTE ou pelo REGULADOR;"
+},
+{
+"pag": 40,
+"texto": "V - segurança e saúde dos trabalhadores dos serviços que compreendem o objeto do presente"
+},
+{
+"pag": 40,
+"texto": "CONTRATO, que estejam subordinados à CONCESSIONÁRIA, seus subcontratados ou"
+},
+{
+"pag": 40,
+"texto": "terceirizados;"
+},
+{
+"pag": 40,
+"texto": "VI - greves e dissídios coletivos, acordos ou convenção coletiva de trabalho de funcionários da"
+},
+{
+"pag": 40,
+"texto": "CONCESSIONÁRIA, de seus fornecedores, subcontratados ou terceirizados;"
+},
+{
+"pag": 40,
+"texto": "VII - responsabilização civil, administrativa e criminal por danos ambientais causados pela"
+},
+{
+"pag": 40,
+"texto": "CONCESSIONÁRIA;"
+},
+{
+"pag": 40,
+"texto": "VIII - riscos ambientais associados à implantação da infraestrutura para a prestação do serviço;"
+},
+{
+"pag": 40,
+"texto": "IX - obtenção e aprovação de licenças, autorizações e permissões, incluindo despesas,"
+},
+{
+"pag": 40,
+"texto": "condicionantes e medidas mitigatórias exigidas para tanto, exceto quando as referidas obtenções e"
+},
+{
+"pag": 40,
+"texto": "aprovações não forem concedidas por razão não imputável à CONCESSIONÁRIA;"
+},
+{
+"pag": 40,
+"texto": "X - indenizações decorrentes de ações trabalhistas, reivindicações ou reclamações, inclusive"
+},
+{
+"pag": 40,
+"texto": "referentes a serviços pretéritos assumidos pela CONCESSIONÁRIA;"
+},
+{
+"pag": 40,
+"texto": "XI - dificuldades de contratação de mão-de-obra especializada e de implantação dos elementos"
+},
+{
+"pag": 40,
+"texto": "tecnológicos da CONCESSÃO;"
+},
+{
+"pag": 40,
+"texto": "XII - operação deficiente da CONCESSIONÁRIA no SISTEMA DE DISTRIBUIÇÃO de GÁS"
+},
+{
+"pag": 40,
+"texto": "CANALIZADO e/ou equipamentos relacionados;"
+},
+{
+"pag": 40,
+"texto": "XIII - decisões judiciais que suspendam as obras ou a prestação dos serviços decorrentes de atos"
+},
+{
+"pag": 40,
+"texto": "comissivos ou omissivos da CONCESSIONÁRIA;"
+},
+{
+"pag": 41,
+"texto": "XIV - adequação à regulação exercida pelo REGULADOR, quando meramente procedimental ou"
+},
+{
+"pag": 41,
+"texto": "para fins de padronização; e"
+},
+{
+"pag": 41,
+"texto": "XV - prejuízos causados a terceiros pela CONCESSIONÁRIA, seus empregados, prestadores de"
+},
+{
+"pag": 41,
+"texto": "serviço, terceirizados, subcontratados ou qualquer outra pessoa física ou jurídica vinculada à"
+},
+{
+"pag": 41,
+"texto": "CONCESSIONÁRIA, no exercício das atividades abrangidas neste CONTRATO."
+},
+{
+"pag": 41,
+"texto": "6.4. A CONCESSIONÁRIA deverá adotar as soluções, processos e técnicas que julgar mais"
+},
+{
+"pag": 41,
+"texto": "adequados e eficientes para mitigar os riscos a ela atribuídos, responsabilizando-se pelas"
+},
+{
+"pag": 41,
+"texto": "consequências decorrentes."
+},
+{
+"pag": 41,
+"texto": "6.5. O PODER CONCEDENTE, sem prejuízo das demais disposições deste CONTRATO, assume"
+},
+{
+"pag": 41,
+"texto": "os seguintes riscos relacionados à CONCESSÃO, os quais, comprovado o impacto no EQUILÍBRIO"
+},
+{
+"pag": 41,
+"texto": "ECONÔMICO-FINANCEIRO do presente instrumento, poderão remeter a RTE:"
+},
+{
+"pag": 41,
+"texto": "I - atrasos ou inexecução das obrigações da CONCESSIONÁRIA causados pela demora ou"
+},
+{
+"pag": 41,
+"texto": "omissão do PODER CONCEDENTE ou do REGULADOR na realização das atividades e obrigações"
+},
+{
+"pag": 41,
+"texto": "a eles atribuídas neste CONTRATO;"
+},
+{
+"pag": 41,
+"texto": "II - decisões administrativas que impeçam ou impossibilitem a CONCESSIONÁRIA de prestar os"
+},
+{
+"pag": 41,
+"texto": "serviços, exceto nos casos em que a CONCESSIONÁRIA tiver dado causa à decisão ou na hipótese"
+},
+{
+"pag": 41,
+"texto": "de haver previsão neste CONTRATO que aloque o risco associado à CONCESSIONÁRIA;"
+},
+{
+"pag": 41,
+"texto": "III - obtenção e aprovação de licenças, autorizações e permissões, quando as referidas obtenções"
+},
+{
+"pag": 41,
+"texto": "e aprovações não forem conferidas por razão dos órgãos responsáveis, não imputável à"
+},
+{
+"pag": 41,
+"texto": "CONCESSIONÁRIA; e"
+},
+{
+"pag": 41,
+"texto": "IV - implantação, a pedido do PODER CONCEDENTE ou do REGULADOR, de tecnologia ou"
+},
+{
+"pag": 41,
+"texto": "atualização tecnológica que não se encontre amplamente disseminada no mercado e não decorra"
+},
+{
+"pag": 41,
+"texto": "da atualidade dos serviços."
+},
+{
+"pag": 41,
+"texto": "6.5. A alteração da política tarifária, inclusive a criação de benefícios para uso do GÁS"
+},
+{
+"pag": 41,
+"texto": "CANALIZADO, é um risco inerente ao PODER CONCEDENTE."
+},
+{
+"pag": 41,
+"texto": "6.5.1. A alteração mencionada no item 6.5 que impactar o EQUILÍBRIO ECONÔMICO-"
+},
+{
+"pag": 41,
+"texto": "FINANCEIRO do presente instrumento poderá remeter a R TE desde que o PODER CONCEDENTE"
+},
+{
+"pag": 41,
+"texto": "não compense a CONCESSIONÁRIA."
+},
+{
+"pag": 41,
+"texto": "6.5.2. O item 6.5 não abrange o desconto praticado unilateralmente pela CONCESSIONÁRIA."
+},
+{
+"pag": 41,
+"texto": "CLÁUSULA VII - CÁLCULO DA TUSD-GÁS E TUSDE-GÁS"
+},
+{
+"pag": 41,
+"texto": "7.1 . As tarifas para uso do SISTEMA DE DISTRIBUIÇÃO a serem cobradas dos AGENTES LIVRES"
+},
+{
+"pag": 41,
+"texto": "DE MERCADO obedecerão às condições inseridas nesta cláusula e no CONTRATO."
+},
+{
+"pag": 41,
+"texto": "7.1.1. A TUSD-GÁS será estabelecida pelo REGULADOR e é aplicável ao AGENTE LIVRE DE"
+},
+{
+"pag": 41,
+"texto": "MERCADO atendido pelo SISTEMA DE DISTRIBUIÇÃO."
+},
+{
+"pag": 41,
+"texto": "7.1.1.1. O valor da TUSD-GÁS corresponde à MARGEM MÉDIA DE DISTRIBUIÇÃO calculada de"
+},
+{
+"pag": 41,
+"texto": "acordo com o segmento de USUÁRIO e da classe de consumo do AGENTE LIVRE DE MERCADO"
+},
+{
+"pag": 41,
+"texto": "na Tabela de Tarifas, nos termos estipulados no CONTRATO e em REGULAMENTO."
+},
+{
+"pag": 42,
+"texto": "7.1.1.2. Conforme REGULAMENTO, poderá(ão) ser deduzido(s) da MARGEM MÉDIA DE"
+},
+{
+"pag": 42,
+"texto": "DISTRIBUIÇÃO o(s) valor(es) referente(s) ao(s) encargo(s) que, conforme critérios técnicos,"
+},
+{
+"pag": 42,
+"texto": "deixe(m) de existir no segmento de USUÁRIO do AGENTE LIVRE DE MERCADO."
+},
+{
+"pag": 42,
+"texto": "7.1.2. A TUSDE-GÁS será calculada pela CONCESSIONÁRIA e aprovada pelo REGULADOR,"
+},
+{
+"pag": 42,
+"texto": "aplicável ao AGENTE LIVRE DE MERCADO atendido por RAMAL DEDICADO, conforme item 5.2"
+},
+{
+"pag": 42,
+"texto": "deste CONTRATO."
+},
+{
+"pag": 42,
+"texto": "7.1.2.1. A parcela relativa à amortização do valor da OUTORGA, bem como sua respectiva"
+},
+{
+"pag": 42,
+"texto": "remuneração, será inclusa no cálculo da TUSDE-GÁS."
+},
+{
+"pag": 42,
+"texto": "CLÁUSULA VIII - APLICAÇÃO DO FATOR K"
+},
+{
+"pag": 42,
+"texto": "8.1. No primeiro CICLO TARIFÁRIO não haverá a aplicação do Fator K e sua metodologia será"
+},
+{
+"pag": 42,
+"texto": "objeto de REGULAMENTO, podendo ser aplicado a partir do segundo CICLO TARIFÁRIO."
+},
+{
+"pag": 43,
+"texto": "ANEXO II - DOS INDICADORES DO SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS"
+},
+{
+"pag": 43,
+"texto": "CANALIZADO"
+},
+{
+"pag": 43,
+"texto": "CLÁUSULA I - CONSIDERAÇÕES GERAIS"
+},
+{
+"pag": 43,
+"texto": "1.1. os indicadores do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO têm 0"
+},
+{
+"pag": 43,
+"texto": "objetivo de estabelecer as referências para os resultados produzidos pela CONCESSIONÁRIA, de"
+},
+{
+"pag": 43,
+"texto": "forma a garantir que o GÁS CANALIZADO seja fornecido de forma regular e contínua, atendendo a"
+},
+{
+"pag": 43,
+"texto": "qualidade especificada, que a operação seja feita em segurança e que os serviços sejam prestados"
+},
+{
+"pag": 43,
+"texto": "dentro de padrões de eficiência."
+},
+{
+"pag": 43,
+"texto": "1.2. O REGULADOR deverá expedir REGULAMENTO considerando indicadores e seus respectivos"
+},
+{
+"pag": 43,
+"texto": "valores de referência."
+},
+{
+"pag": 43,
+"texto": "1.2.1. O REGULAMENTO contemplará, ainda, os procedimentos para coleta, apuração, análise e"
+},
+{
+"pag": 43,
+"texto": "encaminhamento dos indicadores ao REGULADOR e o descumprimento destes poderá gerar"
+},
+{
+"pag": 43,
+"texto": "penalidades, conforme CLÁUSULA XXII do CONTRATO."
+},
+{
+"pag": 43,
+"texto": "1.3. Os indicadores constantes neste anexo não são exaustivos, podendo ser revistos, suprimidos"
+},
+{
+"pag": 43,
+"texto": "ou incluídos, por ocasião da elaboração de REGULAMENTO, dispensada a modificação textual do"
+},
+{
+"pag": 43,
+"texto": "presente anexo."
+},
+{
+"pag": 43,
+"texto": "1.4. Não obstante as descrições de cada indicador, neste anexo, os indicadores poderão ser"
+},
+{
+"pag": 43,
+"texto": "apurados da seguinte forma:"
+},
+{
+"pag": 43,
+"texto": "I - quanto ao universo de apuração, em área de concessão, região geográfica, classe de pressão,"
+},
+{
+"pag": 43,
+"texto": "segmentos de USUÁRIOS e tipo de ocorrências;"
+},
+{
+"pag": 43,
+"texto": "II - quanto à periodicidade, em diário, mensal e anual; e"
+},
+{
+"pag": 43,
+"texto": "III - outra forma de apuração conforme REGULAMENTO,"
+},
+{
+"pag": 43,
+"texto": "CLÁUSULA II - INDICADORES DE QUALIDADE DO PRODUTO E DO SERVIÇO"
+},
+{
+"pag": 43,
+"texto": "2.1. Os indicadores de qualidade do produto e do serviço visam medir a capacidade da"
+},
+{
+"pag": 43,
+"texto": "CONCESSIONÁRIA em fornecer o produto com a qualidade especificada, na faixa de pressão"
+},
+{
+"pag": 43,
+"texto": "adequada, de forma regular e contínua, salvo interrupções previstas na legislação, com perdas"
+},
+{
+"pag": 43,
+"texto": "dentro de limites aceitáveis."
+},
+{
+"pag": 43,
+"texto": "2.2. São considerados indicadores de qualidade de produto e do serviço:"
+},
+{
+"pag": 43,
+"texto": "I - Indicador de Conformidade do Produto (ICP);"
+},
+{
+"pag": 43,
+"texto": "II - Entrega à Pressão de Referência (PRE);"
+},
+{
+"pag": 43,
+"texto": "III - Duração das Faltas de GÁS CANALIZADO por USUÁRIO (DFG); e"
+},
+{
+"pag": 43,
+"texto": "IV - Frequência das Faltas de GÁS CANALIZADO por USUÁRIO (FFG)."
+},
+{
+"pag": 44,
+"texto": "2.3. O ICP do GÁS CANALIZADO será monitorado e analisado continuamente no SISTEMA DE"
+},
+{
+"pag": 44,
+"texto": "DISTRIBUIÇÃO, através de cromatografia, para determinação de sua composição e do Poder"
+},
+{
+"pag": 44,
+"texto": "Calorífico Superior."
+},
+{
+"pag": 44,
+"texto": "2.3.1. A metodologia para determinação da qualidade e demais características do GÁS"
+},
+{
+"pag": 44,
+"texto": "CANALIZADO estarão em conformidade com as resoluções e demais documentos técnicos da ANP."
+},
+{
+"pag": 44,
+"texto": "2.3.2. A CONCESSIONÁRIA deverá apurar mensalmente o indicador ICP, considerando o total de"
+},
+{
+"pag": 44,
+"texto": "análises conformes em relação ao total de análises realizadas válidas, de acordo com a fórmula"
+},
+{
+"pag": 44,
+"texto": "[Fórmula: ver o PDF, p. 44.]"
+},
+{
+"pag": 44,
+"texto": "onde:"
+},
+{
+"pag": 44,
+"texto": "TAC: total de análises conformes, em que serão consideradas conformes as análises nas quais"
+},
+{
+"pag": 44,
+"texto": "todos os parâmetros estabelecidos no regulamento da ANP sejam atendidos."
+},
+{
+"pag": 44,
+"texto": "TAV: total de análises válidas, em que serão consideradas válidas as análises em que o processo"
+},
+{
+"pag": 44,
+"texto": "de cromatografia seja concluído sem erro."
+},
+{
+"pag": 44,
+"texto": "2.3.3. O valor de referência para o ICP é a apuração de 100% (cem por cento) das análises"
+},
+{
+"pag": 44,
+"texto": "conformes."
+},
+{
+"pag": 44,
+"texto": "2.3.4. Quando da ocorrência de análises desconformes, a CONCESSIONÁRIA deverá comunicar"
+},
+{
+"pag": 44,
+"texto": "ao REGULADOR, tão prontamente quanto possível, informando da desconformidade identificada"
+},
+{
+"pag": 44,
+"texto": "no GÁS CANALIZADO, indicando quais seriam os itens em desconformidade, os respectivos"
+},
+{
+"pag": 44,
+"texto": "desvios de qualidade e o tempo para retorno às especificações."
+},
+{
+"pag": 44,
+"texto": "2.4. A PRE envolve o dever da CONCESSIONÁRIA de controlar e monitorar a pressão, a partir de"
+},
+{
+"pag": 44,
+"texto": "medições contínuas, quando existentes, feitas nas instalações de GÁS CANALIZADO, como"
+},
+{
+"pag": 44,
+"texto": "PONTOS DE RECEPÇÃO, Estações de Redução Primária e Secundária e Conjuntos de"
+},
+{
+"pag": 44,
+"texto": "Regulagem e Medição."
+},
+{
+"pag": 44,
+"texto": "2.4.1. Os padrões para avaliação do indicador PRE são os estabelecidos na tabela abaixo ou"
+},
+{
+"pag": 44,
+"texto": "conforme definido em contrato com o USUÁRIO:"
+},
+{
+"pag": 44,
+"texto": "Limite — Limite —"
+},
+{
+"pag": 44,
+"texto": "Classificação da Material da"
+},
+{
+"pag": 44,
+"texto": "Pressão Pressão"
+},
+{
+"pag": 44,
+"texto": "Indicador REDE DE REDE DE"
+},
+{
+"pag": 44,
+"texto": "Máxima Mínima"
+},
+{
+"pag": 44,
+"texto": "DISTRIBUIÇÃO DISTRIBUIÇÃO"
+},
+{
+"pag": 44,
+"texto": "(Kgf/cm2) (Kgf/cm2)"
+},
+{
+"pag": 44,
+"texto": "Rede Primária Aço 50 19"
+},
+{
+"pag": 44,
+"texto": "Rede Secundária"
+},
+{
+"pag": 44,
+"texto": "Aço 19 7"
+},
+{
+"pag": 44,
+"texto": "Alta Pressão"
+},
+{
+"pag": 44,
+"texto": "PRE"
+},
+{
+"pag": 44,
+"texto": "Rede Secundária de"
+},
+{
+"pag": 44,
+"texto": "PEAD 7 1,5"
+},
+{
+"pag": 44,
+"texto": "Baixa Pressão"
+},
+{
+"pag": 44,
+"texto": "Rede Terciária PEAD 1,5 0,5"
+},
+{
+"pag": 44,
+"texto": "2.4.2. Os padrões para avaliação do indicador PRE para RAMAL DEDICADO e REDE LOCAL serão"
+},
+{
+"pag": 44,
+"texto": "estabelecidos por REGULAMENTO."
+},
+{
+"pag": 45,
+"texto": "2.4.3. A CONCESSIONÁRIA deverá monitorar e indicar em ficha ou planilha especifica os casos de"
+},
+{
+"pag": 45,
+"texto": "variação de pressão na REDE DE DISTRIBUIÇÃO que fiquem fora dos limites indicados na tabela"
+},
+{
+"pag": 45,
+"texto": "acima, a serem informados juntamente com o indicador PRE, de monitoramento das pressões de"
+},
+{
+"pag": 45,
+"texto": "entrega ao USUÁRIO."
+},
+{
+"pag": 45,
+"texto": "2.4.4. A CONCESSIONÁRIA deverá apurar mensalmente o indicador PRE considerando o número"
+},
+{
+"pag": 45,
+"texto": "de casos que a pressão fique fora dos limites definido em contrato com o USUÁRIO, sendo que o"
+},
+{
+"pag": 45,
+"texto": "indicador será calculado considerando o total de casos com limites de pressão contratuais"
+},
+{
+"pag": 45,
+"texto": "ultrapassados em relação ao total de USUÁRIOS com contrato de fornecimento, de acordo com a"
+},
+{
+"pag": 45,
+"texto": "fórmula abaixo."
+},
+{
+"pag": 45,
+"texto": "[Fórmula: ver o PDF, p. 45.]"
+},
+{
+"pag": 45,
+"texto": "onde:"
+},
+{
+"pag": 45,
+"texto": "QCP: quantidades de casos com limites de pressão contratuais ultrapassados."
+},
+{
+"pag": 45,
+"texto": "TOTp: total de USUÁRIOS com contrato de fornecimento."
+},
+{
+"pag": 45,
+"texto": "2.5. Na DFG serão medidas as ocorrências de falta de GÁS CANALIZADO não programadas,"
+},
+{
+"pag": 45,
+"texto": "ocasionadas por alguma falha no SISTEMA DE DISTRIBUIÇÃO, que deverão ser registradas e"
+},
+{
+"pag": 45,
+"texto": "atendidas no prazo máximo de 4 (quatro) horas após a manifestação do USUÁRIO, medida do"
+},
+{
+"pag": 45,
+"texto": "chamado inicial até o momento do retorno do fornecimento."
+},
+{
+"pag": 45,
+"texto": "2.5.1. A CONCESSIONÁRIA deverá calcular mensalmente a duração das faltas de GÁS"
+},
+{
+"pag": 45,
+"texto": "CANALIZADO para os USUÁRIOS, conforme fórmula abaixo:"
+},
+{
+"pag": 45,
+"texto": "[Fórmula: ver o PDF, p. 45.]"
+},
+{
+"pag": 45,
+"texto": "onde:"
+},
+{
+"pag": 45,
+"texto": "FGP: total de USUÁRIOS com falta de GÁS CANALIZADO, não atendido no prazo."
+},
+{
+"pag": 45,
+"texto": "FGT: total de USUÁRIOS com falta de GÁS CANALIZADO."
+},
+{
+"pag": 45,
+"texto": "2.6. Na FFG serão medidas as ocorrências de falta de GÁS CANALIZADO não programadas,"
+},
+{
+"pag": 45,
+"texto": "ocasionadas por alguma falha no SISTEMA DE DISTRIBUIÇÃO, bem como as ocorrências"
+},
+{
+"pag": 45,
+"texto": "programadas para manutenção, que deverão ser registradas para fim de verificação da frequência"
+},
+{
+"pag": 45,
+"texto": "de ocorrências de falta de GÁS CANALIZADO nos USUÁRIOS."
+},
+{
+"pag": 45,
+"texto": "2.6.1. A CONCESSIONÁRIA deverá calcular mensalmente a frequência das faltas de GÁS"
+},
+{
+"pag": 45,
+"texto": "CANALIZADO por USUÁRIO, conforme fórmula abaixo:"
+},
+{
+"pag": 45,
+"texto": "[Fórmula: ver o PDF, p. 45.]"
+},
+{
+"pag": 45,
+"texto": "onde:"
+},
+{
+"pag": 45,
+"texto": "FGT total de USUÁRIOS com falta de GÁS CANALIZADO."
+},
+{
+"pag": 45,
+"texto": "TOT.• total de USUÁRIOS."
+},
+{
+"pag": 45,
+"texto": "CLÁUSULA III - INDICADORES DE QUALIDADE DO ATENDIMENTO COMERCIAL"
+},
+{
+"pag": 45,
+"texto": "3.1. Os indicadores de qualidade do atendimento comercial visam medir a capacidade da"
+},
+{
+"pag": 45,
+"texto": "CONCESSIONÁRIA em faturar adequadamente o GÁS CANALIZADO, prestar serviço com tempo"
+},
+{
+"pag": 46,
+"texto": "de resposta adequado às diversas solicitações dos USUÁRIOS e resolver problemas dos"
+},
+{
+"pag": 46,
+"texto": "USUÁRIOS de forma eficiente."
+},
+{
+"pag": 46,
+"texto": "3.2. São considerados os indicadores de qualidade do atendimento comercial:"
+},
+{
+"pag": 46,
+"texto": "I - Solução da chamada em primeiro nível (SCP); e"
+},
+{
+"pag": 46,
+"texto": "II - Frequência Equivalente de Reclamação (FER)."
+},
+{
+"pag": 46,
+"texto": "3.3. O indicador SCP é uma métrica que analisa a eficiência do atendimento ao USUÁRIO,"
+},
+{
+"pag": 46,
+"texto": "considerando aqueles chamados que são resolvidos em um único contato ou no caso de serviços,"
+},
+{
+"pag": 46,
+"texto": "o agendamento já é realizado no primeiro contato."
+},
+{
+"pag": 46,
+"texto": "3.3.1. A CONCESSIONÁRIA deverá apurar mensalmente o total de chamados recebidos e aqueles"
+},
+{
+"pag": 46,
+"texto": "que foram solucionados no primeiro contato, de modo a calcular o SCP, observada a fórmula abaixo:"
+},
+{
+"pag": 46,
+"texto": "[Fórmula: ver o PDF, p. 46.]"
+},
+{
+"pag": 46,
+"texto": "onde:"
+},
+{
+"pag": 46,
+"texto": "MSP: manifestações solucionadas em primeiro nível."
+},
+{
+"pag": 46,
+"texto": "MA T: manifestações totais recebidas."
+},
+{
+"pag": 46,
+"texto": "3.4. O indicador FER será utilizado para o monitoramento da qualidade do atendimento à"
+},
+{
+"pag": 46,
+"texto": "reclamação, contabilizando a frequência equivalente das reclamações, devendo a"
+},
+{
+"pag": 46,
+"texto": "CONCESSIONÁRIA observar na solução individual das reclamações os limites definidos em"
+},
+{
+"pag": 46,
+"texto": "regulação específica, observada a fórmula abaixo:"
+},
+{
+"pag": 46,
+"texto": "[Fórmula: ver o PDF, p. 46.]"
+},
+{
+"pag": 46,
+"texto": "onde:"
+},
+{
+"pag": 46,
+"texto": "FER: indicador de frequência equivalente de reclamação."
+},
+{
+"pag": 46,
+"texto": "Reclamações Procedentes (i): quantidade de reclamações procedentes dos USUÁRIOS do tipo i"
+},
+{
+"pag": 46,
+"texto": "Nusu: número de unidades usuárias da CONCESSIONÁRIA, no final do período de apuração."
+},
+{
+"pag": 46,
+"texto": "l: tipo de Reclamação, conforme \"n\" tipos possíveis a serem definidos em regulação específica."
+},
+{
+"pag": 46,
+"texto": "CLÁUSULA IV - INDICADORES DE SEGURANÇA NO FORNECIMENTO"
+},
+{
+"pag": 46,
+"texto": "4.1. Os indicadores de segurança no fornecimento visam medir a capacidade da"
+},
+{
+"pag": 46,
+"texto": "CONCESSIONÁRIA em fazer a operação com segurança, através de uma adequada odorização,"
+},
+{
+"pag": 46,
+"texto": "conforme REGULAMENTO, com índice de vazamentos dentro de limites aceitáveis e com uma"
+},
+{
+"pag": 46,
+"texto": "rápida resposta às emergências que, dentre outros fatores, afetem a segurança no fornecimento de"
+},
+{
+"pag": 46,
+"texto": "GÁS CANALIZADO."
+},
+{
+"pag": 46,
+"texto": "4.2. São considerados indicadores de segurança no fornecimento:"
+},
+{
+"pag": 46,
+"texto": "I - Concentração de Odorante no GÁS CANALIZADO (COG);"
+},
+{
+"pag": 46,
+"texto": "II - Indicador de Vazamentos no Sistema de Distribuição (IVAZ); e"
+},
+{
+"pag": 46,
+"texto": "III - Tempo de Atendimento de Emergências (TAE)."
+},
+{
+"pag": 47,
+"texto": "4.3. Em relação ao indicador COG, o GÁS CANALIZADO deve ser odorado de forma a garantir sua"
+},
+{
+"pag": 47,
+"texto": "identificação dentro de limite de detecção adequado."
+},
+{
+"pag": 47,
+"texto": "4.3.1. O seu odor característico deve ser o mesmo em toda a área de CONCESSÃO."
+},
+{
+"pag": 47,
+"texto": "4.3.2. A CONCESSIONÁRIA deverá utilizar produtos e métodos de odorização estabelecidos nas"
+},
+{
+"pag": 47,
+"texto": "normas ABNT."
+},
+{
+"pag": 47,
+"texto": "4.3.3. A CONCESSIONÁRIA deverá elaborar e submeter ao REGULADOR plano específico para a"
+},
+{
+"pag": 47,
+"texto": "odorização, contendo a definição dos pontos de coleta de GÁS CANALIZADO para análise e a"
+},
+{
+"pag": 47,
+"texto": "periodicidade das avaliações, não se limitando a esses."
+},
+{
+"pag": 47,
+"texto": "4.3.4. Os padrões para avaliação do COG em redes passivadas são os estabelecidos na tabela"
+},
+{
+"pag": 47,
+"texto": "abaixo:"
+},
+{
+"pag": 47,
+"texto": "Indicador Limite Mínimo Limite Máximo"
+},
+{
+"pag": 47,
+"texto": "COG — Concentração de odorante no GÁS"
+},
+{
+"pag": 47,
+"texto": "5 mg/m³ 35 mg/m³"
+},
+{
+"pag": 47,
+"texto": "CANALIZADO"
+},
+{
+"pag": 47,
+"texto": "4.3.5. A CONCESSIONÁRIA deverá apurar mensalmente o indicador COG, considerando o total de"
+},
+{
+"pag": 47,
+"texto": "análises de odorante conformes em relação ao total de análises de odorante realizadas válidas,"
+},
+{
+"pag": 47,
+"texto": "observada a fórmula abaixo:"
+},
+{
+"pag": 47,
+"texto": "[Fórmula: ver o PDF, p. 47.]"
+},
+{
+"pag": 47,
+"texto": "onde:"
+},
+{
+"pag": 47,
+"texto": "TOC: total de análises de odorante conformes, em que serão consideradas conformes as análises"
+},
+{
+"pag": 47,
+"texto": "nas quais a concentração de odorante medida esteja dentro do padrão aqui estabelecido."
+},
+{
+"pag": 47,
+"texto": "TOV: total de análises de odorante válidas, em que serão consideradas válidas as análises em que"
+},
+{
+"pag": 47,
+"texto": "o processo de cromatografia seja concluído sem erro."
+},
+{
+"pag": 47,
+"texto": "4.3.5. O valor de referência para o COG é a apuração de 100% (cem por cento) das análises"
+},
+{
+"pag": 47,
+"texto": "conformes."
+},
+{
+"pag": 47,
+"texto": "4.4. O indicador IVAZ envolve a identificação de uma ocorrência de vazamento de GÁS"
+},
+{
+"pag": 47,
+"texto": "CANALIZADO, que tem origem em manifestação de USUÁRIOS ou de transeuntes de determinada"
+},
+{
+"pag": 47,
+"texto": "localidade, ou ainda, em identificação feita diretamente por equipe da CONCESSIONÁRIA."
+},
+{
+"pag": 47,
+"texto": "4.4.1. Em quaisquer das situações apontadas, as informações coletadas em função das referidas"
+},
+{
+"pag": 47,
+"texto": "ocorrências deverão ser registradas pela CONCESSIONÁRIA em documentos e sistemas"
+},
+{
+"pag": 47,
+"texto": "especialmente desenvolvidos para esta finalidade."
+},
+{
+"pag": 47,
+"texto": "4.4.2. A CONCESSIONÁRIA deverá apurar mensalmente o indicador IVAZ, considerando o total de"
+},
+{
+"pag": 47,
+"texto": "vazamentos confirmados a cada mês em sua REDE DE DISTRIBUIÇÃO por classificação de REDE"
+},
+{
+"pag": 47,
+"texto": "DE DISTRIBUIÇÃO e total da CONCESSÃO, em relação ao comprimento total do SISTEMA DE"
+},
+{
+"pag": 47,
+"texto": "DISTRIBUIÇÃO por classificação de REDE DE DISTRIBUIÇÃO e total da CONCESSÃO cadastrado"
+},
+{
+"pag": 47,
+"texto": "ao final de cada mês."
+},
+{
+"pag": 47,
+"texto": "4.4.3. A CONCESSIONÁRIA também deverá incluir o total de vazamentos confirmados a cada mês"
+},
+{
+"pag": 47,
+"texto": "na REDE LOCAL e nos RAMAIS DEDICADOS, para fim de apuração deste indicador,"
+},
+{
+"pag": 47,
+"texto": "4.4.4. A CONCESSIONÁRIA deverá apurar o indicador IVAZ de acordo com a fórmula abaixo:"
+},
+{
+"pag": 48,
+"texto": "[Fórmula: ver o PDF, p. 48.]"
+},
+{
+"pag": 48,
+"texto": "onde:"
+},
+{
+"pag": 48,
+"texto": "NVAZ: número total de vazamentos confirmados a cada mês por classificação de REDE DE"
+},
+{
+"pag": 48,
+"texto": "DISTRIBUIÇÃO, RAMAL DEDICADO e REDE LOCAL em relação ao total da CONCESSÃO."
+},
+{
+"pag": 48,
+"texto": "RDG: comprimento total do SISTEMA DE DISTRIBUIÇÃO cadastrado ao final de cada de mês por"
+},
+{
+"pag": 48,
+"texto": "classificação de REDE DE DISTRIBUIÇÃO, RAMAL DEDICADO e REDE LOCAL e total da"
+},
+{
+"pag": 48,
+"texto": "CONCESSÃO, expresso em metros."
+},
+{
+"pag": 48,
+"texto": "4.5. O indicador TAE está ligado às emergências enquadradas como as ocorrências de vazamentos,"
+},
+{
+"pag": 48,
+"texto": "e suas consequências posteriores, no SISTEMA DE DISTRIBUIÇÃO de GÁS CANALIZADO da"
+},
+{
+"pag": 48,
+"texto": "CONCESSIONÁRIA, incluindo as ocorrências em instalações dos clientes."
+},
+{
+"pag": 48,
+"texto": "4.5.1. A CONCESSIONÁRIA deverá apurar mensalmente os tempos de atendimento de"
+},
+{
+"pag": 48,
+"texto": "emergências, calculados desde a notificação inicial da ocorrência até o momento em que a situação"
+},
+{
+"pag": 48,
+"texto": "for controlada, ou seja, o fator de risco for interrompido."
+},
+{
+"pag": 48,
+"texto": "4.5.2. O padrão para avaliação do TAE é o atendimento no prazo máximo de 2 (duas) horas após"
+},
+{
+"pag": 48,
+"texto": "a notificação inicial do evento."
+},
+{
+"pag": 48,
+"texto": "4.5.3. A CONCESSIONÁRIA deverá apurar o indicador TAE de acordo com a fórmula abaixo:"
+},
+{
+"pag": 48,
+"texto": "[Fórmula: ver o PDF, p. 48.]"
+},
+{
+"pag": 48,
+"texto": "onde:"
+},
+{
+"pag": 48,
+"texto": "TEP: total de emergências atendidas no prazo, no período."
+},
+{
+"pag": 48,
+"texto": "TET: total de emergências no período."
+},
+{
+"pag": 49,
+"texto": "ANEXO III - BAR INICIAL*"
+},
+{
+"pag": 49,
+"texto": "RESUMO DOS ATIVOS REVERSIVEIS NAO DEPRECIADOS E NAO AMORTIZADOS - VALOR"
+},
+{
+"pag": 49,
+"texto": "NOVO DE REPOSIÇÃO - DEZEMBRO DE 2019"
+},
+{
+"pag": 49,
+"texto": "[Tabela: ver o PDF, p. 49.]"
+},
+{
+"pag": 49,
+"texto": "* A descrição dos ativos reversíveis consta na versão completa do Laudo emitido na data-base de"
+},
+{
+"pag": 49,
+"texto": "31/12/2019."
+},
+{
+"pag": 50,
+"texto": "ANEXO IV - TABELA DE TARIFAS DO PRIMEIRO CICLO TARIFÁRIO"
+},
+{
+"pag": 50,
+"texto": "- SEGMENTO NÃO TERMOELÉTRICO*"
+},
+{
+"pag": 50,
+"texto": "[Tabela: ver o PDF, pp. 50–51.]"
+},
+{
+"pag": 51,
+"texto": "* Os valores serão aplicados conforme a legislação vigente e NÃO incluem ICMS, PIS e COFINS."
+},
+{
+"pag": 51,
+"texto": "Nota: O SEGMENTO TERMOELÉTRICO tem uma tabela específica, que segue metodologia"
+},
+{
+"pag": 51,
+"texto": "própria."
+}
+]

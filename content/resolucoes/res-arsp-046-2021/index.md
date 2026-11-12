@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Cita:** [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1)
+**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (11) · [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1)
 
 **Citado por:** [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] (9) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (2) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (2) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (1)
 
@@ -37,13 +37,13 @@ CONSIDERANDO a [[leis/lei-11173-2020/index|Lei Estadual Nº 11.173, de 25 de set
 
 CONSIDERANDO que é diretriz para o MERCADO LIVRE DE GÁS CANALIZADO no âmbito do Estado do Espírito Santo a promoção do livre mercado; transparência, eficiência e estrutura tarifária adequada; tratamento tarifário isonômico ao CONSUMIDOR LIVRE, ao AUTOPRODUTOR e ao AUTOIMPORTADOR e ampliação da REDE DE DISTRIBUIÇÃO de GÁS CANALIZADO;
 
-CONSIDERANDO que o CONTRATO DE CONCESSÃO tem por objeto a CONCESSÃO, com exclusividade do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO no Estado do Espírito Santo;
+CONSIDERANDO que o [[contratos/contrato-concessao-2020/index|CONTRATO DE CONCESSÃO]] tem por objeto a CONCESSÃO, com exclusividade do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO no Estado do Espírito Santo;
 
 CONSIDERANDO que o serviço público será exercido tendo em vista o disposto no [art. 173 da Constituição Federal](https://www.lexml.gov.br/urn/urn:lex:br:federal:constituicao:1988-10-05;1988) e no art. 207 §1º da Constituição do Estado do Espírito Santo, como função de utilidade pública prioritária;
 
-CONSIDERANDO que, conforme item 4.2.2 da cláusula 4ª do CONTRATO DE CONCESSÃO para Exploração dos SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO, não é conferida à CONCESSIONÁRIA a exclusividade na COMERCIALIZAÇÃO DE GÁS CANALIZADO aos USUÁRIOS qualificados como CONSUMIDOR LIVRE, AUTOPRODUTOR ou AUTOIMPORTADOR, que podem adquirir o energético de outro fornecedor;
+CONSIDERANDO que, conforme [[contratos/contrato-concessao-2020/clausula-iv#^it4-2-2|item 4.2.2 da cláusula 4ª do CONTRATO DE CONCESSÃO]] para Exploração dos SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO, não é conferida à CONCESSIONÁRIA a exclusividade na COMERCIALIZAÇÃO DE GÁS CANALIZADO aos USUÁRIOS qualificados como CONSUMIDOR LIVRE, AUTOPRODUTOR ou AUTOIMPORTADOR, que podem adquirir o energético de outro fornecedor;
 
-CONSIDERANDO o estabelecido na cláusula quinta do CONTRATO DE CONCESSÃO para exploração do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, assinado em 22 de julho de 2020;
+CONSIDERANDO o estabelecido na [[contratos/contrato-concessao-2020/clausula-v|cláusula quinta do CONTRATO DE CONCESSÃO]] para exploração do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, assinado em 22 de julho de 2020;
 
 CONSIDERANDO que a ARSP, em Consulta Pública N° 001/2021, que esteve disponível de 06 de janeiro de 2021 a 04 de fevereiro de 2021, submeteu à apreciação e contribuições da sociedade, a Nota Técnica Conjunta ASTET/GGN Nº 02/2020 e minuta de Resolução;
 
@@ -72,15 +72,15 @@ RESOLVE:
 - **XII –** CONJUNTO DE REGULAGEM E MEDIÇÃO (CRM): conjunto de equipamentos, instalados pela CONCESSIONÁRIA, nas dependências do USUÁRIO, destinado à regulagem da pressão e à medição do volume de GÁS entregue;
 - **XIII –** CONSUMIDOR LIVRE: USUÁRIO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO que, conforme critérios de enquadramento e condições fixados em Lei e neste regulamento, tem a opção de adquirir a molécula do GÁS diretamente do SUPRIDOR;
 - **XIV –** CONTRATO DE COMPRA E VENDA DE GÁS: instrumento contratual celebrado entre o SUPRIDOR ou COMERCIALIZADOR e o AGENTE LIVRE DE MERCADO, objetivando a COMERCIALIZAÇÃO DE GÁS CANALIZADO;
-- **XV –** CONTRATO DE CONCESSÃO: instrumento de outorga da CONCESSÃO, celebrado entre o PODER CONCEDENTE e a CONCESSIONÁRIA, que tem por objeto regular as condições de exploração do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO no Estado do Espírito Santo;
+- **XV –** [[contratos/contrato-concessao-2020/index|CONTRATO DE CONCESSÃO]]: instrumento de outorga da CONCESSÃO, celebrado entre o PODER CONCEDENTE e a CONCESSIONÁRIA, que tem por objeto regular as condições de exploração do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO no Estado do Espírito Santo;
 - **XVI –** CONTRATO DE FORNECIMENTO: instrumento contratual em que a CONCESSIONÁRIA e o USUÁRIO CATIVO, ajustam as características técnicas e as condições comerciais do fornecimento de GÁS CANALIZADO.
 - **XVII –** CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO: instrumento contratual celebrado entre a CONCESSIONÁRIA e o AGENTE LIVRE DE MERCADO para a prestação de SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;
 - **XVIII –** ESTAÇÃO DE TRANSFERÊNCIA DE CUSTÓDIA (CITY GATE): local físico onde ocorre a transferência do GÁS sob custódia do carregador para a custódia da CONCESSIONÁRIA ou para os AGENTES LIVRES DE MERCADO, por intermédio de conjunto de equipamentos e instalações que tem por finalidade regular a pressão, assim como odorizar,medir e registrar a quantidade de GÁS nas condições de entrega;
 - **XIX –** FONTE DE SUPRIMENTO: qualquer conexão para entrega de GÁS que não seja derivada do SISTEMA DE DISTRIBUIÇÃO, tais como UPGNs, terminais de regaseificação de GNL (TGNL), gasodutos de escoamento, de transporte ou as demais unidades produtoras de GÁS;
 - **XX –** GÁS CANALIZADO: É o GÁS distribuído por meio de gasodutos, através de SISTEMA DE DISTRIBUIÇÃO adequado;
 - **XXI –** GÁS: É o energético distribuído pela CONCESSIONÁRIA aos USUÁRIOS, podendo ser gás natural, biometano ou similares conforme especificações da ANP;
-- **XXII –** MERCADO LIVRE DE GÁS CANALIZADO: mercado onde há a comercialização direta de GÁS CANALIZADO entre SUPRIDORES e AGENTES LIVRES DE MERCADO nas condições estabelecidas neste regulamento, observadas as regras do CONTRATO DE CONCESSÃO;
-- **XXIII –** MERCADO CATIVO: mercado onde há a prestação do serviço realizada pela CONCESSIONÁRIA sem a separação da COMERCIALIZAÇÃO DE GÁS CANALIZADO e do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, observadas as regras do CONTRATO DE CONCESSÃO;
+- **XXII –** MERCADO LIVRE DE GÁS CANALIZADO: mercado onde há a comercialização direta de GÁS CANALIZADO entre SUPRIDORES e AGENTES LIVRES DE MERCADO nas condições estabelecidas neste regulamento, observadas as regras do [[contratos/contrato-concessao-2020/index|CONTRATO DE CONCESSÃO]];
+- **XXIII –** MERCADO CATIVO: mercado onde há a prestação do serviço realizada pela CONCESSIONÁRIA sem a separação da COMERCIALIZAÇÃO DE GÁS CANALIZADO e do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, observadas as regras do [[contratos/contrato-concessao-2020/index|CONTRATO DE CONCESSÃO]];
 - **XXIV –** PODER CONCEDENTE: ente federado que detém a titularidade do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;
 - **XXV –** PONTO DE ENTREGA: local físico de entrega do GÁS pela CONCESSIONÁRIA aos USUÁRIOS ou o local físico onde o GÁS CANALIZADO ingressa no estabelecimento do AGENTE LIVRE DE MERCADO, a partir da última válvula de bloqueio de saída do CONJUNTO DE REGULAGEM E MEDIÇÃO;
 - **XXVI –** PONTO DE RECEPÇÃO: local físico ou virtual onde ocorre a transferência do GÁS do SUPRIDOR para a CONCESSIONÁRIA ou para os AGENTES LIVRES de MERCADO de GÁS CANALIZADO;
@@ -94,7 +94,9 @@ RESOLVE:
 - **XXXIV –** SUPRIDOR: todo produtor, importador ou outro agente autorizado pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) a comercializar a molécula do GÁS;
 - **XXXV –** TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-GÁS): tarifa fixada pelo REGULADOR a ser cobrada dos AGENTES LIVRES DE MERCADO pelo uso do SISTEMA DE DISTRIBUIÇÃO;
 - **XXXVI –** TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO EXCLUSIVA DE GÁS CANALIZADO (TUSDE-GÁS): tarifa fixada pelo REGULADOR a ser cobrada dos AGENTES LIVRES DE MERCADO atendidos por RAMAL DEDICADO;
-- **XXXVII –** TRANSPORTADOR: empresa autorizada ou autorizada pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) apta a atuar na atividade de transporte de GÁS por meio de dutos; XXXVIII. USUÁRIO CATIVO: pessoa física ou jurídica que utiliza o SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, o qual contrata a compra do GÁS CANALIZADO junto a CONCESSIONÁRIA, bem como sua efetiva entrega através do SISTEMA DE DISTRIBUIÇÃO; XXXIX. USUÁRIO: pessoa física ou jurídica que utiliza o SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;
+- **XXXVII –** TRANSPORTADOR: empresa autorizada ou autorizada pela Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP) apta a atuar na atividade de transporte de GÁS por meio de dutos;
+- **XXXVIII –** USUÁRIO CATIVO: pessoa física ou jurídica que utiliza o SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO, o qual contrata a compra do GÁS CANALIZADO junto a CONCESSIONÁRIA, bem como sua efetiva entrega através do SISTEMA DE DISTRIBUIÇÃO;
+- **XXXIX –** USUÁRIO: pessoa física ou jurídica que utiliza o SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO;
 
 <small>[[resolucoes/res-arsp-046-2021/art-2|abrir Art. 2º]]</small>
 
@@ -382,11 +384,11 @@ RESOLVE:
 
 #### Capítulo VII – DA TARIFA APLICÁVEL AOS AGENTES LIVRES DE MERCADO
 
-**Art. 40** A tarifa aplicável ao SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO deverá ser justa e ao mesmo tempo atender à modicidade tarifária, manutenção do equilíbrio econômico financeiro do CONTRATO DE CONCESSÃO e a busca da eficiência na prestação do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO.
+**Art. 40** A tarifa aplicável ao SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO deverá ser justa e ao mesmo tempo atender à modicidade tarifária, manutenção do equilíbrio econômico financeiro do [[contratos/contrato-concessao-2020/index|CONTRATO DE CONCESSÃO]] e a busca da eficiência na prestação do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO.
 
 <small>[[resolucoes/res-arsp-046-2021/art-40|abrir Art. 40]]</small>
 
-**Art. 41** O REGULADOR realizará processo de Revisão Tarifária para cálculo das tarifas a serem praticadas pela CONCESSIONÁRIA no ciclo tarifário seguinte, em conformidade com o disposto no CONTRATO DE CONCESSÃO, dando ampla publicidade e transparência a este processo.
+**Art. 41** O REGULADOR realizará processo de Revisão Tarifária para cálculo das tarifas a serem praticadas pela CONCESSIONÁRIA no ciclo tarifário seguinte, em conformidade com o disposto no [[contratos/contrato-concessao-2020/index|CONTRATO DE CONCESSÃO]], dando ampla publicidade e transparência a este processo.
 
 <small>[[resolucoes/res-arsp-046-2021/art-41|abrir Art. 41]]</small>
 
@@ -404,9 +406,9 @@ RESOLVE:
 
 **§ 1º** A TUSD-GÁS será estabelecida pelo REGULADOR e é aplicável ao AGENTE LIVRE DE MERCADO atendido pelo SISTEMA DE DISTRIBUIÇÃO.
 
-**§ 2º** O REGULADOR fixará a TUSD-GÁS a cada revisão tarifária, com a garantia da manutenção do equilíbrio econômico-financeiro do CONTRATO DE CONCESSÃO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO.
+**§ 2º** O REGULADOR fixará a TUSD-GÁS a cada revisão tarifária, com a garantia da manutenção do equilíbrio econômico-financeiro do [[contratos/contrato-concessao-2020/index|CONTRATO DE CONCESSÃO]] do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO.
 
-**§ 3º** O valor da TUSD-GÁS corresponde à margem média de distribuição calculada de acordo com o segmento de USUÁRIO e da classe de consumo do AGENTE LIVRE DE MERCADO na tabela de tarifas, nos termos estipulados no CONTRATO DE CONCESSÃO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO e em regulamento.
+**§ 3º** O valor da TUSD-GÁS corresponde à margem média de distribuição calculada de acordo com o segmento de USUÁRIO e da classe de consumo do AGENTE LIVRE DE MERCADO na tabela de tarifas, nos termos estipulados no [[contratos/contrato-concessao-2020/index|CONTRATO DE CONCESSÃO]] do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO e em regulamento.
 
 **§ 4º** Para cálculo da TUSD-GÁS, poderá(ão) ser deduzido(s) da margem média de distribuição o(s) valor(es) referente(s) ao(s) encargo(s) que, conforme critérios técnicos, deixe(m) de existir no segmento de USUÁRIO do AGENTE LIVRE DE MERCADO, conferindo a devida transparência do cálculo durante o processo de Revisão Tarifária.
 
@@ -434,7 +436,7 @@ RESOLVE:
 
 **§ 9º** Sobre a TUSD-GÁS e TUSDE-GÁS incidem, além do valor autorizado, demais componentes e encargos tarifários aplicáveis às margens de distribuição aplicáveis aos USUÁRIOS CATIVOS e/ou eventuais tributos exigíveis em face da peculiaridade dos SERVIÇOS PÚBLICOS DE DISTRIBUIÇÃO DE GÁS CANALIZADO.
 
-<small>[[resolucoes/res-arsp-046-2021/art-43|abrir Art. 43]] · citado 1×</small>
+<small>[[resolucoes/res-arsp-046-2021/art-43|abrir Art. 43]] · citado 2×</small>
 
 **Art. 44** Posterior conexão de ramais de terceiros aos RAMAIS DEDICADOS não alterará a incidência da TUSDE-GÁS ao AGENTE LIVRE DE MERCADO original.
 
@@ -468,7 +470,7 @@ RESOLVE:
 
 <small>[[resolucoes/res-arsp-046-2021/art-50|abrir Art. 50]]</small>
 
-**Art. 51** As infrações às obrigações previstas nesta Resolução sujeitam a CONCESSIONÁRIA às penalidades estabelecidas nas normas vigentes e no CONTRATO DE CONCESSÃO.
+**Art. 51** As infrações às obrigações previstas nesta Resolução sujeitam a CONCESSIONÁRIA às penalidades estabelecidas nas normas vigentes e no [[contratos/contrato-concessao-2020/index|CONTRATO DE CONCESSÃO]].
 
 <small>[[resolucoes/res-arsp-046-2021/art-51|abrir Art. 51]]</small>
 

@@ -28,8 +28,8 @@ PDFS_PADRAO = Path(r"D:\Claude\Resoluções ARSP")
 CATALOGO = "_Catalogo_Resolucoes_Gas_ARSP.xlsx"
 COLUNAS = ("id;sigla;tipo;orgao;numero;ano;data;grupo;arquivo;titulo;situacao;observacao;"
            "link_oficial;ocr;alvo_padrao;relacoes").split(";")
-TIPOS = {"resolucao", "decisao", "lei", "lei-complementar", "minuta", "nota-tecnica"}
-GRUPOS = {"Leis", "Resoluções", "Consultas públicas"}
+TIPOS = {"resolucao", "decisao", "lei", "lei-complementar", "minuta", "nota-tecnica", "contrato"}
+GRUPOS = {"Leis", "Contratos", "Resoluções", "Consultas públicas"}
 NOME_PDF = re.compile(r"^(?P<data>\d{4}-\d{2}-\d{2}) - (?P<ato>.+?) (?P<num>\d{3})-(?P<ano>\d{4}) - (?P<assunto>.+)\.pdf$", re.I)
 
 sys.stdout.reconfigure(encoding="utf-8")
@@ -211,8 +211,8 @@ def cmd_validar(a):
             erros.append(f"{rot}: tipo '{d['tipo']}' inválido")
         if d["grupo"] not in GRUPOS:
             erros.append(f"{rot}: grupo '{d['grupo']}' inválido")
-        if not d["numero"].isdigit():
-            erros.append(f"{rot}: numero '{d['numero']}' não é inteiro")
+        if not d["numero"].isdigit() and not (d["tipo"] == "contrato" and d["numero"] == ""):
+            erros.append(f"{rot}: numero '{d['numero']}' não é inteiro (só o contrato pode ficar vazio)")
         if not re.fullmatch(r"\d{4}", d["ano"]):
             erros.append(f"{rot}: ano '{d['ano']}' inválido")
         if not re.fullmatch(r"\d{4}-\d{2}-\d{2}", d["data"]):

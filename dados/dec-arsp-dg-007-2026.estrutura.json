@@ -40,9 +40,9 @@
        {
         "ini": 321,
         "fim": 342,
-        "externo": "Contrato de Concessão",
-        "url": null,
-        "conf": "externo"
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
        },
        {
         "ini": 417,
@@ -56,19 +56,44 @@
        {
         "ini": 330,
         "fim": 351,
-        "externo": "Contrato de Concessão",
-        "url": null,
-        "conf": "externo"
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
        }
       ],
       "2": [],
       "3": [
        {
-        "ini": 122,
+        "ini": 27,
+        "fim": 50,
+        "doc": "contrato-concessao-2020",
+        "disp": "cl1_it1-1_inc37",
+        "art": "cl1",
+        "conf": "inferido"
+       },
+       {
+        "ini": 55,
+        "fim": 71,
+        "doc": "contrato-concessao-2020",
+        "disp": "cl12_it12-12-1",
+        "art": "cl12",
+        "conf": "exato"
+       },
+       {
+        "ini": 76,
+        "fim": 90,
+        "doc": "contrato-concessao-2020",
+        "disp": "cl12_it12-13",
+        "art": "cl12",
+        "conf": "exato"
+       },
+       {
+        "ini": 96,
         "fim": 143,
-        "externo": "Contrato de Concessão",
-        "url": null,
-        "conf": "externo"
+        "doc": "contrato-concessao-2020",
+        "disp": "anx1_cl4",
+        "art": "anx1_cl4",
+        "conf": "exato"
        }
       ],
       "4": [],
@@ -92,11 +117,12 @@
       ],
       "7": [
        {
-        "ini": 497,
+        "ini": 479,
         "fim": 518,
-        "externo": "Contrato de Concessão",
-        "url": null,
-        "conf": "externo"
+        "doc": "contrato-concessao-2020",
+        "disp": "anx1_cl4_it4-1-1",
+        "art": "anx1_cl4",
+        "conf": "inferido"
        }
       ],
       "8": [

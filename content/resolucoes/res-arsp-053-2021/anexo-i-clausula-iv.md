@@ -35,9 +35,7 @@ pagina_pdf: 11
 
 **4.8.1** Caso o GÁS comercializado seja enquadrado como biometano, o mesmo deverá apresentar características de qualidade que atendam, no mínimo, às especificações da Resolução ANP nº 008/2015, a Resolução ANP nº 685/2017 ou as que venham a substituí-las. ^it4-8-1
 
-**4.9** Caso as condições de entrega do GÁS pelo USUÁRIO à CONCESSIONÁRIA definidas nos itens 4.3 e ^it4-9
-
-**4.8** sejam descumpridas e, comprovadamente, haja danos diretos causados ao SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO da CONCESSIONÁRIA e demais USUÁRIOS do SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO, o USUÁRIO deverá arcar com tais danos, que devem ser devidamente comprovados e justificados pela CONCESSIONÁRIA. ^it4-8
+**4.9** Caso as condições de entrega do GÁS pelo USUÁRIO à CONCESSIONÁRIA definidas nos itens 4.3 e 4.8 sejam descumpridas e, comprovadamente, haja danos diretos causados ao SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO da CONCESSIONÁRIA e demais USUÁRIOS do SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO, o USUÁRIO deverá arcar com tais danos, que devem ser devidamente comprovados e justificados pela CONCESSIONÁRIA. ^it4-9
 
 **4.10** Caso as condições de entrega do GÁS pela CONCESSIONÁRIA ao USUÁRIO definidas nos itens 4.4 e 4.8, sejam descumpridas e, comprovadamente, haja danos diretos causados ao USUÁRIO, a CONCESSIONÁRIA deverá arcar com tais danos, que devem ser devidamente comprovados e justificados pelo USUÁRIO. ^it4-10
 

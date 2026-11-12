@@ -1,6 +1,6 @@
 # Vade-mécum ARSP: normas ligadas dispositivo a dispositivo
 
-Transforma os PDFs da ARSP (resoluções, leis, consultas públicas) num site em que:
+Transforma os PDFs da ARSP (resoluções, leis, o contrato de concessão da ES Gás, consultas públicas) num site em que:
 
 - cada remissão ("§ 7º do art. 43 da Resolução ARSP nº 46/2021", "inciso II deste artigo") vira link para o dispositivo exato;
 - remissões a vários dispositivos ("artigos 37 a 39", "§§ 2º e 3º do art. 60", "incisos I, II e III") ligam a **todos** eles, inclusive aos do meio de um intervalo;
@@ -31,7 +31,7 @@ O `construir.py` também gera um site num arquivo só, com o mesmo conteúdo. Ne
 | `pipeline/construir.py` | Roda tudo: extrai, estrutura, liga remissões e gera as saídas |
 | `pipeline/*.py` | As etapas (extrair, estruturar, remissoes, gerar_quartz, gerar_piloto) |
 | `ocr/` | Texto da Res. 048/2021 obtido por OCR (o PDF original tem a camada de texto corrompida) |
-| `content/` | **Saída pronta para o Quartz/Obsidian**: 13 atos, 439 notas de artigo, PDFs em `content/pdf/` |
+| `content/` | **Saída pronta para o Quartz/Obsidian**: 14 atos, 481 notas de artigo ou cláusula, PDFs em `content/pdf/` |
 | `dados/` | Arquivos intermediários. Os dois que interessam: `remissoes.json` (todas as ligações) e `nao_resolvidas.csv` |
 
 ## 1. Rodar o pipeline (Windows)
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 python pipeline\construir.py --pdfs "D:\Claude\Resoluções ARSP"
 ```
 
-Leva cerca de 1 minuto para os 13 documentos. Ao final, confira:
+Leva cerca de 1 minuto para os 14 documentos. Ao final, confira:
 
 - `content\revisao.md`: remissões **parciais** (o dispositivo citado não existe no destino) e **inferidas** (o texto não diz de qual ato é o artigo);
 - `dados\nao_resolvidas.csv`: citações que não viraram link.
@@ -54,9 +54,9 @@ Leva cerca de 1 minuto para os 13 documentos. Ao final, confira:
 1. Acrescente uma linha no `pipeline\documentos.csv`. As colunas principais são:
    - `id`: nome curto e único, sem espaços (ex.: `res-arsp-080-2024`);
    - `sigla`: como aparece no site (ex.: `Res. ARSP 080/2024`);
-   - `tipo`: `resolucao`, `decisao`, `lei`, `lei-complementar`, `minuta` ou `nota-tecnica`;
+   - `tipo`: `resolucao`, `decisao`, `lei`, `lei-complementar`, `contrato`, `minuta` ou `nota-tecnica`;
    - `numero` e `ano`: são eles que permitem reconhecer "Resolução ARSP nº 80/2024" nos outros textos;
-   - `grupo`: `Leis`, `Resoluções` ou `Consultas públicas`;
+   - `grupo`: `Leis`, `Contratos`, `Resoluções` ou `Consultas públicas`;
    - `arquivo`: caminho do PDF dentro da pasta `Resoluções ARSP`.
 2. **Não use `;` dentro dos textos** (é o separador).
 3. Rode o `construir.py` de novo. Todas as ligações são recalculadas.
@@ -134,7 +134,8 @@ Nas resoluções com Anexo, o texto normativo costuma estar no anexo (`anexo-i-a
 
 ## Limitações conhecidas
 
-- **Remissões a cláusulas** ("conforme CLÁUSULA XXIII" no CUSD) e **ao contrato de concessão** ainda não viram link.
+- **Remissões a cláusulas do CUSD** ("conforme CLÁUSULA XXIII") ainda não viram link. As do **contrato de concessão** ("cláusula 12.12.1", "item 4.2.2 da cláusula 4ª", "cláusula IV do anexo I do Contrato de Concessão") viram.
+- **Contrato de concessão**: o PDF é escaneado e o texto vem de OCR. Fórmulas e as tabelas dos Anexos III e IV não estão transcritas (o site mostra a página do PDF).
 - **Atos fora do cadastro** (Res. ASPE 005/2007, LC 954/2020…) aparecem sublinhados com pontilhado, sem link. As leis federais conhecidas apontam para o LexML.
 - **Texto consolidado**: na LC 827/2016 são mantidas só as redações vigentes; o que está tachado no PDF foi omitido. Nas resoluções, o site mostra o texto original com as remissões. Ele não monta a versão compilada.
 - **Tabelas dos anexos** (tarifas) aparecem como texto em bloco. Para os números, vale o PDF (cada artigo tem link para a página).

@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Cita:** [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (2) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (1)
+**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (2) · [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (2) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (1)
 
 **Citado por:** [[resolucoes/dec-arsp-dg-007-2026/index|Decisão ARSP/DG 007/2026]] (1)
 
@@ -31,7 +31,7 @@ A DIRETORIA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DO ESPÍRITO SANTO
 
 Considerando que compete a ARSP fixar as tarifas e outras formas de contraprestação dos serviços regulados, bem como os reajustes anuais e as revisões, tendo por objetivo assegurar tanto o equilíbrio econômico-financeiro da prestação do serviço como a modicidade tarifária, mediante mecanismos que induzam à eficiência e eficácia dos serviços e que permitam a apropriação social dos ganhos de produtividade, no que couber;
 
-Considerando o disposto no Contrato de Concessão dos Serviços Públicos de Distribuição de Gás Canalizado, assinado em 22 julho de 2020;
+Considerando o disposto no [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] dos Serviços Públicos de Distribuição de Gás Canalizado, assinado em 22 julho de 2020;
 
 Considerando as regras para definição das tarifas aplicáveis aos agentes livres de mercado, na forma do da [[resolucoes/res-arsp-046-2021/index|Resolução ARSP n° 046/2021]];
 
@@ -47,7 +47,7 @@ Considerando a Resolução ARSP nº 080/2024, que estabelece os critérios para 
 
 Considerando a Resolução ARSP nº 084/2025, que estabelece a metodologia de revisão da margem média de distribuição aplicável à 1ª Revisão Tarifária Ordinária da Companhia de Gás do Espírito Santo – ES Gás;
 
-Considerando o Plano de Negócios encaminhado pela ES Gás, em 14 de abril de 2025, em atendimento a cláusula IX do contrato de concessão;
+Considerando o Plano de Negócios encaminhado pela ES Gás, em 14 de abril de 2025, em atendimento a [[contratos/contrato-concessao-2020/clausula-ix|cláusula IX do contrato de concessão]];
 
 Considerando o incentivo à transição para uma economia de baixo carbono presente no programa ES MAIS+Gás, no Plano Estadual de Descarbonização e Neutralização de Emissões, bem como nas metas estratégicas dos programas ES500 e ES Carbono Zero;
 

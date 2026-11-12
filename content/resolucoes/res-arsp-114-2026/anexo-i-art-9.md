@@ -19,7 +19,7 @@ pagina_pdf: 8
 
 **§ 5º** Os custos da verificação do PCS ou da pressão, com a expressa ressalva do [[resolucoes/res-arsp-114-2026/anexo-i-art-9#^par6|Parágrafo 6º deste Artigo]], devem ser informados ao Usuário, no momento da solicitação da medição, ficando condicionado o início do serviço à sua respectiva aceitação pelo Usuário. ^par5
 
-**§ 6º** Quando o resultado da verificação demonstrar valores que não se enquadrem nos padrões estabelecidos, os correspondentes custos correrão por conta da Concessionária, sem prejuízo do eventual pagamento de valor associado a erros de faturamento, de leitura ou de medição em favor do Usuário, de acordo com o estabelecido no Contrato de Concessão e demais regulamentos da ARSP. ^par6
+**§ 6º** Quando o resultado da verificação demonstrar valores que não se enquadrem nos padrões estabelecidos, os correspondentes custos correrão por conta da Concessionária, sem prejuízo do eventual pagamento de valor associado a erros de faturamento, de leitura ou de medição em favor do Usuário, de acordo com o estabelecido no [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] e demais regulamentos da ARSP. ^par6
 
 ---
 [[resolucoes/res-arsp-114-2026/index|Res. ARSP 114/2026]] · [PDF, pág. 8](../../pdf/res-arsp-114-2026.pdf#page=8)

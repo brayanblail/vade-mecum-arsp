@@ -58,28 +58,71 @@
        {
         "ini": 78,
         "fim": 99,
-        "externo": "Contrato de Concessão",
-        "url": null,
-        "conf": "externo"
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
        }
       ],
       "4": [
        {
         "ini": 19,
         "fim": 40,
-        "externo": "Contrato de Concessão",
-        "url": null,
-        "conf": "externo"
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
+       },
+       {
+        "ini": 59,
+        "fim": 93,
+        "doc": "contrato-concessao-2020",
+        "disp": "cl12_it12-12-1",
+        "art": "cl12",
+        "conf": "exato",
+        "alvos": [
+         "cl12_it12-12-1",
+         "cl12_it12-13"
+        ],
+        "arts": [
+         "cl12",
+         "cl12"
+        ],
+        "spans": [
+         [
+          78,
+          85
+         ],
+         [
+          88,
+          93
+         ]
+        ]
+       },
+       {
+        "ini": 107,
+        "fim": 129,
+        "doc": "contrato-concessao-2020",
+        "disp": "anx1_cl4",
+        "art": "anx1_cl4",
+        "conf": "exato"
        }
       ],
       "5": [],
       "6": [
        {
-        "ini": 113,
+        "ini": 47,
+        "fim": 96,
+        "doc": "contrato-concessao-2020",
+        "disp": "anx1_cl7",
+        "art": "anx1_cl7",
+        "conf": "exato"
+       },
+       {
+        "ini": 102,
         "fim": 139,
         "doc": "res-arsp-046-2021",
-        "disp": null,
-        "conf": "documento"
+        "disp": "art43",
+        "art": "art43",
+        "conf": "exato"
        }
       ],
       "7": [],
@@ -188,9 +231,9 @@
          {
           "ini": 59,
           "fim": 80,
-          "externo": "Contrato de Concessão",
-          "url": null,
-          "conf": "externo"
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        },

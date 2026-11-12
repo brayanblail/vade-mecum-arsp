@@ -18,7 +18,7 @@ from datetime import date
 
 from indice import Mapa, nome_parte
 
-GRUPOS = ["Leis", "Resoluções", "Consultas públicas"]
+GRUPOS = ["Leis", "Contratos", "Resoluções", "Consultas públicas"]
 
 
 def esc(t):
@@ -264,7 +264,8 @@ class Gerador:
         L = ["---", "title: Remissões a conferir", "---", "",
              "Lista gerada automaticamente. **Parcial**: o dispositivo citado não existe no ato de destino "
              "(possível erro na norma ou numeração alterada); o link vai para o artigo. "
-             "**Inferido**: o texto não diz de qual ato é o artigo; foi usado o ato padrão do documento. "
+             "**Inferido**: o texto não diz de qual ato é o artigo; foi usado o ato padrão do documento "
+             "(no contrato de concessão: o ato ou o anexo vem da frase). "
              "As decisões da revisão ficam em `pipeline/revisoes.csv` (comando `/revisar`).", ""]
         for conf, titulo in [("parcial", "Parciais"), ("inferido", "Inferidas")]:
             xs = [a for a in self.arestas if a["conf"] == conf
