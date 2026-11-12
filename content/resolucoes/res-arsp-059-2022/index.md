@@ -134,7 +134,7 @@ Joana Moraes Resende Magella Diretora Presidente Bárbara Carneiro Caniçali Dir
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-11|abrir Art. 11]]</small>
 
-**Art. 12** A concessionária deverá apurar mensalmente o indicador COG, considerando o total de análises de odorante conformes em relação ao total de análises de odorante realizadas válidas, observada a fórmula abaixo: 𝐂𝐎𝐆= 𝐓𝐎𝐂 𝐓𝐎𝐕 × 𝟏𝟎𝟎 onde: COG: indicador de concentração de odorante no gás canalizado (%); TOC: total de análises de odorante conformes, em que serão consideradas conformes as análises nas quais a concentração de odorante medida esteja dentro do padrão aqui estabelecido; TOV: total de análises de odorante válidas, em que serão consideradas válidas as análises em que o processo de cromatografia seja concluído sem erro.
+**Art. 12** A concessionária deverá apurar mensalmente o indicador COG, considerando o total de análises de odorante conformes em relação ao total de análises de odorante realizadas válidas, observada a fórmula abaixo: COG= TOC TOV × 100 onde: COG: indicador de concentração de odorante no gás canalizado (%); TOC: total de análises de odorante conformes, em que serão consideradas conformes as análises nas quais a concentração de odorante medida esteja dentro do padrão aqui estabelecido; TOV: total de análises de odorante válidas, em que serão consideradas válidas as análises em que o processo de cromatografia seja concluído sem erro.
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-12|abrir Art. 12]]</small>
 
@@ -154,7 +154,7 @@ Joana Moraes Resende Magella Diretora Presidente Bárbara Carneiro Caniçali Dir
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-16|abrir Art. 16]]</small>
 
-**Art. 17** O valor da multa para o indicador COG será calculado conforme fórmula abaixo: 𝐌𝐂𝐎𝐆𝐌Ê𝐒 = (𝐑𝐄𝐅𝐂𝐎𝐆 −𝐂𝐎𝐆) × 𝐌𝐌𝐀𝐗𝐂𝐎𝐆 𝟏𝟐 × 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐂𝐎𝐆𝐌Ê𝐒 onde: 𝐌𝐂𝐎𝐆𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador COG (R\$); 𝐂𝐎𝐆: Valor do indicador COG do respectivo mês (%); 𝐑𝐄𝐅𝐂𝐎𝐆: Valor de referência do Indicador COG (%); 𝐌𝐌𝐀𝐗𝐂𝐎𝐆: Valor da multa máxima do indicador COG estabelecida no [[resolucoes/res-arsp-059-2022/anexo-i-art-50|Art. 50]] desta resolução (R\$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐂𝐎𝐆𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 3 (%). Baixo Médio-baixo Médio Médio-alto Alto 0-20% 20,01%-40% 40,01%-60% 60,01%-80% 80,01%-100% Baixo 0-20% 11,11% 22,22% 33,33% 44,44% 55,56% Médio-baixo 20,01%-40% 22,22% 33,33% 44,44% 55,56% 66,67% Médio 40,01%-60% 33,33% 44,44% 55,56% 66,67% 77,78% Médio-alto 60,01%-80% 44,44% 55,56% 66,67% 77,78% 88,89% Alto 80,01%-100% 55,56% 66,67% 77,78% 88,89% 100,00% Estimativa % do Número de unidades usuárias nas zonas afetadas. Estimativa % do volume distribuído nas zonas afetadas. Capítulo III – Indicador de Vazamentos no Sistema de Distribuição (IVAZ)
+**Art. 17** O valor da multa para o indicador COG será calculado conforme fórmula abaixo: MCOGMÊS = (REFCOG −COG) × MMAXCOG 12 × GRADAÇÃOCOGMÊS onde: MCOGMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador COG (R\$); COG: Valor do indicador COG do respectivo mês (%); REFCOG: Valor de referência do Indicador COG (%); MMAXCOG: Valor da multa máxima do indicador COG estabelecida no [[resolucoes/res-arsp-059-2022/anexo-i-art-50|Art. 50]] desta resolução (R\$); GRADAÇÃOCOGMÊS: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 3 (%). Baixo Médio-baixo Médio Médio-alto Alto 0-20% 20,01%-40% 40,01%-60% 60,01%-80% 80,01%-100% Baixo 0-20% 11,11% 22,22% 33,33% 44,44% 55,56% Médio-baixo 20,01%-40% 22,22% 33,33% 44,44% 55,56% 66,67% Médio 40,01%-60% 33,33% 44,44% 55,56% 66,67% 77,78% Médio-alto 60,01%-80% 44,44% 55,56% 66,67% 77,78% 88,89% Alto 80,01%-100% 55,56% 66,67% 77,78% 88,89% 100,00% Estimativa % do Número de unidades usuárias nas zonas afetadas. Estimativa % do volume distribuído nas zonas afetadas. Capítulo III – Indicador de Vazamentos no Sistema de Distribuição (IVAZ)
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-17|abrir Art. 17]]</small>
 
@@ -181,7 +181,7 @@ Joana Moraes Resende Magella Diretora Presidente Bárbara Carneiro Caniçali Dir
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-21|abrir Art. 21]]</small>
 
-**Art. 22** A concessionária deverá apurar mensalmente o indicador IVAZ de acordo com a fórmula abaixo: 𝐈𝐕𝐀𝐙= 𝐍𝐕𝐀𝐙 𝐑𝐃𝐆 × 𝟏𝟎𝟎. 𝟎𝟎𝟎 onde: IVAZ: indicador de vazamentos no sistema de distribuição; NVAZ: número total de vazamentos confirmados a cada mês no sistema de distribuição; RDG: comprimento total do sistema de distribuição cadastrado ao final de cada mês, expresso em metros.
+**Art. 22** A concessionária deverá apurar mensalmente o indicador IVAZ de acordo com a fórmula abaixo: IVAZ= NVAZ RDG × 100. 000 onde: IVAZ: indicador de vazamentos no sistema de distribuição; NVAZ: número total de vazamentos confirmados a cada mês no sistema de distribuição; RDG: comprimento total do sistema de distribuição cadastrado ao final de cada mês, expresso em metros.
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-22|abrir Art. 22]]</small>
 
@@ -193,7 +193,7 @@ Joana Moraes Resende Magella Diretora Presidente Bárbara Carneiro Caniçali Dir
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-24|abrir Art. 24]]</small>
 
-**Art. 25** O valor da multa para o indicador IVAZ será calculado conforme fórmula abaixo: 𝐌𝐈𝐕𝐀𝐙𝐌Ê𝐒 = (𝟎, 𝟎𝟐𝟓× 𝐈𝐕𝐀𝐙−𝟎, 𝟎𝟎𝟓) × 𝐌𝐌𝐀𝐗𝐈𝐕𝐀𝐙 𝟏𝟐 × 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐈𝐕𝐀𝐙𝐌Ê𝐒 onde: 𝐌𝐈𝐕𝐀𝐙𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador IVAZ (R\$); IVAZ: Valor do indicador IVAZ do respectivo mês; Baixo Médio-baixo Médio Médio-alto Alto 00:01-01:00h 01:01-02:00h 02:01-03:00h 03:01-04:00h \>04:01h Baixo 0-650m3 11,11% 22,22% 33,33% 44,44% 55,56% Médio-baixo 651-1300m3 22,22% 33,33% 44,44% 55,56% 66,67% Médio 1301-1950m3 33,33% 44,44% 55,56% 66,67% 77,78% Médio-alto 1951-2600m3 44,44% 55,56% 66,67% 77,78% 88,89% Alto \>2600m3 55,56% 66,67% 77,78% 88,89% 100,00% Tempo total dos vazamentos durante o mês Total de volume vazado durante o mês 𝐌𝐌𝐀𝐗𝐈𝐕𝐀𝐙: Valor da multa máxima do indicador IVAZ estabelecida no [[resolucoes/res-arsp-059-2022/anexo-i-art-50|Art. 50]] desta resolução (R\$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐈𝐕𝐀𝐙𝐌Ê𝐒:Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 4 (%).
+**Art. 25** O valor da multa para o indicador IVAZ será calculado conforme fórmula abaixo: MIVAZMÊS = (0, 025× IVAZ−0, 005) × MMAXIVAZ 12 × GRADAÇÃOIVAZMÊS onde: MIVAZMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador IVAZ (R\$); IVAZ: Valor do indicador IVAZ do respectivo mês; Baixo Médio-baixo Médio Médio-alto Alto 00:01-01:00h 01:01-02:00h 02:01-03:00h 03:01-04:00h \>04:01h Baixo 0-650m3 11,11% 22,22% 33,33% 44,44% 55,56% Médio-baixo 651-1300m3 22,22% 33,33% 44,44% 55,56% 66,67% Médio 1301-1950m3 33,33% 44,44% 55,56% 66,67% 77,78% Médio-alto 1951-2600m3 44,44% 55,56% 66,67% 77,78% 88,89% Alto \>2600m3 55,56% 66,67% 77,78% 88,89% 100,00% Tempo total dos vazamentos durante o mês Total de volume vazado durante o mês MMAXIVAZ: Valor da multa máxima do indicador IVAZ estabelecida no [[resolucoes/res-arsp-059-2022/anexo-i-art-50|Art. 50]] desta resolução (R\$); GRADAÇÃOIVAZMÊS:Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 4 (%).
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-25|abrir Art. 25]]</small>
 
@@ -213,7 +213,7 @@ Joana Moraes Resende Magella Diretora Presidente Bárbara Carneiro Caniçali Dir
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-29|abrir Art. 29]]</small>
 
-**Art. 30** A CONCESSIONÁRIA deverá apurar mensalmente o indicador TAE de acordo com a fórmula abaixo: 𝐓𝐀𝐄= 𝐓𝐄𝐏 𝐓𝐄𝐓 × 𝟏𝟎𝟎 onde: TAE: indicador de tempo de atendimento de emergências (%); TEP: total de emergências atendidas no prazo, no período; TET: total de emergências no período.
+**Art. 30** A CONCESSIONÁRIA deverá apurar mensalmente o indicador TAE de acordo com a fórmula abaixo: TAE= TEP TET × 100 onde: TAE: indicador de tempo de atendimento de emergências (%); TEP: total de emergências atendidas no prazo, no período; TET: total de emergências no período.
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-30|abrir Art. 30]]</small>
 
@@ -250,7 +250,7 @@ Joana Moraes Resende Magella Diretora Presidente Bárbara Carneiro Caniçali Dir
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-35|abrir Art. 35]]</small>
 
-**Art. 36** O valor da multa para o indicador TAE será calculado conforme fórmula abaixo: 𝐌𝐓𝐀𝐄𝐌Ê𝐒 = (𝐑𝐄𝐅𝐓𝐀𝐄 −𝐓𝐀𝐄) × 𝐌𝐌𝐀𝐗𝐓𝐀𝐄 𝟏𝟐 × 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐓𝐀𝐄𝐌Ê𝐒 onde: 𝐌𝐓𝐀𝐄𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador TAE (R\$); TAE :Valor do indicador TAE do respectivo mês (%); 𝐑𝐄𝐅𝐓𝐀𝐄: Valor de referência do Indicador TAE (%); 𝐌𝐌𝐀𝐗𝐓𝐀𝐄: Valor da multa máxima do indicador TAE estabelecida no [[resolucoes/res-arsp-059-2022/anexo-i-art-50|Art. 50]] desta resolução (R\$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐓𝐀𝐄𝐌Ê𝐒:Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 5 (%). Baixo Médio-baixo Médio Médio-alto Alto 02:00-03:00h 03:01-04:00h 04:01-05:00h 05:01-06:00h \>06:01h Baixo 09,00%-20% 11,11% 22,22% 33,33% 44,44% 55,56% Médio-baixo 20,01%-30% 22,22% 33,33% 44,44% 55,56% 66,67% Médio 30,01%-40% 33,33% 44,44% 55,56% 66,67% 77,78% Médio-alto 40,01%-50% 44,44% 55,56% 66,67% 77,78% 88,89% Alto \>50% 55,56% 66,67% 77,78% 88,89% 100,00% Média de tempo dos atendimentos com duração maior que 2h. Quantidade de atendimentos com duração maior que 2h em relação ao total do mês
+**Art. 36** O valor da multa para o indicador TAE será calculado conforme fórmula abaixo: MTAEMÊS = (REFTAE −TAE) × MMAXTAE 12 × GRADAÇÃOTAEMÊS onde: MTAEMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador TAE (R\$); TAE :Valor do indicador TAE do respectivo mês (%); REFTAE: Valor de referência do Indicador TAE (%); MMAXTAE: Valor da multa máxima do indicador TAE estabelecida no [[resolucoes/res-arsp-059-2022/anexo-i-art-50|Art. 50]] desta resolução (R\$); GRADAÇÃOTAEMÊS:Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 5 (%). Baixo Médio-baixo Médio Médio-alto Alto 02:00-03:00h 03:01-04:00h 04:01-05:00h 05:01-06:00h \>06:01h Baixo 09,00%-20% 11,11% 22,22% 33,33% 44,44% 55,56% Médio-baixo 20,01%-30% 22,22% 33,33% 44,44% 55,56% 66,67% Médio 30,01%-40% 33,33% 44,44% 55,56% 66,67% 77,78% Médio-alto 40,01%-50% 44,44% 55,56% 66,67% 77,78% 88,89% Alto \>50% 55,56% 66,67% 77,78% 88,89% 100,00% Média de tempo dos atendimentos com duração maior que 2h. Quantidade de atendimentos com duração maior que 2h em relação ao total do mês
 
 <small>[[resolucoes/res-arsp-059-2022/anexo-i-art-36|abrir Art. 36]]</small>
 

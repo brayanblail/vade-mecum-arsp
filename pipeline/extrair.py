@@ -7,12 +7,15 @@
 - Para PDFs escaneados que já trazem uma camada de OCR boa (o contrato de concessão),
   AJUSTES[...]["camada_ocr"] agrupa as linhas da página inteira e corrige os erros típicos;
   fórmulas e tabelas escaneadas viram um aviso com a página do PDF.
+- Fórmulas e tabelas que viram texto quebrado em PDFs com texto (Res. 084/2025) também
+  viram aviso (AJUSTES[...]["ver_pdf"]); as letras matemáticas do Word viram letras comuns.
 - Para na página de assinaturas do E-DOCS.
 
 Saída: dados/<id>.linhas.json  ->  [{"pag": 1, "texto": "..."}, ...]
 """
 import json
 import re
+import unicodedata
 from pathlib import Path
 
 import pymupdf
@@ -29,7 +32,9 @@ RUIDO = [
     r"^\+55 27",
     r"^Av\. (Cezar Hilal|Nossa S)",
     r"^Tel\.: ",
+    r"^Tel: \d{4}-\d{4}",                 # "Tel: 3636-8500" (cabeçalho das resoluções de 2021 e 2025)
     r"^P[áa]gina \d+ de \d+$",
+    r"^P[áa]g\. \d+ de \d+$",
     r"^\d+ of \d+$",
     r"^https://www3?\.al\.es\.gov\.br",
     r"^Firefox\b",
@@ -53,6 +58,8 @@ FIM_GERAL = re.compile(r"^(Documento original assinado eletronicamente|INFORMAÇ
 #                  (tabelas escaneadas saem com números trocados de coluna ou faltando)
 #   formulas       troca as linhas entre a frase que apresenta a fórmula e o "onde:" por um aviso
 #   corrigir       [(regex, troca)]: correções pontuais conferidas no PDF (o OCR perdeu o marcador)
+#   ver_pdf        [(de, ate, tipo)]: mantém a linha `de` e troca as seguintes, até antes de `ate`, por
+#                  "[<tipo>: ver o PDF, p. N.]" (fórmulas e tabelas que viram texto quebrado)
 AJUSTES = {
     "lei-11173-2020": {"inicio": r"^LEI N[º°] 11\.173", "fim": r"^(RENATO CASAGRANDE|JOSÉ RENATO CASAGRANDE)"},
     "res-arsp-053-2021": {"pular": r"\.{6,}\s*\d+\s*$"},  # linhas do índice com pontilhado
@@ -76,6 +83,20 @@ AJUSTES = {
                      (r"do art\. 60 da Lei Federal", "do art. 6º da Lei Federal"),        # 8.2.1, p. 9
                      (r"do art\. 70 da Lei Estadual", "do art. 7º da Lei Estadual"),
                      (r"\bCO CESSIONÁRIA", "CONCESSIONÁRIA")],                            # 1.1, XVIII, p. 2
+    },
+    "res-arsp-084-2025": {
+        # equações do Anexo I (a 1 é imagem; as outras saem com índices e frações desmontados) e tabelas
+        "ver_pdf": [(r"^Equação 1: ", r"^onde:$", "Fórmula"),                       # item 8, p. 3
+                    (r"fórmula apresentada a seguir:$", r"^onde:$", "Fórmula"),     # item 44 (WACC), p. 6
+                    (r"^Equação 2: ", r"^Onde:$", "Fórmula"),                       # item 52, p. 7
+                    (r"^Equação 3: ", r"^Onde:$", "Fórmula"),
+                    (r"^Equação 4: ", r"^Onde:$", "Fórmula"),                       # item 53
+                    (r"^Equação 5: ", r"^Onde$", "Fórmula"),                        # item 80, p. 9
+                    (r"^Equação 6: ", r"^Onde:$", "Fórmula"),                       # item 97, p. 11
+                    (r"^Equação 7: ", r"^98\. ", "Fórmula"),
+                    (r"^Tabela 1: ", r"^99\. ", "Tabela"),                          # item 98
+                    (r"^Equação 8: ", r"^100\. ", "Fórmula"),                       # item 99
+                    (r"^ANEXO III ", r"^Nota: A aplicabilidade", "Tabela")],        # Anexo III, p. 16
     },
 }
 
@@ -111,6 +132,12 @@ def _linhas_horizontais(pagina):
 
 def _eh_ruido(t):
     return any(p.search(t) for p in RUIDO_RE)
+
+
+# Letras matemáticas do Word (U+1D400 a U+1D7FF: "𝑊𝐴𝐶𝐶", "𝛽𝑒") viram letras comuns ("WACC", "βe"),
+# para a busca achar o texto. Só esse bloco: o NFKC no texto todo trocaria "º" por "o".
+MATEMATICAS = {cp: unicodedata.normalize("NFKC", chr(cp)) for cp in range(0x1D400, 0x1D800)
+               if unicodedata.normalize("NFKC", chr(cp)) != chr(cp)}
 
 
 RE_MARCADOR = re.compile(r"^(Art\.?\s*\d+\s*[º°]?(?:-[A-Z])?|§\s*\d+\s*[º°]?|Par[áa]grafo [úu]nico|[IVXLC]{1,6}\s*[-–—]|[a-z]\))")
@@ -175,7 +202,7 @@ def extrair_pdf(caminho, doc_id):
                     mortos.append(sep + s["text"])
                 else:
                     vivos.append(sep + s["text"])
-            t = re.sub(r"\s+", " ", "".join(vivos)).strip()
+            t = re.sub(r"\s+", " ", "".join(vivos).translate(MATEMATICAS)).strip()
             tm = re.sub(r"\s+", " ", "".join(mortos)).strip()
             if not t and not tm:
                 continue
@@ -325,11 +352,14 @@ def recortar(linhas, doc_id):
         out = _trecho(out, de, ate, aviso="[Tabela: ver o PDF, {pag}.]")
     if aj.get("formulas"):
         out = _formulas(out)
+    for de, ate, tipo in aj.get("ver_pdf", []):
+        out = _trecho(out, de, ate, manter_inicio=True, aviso=f"[{tipo}: ver o PDF, {{pag}}.]")
     return out
 
 
 def _trecho(linhas, de, ate, manter_inicio=False, aviso=None):
-    """Tira as linhas de `de` até antes de `ate` (o primeiro par encontrado)."""
+    """Tira as linhas de `de` até antes de `ate` (o primeiro par encontrado).
+    manter_inicio: a linha `de` fica; aviso: entra no lugar das linhas tiradas, com a página."""
     r_de, r_ate = re.compile(de), re.compile(ate)
     i = next((k for k, l in enumerate(linhas) if r_de.search(l["texto"])), None)
     if i is None:
@@ -337,12 +367,12 @@ def _trecho(linhas, de, ate, manter_inicio=False, aviso=None):
     j = next((k for k in range(i + 1, len(linhas)) if r_ate.search(linhas[k]["texto"])), None)
     if j is None:
         raise ValueError(f"AJUSTES: fim do trecho não encontrado: {ate!r}")
-    meio = []
-    if manter_inicio:
-        meio = [linhas[i]]
-    elif aviso:
-        p0, p1 = linhas[i]["pag"], linhas[j - 1]["pag"]
-        meio = [{"pag": p0, "texto": aviso.format(pag=f"p. {p0}" if p0 == p1 else f"pp. {p0}–{p1}")}]
+    meio = [linhas[i]] if manter_inicio else []
+    if aviso:
+        # páginas das linhas tiradas (sem linhas tiradas: a fórmula é imagem, vale a página da linha `de`)
+        k0 = i + 1 if manter_inicio and j > i + 1 else i
+        p0, p1 = linhas[k0]["pag"], linhas[max(k0, j - 1)]["pag"]
+        meio.append({"pag": p0, "texto": aviso.format(pag=f"p. {p0}" if p0 == p1 else f"pp. {p0}–{p1}")})
     return linhas[:i] + meio + linhas[j:]
 
 

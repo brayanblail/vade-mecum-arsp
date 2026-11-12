@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (2) · [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (2) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (1)
+**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (2) · [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (2) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (1) · [[resolucoes/res-arsp-084-2025/index|Res. ARSP 084/2025]] (1)
 
 **Citado por:** [[resolucoes/dec-arsp-dg-007-2026/index|Decisão ARSP/DG 007/2026]] (1)
 
@@ -45,7 +45,7 @@ Considerando o Parecer Técnico ARSP/DP/GET Nº 015/2025, que trata do reajuste 
 
 Considerando a Resolução ARSP nº 080/2024, que estabelece os critérios para a definição da base de remuneração regulatória aplicável às revisões tarifárias ordinárias da Companhia de Gás do Espírito Santo – ES Gás, especialmente o disposto em seu art. 19;
 
-Considerando a Resolução ARSP nº 084/2025, que estabelece a metodologia de revisão da margem média de distribuição aplicável à 1ª Revisão Tarifária Ordinária da Companhia de Gás do Espírito Santo – ES Gás;
+Considerando a [[resolucoes/res-arsp-084-2025/index|Resolução ARSP nº 084/2025]], que estabelece a metodologia de revisão da margem média de distribuição aplicável à 1ª Revisão Tarifária Ordinária da Companhia de Gás do Espírito Santo – ES Gás;
 
 Considerando o Plano de Negócios encaminhado pela ES Gás, em 14 de abril de 2025, em atendimento a [[contratos/contrato-concessao-2020/clausula-ix|cláusula IX do contrato de concessão]];
 

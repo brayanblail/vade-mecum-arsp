@@ -1,0 +1,3005 @@
+{
+ "id": "res-arsp-084-2025",
+ "sigla": "Res. ARSP 084/2025",
+ "tipo": "resolucao",
+ "orgao": "ARSP",
+ "numero": "84",
+ "ano": "2025",
+ "data": "2025-02-26",
+ "grupo": "Resoluções",
+ "arquivo": "2025-02-26 - RES ARSP 084-2025 - Metodologia da margem de distribuicao - 1a RTO.pdf",
+ "titulo": "Estabelece a metodologia de revisão da margem média de distribuição aplicável à 1ª Revisão Tarifária Ordinária da Companhia de Gás do Espírito Santo – ES Gás.",
+ "situacao": "Vigente",
+ "observacao": "Metodologia da margem usada na 1ª RTO. Define o cálculo do 2º ciclo tarifário (5 anos a partir de 01/08/2025).",
+ "link_oficial": "https://arsp.es.gov.br/Media/arsi/Legisla%C3%A7%C3%A3o/Resolu%C3%A7%C3%B5es%20G%C3%A1s%20Natural/ARSP/2025/ResolucaoARSP084_2025.pdf",
+ "ocr": "nao",
+ "alvo_padrao": "",
+ "relacoes": "",
+ "partes": [
+  {
+   "id": "corpo",
+   "rotulo": "Texto da norma",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "linhas": [
+      "RESOLUÇÃO ARSP Nº 084, 26 DE FEVEREIRO DE 2025 Estabelece a metodologia de revisão da margem média de distribuição aplicável à 1ª Revisão Tarifária Ordinária da Companhia de Gás do Espírito Santo – ES Gás.",
+      "A DIRETORIA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DO ESPÍRITO SANTO - ARSP, no uso de suas atribuições regimentais, à vista do disposto na Lei Complementar nº 827, de 30 de junho de 2016 e suas alterações;",
+      "Considerando que compete à ARSP fixar as tarifas e outras formas de contraprestação dos serviços regulados, bem como os reajustes anuais e as revisões, tendo por objetivo assegurar tanto o equilíbrio econômico-financeiro da prestação do serviço como a modicidade tarifária, mediante mecanismos que induzam à eficiência e eficácia dos serviços e que permitam a apropriação social dos ganhos de produtividade, no que couber;",
+      "Considerando o disposto no Contrato de Concessão dos Serviços Públicos de Distribuição de Gás Canalizado, assinado em 22 julho de 2020 (Registro n° 2020-XMH9X4);",
+      "Considerando a previsão do segundo ciclo tarifário, a partir de 1º de agosto de 2025;",
+      "Considerando que a ARSP, por meio da Consulta Pública N° 001/2025, que esteve disponível de 09 de janeiro a 02 de fevereiro de 2025, submeteu à apreciação e contribuições da sociedade, a Nota Técnica ARSP/DP/GET Nº 014/2024 e minuta de Resolução;",
+      "Considerando a Nota Técnica ARSP/DP/GET Nº 01/2025;",
+      "RESOLVE:"
+     ],
+     "pag": 1,
+     "refs_linhas": {
+      "0": [],
+      "1": [
+       {
+        "ini": 146,
+        "fim": 193,
+        "doc": "lc-827-2016",
+        "disp": null,
+        "conf": "documento"
+       }
+      ],
+      "2": [],
+      "3": [
+       {
+        "ini": 27,
+        "fim": 48,
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
+       }
+      ],
+      "4": [],
+      "5": [],
+      "6": [],
+      "7": []
+     }
+    },
+    {
+     "tipo": "artigo",
+     "num": "1",
+     "rotulo": "Art. 1º",
+     "id": "art1",
+     "pag": 1,
+     "caput": {
+      "id": "art1_cpt",
+      "texto": "Estabelecer a metodologia de revisão da margem média de distribuição aplicável à 1ª Revisão Tarifária Ordinária da Companhia de Gás do Espírito Santo – ES Gás, na forma do Anexo I desta Resolução.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "2",
+     "rotulo": "Art. 2º",
+     "id": "art2",
+     "pag": 1,
+     "caput": {
+      "id": "art2_cpt",
+      "texto": "Esta Resolução entra em vigor na data de sua publicação.",
+      "incisos": [],
+      "pag": 1,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "texto",
+     "linhas": [
+      "Alexandre Careta Ventorim Diretor-Geral Débora Cristina Niero Diretora de Gás Canalizado e Energia Mamoru Togawa Komatsu Diretor de Saneamento Básico Marleide Rodrigues da Silva Diretora Administrativa e Financeira - respondendo Tatiana Santos de Oliveira Diretora de Infraestrutura Viária e Mobilidade Urbana"
+     ],
+     "pag": 1,
+     "fecho": true,
+     "refs_linhas": {
+      "0": []
+     }
+    }
+   ]
+  },
+  {
+   "id": "anx1",
+   "rotulo": "Anexo I – METODOLOGIA DE REVISÃO DA MARGEM MÉDIA DE DISTRIBUIÇÃO",
+   "blocos": [
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção I",
+     "texto": "DO OBJETO",
+     "pag": 2
+    },
+    {
+     "tipo": "artigo",
+     "num": "1",
+     "rotulo": "1.",
+     "id": "anx1_it1",
+     "pag": 2,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it1_cpt",
+      "texto": "Este Anexo apresenta a metodologia de revisão da margem média de distribuição aplicável à 1ª Revisão Tarifária Ordinária da Companhia de Gás do Espírito Santo – ES Gás.",
+      "incisos": [],
+      "pag": 2,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "2",
+     "rotulo": "2.",
+     "id": "anx1_it2",
+     "pag": 2,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it2_cpt",
+      "texto": "A margem média de distribuição será revisada considerando a estrutura de custos e de mercado da concessionária, os estímulos à eficiência e à modicidade das tarifas, o plano de investimentos, as metas de qualidade para o ciclo tarifário e a preservação do equilíbrio econômico-financeiro.",
+      "incisos": [],
+      "pag": 2,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "3",
+     "rotulo": "3.",
+     "id": "anx1_it3",
+     "pag": 2,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it3_cpt",
+      "texto": "A margem média de distribuição revisada será aplicada a partir do início do segundo ciclo tarifário, com vigência em 01º de agosto de 2025.",
+      "incisos": [],
+      "pag": 2,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "4",
+     "rotulo": "4.",
+     "id": "anx1_it4",
+     "pag": 2,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it4_cpt",
+      "texto": "As definições adotadas neste normativo estão dispostas no Anexo II.",
+      "incisos": [],
+      "pag": 2,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção II",
+     "texto": "DA MARGEM MÉDIA DE DISTRIBUIÇÃO",
+     "pag": 2
+    },
+    {
+     "tipo": "artigo",
+     "num": "5",
+     "rotulo": "5.",
+     "id": "anx1_it5",
+     "pag": 2,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it5_cpt",
+      "texto": "O estabelecimento da margem média de distribuição observará os estímulos à eficiência, modicidade tarifária e previsibilidade das regras, refletidos na definição de cada uma de suas componentes.",
+      "incisos": [],
+      "pag": 2,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "6",
+     "rotulo": "6.",
+     "id": "anx1_it6",
+     "pag": 2,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it6_cpt",
+      "texto": "A margem média de distribuição terá como base o plano de negócios para o ciclo tarifário e é composta pelas seguintes componentes:",
+      "incisos": [
+       {
+        "id": "anx1_it6_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "custos operacionais eficientes:",
+        "alineas": [
+         {
+          "id": "anx1_it6_cpt_inc1_ali-a",
+          "rotulo": "a)",
+          "letra": "a",
+          "texto": "despesas operacionais, comerciais e administrativas, conceituadas neste regulamento; e",
+          "pag": 2,
+          "refs": []
+         },
+         {
+          "id": "anx1_it6_cpt_inc1_ali-b",
+          "rotulo": "b)",
+          "letra": "b",
+          "texto": "custos com operação e manutenção;",
+          "pag": 2,
+          "refs": []
+         }
+        ],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "anx1_it6_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "taxa de regulação e fiscalização dos serviços público de distribuição de gás canalizado prevista na legislação estadual;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "anx1_it6_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "receitas irrecuperáveis;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "anx1_it6_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "gastos com pesquisa e desenvolvimento;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "anx1_it6_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "encargos da tarifa social;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "anx1_it6_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "custo de capital, composto pela soma das seguintes parcelas:",
+        "alineas": [
+         {
+          "id": "anx1_it6_cpt_inc6_ali-a",
+          "rotulo": "a)",
+          "letra": "a",
+          "texto": "remuneração do capital, apurada a partir da base de remuneração regulatória líquida - BRRL, da necessidade de capital de giro – NCG e do custo de capital, definido pela metodologia de custo médio ponderado do capital ou taxa WACC – weighted average cost of capital; e",
+          "pag": 2,
+          "refs": []
+         },
+         {
+          "id": "anx1_it6_cpt_inc6_ali-b",
+          "rotulo": "b)",
+          "letra": "b",
+          "texto": "valor da depreciação e amortização;",
+          "pag": 2,
+          "refs": []
+         }
+        ],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "anx1_it6_cpt_inc7",
+        "rotulo": "VII",
+        "num": 7,
+        "texto": "volume de gás a ser distribuído, que corresponderá às previsões anuais de distribuição no ciclo tarifário;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "anx1_it6_cpt_inc8",
+        "rotulo": "VIII",
+        "num": 8,
+        "texto": "valor dos investimentos a serem realizados no ciclo tarifário, previsto no plano de negócios;",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "anx1_it6_cpt_inc9",
+        "rotulo": "IX",
+        "num": 9,
+        "texto": "outras despesas apresentadas pela concessionária e aprovadas pelo regulador; e",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       },
+       {
+        "id": "anx1_it6_cpt_inc10",
+        "rotulo": "X",
+        "num": 10,
+        "texto": "outras receitas, dentre as quais aquelas advindas das operações correlatas, acessórias e de comercialização, apresentadas pela concessionária e aprovadas pelo regulador.",
+        "alineas": [],
+        "pag": 2,
+        "refs": []
+       }
+      ],
+      "pag": 2,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "7",
+     "rotulo": "7.",
+     "id": "anx1_it7",
+     "pag": 2,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it7_cpt",
+      "texto": "A taxa de regulação e fiscalização será considerada no cálculo da componente Odesp, com previsão de ajuste compensatório entre os ciclos tarifários.",
+      "incisos": [],
+      "pag": 2,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "8",
+     "rotulo": "8.",
+     "id": "anx1_it8",
+     "pag": 3,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it8_cpt",
+      "texto": "A margem média de distribuição será calculada para CICLO TARIFÁRIO através da seguinte equação: Equação 1: Cálculo da margem média de distribuição [Fórmula: ver o PDF, p. 3.] onde: MM: MARGEM MÉDIA DE DISTRIBUIÇÃO do segmento não termoelétrico (R$/m³). BRRLo: base de remuneração regulatória inicial líquida de depreciações (R$). BRRLT: base de remuneração regulatória líquida ao final do ciclo tarifário (R$). NCGi: valor da NECESSIDADE DE CAPITAL DE GIRO no ano i (R$). NCGT: valor da NECESSIDADE DE CAPITAL DE GIRO ao final do ciclo tarifário (R$). Opexi: custos operacionais, administrativos e de comercialização no ano i (R$). ODespi: outras despesas, gastos, e receitas irrecuperáveis no ano i (R$). Di: depreciação e amortização no ano i (R$). LBsti: lucro bruto do segmento termoelétrico no ano i (R$). Capexi: investimentos realizados no ano i (R$). ORi: outras receitas consideradas na modicidade tarifária (R$). T: número de anos do ciclo tarifário (anos) t: taxa de impostos sobre a renda – imposto de renda pessoa jurídica (IRPJ) e contribuição social sobre lucro líquido (CSLL). rwacc: WACC real após impostos. Vi: volume de GÁS canalizado do segmento não termoelétrico no ano i (m³).",
+      "incisos": [],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "9",
+     "rotulo": "9.",
+     "id": "anx1_it9",
+     "pag": 3,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it9_cpt",
+      "texto": "O cálculo da margem média de distribuição deverá ser realizado para o período de 5 (cinco) anos, compondo o segundo ciclo tarifário.",
+      "incisos": [],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "10",
+     "rotulo": "10.",
+     "id": "anx1_it10",
+     "pag": 3,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it10_cpt",
+      "texto": "A margem média de distribuição será calculada considerando a metodologia do fluxo de caixa livre da concessão do ciclo tarifário, que terá valor presente líquido igual à zero ao utilizar taxa de custo de capital aprovada como taxa de desconto.",
+      "incisos": [],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "11",
+     "rotulo": "11.",
+     "id": "anx1_it11",
+     "pag": 3,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it11_cpt",
+      "texto": "A margem média de distribuição será divulgada sem a inclusão dos tributos PIS, COFINS, ICMS, e/ou outros de mesma natureza que possam vir a ser aplicados. A inclusão desses impostos será informada pela concessionária na divulgação da tabela de tarifas.",
+      "incisos": [],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "12",
+     "rotulo": "12.",
+     "id": "anx1_it12",
+     "pag": 3,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it12_cpt",
+      "texto": "A taxa de impostos sobre a renda – imposto de renda pessoa jurídica (IRPJ) e contribuição social sobre lucro líquido (CSLL) – será de 34% sobre a base tributável.",
+      "incisos": [],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "13",
+     "rotulo": "13.",
+     "id": "anx1_it13",
+     "pag": 3,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it13_cpt",
+      "texto": "A margem dos usuários do segmento termoelétrico observará as regras do(s) contrato(s) em vigor.",
+      "incisos": [],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "14",
+     "rotulo": "14.",
+     "id": "anx1_it14",
+     "pag": 3,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it14_cpt",
+      "texto": "A partir do cálculo da margem média de distribuição, a concessionária deverá apresentar para aprovação do regulador a tabela de tarifas para os diferentes segmentos dos usuários.",
+      "incisos": [],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "15",
+     "rotulo": "15.",
+     "id": "anx1_it15",
+     "pag": 3,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it15_cpt",
+      "texto": "A variação anual de volume distribuído do segmento termoelétrico ao confrontar com o volume aprovado terá seus efeitos compensados na RTO.",
+      "incisos": [],
+      "pag": 3,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "16",
+     "rotulo": "16.",
+     "id": "anx1_it16",
+     "pag": 4,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it16_cpt",
+      "texto": "As características de fornecimento e atendimento ao segmento termoelétrico e aos agentes livres de mercado poderão contribuir para modicidade tarifária.",
+      "incisos": [],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "17",
+     "rotulo": "17.",
+     "id": "anx1_it17",
+     "pag": 4,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it17_cpt",
+      "texto": "Poderão ser incluídos no cálculo da margem média de distribuição os efeitos econômicofinanceiros do mercado livre de gás canalizado, respeitada a justa remuneração da concessionária.",
+      "incisos": [],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "18",
+     "rotulo": "18.",
+     "id": "anx1_it18",
+     "pag": 4,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it18_cpt",
+      "texto": "Os investimentos realizados no primeiro ciclo serão comparados aos investimentos aprovados, e as diferenças verificadas serão aplicadas no cálculo da margem média de distribuição de que trata este regulamento.",
+      "incisos": [],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "19",
+     "rotulo": "19.",
+     "id": "anx1_it19",
+     "pag": 4,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it19_cpt",
+      "texto": "Fica estabelecido o dia 31 de maio de 2025 como data-base de referência para fins de atualização monetária, aplicando-se o índice especificado para cada componente.",
+      "incisos": [],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção III",
+     "texto": "DO PLANO DE NEGÓCIOS",
+     "pag": 4
+    },
+    {
+     "tipo": "artigo",
+     "num": "20",
+     "rotulo": "20.",
+     "id": "anx1_it20",
+     "pag": 4,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it20_cpt",
+      "texto": "A concessionária deverá apresentar o plano de negócios aplicável ao segundo ciclo tarifário, no prazo definido no cronograma de eventos da RTO.",
+      "incisos": [],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "21",
+     "rotulo": "21.",
+     "id": "anx1_it21",
+     "pag": 4,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it21_cpt",
+      "texto": "O plano de negócios contemplará o plano de investimentos para balizar a fixação da margem média de distribuição.",
+      "incisos": [],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "22",
+     "rotulo": "22.",
+     "id": "anx1_it22",
+     "pag": 4,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it22_cpt",
+      "texto": "O plano de negócios deverá demonstrar:",
+      "incisos": [
+       {
+        "id": "anx1_it22_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "os investimentos, o compromisso com a segurança e a qualidade do serviço e a busca permanente da satisfação dos usuários existentes e potenciais dos diferentes mercados, em toda a área de concessão;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_it22_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "que a tecnologia e a estrutura técnica são adequadas para a implantação e operação do sistema de distribuição que atenderá aos segmentos de usuários.",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       }
+      ],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "23",
+     "rotulo": "23.",
+     "id": "anx1_it23",
+     "pag": 4,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it23_cpt",
+      "texto": "O plano de negócios conterá as seguintes informações mínimas:",
+      "incisos": [
+       {
+        "id": "anx1_it23_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "valor da BAR, bem como da BRRB e da BRRL, por meio de laudo de avaliação;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_it23_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "plano de investimentos (físico e financeiro), observado o disposto na Cláusula IX do contrato de concessão;",
+        "alineas": [],
+        "pag": 4,
+        "refs": [
+         {
+          "ini": 70,
+          "fim": 106,
+          "doc": "contrato-concessao-2020",
+          "disp": "cl9",
+          "art": "cl9",
+          "conf": "exato"
+         }
+        ]
+       },
+       {
+        "id": "anx1_it23_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "receitas e custos operacionais, incluindo as informações relacionadas à componente “Outras Despesas, Gastos, e Receitas Irrecuperáveis” – Odesp, na forma da seção VIII deste Anexo”;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_it23_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "informações históricas relativas a custos, receitas, quilometragem de redes de distribuição, ramais dedicados e redes locais, número de usuários e quantidade de gás canalizado distribuído;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_it23_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "estudos de mercado e projeções das grandezas citadas no inciso anterior para o ciclo tarifário em processamento; e",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_it23_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "fluxo de caixa descontado, obtido tendo em vista a taxa WACC.",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       }
+      ],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "24",
+     "rotulo": "24.",
+     "id": "anx1_it24",
+     "pag": 4,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it24_cpt",
+      "texto": "O plano de negócios será submetido a processo de consulta pública, e sua versão final será publicada no sítio eletrônico da ARSP.",
+      "incisos": [],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "25",
+     "rotulo": "25.",
+     "id": "anx1_it25",
+     "pag": 4,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it25_cpt",
+      "texto": "O plano de investimento deverá apresentar, para cada iniciativa, as seguintes informações mínimas:",
+      "incisos": [
+       {
+        "id": "anx1_it25_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "o tipo de investimento;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_it25_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "a caracterização das obras;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_it25_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "os custos;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_it25_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "os objetivos;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_it25_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "a localidade;",
+        "alineas": [],
+        "pag": 4,
+        "refs": []
+       },
+       {
+        "id": "anx1_it25_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "o mercado e o número de usuários e de unidades consumidoras a serem atendidos;",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "anx1_it25_cpt_inc7",
+        "rotulo": "VII",
+        "num": 7,
+        "texto": "cronograma físico-financeiro da construção e da entrada em operação.",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       }
+      ],
+      "pag": 4,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "26",
+     "rotulo": "26.",
+     "id": "anx1_it26",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it26_cpt",
+      "texto": "Em observância ao item 9.3 da Cláusula IX – Plano de Negócios, o plano de investimento, deverá contemplar a previsão, considerando os dois primeiros ciclos tarifários, da previsão obrigatória mínima das seguintes aplicações:",
+      "incisos": [
+       {
+        "id": "anx1_it26_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "ligação de, no mínimo, 60 (sessenta) mil usuários do segmento residencial, atendendo bairros onde, em média, pelo menos 15% (quinze por cento) dos domicílios tenham renda igual ou inferior a 2 (dois) salários mínimos; e",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       },
+       {
+        "id": "anx1_it26_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "investimentos, com recursos próprios, no montante de R$ 298.000.000,00 (duzentos e noventa e oito milhões de reais), a preços de julho de 2020, visando à ampliação do sistema de distribuição de gás canalizado.",
+        "alineas": [],
+        "pag": 5,
+        "refs": []
+       }
+      ],
+      "pag": 5,
+      "refs": [
+       {
+        "ini": 18,
+        "fim": 41,
+        "doc": "contrato-concessao-2020",
+        "disp": "cl9_it9-3",
+        "art": "cl9",
+        "conf": "inferido"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "27",
+     "rotulo": "27.",
+     "id": "anx1_it27",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it27_cpt",
+      "texto": "O regulador poderá aprovar ou solicitar modificações nos planos de investimentos apresentados pela concessionária, observadas, necessariamente, as aplicações mínimas especificadas acima, os prazos e condições previstos em regulamento, o equilíbrio econômico-financeiro do contrato de concessão, a modicidade tarifária e a política de desenvolvimento fixada pelo poder concedente para a prestação do serviço público concedido.",
+      "incisos": [],
+      "pag": 5,
+      "refs": [
+       {
+        "ini": 272,
+        "fim": 293,
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "28",
+     "rotulo": "28.",
+     "id": "anx1_it28",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it28_cpt",
+      "texto": "A aprovação dos investimentos propostos no plano de negócios terá por condição a apresentação prévia de estudos que indiquem sua viabilidade econômico-financeira, assegurada a liberdade da concessionária na direção de negócios, investimentos, pessoal e tecnologia, o equilíbrio econômico-financeiro da concessão e a modicidade tarifária.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "29",
+     "rotulo": "29.",
+     "id": "anx1_it29",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it29_cpt",
+      "texto": "A elaboração do plano de investimentos deverá observar a obrigação contratual de planejar e implementar a expansão e a ampliação do sistema de distribuição, de modo a garantir o atendimento da demanda de seu mercado presente e futuro de gás canalizado, considerando as possibilidades de integração com o sistema de transporte e de outros sistemas de distribuição.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "30",
+     "rotulo": "30.",
+     "id": "anx1_it30",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it30_cpt",
+      "texto": "Os critérios de viabilidade técnica e viabilidade econômica serão objeto de procedimento emitido pela concessionária e aprovado pelo regulador.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "31",
+     "rotulo": "31.",
+     "id": "anx1_it31",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it31_cpt",
+      "texto": "O plano de investimentos poderá incluir empreendimentos cuja viabilidade econômica não possa ser comprovada, desde que o requerente ou interessado, na condição de usuário atual ou futuro do serviço público de gás canalizado, custeie o investimento correspondente à parcela inviável.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "32",
+     "rotulo": "32.",
+     "id": "anx1_it32",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it32_cpt",
+      "texto": "A viabilidade econômico-financeira dos investimentos poderá ser atestada considerando o conjunto de projetos previstos no plano de negócios.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "33",
+     "rotulo": "33.",
+     "id": "anx1_it33",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it33_cpt",
+      "texto": "O plano de investimentos deverá atender aos princípios norteadores do contrato de concessão, observando as regras nele dispostas e as estabelecidas neste regulamento.",
+      "incisos": [],
+      "pag": 5,
+      "refs": [
+       {
+        "ini": 70,
+        "fim": 91,
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "34",
+     "rotulo": "34.",
+     "id": "anx1_it34",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it34_cpt",
+      "texto": "A concessionária deverá prestar contas ao regulador, anualmente, da execução do plano de investimentos.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "35",
+     "rotulo": "35.",
+     "id": "anx1_it35",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it35_cpt",
+      "texto": "Na elaboração do plano de negócios, a concessionária deverá assegurar a obrigação contratual de adotar tecnologia adequada e empregar as melhores práticas setoriais, notadamente quanto à operação, manutenção, planejamento da expansão e modernização das instalações, com emprego de materiais, equipamentos e instalações que, atendidas as normas técnicas brasileiras, garantam a prestação do serviço adequado de distribuição de gás canalizado, inclusive a segurança das pessoas e das instalações.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção IV",
+     "texto": "DA BASE DE REMUNERAÇÃO REGULATÓRIA",
+     "pag": 5
+    },
+    {
+     "tipo": "artigo",
+     "num": "36",
+     "rotulo": "36.",
+     "id": "anx1_it36",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it36_cpt",
+      "texto": "A base de remuneração regulatória será definida nos termos da Resolução ARSP nº 080/2024.",
+      "incisos": [],
+      "pag": 5,
+      "refs": [
+       {
+        "ini": 62,
+        "fim": 88,
+        "externo": "Res. ARSP 080/2024",
+        "url": null,
+        "conf": "externo"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "37",
+     "rotulo": "37.",
+     "id": "anx1_it37",
+     "pag": 5,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it37_cpt",
+      "texto": "A BRRB, bem como a BRRL, avaliada no momento da RTO, será projetada para os demais anos do ciclo tarifário, considerando o acréscimo dos investimentos anuais previstos para o período e as datas em que os mesmos passarão a integrar a BRRB, incluindo também os valores do JOA.",
+      "incisos": [],
+      "pag": 5,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "38",
+     "rotulo": "38.",
+     "id": "anx1_it38",
+     "pag": 6,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it38_cpt",
+      "texto": "Para fins de apuração dos impostos sobre o resultado, serão utilizados valores de depreciação e amortização conforme regramento da legislação fiscal vigente.",
+      "incisos": [],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "39",
+     "rotulo": "39.",
+     "id": "anx1_it39",
+     "pag": 6,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it39_cpt",
+      "texto": "Os valores dos investimentos que comporão o fluxo de caixa livre da concessão deverão estar de acordo com o plano de negócios da concessionária e homologado pelo regulador.",
+      "incisos": [],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "40",
+     "rotulo": "40.",
+     "id": "anx1_it40",
+     "pag": 6,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it40_cpt",
+      "texto": "A concessionária receberá remuneração do capital multiplicando a BRRL e a NCG pela taxa WACC vigente.",
+      "incisos": [],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção V",
+     "texto": "DO CUSTO DE CAPITAL",
+     "pag": 6
+    },
+    {
+     "tipo": "artigo",
+     "num": "41",
+     "rotulo": "41.",
+     "id": "anx1_it41",
+     "pag": 6,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it41_cpt",
+      "texto": "Esta seção aborda a metodologia de definição do custo de capital no cálculo da margem média de distribuição.",
+      "incisos": [],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "42",
+     "rotulo": "42.",
+     "id": "anx1_it42",
+     "pag": 6,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it42_cpt",
+      "texto": "O custo de capital será definido pela metodologia do custo médio ponderado de capital ou taxa WACC – weighted average cost of capital.",
+      "incisos": [],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "43",
+     "rotulo": "43.",
+     "id": "anx1_it43",
+     "pag": 6,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it43_cpt",
+      "texto": "O cálculo da taxa WACC será apresentado pela concessionária, seguindo os parâmetros deste regulamento.",
+      "incisos": [],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "44",
+     "rotulo": "44.",
+     "id": "anx1_it44",
+     "pag": 6,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it44_cpt",
+      "texto": "A taxa WACC será calculada através da fórmula apresentada a seguir: [Fórmula: ver o PDF, p. 6.] onde: WACC: taxa de remuneração regulatória aplicável ao ciclo tarifário, em %; we: participação do capital próprio (equity), em %; re: custo do capital próprio (equity), depois dos impostos, em %; wd: participação do capital de terceiros, em %; Rd: custo do capital de terceiros, em %; rc: risco de crédito, em %; t: alíquota dos impostos sobre a renda, em %; rf: taxa livre de risco, em %; βe: beta; (rm − rf ): prêmio de risco do mercado, em %; e RP: risco país, em %.",
+      "incisos": [],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "45",
+     "rotulo": "45.",
+     "id": "anx1_it45",
+     "pag": 6,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it45_cpt",
+      "texto": "Os elementos da fórmula para o cálculo da taxa WACC estão apresentados no Anexo III.",
+      "incisos": [],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "46",
+     "rotulo": "46.",
+     "id": "anx1_it46",
+     "pag": 6,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it46_cpt",
+      "texto": "A aplicação do risco tamanho será precedida de avaliação das condições do mercado que indique a necessidade de sua inclusão.",
+      "incisos": [],
+      "pag": 6,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção VI",
+     "texto": "DA NECESSIDADE DE CAPITAL DE GIRO",
+     "pag": 7
+    },
+    {
+     "tipo": "artigo",
+     "num": "47",
+     "rotulo": "47.",
+     "id": "anx1_it47",
+     "pag": 7,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it47_cpt",
+      "texto": "Esta seção aborda a metodologia de definição da necessidade de capital de giro – NCG no cálculo da margem média de distribuição.",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "48",
+     "rotulo": "48.",
+     "id": "anx1_it48",
+     "pag": 7,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it48_cpt",
+      "texto": "A NCG será calculada pela diferença entre os ativos e passivos circulantes, assumindo uma utilização ótima dos recursos financeiros da concessionária, representando a reserva de recursos necessária para suprir as necessidades financeiras operacionais da concessionária.",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "49",
+     "rotulo": "49.",
+     "id": "anx1_it49",
+     "pag": 7,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it49_cpt",
+      "texto": "A concessionária apresentará estudo sobre a necessidade de capital de giro como parte do plano de negócios.",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "50",
+     "rotulo": "50.",
+     "id": "anx1_it50",
+     "pag": 7,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it50_cpt",
+      "texto": "O estudo apresentará as justificativas para o seu reconhecimento, os critérios utilizados no cálculo e o montante correspondente para cada ano do segundo ciclo tarifário.",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "51",
+     "rotulo": "51.",
+     "id": "anx1_it51",
+     "pag": 7,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it51_cpt",
+      "texto": "As informações serão analisadas pelo regulador, que definirá o montante anual aplicável.",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "52",
+     "rotulo": "52.",
+     "id": "anx1_it52",
+     "pag": 7,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it52_cpt",
+      "texto": "A projeção do capital de giro será calculada pelas equações a seguir: Equação 2: Cálculo do capital de giro [Fórmula: ver o PDF, p. 7.] Onde: NCGi= Necessidade de capital de giro projetado no ano i; NCGu = Necessidade de capital de giro unitário (R$/m³); Vi = Volume total distribuído projetado no ano i (m³). Sendo: Equação 3: Cálculo do capital de giro unitário [Fórmula: ver o PDF, p. 7.] Onde: NCGu = Necessidade de capital de giro unitário (R$/m³); AC = Total das receitas operacionais (ativo circulante) corrigidas pelo IPCA; PC = Total das despesas operacionais (passivo circulante) corrigidas pelo IPCA; V = Volume distribuído (m³).",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "53",
+     "rotulo": "53.",
+     "id": "anx1_it53",
+     "pag": 7,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it53_cpt",
+      "texto": "A variação do capital de giro será calculada pela seguinte equação: Equação 4: Variação do capital de giro [Fórmula: ver o PDF, p. 7.] Onde: ∆CGi = variação do capital de giro projetado no ano i; NCGi = Necessidade de capital de giro projetado no ano i; e NCGi−1 = Necessidade de capital de giro projetado no ano i−1.",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "54",
+     "rotulo": "54.",
+     "id": "anx1_it54",
+     "pag": 7,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it54_cpt",
+      "texto": "Os valores utilizados para a definição do capital de giro serão atualizados até a data-base de referência da revisão tarifária.",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "55",
+     "rotulo": "55.",
+     "id": "anx1_it55",
+     "pag": 7,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it55_cpt",
+      "texto": "O valor da necessidade de capital de giro ao final do ciclo tarifário – NCGT, será deduzido do cálculo da margem de distribuição, na forma da equação 1 apresentada na seção II.",
+      "incisos": [],
+      "pag": 7,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção VII",
+     "texto": "DOS CUSTOS OPERACIONAIS",
+     "pag": 7
+    },
+    {
+     "tipo": "artigo",
+     "num": "56",
+     "rotulo": "56.",
+     "id": "anx1_it56",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it56_cpt",
+      "texto": "Esta seção aborda a metodologia de definição da componente OPEX no cálculo da margem média de distribuição.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "57",
+     "rotulo": "57.",
+     "id": "anx1_it57",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it57_cpt",
+      "texto": "Para essa definição, será adotado o método baseado na avaliação dos custos e indicadores históricos da concessionária, comparados com outras concessionárias de distribuição de gás canalizado.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "58",
+     "rotulo": "58.",
+     "id": "anx1_it58",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it58_cpt",
+      "texto": "O regulador analisará a trajetória e os valores previstos pela concessionária em seu plano de negócios, realizando avaliação qualitativa e quantitativa de consistência, a fim de definir os montantes aplicáveis a cada ano do segundo ciclo tarifário.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "59",
+     "rotulo": "59.",
+     "id": "anx1_it59",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it59_cpt",
+      "texto": "Os registros contábeis serão apresentados de acordo com a máxima abertura permitida pelo plano de contas societário da concessionária, de acordo com as contas em nível analítico que subsidiam as demonstrações financeiras previamente submetidas a procedimentos de auditoria independente.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "60",
+     "rotulo": "60.",
+     "id": "anx1_it60",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it60_cpt",
+      "texto": "Os custos determinados por meio de rateio, decorrentes de operações compartilhadas entre partes relacionadas do mesmo grupo econômico, terão sua memória de cálculo apresentada de forma detalhada, de modo que seja possível identificar os valores estritamente vinculados à exploração do serviço público de distribuição de gás canalizado prestado pela ES Gás.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "61",
+     "rotulo": "61.",
+     "id": "anx1_it61",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it61_cpt",
+      "texto": "Os encargos relativos às apólices de seguros comporão os custos operacionais eficientes a serem consideradas na margem média de distribuição.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Subseção",
+     "rotulo": "Subseção VII.1",
+     "texto": "Avaliação Qualitativa",
+     "pag": 8
+    },
+    {
+     "tipo": "artigo",
+     "num": "62",
+     "rotulo": "62.",
+     "id": "anx1_it62",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it62_cpt",
+      "texto": "A análise qualitativa consiste na identificação dos custos elegíveis, ou seja, necessários à prestação adequada e contínua do serviço público de distribuição de gás canalizado.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "63",
+     "rotulo": "63.",
+     "id": "anx1_it63",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it63_cpt",
+      "texto": "Os custos não elegíveis serão excluídos da base de projeção de custos operacionais, de acordo com a sua natureza, cuja análise será realizada pelo regulador.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "64",
+     "rotulo": "64.",
+     "id": "anx1_it64",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it64_cpt",
+      "texto": "Eventuais glosas, a depender de sua natureza, serão desconsideradas para efeito das estimativas de produtividade a serem aplicadas através do Fator X, quando aplicável.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Subseção",
+     "rotulo": "Subseção VII.2",
+     "texto": "Avaliação Quantitativa",
+     "pag": 8
+    },
+    {
+     "tipo": "artigo",
+     "num": "65",
+     "rotulo": "65.",
+     "id": "anx1_it65",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it65_cpt",
+      "texto": "Após excluídos os custos não elegíveis por meio da análise qualitativa, os valores aplicáveis de OPEX, serão atualizados pelo IPCA até a data de referência da RTO.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "66",
+     "rotulo": "66.",
+     "id": "anx1_it66",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it66_cpt",
+      "texto": "A seguir, será realizada a avaliação quantitativa por meio da construção de indicadores, com sua comparação com os resultados do primeiro ciclo tarifário e com outras concessionárias do serviço de distribuição de gás canalizado, a fim de compor uma base de custos operacionais eficientes no âmbito da regulação por incentivos.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "67",
+     "rotulo": "67.",
+     "id": "anx1_it67",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it67_cpt",
+      "texto": "Os valores referenciais serão comparados com as projeções do plano de negócios da concessionária, verificando sua estabilidade e consistência.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "68",
+     "rotulo": "68.",
+     "id": "anx1_it68",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it68_cpt",
+      "texto": "Ainda, serão considerados os potenciais ganhos de eficiência, em conformidade com a metodologia do Fator X.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "69",
+     "rotulo": "69.",
+     "id": "anx1_it69",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it69_cpt",
+      "texto": "Na inconsistência dos valores projetados no plano de negócios e na ausência de justificativas para tal, os custos operacionais eficientes serão ajustados para refletir uma trajetória regulatória consistente com o histórico do primeiro ciclo tarifário e com o setor regulado de distribuição de gás canalizado.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção VIII",
+     "texto": "DAS OUTRAS DESPESAS, GASTOS, E RECEITAS IRRECUPERÁVEIS",
+     "pag": 8
+    },
+    {
+     "tipo": "artigo",
+     "num": "70",
+     "rotulo": "70.",
+     "id": "anx1_it70",
+     "pag": 8,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it70_cpt",
+      "texto": "Esta seção aborda a metodologia de definição da componente Odesp, contemplando os custos com (i) perdas regulatórias, (ii) taxas de regulação do serviço público de gás canalizado, (iii) pesquisa e desenvolvimento, (iv) receitas irrecuperáveis; e (v) encargos da tarifa social.",
+      "incisos": [],
+      "pag": 8,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Subseção",
+     "rotulo": "Subseção VIII.1",
+     "texto": "Perdas",
+     "pag": 9
+    },
+    {
+     "tipo": "artigo",
+     "num": "71",
+     "rotulo": "71.",
+     "id": "anx1_it71",
+     "pag": 9,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it71_cpt",
+      "texto": "Esta subseção trata da definição dos custos com perdas regulatórias como parte da componente Odesp da receita requerida.",
+      "incisos": [],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "72",
+     "rotulo": "72.",
+     "id": "anx1_it72",
+     "pag": 9,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it72_cpt",
+      "texto": "O custo com perdas será definido pela determinação do nível eficiente de perdas regulatórias vinculadas à distribuição do gás canalizado, associado à definição de uma meta percentual regulatória anual.",
+      "incisos": [],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "73",
+     "rotulo": "73.",
+     "id": "anx1_it73",
+     "pag": 9,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it73_cpt",
+      "texto": "O percentual será definido por meio de estudo, que analisará a trajetória das perdas regulatórias no primeiro ciclo tarifário, identificando o nível eficiente que deve ser reconhecido no cálculo da margem média de distribuição.",
+      "incisos": [],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "74",
+     "rotulo": "74.",
+     "id": "anx1_it74",
+     "pag": 9,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it74_cpt",
+      "texto": "No estudo de perdas devem ser definidas principalmente três variáveis: o indicador de referência das perdas, o nível real de perdas da concessionária e a meta regulatória.",
+      "incisos": [],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "75",
+     "rotulo": "75.",
+     "id": "anx1_it75",
+     "pag": 9,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it75_cpt",
+      "texto": "O indicador de referência estabelecido é a a porcentagem de perdas totais de gás – PPTG, que considera tanto (i) as perdas técnicas, que incluem vazamentos devido a incidentes e à imprecisão dos equipamentos de medição, e (ii) as perdas comerciais, oriundas de fraudes, ligações clandestinas e erros de faturamento.",
+      "incisos": [],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "76",
+     "rotulo": "76.",
+     "id": "anx1_it76",
+     "pag": 9,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it76_cpt",
+      "texto": "Por meio dos dados históricos encaminhados por estudo próprio elaborado pela concessionária e validado pela ARSP, será calculada a PPTG para cada ano do primeiro ciclo tarifário. Em seguida, deverá ser definido o PPTG regulatório aplicável ao segundo ciclo, com o objetivo de determinar o percentual de perdas regulatórias a ser reconhecido na tarifa, podendo ser um valor fixo anual ou valores decrescentes.",
+      "incisos": [],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "77",
+     "rotulo": "77.",
+     "id": "anx1_it77",
+     "pag": 9,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it77_cpt",
+      "texto": "O percentual anual de perdas aplicável ao segundo ciclo tarifário representará a meta definida pelo regulador e subsidiará as medidas necessárias para que a concessionária atinja o nível de perdas estabelecido, em observância ao item 8.25 da Cláusula VIII do contrato de concessão.",
+      "incisos": [],
+      "pag": 9,
+      "refs": [
+       {
+        "ini": 229,
+        "fim": 280,
+        "doc": "contrato-concessao-2020",
+        "disp": "cl8_it8-25",
+        "art": "cl8",
+        "conf": "exato"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "78",
+     "rotulo": "78.",
+     "id": "anx1_it78",
+     "pag": 9,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it78_cpt",
+      "texto": "O estudo também realizará uma comparação entre concessionárias de caraterísticas similares e os níveis de metas ideais definidos pela literatura, bem como na experiência internacional, caso aplicável, e de acordo com a disponibilidade de dados sobre o tema.",
+      "incisos": [],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Subseção",
+     "rotulo": "Subseção VIII.2",
+     "texto": "Taxa de Regulação do Serviço Público de Gás Canalizado",
+     "pag": 9
+    },
+    {
+     "tipo": "artigo",
+     "num": "79",
+     "rotulo": "79.",
+     "id": "anx1_it79",
+     "pag": 9,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it79_cpt",
+      "texto": "Esta subseção trata da definição dos custos com a Taxa de Regulação do Serviço Público do Gás Canalizado - TRG, como parte da componente Odesp da receita requerida.",
+      "incisos": [],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "80",
+     "rotulo": "80.",
+     "id": "anx1_it80",
+     "pag": 9,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it80_cpt",
+      "texto": "De acordo com o art. 10 da Lei nº 7.860/2004, a TRG é determinada pela seguinte fórmula: Equação 5: Cálculo da TRG [Fórmula: ver o PDF, p. 9.] Onde TRG = Taxa de Regulação e Fiscalização do Serviço Público de Gás Canalizado; G = 0,125% do volume mensal movimentado no sistema de distribuição em metros cúbicos de gás canalizado; VRTE = Valor de Referência do Tesouro Estadual.",
+      "incisos": [],
+      "pag": 9,
+      "refs": [
+       {
+        "ini": 16,
+        "fim": 44,
+        "externo": "Lei 7.860/2004",
+        "url": null,
+        "conf": "externo"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "81",
+     "rotulo": "81.",
+     "id": "anx1_it81",
+     "pag": 9,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it81_cpt",
+      "texto": "Os valores referentes à TRG serão projetados como parte do plano de negócios, sendo homologados pelo regulador, compondo o cálculo da componente Odesp, e serão objeto de ajuste compensatório entre os ciclos tarifários.",
+      "incisos": [],
+      "pag": 9,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Subseção",
+     "rotulo": "Subseção VIII.3",
+     "texto": "Pesquisa e Desenvolvimento",
+     "pag": 10
+    },
+    {
+     "tipo": "artigo",
+     "num": "82",
+     "rotulo": "82.",
+     "id": "anx1_it82",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it82_cpt",
+      "texto": "Esta subseção trata da definição dos custos com o incentivo à pesquisa e desenvolvimento – P&D, como parte da componente Odesp da receita requerida.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "83",
+     "rotulo": "83.",
+     "id": "anx1_it83",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it83_cpt",
+      "texto": "Será alocado o montante equivalente a 0,25% da receita requerida referente ao custeio de gastos com pesquisa e desenvolvimento em projetos voltados a alocar recursos humanos e financeiros, visando à inovação e/ou ao aprimoramento dos produtos e da prestação de serviços, nos processos e usos finais do gás.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "84",
+     "rotulo": "84.",
+     "id": "anx1_it84",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it84_cpt",
+      "texto": "Os projetos financiados por estes recursos serão propostos pela concessionária e serão objeto de homologação pelo regulador.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Subseção",
+     "rotulo": "Subseção VIII.4",
+     "texto": "Receitas Irrecuperáveis",
+     "pag": 10
+    },
+    {
+     "tipo": "artigo",
+     "num": "85",
+     "rotulo": "85.",
+     "id": "anx1_it85",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it85_cpt",
+      "texto": "Esta subseção trata da definição dos custos com receitas irrecuperáveis, como parte da componente Odesp da receita requerida.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "86",
+     "rotulo": "86.",
+     "id": "anx1_it86",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it86_cpt",
+      "texto": "O custo com receitas irrecuperáveis será definido pela determinação do nível eficiente da parcela da receita faturada e não recebida pela concessionária, resultante da inadimplência dos usuários.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "87",
+     "rotulo": "87.",
+     "id": "anx1_it87",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it87_cpt",
+      "texto": "O ônus da inadimplência, a ser ressarcido à concessionária, será limitado ao valor limite regulatório estabelecido para os valores faturados considerados como incobráveis, após esgotadas todas as tentativas de cobrança.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "88",
+     "rotulo": "88.",
+     "id": "anx1_it88",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it88_cpt",
+      "texto": "O nível eficiente de inadimplência será definido como um percentual regulatório para o ciclo tarifário, obtido a partir das informações da base de faturamento da concessionária, utilizando o método da curva de envelhecimento da fatura, também conhecido como curva de “aging”.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "89",
+     "rotulo": "89.",
+     "id": "anx1_it89",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it89_cpt",
+      "texto": "Através da análise dos dados encaminhados pela concessionária, se identificará o percentual dos valores a receber não afetado de forma substancial pelas ações de cobrança, considerado como o ponto de estabilização da curva de aging, nível que representa as receitas consideradas como irrecuperáveis.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "90",
+     "rotulo": "90.",
+     "id": "anx1_it90",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it90_cpt",
+      "texto": "Será analisada a base de faturamento atual e pendente dos últimos 36 meses, a fim de determinar o ponto de estabilização da curva. A trajetória de inadimplência deverá contemplar os valores a recuperar por categoria de usuários.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "91",
+     "rotulo": "91.",
+     "id": "anx1_it91",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it91_cpt",
+      "texto": "Caso os níveis de inadimplência apurados por meio dos dados da concessionária sejam muito divergentes dos percentuais regulatórios habituais no setor de distribuição de gás canalizado, será avaliada a aplicação de um mecanismo de transição, para que se atinjam os valores regulatórios durante o segundo ciclo tarifário.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Subseção",
+     "rotulo": "Subseção VIII.5",
+     "texto": "Encargos da Tarifa Social",
+     "pag": 10
+    },
+    {
+     "tipo": "artigo",
+     "num": "92",
+     "rotulo": "92.",
+     "id": "anx1_it92",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it92_cpt",
+      "texto": "Os encargos da tarifa social, caso instituída, e na ausência de subsídio direto, deverão compor a receita requerida, como parte da componente Odesp.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção IX",
+     "texto": "DO FATOR X",
+     "pag": 10
+    },
+    {
+     "tipo": "artigo",
+     "num": "93",
+     "rotulo": "93.",
+     "id": "anx1_it93",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it93_cpt",
+      "texto": "Esta seção aborda a metodologia de definição do fator X no cálculo da margem média de distribuição.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "94",
+     "rotulo": "94.",
+     "id": "anx1_it94",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it94_cpt",
+      "texto": "O Fator X será calculado pelo modelo de Fluxo de Caixa Descontado (FCD).",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "95",
+     "rotulo": "95.",
+     "id": "anx1_it95",
+     "pag": 10,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it95_cpt",
+      "texto": "Será realizada uma verificação, através de um modelo financeiro, para que o fator determinado permita à concessionária cumprir com os planos de investimento definidos e obter uma rentabilidade compatível com seu custo de capital.",
+      "incisos": [],
+      "pag": 10,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "96",
+     "rotulo": "96.",
+     "id": "anx1_it96",
+     "pag": 11,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it96_cpt",
+      "texto": "O Fator X será determinado como o percentual que zera o valor presente dos fluxos de caixa esperados, descontados à taxa do custo de capital reconhecida pelo regulador.",
+      "incisos": [],
+      "pag": 11,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "97",
+     "rotulo": "97.",
+     "id": "anx1_it97",
+     "pag": 11,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it97_cpt",
+      "texto": "Para o cálculo do fator X, primeiramente será calculada uma margem média com base em um fluxo de caixa que considera a projeção das diferentes componentes da Receita Requerida, sendo que os custos operacionais considerados neste fluxo de caixa e que compõem a receita requerida são projetados sem incorporar critérios de eficiência, segundo a equação a seguir: Equação 6: Margem média sem fator X [Fórmula: ver o PDF, p. 11.] Onde: MMsemFatorX: margem média de distribuição sem fator X; VPRR: valor presente da Receita Requerida; VPVol: valor presente do volume distribuído projetado para o ciclo tarifário, segundo a seguinte Equação: Equação 7: Valor presente dos volumes projetados [Fórmula: ver o PDF, p. 11.]",
+      "incisos": [],
+      "pag": 11,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "98",
+     "rotulo": "98.",
+     "id": "anx1_it98",
+     "pag": 11,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it98_cpt",
+      "texto": "O segundo passo para o cálculo do Fator X consiste em determinar o valor presente da Receita Requerida Eficiente (VPRRE). Para isso, serão utilizados direcionadores eficientes na projeção dos custos operacionais, considerando valores eficientes no fluxo de caixa, de acordo com a tabela a seguir: Tabela 1: Projeção custos operacionais [Tabela: ver o PDF, p. 11.]",
+      "incisos": [],
+      "pag": 11,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "99",
+     "rotulo": "99.",
+     "id": "anx1_it99",
+     "pag": 11,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it99_cpt",
+      "texto": "Finalmente, o fator X é determinado como o valor que aplicado sobre o produto entre a “margem média sem fator X” e o volume (em valor presente) iguala o valor presente da Receita Requerida Eficiente, permitindo que a taxa interna de retorno desse fluxo seja igual à taxa do custo de capital: Equação 8: Fator X [Fórmula: ver o PDF, p. 11.]",
+      "incisos": [],
+      "pag": 11,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "100",
+     "rotulo": "100.",
+     "id": "anx1_it100",
+     "pag": 11,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it100_cpt",
+      "texto": "O fator X resultante será representado por um percentual que se manterá fixo para os anos subsequentes do ciclo tarifário e que aplicado sobre a margem média sem fator X, permitirá à concessionária atingir a receita requerida eficiente.",
+      "incisos": [],
+      "pag": 11,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "101",
+     "rotulo": "101.",
+     "id": "anx1_it101",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it101_cpt",
+      "texto": "O fator X será aplicado nos reajustes anuais da margem média de distribuição.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "102",
+     "rotulo": "102.",
+     "id": "anx1_it102",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it102_cpt",
+      "texto": "Para a metodologia, serão considerados, quando aplicáveis, os dados coletados ao longo do primeiro ciclo tarifário, de acordo com o que estabelece a cláusula V do contrato de concessão.",
+      "incisos": [],
+      "pag": 12,
+      "refs": [
+       {
+        "ini": 149,
+        "fim": 184,
+        "doc": "contrato-concessao-2020",
+        "disp": "cl5",
+        "art": "cl5",
+        "conf": "exato"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção X",
+     "texto": "DAS OUTRAS RECEITAS",
+     "pag": 12
+    },
+    {
+     "tipo": "artigo",
+     "num": "103",
+     "rotulo": "103.",
+     "id": "anx1_it103",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it103_cpt",
+      "texto": "Esta seção aborda a metodologia de definição das outras receitas no cálculo da margem média de distribuição.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "104",
+     "rotulo": "104.",
+     "id": "anx1_it104",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it104_cpt",
+      "texto": "As outras receitas são advindas das operações correlatas, acessórias e de comercialização, apresentadas pela concessionária.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "105",
+     "rotulo": "105.",
+     "id": "anx1_it105",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it105_cpt",
+      "texto": "A concessionária somente prestará atividades não abarcadas pelo serviço público de distribuição de gás canalizado:",
+      "incisos": [
+       {
+        "id": "anx1_it105_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "quando se relacionarem ao seu objeto, isto é, à execução do serviço público de distribuição de gás canalizado; e",
+        "alineas": [],
+        "pag": 12,
+        "refs": []
+       },
+       {
+        "id": "anx1_it105_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "quando autorizadas pelo regulador, nos termos e condições especificadas neste regulamento.",
+        "alineas": [],
+        "pag": 12,
+        "refs": []
+       }
+      ],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "106",
+     "rotulo": "106.",
+     "id": "anx1_it106",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it106_cpt",
+      "texto": "As receitas correlatas, receitas acessórias e receitas de comercialização, bem como os custos, despesas e encargos associados às operações de prestação de serviços geradores de tais receitas deverão ser contabilizados em separado, e parte de seu resultado poderá ser revertida à modicidade tarifária e aplicado no cálculo da margem média de distribuição, nos termos deste regulamento.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "107",
+     "rotulo": "107.",
+     "id": "anx1_it107",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it107_cpt",
+      "texto": "O compartilhamento de que trata essa seção observará o incentivo à prestação destes serviços pela concessionária, sem prejuízo às atividades principais definidas no contrato de concessão.",
+      "incisos": [],
+      "pag": 12,
+      "refs": [
+       {
+        "ini": 165,
+        "fim": 186,
+        "doc": "contrato-concessao-2020",
+        "disp": null,
+        "conf": "documento"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "108",
+     "rotulo": "108.",
+     "id": "anx1_it108",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it108_cpt",
+      "texto": "O compartilhamento total das receitas será realizado quando a totalidade dos custos incorridos para a prestação dos serviços correlatos já estiverem considerados dentro do cálculo dos custos operacionais que compõem a receita requerida.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "109",
+     "rotulo": "109.",
+     "id": "anx1_it109",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it109_cpt",
+      "texto": "O compartilhamento parcial será aplicável sobre as atividades cujos custos não estão contemplados no cálculo dos custos operacionais.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "110",
+     "rotulo": "110.",
+     "id": "anx1_it110",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it110_cpt",
+      "texto": "A concessionária apresentará estudo, como parte de seu plano de negócios, com a proposição do percentual de compartilhamento das operações correlatas, acessórias e de comercialização, caso aplicáveis.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "111",
+     "rotulo": "111.",
+     "id": "anx1_it111",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it111_cpt",
+      "texto": "O compartilhamento de que trata esta seção será apurado a partir do resultado das operações geradoras de receitas acessórias, receitas correlatas e receitas de comercialização, caso aplicável, e observará a efetiva dedução dos custos, despesas e encargos a elas associados, diretamente ou por meio de rateio, observado o disposto no item 108.",
+      "incisos": [],
+      "pag": 12,
+      "refs": [
+       {
+        "ini": 333,
+        "fim": 341,
+        "doc": "res-arsp-084-2025",
+        "disp": "anx1_it108",
+        "art": "anx1_it108",
+        "conf": "exato"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "112",
+     "rotulo": "112.",
+     "id": "anx1_it112",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it112_cpt",
+      "texto": "A lista de atividades exclusivas, geradoras de receitas correlatas, bem como seus respectivos valores, estão dispostos na Resolução ARSP nº 031, de 23 de dezembro de 2019, ou outra que venha à substituí-la.",
+      "incisos": [],
+      "pag": 12,
+      "refs": [
+       {
+        "ini": 122,
+        "fim": 170,
+        "externo": "Res. ARSP 031/2019",
+        "url": null,
+        "conf": "externo"
+       }
+      ]
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "artigo",
+     "num": "113",
+     "rotulo": "113.",
+     "id": "anx1_it113",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it113_cpt",
+      "texto": "A lista de atividades geradoras de receitas acessórias será homologada e publicada no sítio oficial da ARSP.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    },
+    {
+     "tipo": "titulo",
+     "nivel": "Seção",
+     "rotulo": "Seção XI",
+     "texto": "DO FATOR K",
+     "pag": 12
+    },
+    {
+     "tipo": "artigo",
+     "num": "114",
+     "rotulo": "114.",
+     "id": "anx1_it114",
+     "pag": 12,
+     "secao": true,
+     "caput": {
+      "id": "anx1_it114_cpt",
+      "texto": "O fator K, ou Termo de Ajuste K, não será aplicável na metodologia de definição da margem média de distribuição no segundo ciclo tarifário.",
+      "incisos": [],
+      "pag": 12,
+      "refs": []
+     },
+     "paragrafos": []
+    }
+   ]
+  },
+  {
+   "id": "anx2",
+   "rotulo": "Anexo II – DEFINIÇÕES",
+   "blocos": [
+    {
+     "tipo": "artigo",
+     "num": "",
+     "rotulo": "",
+     "id": "anx2",
+     "pag": 13,
+     "caput": {
+      "id": "anx2_cpt",
+      "texto": "",
+      "incisos": [
+       {
+        "id": "anx2_cpt_inc1",
+        "rotulo": "I",
+        "num": 1,
+        "texto": "BASE DE ATIVOS REGULATÓRIOS (BAR): são os bens vinculados à concessão, compreendendo os bens materiais e imateriais, móveis ou imóveis, necessários à prestação adequada e contínua do serviço público de distribuição de gás canalizado;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc2",
+        "rotulo": "II",
+        "num": 2,
+        "texto": "BASE DE REMUNERAÇÃO REGULATÓRIA BRUTA (BRRB): ativo composto pelo valor da bar e pelo valor da outorga, considerando critérios de elegibilidade e índice de aproveitamento, não incluindo a participação financeira do usuário, doações, subvenções e ativos não onerosos, terrenos, as obras e conversões em andamento e o almoxarifado de materiais e equipamentos empregados em obras, exceto reserva técnica, conforme critérios estabelecidos no contrato de concessão e na Resolução ARSP nº 080, de 05 de dezembro de 2024;",
+        "alineas": [],
+        "pag": 13,
+        "refs": [
+         {
+          "ini": 438,
+          "fim": 459,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         },
+         {
+          "ini": 465,
+          "fim": 513,
+          "externo": "Res. ARSP 080/2024",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc3",
+        "rotulo": "III",
+        "num": 3,
+        "texto": "BASE DE REMUNERAÇÃO REGULATÓRIA LÍQUIDA (BRRL): valor da base de remuneração regulatória bruta (BRRB) deduzida da depreciação e amortização acumuladas e dos ativos totalmente depreciados, e acrescida de terrenos, conforme critérios estabelecidos no contrato de concessão e na Resolução ARSP nº 080, de 05 de dezembro de 2024;",
+        "alineas": [],
+        "pag": 13,
+        "refs": [
+         {
+          "ini": 249,
+          "fim": 270,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         },
+         {
+          "ini": 276,
+          "fim": 324,
+          "externo": "Res. ARSP 080/2024",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc4",
+        "rotulo": "IV",
+        "num": 4,
+        "texto": "CICLO TARIFÁRIO: intervalo de tempo de 5 (cinco) anos revisões tarifárias;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc5",
+        "rotulo": "V",
+        "num": 5,
+        "texto": "COMERCIALIZAÇÃO DE GÁS CANALIZADO: atividade de compra e venda de gás canalizado, realizada por meio da celebração de contratos negociados entre os interessados e registrados na ANP, ressalvado o disposto no § 2º do art. 25 da constituição federal;",
+        "alineas": [],
+        "pag": 13,
+        "refs": [
+         {
+          "ini": 208,
+          "fim": 247,
+          "externo": "Constituição Federal",
+          "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:constituicao:1988-10-05;1988",
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc6",
+        "rotulo": "VI",
+        "num": 6,
+        "texto": "CONCESSÃO: relação jurídica formada pela delegação, à concessionária, pelo poder concedente, da prestação do serviço público referida no contrato de concessão e neste regulamento, que será remunerado mediante tarifa paga pelo usuário;",
+        "alineas": [],
+        "pag": 13,
+        "refs": [
+         {
+          "ini": 137,
+          "fim": 158,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc7",
+        "rotulo": "VII",
+        "num": 7,
+        "texto": "CONCESSIONÁRIA: sociedade à qual é adjudicada, mediante concessão, a prestação do serviço púbico de distribuição de gás canalizado;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc8",
+        "rotulo": "VIII",
+        "num": 8,
+        "texto": "CONTRATO: instrumento de outorga da concessão, celebrado entre o poder concedente e a concessionária, que tem por objeto regular as condições de exploração do serviço público de distribuição de gás canalizado no estado do espírito santo;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc9",
+        "rotulo": "IX",
+        "num": 9,
+        "texto": "CUSTOS OPERACIONAIS EFICIENTES: custos e demais gastos incorridos com a prestação do serviço público de distribuição de gás canalizado, observado o disposto neste regulamento;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc10",
+        "rotulo": "X",
+        "num": 10,
+        "texto": "EQUILÍBRIO ECONÔMICO-FINANCEIRO: relação de equilíbrio entre os encargos e as receitas da CONCESSÃO, observada a adequada prestação do serviço e sua remuneração conforme disposto no contrato de concessão e nos regulamentos editados pela ARSP;",
+        "alineas": [],
+        "pag": 13,
+        "refs": [
+         {
+          "ini": 182,
+          "fim": 203,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc11",
+        "rotulo": "XI",
+        "num": 11,
+        "texto": "ESTRUTURA TARIFÁRIA: conjunto de tabelas de tarifas aplicadas para o faturamento do serviço público de distribuição de gás canalizado, que reflete a diferenciação entre os segmentos de usuários e classes tarifárias;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc12",
+        "rotulo": "XII",
+        "num": 12,
+        "texto": "FATOR X: índice previsto no contrato de concessão e estabelecido na forma deste regulamento, com o objetivo de repassar os potenciais ganhos de produtividade da concessionária;",
+        "alineas": [],
+        "pag": 13,
+        "refs": [
+         {
+          "ini": 28,
+          "fim": 49,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc13",
+        "rotulo": "XIII",
+        "num": 13,
+        "texto": "FLUXO DE CAIXA LIVRE DA CONCESSÃO: mecanismo utilizado para projetar receitas, custos, despesas e investimentos, bem como outros desembolsos e encargos da concessionária, observado o estabelecido contrato de concessão e neste regulamento;",
+        "alineas": [],
+        "pag": 13,
+        "refs": [
+         {
+          "ini": 196,
+          "fim": 217,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc14",
+        "rotulo": "XIV",
+        "num": 14,
+        "texto": "GÁS: É o energético distribuído pela concessionária aos usuários, podendo ser gás natural, biometano ou similares conforme especificações da ANP;",
+        "alineas": [],
+        "pag": 13,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc15",
+        "rotulo": "XV",
+        "num": 15,
+        "texto": "GÁS CANALIZADO: é o gás distribuído por meio de gasodutos, através de sistema de distribuição adequado;",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc16",
+        "rotulo": "XVI",
+        "num": 16,
+        "texto": "GASTOS COM PESQUISA E DESENVOLVIMENTO: custos e despesas com projetos voltados a alocar recursos humanos e financeiros, visando à inovação e/ou ao aprimoramento dos produtos e da prestação de serviços, nos processos e usos finais do gás, de acordo com este regulamento;",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc17",
+        "rotulo": "XVII",
+        "num": 17,
+        "texto": "JUROS SOBRE OBRAS EM ANDAMENTO (JOA): remuneração das conversões, observada a legislação e a Resolução ARSP nº 080, de 05 de dezembro de 2024, e das obras em andamento relativa ao WACC vigente no período de execução e considerando os prazos médios de construção de cada ativo, que são incorporados ao seu respectivo valor;",
+        "alineas": [],
+        "pag": 14,
+        "refs": [
+         {
+          "ini": 93,
+          "fim": 141,
+          "externo": "Res. ARSP 080/2024",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc18",
+        "rotulo": "XVIII",
+        "num": 18,
+        "texto": "MARGEM MÉDIA DE DISTRIBUIÇÃO: valor expresso em R$/m³, resultante da fórmula paramétrica contratual, a qual calcula o fluxo de caixa livre da concessão para o ciclo tarifário com valor presente líquido igual a zero, sendo este necessário para cobertura dos custos eficientes, da remuneração dos investimentos, do valor da outorga e do capital de giro necessário (NCG), dos encargos e de outras despesas previstos contrato de concessão, decorrentes da prestação do serviço público de distribuição de gás canalizado, cujos parâmetros e metodologias são definidos no contrato de concessão e em nos regulamentos editados pela ARSP;",
+        "alineas": [],
+        "pag": 14,
+        "refs": [
+         {
+          "ini": 413,
+          "fim": 434,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         },
+         {
+          "ini": 564,
+          "fim": 585,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc19",
+        "rotulo": "XIX",
+        "num": 19,
+        "texto": "MERCADO LIVRE DE GÁS CANALIZADO: mercado onde há a comercialização direta de gás canalizado entre supridores e agentes livres de mercado nas condições estabelecidas em regulamento, observadas as regras do contrato de concessão;",
+        "alineas": [],
+        "pag": 14,
+        "refs": [
+         {
+          "ini": 205,
+          "fim": 226,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc20",
+        "rotulo": "XX",
+        "num": 20,
+        "texto": "NECESSIDADE DE CAPITAL DE GIRO (NCG): reserva de recursos que serão utilizados para suprir as necessidades financeiras operacionais da concessionária;",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc21",
+        "rotulo": "XXI",
+        "num": 21,
+        "texto": "OUTORGA: delegação à CONCESSIONÁRIA, pelo PODER CONCEDENTE, nos termos da Lei Estadual nº 10.955/2018 e na forma prevista no contrato de concessão, do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO no Estado do Espírito Santo.",
+        "alineas": [],
+        "pag": 14,
+        "refs": [
+         {
+          "ini": 74,
+          "fim": 101,
+          "externo": "Lei 10.955/2018",
+          "url": null,
+          "conf": "externo"
+         },
+         {
+          "ini": 125,
+          "fim": 146,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc22",
+        "rotulo": "XXII",
+        "num": 22,
+        "texto": "PERDAS: diferença entre o volume de gás canalizado adquirido pela concessionária e o volume faturado aos consumidores finais.",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc23",
+        "rotulo": "XXIII",
+        "num": 23,
+        "texto": "PLANO DE NEGÓCIOS: base de informações para a definição da margem média de distribuição, que deve conter, no mínimo, os objetivos, as metas e as estratégias previamente fixados, bem como as informações do cenário macroeconômico, do mercado, de investimentos e de custos necessários ao alcance dos objetivos pretendidos em cada ciclo tarifário, observado o disposto neste regulamento;",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc24",
+        "rotulo": "XXIV",
+        "num": 24,
+        "texto": "PODER CONCEDENTE: ente federado que detém a titularidade do serviço público de distribuição de gás canalizado;",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc25",
+        "rotulo": "XXV",
+        "num": 25,
+        "texto": "REAJUSTE DA MARGEM MÉDIA DE DISTRIBUIÇÃO: atualização anual da margem média de distribuição a partir de índice que reflita a inflação do período, mais ou menos o fator x, cujos parâmetros e metodologias observam regulamento e o disposto no contrato de concessão;",
+        "alineas": [],
+        "pag": 14,
+        "refs": [
+         {
+          "ini": 240,
+          "fim": 261,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc26",
+        "rotulo": "XXVI",
+        "num": 26,
+        "texto": "RECEITA DE COMERCIALIZAÇÃO: receitas provenientes da comercialização do gás canalizado pela concessionária ao agente livre de mercado, podendo ser aplicada ao usuário cativo, em situação específica, temporária e previamente aprovada pelo regulador;",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc27",
+        "rotulo": "XXVII",
+        "num": 27,
+        "texto": "RECEITAS ACESSÓRIAS: receitas provenientes de atividades ligadas ao serviço público de distribuição de gás canalizado, cuja execução não seja considerada exclusiva da concessionária;",
+        "alineas": [],
+        "pag": 14,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc28",
+        "rotulo": "XXVIII",
+        "num": 28,
+        "texto": "RECEITAS CORRELATAS: receitas provenientes de atividades ligadas ao serviço público de distribuição de gás canalizado, cuja execução seja considerada exclusiva da concessionária, conforme Resolução ARSP nº 31/2019, realizadas diretamente ou por meio de empresa(s) contratada(s);",
+        "alineas": [],
+        "pag": 14,
+        "refs": [
+         {
+          "ini": 188,
+          "fim": 213,
+          "externo": "Res. ARSP 031/2019",
+          "url": null,
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc29",
+        "rotulo": "XXIX",
+        "num": 29,
+        "texto": "REDE DE DISTRIBUIÇÃO: todo duto destinado ao serviço público de distribuição de gás canalizado, incluindo válvulas, acessórios e outros elementos auxiliares, que é construído, operado e mantido pela concessionária;",
+        "alineas": [],
+        "pag": 15,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc30",
+        "rotulo": "XXX",
+        "num": 30,
+        "texto": "REDE LOCAL: gasodutos que se encontram isolados em determinada região, não conectada fisicamente ao SISTEMA DE DISTRIBUIÇÃO, mas integrando-a por meio de estruturas de compressão/descompressão de GÁS CANALIZADO, armazenamento, transporte, carga e descarga de GÁS comprimido ou liquefeito;",
+        "alineas": [],
+        "pag": 15,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc31",
+        "rotulo": "XXXI",
+        "num": 31,
+        "texto": "RECEITAS IRRECUPERÁVEIS: receitas qualificadas pelo regulador, para efeito da execução do contrato de concessão, como parcela da receita total faturada e não recebida pela concessionária;",
+        "alineas": [],
+        "pag": 15,
+        "refs": [
+         {
+          "ini": 90,
+          "fim": 111,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc32",
+        "rotulo": "XXXII",
+        "num": 32,
+        "texto": "REVISÃO TARIFÁRIA ORDINÁRIA (RTO): revisão da margem média de distribuição, considerando as alterações na estrutura de custos e de mercado da concessionária, os estímulos à eficiência e à modicidade das tarifas, o plano de negócios e as metas de qualidade e de eficiência para o ciclo tarifário, observando o disposto no contrato de concessão e nos regulamentos editados pela ARSP;",
+        "alineas": [],
+        "pag": 15,
+        "refs": [
+         {
+          "ini": 321,
+          "fim": 342,
+          "doc": "contrato-concessao-2020",
+          "disp": null,
+          "conf": "documento"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc33",
+        "rotulo": "XXXIII",
+        "num": 33,
+        "texto": "SEGMENTO TERMOELÉTRICO: segmento de usuários que utiliza o gás em usinas exclusivamente para produção de energia elétrica;",
+        "alineas": [],
+        "pag": 15,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc34",
+        "rotulo": "XXXIV",
+        "num": 34,
+        "texto": "SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO: serviço público atribuído pela constituição federal aos estados-membros, sujeito à regulação estadual, consistente na distribuição do gás canalizado aos seus usuários, com o objetivo de assegurar as condições de regularidade, continuidade, eficiência, segurança, atualidade, generalidade, cortesia na sua prestação e modicidade das tarifas;",
+        "alineas": [],
+        "pag": 15,
+        "refs": [
+         {
+          "ini": 82,
+          "fim": 102,
+          "externo": "Constituição Federal",
+          "url": "https://www.lexml.gov.br/urn/urn:lex:br:federal:constituicao:1988-10-05;1988",
+          "conf": "externo"
+         }
+        ]
+       },
+       {
+        "id": "anx2_cpt_inc35",
+        "rotulo": "XXXV",
+        "num": 35,
+        "texto": "SISTEMA DE DISTRIBUIÇÃO: sistema que compreende toda a infraestrutura operada e mantida pela concessionária para distribuir gás canalizado aos seus usuários, incluindo redes de distribuição, ramais dedicados e redes locais;",
+        "alineas": [],
+        "pag": 15,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc36",
+        "rotulo": "XXXVI",
+        "num": 36,
+        "texto": "USUÁRIO CATIVO: pessoa física ou jurídica que utiliza o serviço público de distribuição de gás canalizado, o qual contrata a compra do gás canalizado junto a concessionária, bem como sua efetiva entrega através do sistema de distribuição;",
+        "alineas": [],
+        "pag": 15,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc37",
+        "rotulo": "XXXVII",
+        "num": 37,
+        "texto": "USUÁRIO: pessoa física ou jurídica que utiliza o serviço público de distribuição de gás canalizado; e",
+        "alineas": [],
+        "pag": 15,
+        "refs": []
+       },
+       {
+        "id": "anx2_cpt_inc38",
+        "rotulo": "XXXVIII",
+        "num": 38,
+        "texto": "WEIGHTED AVERAGE COST OF CAPITAL (WACC ou TAXA WACC): custo médio ponderado de capital, que expressa o cálculo da taxa de remuneração deste contrato, nos termos do anexo III.",
+        "alineas": [],
+        "pag": 15,
+        "refs": []
+       }
+      ],
+      "pag": 13,
+      "refs": []
+     },
+     "paragrafos": []
+    }
+   ]
+  },
+  {
+   "id": "anx3",
+   "rotulo": "Anexo III – CRITÉRIOS PARA DEFINIÇÃO DA TAXA WACC",
+   "blocos": [
+    {
+     "tipo": "texto",
+     "linhas": [
+      "[Tabela: ver o PDF, p. 16.]",
+      "Nota: A aplicabilidade do risco tamanho observará o disposto no item 46 da seção V do Anexo I desta Resolução."
+     ],
+     "pag": 16,
+     "refs_linhas": {
+      "0": [],
+      "1": [
+       {
+        "ini": 64,
+        "fim": 71,
+        "doc": "res-arsp-084-2025",
+        "disp": "anx1_it46",
+        "art": "anx1_it46",
+        "conf": "exato"
+       }
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "avisos": []
+}

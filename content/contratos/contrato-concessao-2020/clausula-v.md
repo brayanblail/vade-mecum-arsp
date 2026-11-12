@@ -53,8 +53,9 @@ pagina_pdf: 7
 ---
 [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] · [PDF, pág. 7](../../pdf/contrato-concessao-2020.pdf#page=7)
 
-## Citado por (3)
+## Citado por (4)
 
 - [[contratos/contrato-concessao-2020/anexo-i-clausula-vii#^it7-1-2|Contrato de Concessão · Anexo I, Cláusula VII, 7.1.2]] → Cláusula V, 5.2
 - [[contratos/contrato-concessao-2020/clausula-xii#^it12-11|Contrato de Concessão · Cláusula XII, 12.11]] → Cláusula V, 5.2.1
 - [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021 · preâmbulo]] → Cláusula V
+- [[resolucoes/res-arsp-084-2025/anexo-i-item-102#^cpt|Res. ARSP 084/2025 · Anexo I, item 102]] → Cláusula V

@@ -1735,7 +1735,7 @@
   "para_art": "anx1_art50",
   "conf": "exato",
   "tipo": "interna",
-  "trecho": "𝐂𝐎𝐆: Valor da multa máxima do indicador COG estabelecida no Art. 50 desta resolução (R$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐂𝐎𝐆𝐌Ê𝐒: G",
+  "trecho": "COG: Valor da multa máxima do indicador COG estabelecida no Art. 50 desta resolução (R$); GRADAÇÃOCOGMÊS: G",
   "citacao": "Art. 50"
  },
  {
@@ -1747,7 +1747,7 @@
   "para_art": "anx1_art50",
   "conf": "exato",
   "tipo": "interna",
-  "trecho": "𝐀𝐙: Valor da multa máxima do indicador IVAZ estabelecida no Art. 50 desta resolução (R$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐈𝐕𝐀𝐙𝐌Ê𝐒:G",
+  "trecho": "AZ: Valor da multa máxima do indicador IVAZ estabelecida no Art. 50 desta resolução (R$); GRADAÇÃOIVAZMÊS:G",
   "citacao": "Art. 50"
  },
  {
@@ -1759,7 +1759,7 @@
   "para_art": "anx1_art50",
   "conf": "exato",
   "tipo": "interna",
-  "trecho": "𝐓𝐀𝐄: Valor da multa máxima do indicador TAE estabelecida no Art. 50 desta resolução (R$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐓𝐀𝐄𝐌Ê𝐒:Gr",
+  "trecho": "TAE: Valor da multa máxima do indicador TAE estabelecida no Art. 50 desta resolução (R$); GRADAÇÃOTAEMÊS:Gr",
   "citacao": "Art. 50"
  },
  {
@@ -1987,7 +1987,7 @@
   "para_art": "anx1_art19",
   "conf": "exato",
   "tipo": "interna",
-  "trecho": "𝐒𝐂𝐏: Valor da multa máxima do indicador SCP estabelecida no Art. 19 desta resolução (R$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐒𝐂𝐏𝐌Ê𝐒: G",
+  "trecho": "SCP: Valor da multa máxima do indicador SCP estabelecida no Art. 19 desta resolução (R$); GRADAÇÃOSCPMÊS: G",
   "citacao": "Art. 19"
  },
  {
@@ -1999,7 +1999,7 @@
   "para_art": "anx1_art19",
   "conf": "exato",
   "tipo": "interna",
-  "trecho": "𝐅𝐄𝐑: Valor da multa máxima do indicador FER estabelecida no Art. 19 desta resolução (R$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐄𝐑𝐌Ê𝐒: G",
+  "trecho": "FER: Valor da multa máxima do indicador FER estabelecida no Art. 19 desta resolução (R$); GRADAÇÃOFERMÊS: G",
   "citacao": "Art. 19"
  },
  {
@@ -2089,7 +2089,7 @@
   "para_art": "anx1_art38",
   "conf": "exato",
   "tipo": "interna",
-  "trecho": "𝐈𝐂𝐏: Valor da multa máxima do indicador ICP estabelecida no Art. 38 desta resolução (R$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐈𝐂𝐏𝐌Ê𝐒: G",
+  "trecho": "ICP: Valor da multa máxima do indicador ICP estabelecida no Art. 38 desta resolução (R$); GRADAÇÃOICPMÊS: G",
   "citacao": "Art. 38"
  },
  {
@@ -2101,7 +2101,7 @@
   "para_art": "anx1_art38",
   "conf": "exato",
   "tipo": "interna",
-  "trecho": "𝐏𝐑𝐄: Valor da multa máxima do indicador PRE estabelecida no Art. 38 desta resolução (R$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐏𝐑𝐄𝐌Ê𝐒: G",
+  "trecho": "PRE: Valor da multa máxima do indicador PRE estabelecida no Art. 38 desta resolução (R$); GRADAÇÃOPREMÊS: G",
   "citacao": "Art. 38"
  },
  {
@@ -2113,7 +2113,7 @@
   "para_art": "anx1_art38",
   "conf": "exato",
   "tipo": "interna",
-  "trecho": "𝐃𝐅𝐆: Valor da multa máxima do indicador DFG estabelecida no Art. 38 desta resolução (R$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐃𝐅𝐆𝐌Ê𝐒: G",
+  "trecho": "DFG: Valor da multa máxima do indicador DFG estabelecida no Art. 38 desta resolução (R$); GRADAÇÃODFGMÊS: G",
   "citacao": "Art. 38"
  },
  {
@@ -2125,7 +2125,7 @@
   "para_art": "anx1_art38",
   "conf": "exato",
   "tipo": "interna",
-  "trecho": "𝐅𝐅𝐆: Valor da multa máxima do indicador FFG estabelecida no Art. 38 desta resolução (R$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐅𝐆𝐌Ê𝐒: G",
+  "trecho": "FFG: Valor da multa máxima do indicador FFG estabelecida no Art. 38 desta resolução (R$); GRADAÇÃOFFGMÊS: G",
   "citacao": "Art. 38"
  },
  {
@@ -2150,6 +2150,276 @@
   "conf": "documento",
   "trecho": "lta a ser aplicada na infração descrita no Art. 14, III, da Resolução ARSP Nº 048/2021 ou outra que vier a substituí-la ou alt",
   "citacao": "Resolução ARSP Nº 048/2021"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "preambulo",
+  "de_art": null,
+  "para_doc": "lc-827-2016",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "uso de suas atribuições regimentais, à vista do disposto na Lei Complementar nº 827, de 30 de junho de 2016 e suas alterações;",
+  "citacao": "Lei Complementar nº 827, de 30 de junho de 2016"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "preambulo",
+  "de_art": null,
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "Considerando o disposto no Contrato de Concessão dos Serviços Públicos de Distribuição d",
+  "citacao": "Contrato de Concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx1_it23_cpt_inc2",
+  "de_art": "anx1_it23",
+  "para_doc": "contrato-concessao-2020",
+  "para": "cl9",
+  "para_art": "cl9",
+  "conf": "exato",
+  "tipo": "externa",
+  "trecho": "nvestimentos (físico e financeiro), observado o disposto na Cláusula IX do contrato de concessão;",
+  "citacao": "Cláusula IX do contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx1_it26_cpt",
+  "de_art": "anx1_it26",
+  "para_doc": "contrato-concessao-2020",
+  "para": "cl9_it9-3",
+  "para_art": "cl9",
+  "conf": "inferido",
+  "tipo": "externa",
+  "trecho": "Em observância ao item 9.3 da Cláusula IX – Plano de Negócios, o plano de investi",
+  "citacao": "item 9.3 da Cláusula IX"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx1_it27_cpt",
+  "de_art": "anx1_it27",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "vistos em regulamento, o equilíbrio econômico-financeiro do contrato de concessão, a modicidade tarifária e a política de",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx1_it33_cpt",
+  "de_art": "anx1_it33",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": " investimentos deverá atender aos princípios norteadores do contrato de concessão, observando as regras nele dispostas e ",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx1_it77_cpt",
+  "de_art": "anx1_it77",
+  "para_doc": "contrato-concessao-2020",
+  "para": "cl8_it8-25",
+  "para_art": "cl8",
+  "conf": "exato",
+  "tipo": "externa",
+  "trecho": "ia atinja o nível de perdas estabelecido, em observância ao item 8.25 da Cláusula VIII do contrato de concessão.",
+  "citacao": "item 8.25 da Cláusula VIII do contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx1_it102_cpt",
+  "de_art": "anx1_it102",
+  "para_doc": "contrato-concessao-2020",
+  "para": "cl5",
+  "para_art": "cl5",
+  "conf": "exato",
+  "tipo": "externa",
+  "trecho": " primeiro ciclo tarifário, de acordo com o que estabelece a cláusula V do contrato de concessão.",
+  "citacao": "cláusula V do contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx1_it107_cpt",
+  "de_art": "anx1_it107",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "ionária, sem prejuízo às atividades principais definidas no contrato de concessão.",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx1_it111_cpt",
+  "de_art": "anx1_it111",
+  "para_doc": "res-arsp-084-2025",
+  "para": "anx1_it108",
+  "para_art": "anx1_it108",
+  "conf": "exato",
+  "tipo": "interna",
+  "trecho": " diretamente ou por meio de rateio, observado o disposto no item 108.",
+  "citacao": "item 108"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc2",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "exceto reserva técnica, conforme critérios estabelecidos no contrato de concessão e na Resolução ARSP nº 080, de 05 de de",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc3",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": " acrescida de terrenos, conforme critérios estabelecidos no contrato de concessão e na Resolução ARSP nº 080, de 05 de de",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc6",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "der concedente, da prestação do serviço público referida no contrato de concessão e neste regulamento, que será remunerad",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc10",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "prestação do serviço e sua remuneração conforme disposto no contrato de concessão e nos regulamentos editados pela ARSP;",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc12",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "FATOR X: índice previsto no contrato de concessão e estabelecido na forma deste regulamen",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc13",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "lsos e encargos da concessionária, observado o estabelecido contrato de concessão e neste regulamento;",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc18",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "cessário (NCG), dos encargos e de outras despesas previstos contrato de concessão, decorrentes da prestação do serviço pú",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc18",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "analizado, cujos parâmetros e metodologias são definidos no contrato de concessão e em nos regulamentos editados pela ARS",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc19",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "ições estabelecidas em regulamento, observadas as regras do contrato de concessão;",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc21",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "ermos da Lei Estadual nº 10.955/2018 e na forma prevista no contrato de concessão, do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE ",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc25",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "âmetros e metodologias observam regulamento e o disposto no contrato de concessão;",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc31",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "tas qualificadas pelo regulador, para efeito da execução do contrato de concessão, como parcela da receita total faturada",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx2_cpt_inc32",
+  "de_art": "anx2",
+  "para_doc": "contrato-concessao-2020",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "eficiência para o ciclo tarifário, observando o disposto no contrato de concessão e nos regulamentos editados pela ARSP;",
+  "citacao": "contrato de concessão"
+ },
+ {
+  "de_doc": "res-arsp-084-2025",
+  "de": "anx3",
+  "de_art": null,
+  "para_doc": "res-arsp-084-2025",
+  "para": "anx1_it46",
+  "para_art": "anx1_it46",
+  "conf": "exato",
+  "tipo": "interna",
+  "trecho": ": A aplicabilidade do risco tamanho observará o disposto no item 46 da seção V do Anexo I desta Resolução.",
+  "citacao": "item 46"
  },
  {
   "de_doc": "res-arsp-091-2025",
@@ -2194,6 +2464,17 @@
   "conf": "documento",
   "trecho": "Considerando a Resolução ARSP n° 061/2023, que estabelece o procedimento de reaju",
   "citacao": "Resolução ARSP n° 061/2023"
+ },
+ {
+  "de_doc": "res-arsp-091-2025",
+  "de": "preambulo",
+  "de_art": null,
+  "para_doc": "res-arsp-084-2025",
+  "para": null,
+  "para_art": null,
+  "conf": "documento",
+  "trecho": "Considerando a Resolução ARSP nº 084/2025, que estabelece a metodologia de revisã",
+  "citacao": "Resolução ARSP nº 084/2025"
  },
  {
   "de_doc": "res-arsp-091-2025",

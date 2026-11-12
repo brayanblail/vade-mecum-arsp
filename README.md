@@ -31,7 +31,7 @@ O `construir.py` também gera um site num arquivo só, com o mesmo conteúdo. Ne
 | `pipeline/construir.py` | Roda tudo: extrai, estrutura, liga remissões e gera as saídas |
 | `pipeline/*.py` | As etapas (extrair, estruturar, remissoes, gerar_quartz, gerar_piloto) |
 | `ocr/` | Texto da Res. 048/2021 obtido por OCR (o PDF original tem a camada de texto corrompida) |
-| `content/` | **Saída pronta para o Quartz/Obsidian**: 14 atos, 481 notas de artigo ou cláusula, PDFs em `content/pdf/` |
+| `content/` | **Saída pronta para o Quartz/Obsidian**: 15 atos, 598 notas de artigo, cláusula ou item, PDFs em `content/pdf/` |
 | `dados/` | Arquivos intermediários. Os dois que interessam: `remissoes.json` (todas as ligações) e `nao_resolvidas.csv` |
 
 ## 1. Rodar o pipeline (Windows)
@@ -44,7 +44,7 @@ pip install -r requirements.txt
 python pipeline\construir.py --pdfs "D:\Claude\Resoluções ARSP"
 ```
 
-Leva cerca de 1 minuto para os 14 documentos. Ao final, confira:
+Leva cerca de 1 minuto para os 15 documentos. Ao final, confira:
 
 - `content\revisao.md`: remissões **parciais** (o dispositivo citado não existe no destino) e **inferidas** (o texto não diz de qual ato é o artigo);
 - `dados\nao_resolvidas.csv`: citações que não viraram link.
@@ -130,12 +130,13 @@ Os identificadores seguem o padrão LexML:
 | `inc3` | inciso III |
 | `ali-a` | alínea a |
 
-Nas resoluções com Anexo, o texto normativo costuma estar no anexo (`anexo-i-art-N`).
+Nas resoluções com Anexo, o texto normativo costuma estar no anexo (`anexo-i-art-N`). Quando o anexo tem itens numerados em vez de artigos (Res. 084/2025), cada item tem nota própria (`anexo-i-item-23`, âncora `#res-arsp-084-2025--anx1-it23`); um anexo que é só uma lista de definições vira incisos do próprio anexo (`#res-arsp-084-2025--anx2-cpt-inc18`).
 
 ## Limitações conhecidas
 
 - **Remissões a cláusulas do CUSD** ("conforme CLÁUSULA XXIII") ainda não viram link. As do **contrato de concessão** ("cláusula 12.12.1", "item 4.2.2 da cláusula 4ª", "cláusula IV do anexo I do Contrato de Concessão") viram.
 - **Contrato de concessão**: o PDF é escaneado e o texto vem de OCR. Fórmulas e as tabelas dos Anexos III e IV não estão transcritas (o site mostra a página do PDF).
+- **Res. 084/2025**: as equações do Anexo I, a Tabela 1 e a tabela do Anexo III não estão transcritas (o site mostra a página do PDF).
 - **Atos fora do cadastro** (Res. ASPE 005/2007, LC 954/2020…) aparecem sublinhados com pontilhado, sem link. As leis federais conhecidas apontam para o LexML.
 - **Texto consolidado**: na LC 827/2016 são mantidas só as redações vigentes; o que está tachado no PDF foi omitido. Nas resoluções, o site mostra o texto original com as remissões. Ele não monta a versão compilada.
 - **Tabelas dos anexos** (tarifas) aparecem como texto em bloco. Para os números, vale o PDF (cada artigo tem link para a página).

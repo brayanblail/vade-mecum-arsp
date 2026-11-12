@@ -124,8 +124,9 @@ class Gerador:
         cab = b["rotulo"] + (f" – {b['titulo']}" if b.get("titulo") else "")
         cap = b["caput"]
         txt = self.com_links(cap["texto"], cap.get("refs"))
-        L.append(f"**{esc(cab)}** {txt}".rstrip() + bid(cap["id"]))
-        L.append("")
+        if cab or txt:      # anexo que é só uma lista de incisos: sem cabeça nem texto, vai direto aos incisos
+            L.append((f"**{esc(cab)}** {txt}" if cab else txt).rstrip() + bid(cap["id"]))
+            L.append("")
         L += self.md_incisos(cap, bid)
         for p in b["paragrafos"]:
             rot = f"**{esc(p['rotulo'])}**" if p["rotulo"] else ""
@@ -229,7 +230,8 @@ class Gerador:
                     n = len(self.citado_por.get((d["id"], b["id"]), []))
                     extra = f" · citado {n}×" if n else ""
                     L += self.md_artigo(d, p["id"], b, com_ids=False)
-                    L.append(f"<small>[[{self.m.pasta(d['id'])}/{arq}|abrir {esc(b['rotulo'])}]]{extra}</small>")
+                    rot = f"item {b['num']}" if b.get("secao") else (b["rotulo"] or nome_parte(p["id"]))
+                    L.append(f"<small>[[{self.m.pasta(d['id'])}/{arq}|abrir {esc(rot)}]]{extra}</small>")
                     L.append("")
         return "\n".join(L)
 

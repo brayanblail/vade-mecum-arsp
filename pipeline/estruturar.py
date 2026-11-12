@@ -5,6 +5,9 @@ caput | parágrafo > inciso > alínea.
 
 Para documentos não articulados (nota técnica) usa seções numeradas (1., 1.1., ...).
 Para o modelo de contrato (anexo do CUSD) usa cláusulas e itens numerados.
+Anexo de resolução sem artigos (Res. 084/2025): itens numerados "1." a "114." no lugar dos
+artigos (anx1_it23), sob seções "V. DO CUSTO DE CAPITAL"; anexo que é só uma lista de
+incisos (definições) vira um bloco com o id do anexo (anx2 > anx2_cpt > anx2_cpt_inc18).
 
 Cada dispositivo recebe um identificador estável no estilo LexML:
   art9, art9_cpt, art9_par4, art9_par4_inc1, art9_cpt_inc3_ali-a
@@ -29,6 +32,29 @@ RE_FECHO = re.compile(r"^(Pal[áa]cio Anchieta|Vit[óo]ria\s*[/(]?\s*ES\)?,?\s+(
 RE_CLAUSULA = re.compile(r"^CL[ÁA]USULA\s+([IVXLC]+)\b\.?\s*[-–—.:]?\s*(.*)$")
 RE_ITEM = re.compile(r"^(\d{1,2}(?:\.\d{1,2}){1,3})\.?\s+(\S.*)$")
 RE_SECAO_NT = re.compile(r"^(\d{1,2}(?:\.\d{1,2}){0,2})\.?\s+([A-ZÁÉÍÓÚÂÊÔÃÕÇ][A-ZÁÉÍÓÚÂÊÔÃÕÇ0-9 \-–,/()º°ª]{2,})$")
+# Anexo de itens numerados (Res. 084/2025, Anexo I): seção "V. DO CUSTO DE CAPITAL",
+# subseção "VII.1 Avaliação Qualitativa" e itens "1." a "114." (numeração única no anexo)
+RE_ITEM_ANX = re.compile(r"^(\d{1,3})\.\s+(\S.*)$")
+RE_SECAO_ANX = re.compile(r"^([IVXL]{1,6})\.\s+((?:D[AO]S?|DE)\s.+)$")
+RE_SUBSECAO_ANX = re.compile(r"^([IVXL]{1,6})\.(\d{1,2})\s+([A-ZÁÉÍÓÚ].{2,90})$")
+# Assinaturas sem a linha "Vitória/ES, data" antes (Res. 084/2025): nome e, na linha seguinte, o cargo
+RE_NOME = re.compile(r"^[A-ZÁÉÍÓÚ][a-záéíóúâêôãõç]+(?:\s+(?:d[aeo]s?\s+)?[A-ZÁÉÍÓÚ][a-záéíóúâêôãõç]+){1,5}$")
+RE_CARGO = re.compile(r"^(Diretor|Diretora|Presidente|Governador|Secret[áa]ri[oa])\b")
+
+
+def _seguem(linhas, k, padrao, valor, n=3):
+    """Da linha k até o próximo ANEXO aparecem n números seguidos (1., 2., 3. / I, II, III) no começo da linha."""
+    quer = 1
+    for l in linhas[k:]:
+        t = l["texto"]
+        if t.startswith("ANEXO "):
+            break
+        m = padrao.match(t)
+        if m and valor(m.group(1)) == quer:
+            quer += 1
+            if quer > n:
+                return True
+    return False
 
 
 def juntar(a, b):
@@ -60,6 +86,9 @@ class Construtor:
         self.cont = None   # caput ou parágrafo corrente
         self.inc = None
         self.ultimo = None
+        self.modo = None    # anexo sem artigos: "itens" (itens numerados) ou "lista" (só incisos)
+        self.ult_item = 0
+        self.ult_sec = 0
 
     def prefixo(self):
         return "" if self.parte["id"] == "corpo" else self.parte["id"] + "_"
@@ -99,6 +128,29 @@ class Construtor:
                                "pag": pag, "caput": {"id": aid + "_cpt", "texto": texto, "incisos": [], "pag": pag},
                                "paragrafos": []})
         self.ult_art, self.ult_suf = num, suf or ""
+        self.cont = self.art["caput"]
+        self.inc = None
+        self.ultimo = self.cont
+
+    def add_item(self, n, texto, pag):
+        """Item numerado de anexo ("23."), no lugar do artigo: anx1_it23 > anx1_it23_cpt > _inc2 > _ali-a.
+        Rótulo "item 23" (indice.Mapa), como as seções de nota técnica."""
+        iid = f"{self.prefixo()}it{n}"
+        self.art = self.bloco({"tipo": "artigo", "num": str(n), "rotulo": f"{n}.", "id": iid, "pag": pag, "secao": True,
+                               "caput": {"id": iid + "_cpt", "texto": texto, "incisos": [], "pag": pag},
+                               "paragrafos": []})
+        self.ult_item = n
+        self.cont = self.art["caput"]
+        self.inc = None
+        self.ultimo = self.cont
+
+    def add_lista(self, pag):
+        """Anexo que é só uma lista de incisos (definições): o anexo faz as vezes do artigo
+        (anx2 > anx2_cpt > anx2_cpt_inc18). Rótulo "Anexo II, inciso XVIII"."""
+        pid = self.parte["id"]
+        self.art = self.bloco({"tipo": "artigo", "num": "", "rotulo": "", "id": pid, "pag": pag,
+                               "caput": {"id": pid + "_cpt", "texto": "", "incisos": [], "pag": pag},
+                               "paragrafos": []})
         self.cont = self.art["caput"]
         self.inc = None
         self.ultimo = self.cont
@@ -201,7 +253,7 @@ def estruturar_norma(meta, linhas):
     contrato = meta.get("tipo") == "contrato"
     em_clausulas = False
     n_anexo = 0
-    for l in linhas:
+    for k, l in enumerate(linhas):
         t, pag = l["texto"], l["pag"]
 
         m = RE_ANEXO.match(t)
@@ -229,6 +281,35 @@ def estruturar_norma(meta, linhas):
             # fim do título do anexo na linha seguinte ("... DE GÁS" + "CANALIZADO")
             c.parte["rotulo"] += " " + t
             continue
+
+        if not contrato and c.parte["id"] != "corpo" and not em_clausulas:
+            # anexo que começa por itens numerados (1., 2. e 3. a seguir) ou por uma lista de incisos;
+            # uma lista depois de uma tabela (LC 827, Anexo II) segue como texto
+            vazio = not c.parte["blocos"]
+            if c.modo == "itens" or (c.modo is None and vazio):
+                m = RE_SECAO_ANX.match(t)
+                if m and t.upper() == t and romano_para_int(m.group(1)) == c.ult_sec + 1 \
+                        and (c.modo == "itens" or _seguem(linhas, k + 1, RE_ITEM_ANX, int)):
+                    c.modo = "itens"
+                    c.ult_sec += 1
+                    c.add_titulo("Seção", m.group(1), m.group(2), pag)
+                    continue
+                m = RE_SUBSECAO_ANX.match(t) if c.modo == "itens" else None
+                if m and romano_para_int(m.group(1)) == c.ult_sec:
+                    c.add_titulo("Subseção", f"{m.group(1)}.{m.group(2)}", m.group(3), pag)
+                    continue
+                m = RE_ITEM_ANX.match(t)
+                if m and ((c.modo == "itens" and int(m.group(1)) == c.ult_item + 1)
+                          or (c.modo is None and m.group(1) == "1" and _seguem(linhas, k, RE_ITEM_ANX, int))):
+                    c.modo = "itens"
+                    c.add_item(int(m.group(1)), m.group(2), pag)
+                    continue
+            # anexo que é só uma lista de incisos (definições); o inciso I entra logo abaixo
+            if c.modo is None and vazio:
+                m = RE_INC.match(t)
+                if m and m.group(1) == "I" and _seguem(linhas, k, RE_INC, romano_para_int):
+                    c.modo = "lista"
+                    c.add_lista(pag)
 
         m = RE_CLAUSULA.match(t)
         n = romano_para_int(m.group(1)) if m else None
@@ -315,6 +396,14 @@ def estruturar_norma(meta, linhas):
                     c.add_alinea(m.group(1), m.group(2), pag)
                     continue
             c.continuar(t, pag)
+            continue
+
+        if c.art is not None and c.parte["id"] == "corpo" and RE_NOME.match(t) and k + 1 < len(linhas) \
+                and RE_CARGO.match(linhas[k + 1]["texto"]):
+            # assinaturas sem local e data antes ("Alexandre Careta Ventorim" + "Diretor-Geral"): encerra o artigo
+            c.art = None
+            c.cont = c.inc = None
+            c.ultimo = c.bloco({"tipo": "texto", "linhas": [t], "pag": pag, "fecho": True})
             continue
 
         if RE_FECHO.match(t) and c.art is not None:
@@ -417,6 +506,7 @@ def estruturar_nota(meta, linhas):
 
 
 def contar(partes):
+    """artigos (cláusulas e itens de anexo incluídos), parágrafos/itens de cláusula, incisos, alíneas."""
     a = p = i = al = 0
     for pt in partes:
         for b in pt["blocos"]:

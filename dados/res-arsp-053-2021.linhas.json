@@ -1,10 +1,6 @@
 [
 {
 "pag": 1,
-"texto": "Tel: 3636-8500 E-mail: gabinete@arsp.es.gov.br"
-},
-{
-"pag": 1,
 "texto": "RESOLUÇÃO ARSP Nº 053, de 29/12/2021."
 },
 {
@@ -158,10 +154,6 @@
 {
 "pag": 1,
 "texto": "o usuário atendido por ramal dedicado, o Contrato de Uso do Serviço de Distribuição – CUSD poderá"
-},
-{
-"pag": 2,
-"texto": "Tel: 3636-8500 E-mail: gabinete@arsp.es.gov.br"
 },
 {
 "pag": 2,
@@ -1977,7 +1969,7 @@
 },
 {
 "pag": 14,
-"texto": "𝐶𝑁𝑈𝑀 = (100% × 𝑁𝑀 × 𝐶𝐷𝐶) −𝑄𝐸𝑅𝑀 −𝑄𝑃𝑃𝑀 −𝑄𝑁𝐹𝑀 −𝑄𝐹𝑀𝑀"
+"texto": "CNUM = (100% × NM × CDC) −QERM −QPPM −QNFM −QFMM"
 },
 {
 "pag": 14,
@@ -1985,7 +1977,7 @@
 },
 {
 "pag": 14,
-"texto": "𝐶𝑁𝑈𝑀 - CAPACIDADE NÃO UTILIZADA NO MÊS, em m³, sendo igual a zero se o cálculo"
+"texto": "CNUM - CAPACIDADE NÃO UTILIZADA NO MÊS, em m³, sendo igual a zero se o cálculo"
 },
 {
 "pag": 14,
@@ -1993,19 +1985,19 @@
 },
 {
 "pag": 14,
-"texto": "𝐶𝐷𝐶 - CAPACIDADE DIÁRIA CONTRATADA, em m³/dia;"
+"texto": "CDC - CAPACIDADE DIÁRIA CONTRATADA, em m³/dia;"
 },
 {
 "pag": 14,
-"texto": "𝑁𝑀 - Número de DIAS do correspondente MÊS;"
+"texto": "NM - Número de DIAS do correspondente MÊS;"
 },
 {
 "pag": 14,
-"texto": "𝑄𝐸𝑅𝑀 - QUANTIDADES EFETIVAMENTE RETIRADAS NO MÊS, em m³;"
+"texto": "QERM - QUANTIDADES EFETIVAMENTE RETIRADAS NO MÊS, em m³;"
 },
 {
 "pag": 14,
-"texto": "QPP𝑀 - QUANTIDADE DE GÁS não disponibilizada decorrente de PARADA"
+"texto": "QPPM - QUANTIDADE DE GÁS não disponibilizada decorrente de PARADA"
 },
 {
 "pag": 14,
@@ -2013,7 +2005,7 @@
 },
 {
 "pag": 14,
-"texto": "𝑄𝑁𝐹𝑀 - QUANTIDADE DE GÁS não disponibilizada decorrente de FALHA DE SERVIÇO"
+"texto": "QNFM - QUANTIDADE DE GÁS não disponibilizada decorrente de FALHA DE SERVIÇO"
 },
 {
 "pag": 14,
@@ -2021,7 +2013,7 @@
 },
 {
 "pag": 14,
-"texto": "𝑄𝐹𝑀𝑀 - QUANTIDADE DE GÁS não disponibilizada ou não consumida decorrente de"
+"texto": "QFMM - QUANTIDADE DE GÁS não disponibilizada ou não consumida decorrente de"
 },
 {
 "pag": 14,
@@ -2045,7 +2037,7 @@
 },
 {
 "pag": 14,
-"texto": "𝐶𝐸𝑋𝐷 = 𝑄𝐸𝑅𝐷 −1,20 × 𝑌"
+"texto": "CEXD = QERD −1,20 × Y"
 },
 {
 "pag": 14,
@@ -2737,7 +2729,7 @@
 },
 {
 "pag": 18,
-"texto": "𝑄𝐷𝑀𝐸 = 𝑄𝐷𝑀𝑇 −𝑄𝐷𝐴𝐶"
+"texto": "QDME = QDMT −QDAC"
 },
 {
 "pag": 18,
@@ -2745,7 +2737,7 @@
 },
 {
 "pag": 18,
-"texto": "𝑄𝐷𝑀𝐸"
+"texto": "QDME"
 },
 {
 "pag": 18,
@@ -2753,7 +2745,7 @@
 },
 {
 "pag": 18,
-"texto": "𝑄𝐷𝑀𝑇"
+"texto": "QDMT"
 },
 {
 "pag": 18,
@@ -2761,7 +2753,7 @@
 },
 {
 "pag": 18,
-"texto": "𝑄𝐷𝐴𝐶"
+"texto": "QDAC"
 },
 {
 "pag": 18,
@@ -2977,7 +2969,7 @@
 },
 {
 "pag": 19,
-"texto": "𝑄𝐷𝐴𝐶 = 𝑄𝐷𝑀𝑇 −𝑄𝐷𝑀𝐸"
+"texto": "QDAC = QDMT −QDME"
 },
 {
 "pag": 19,
@@ -2985,7 +2977,7 @@
 },
 {
 "pag": 19,
-"texto": "𝑄𝐷𝐴𝐶"
+"texto": "QDAC"
 },
 {
 "pag": 19,
@@ -2993,7 +2985,7 @@
 },
 {
 "pag": 19,
-"texto": "𝑄𝐷𝑀𝑇"
+"texto": "QDMT"
 },
 {
 "pag": 19,
@@ -3001,7 +2993,7 @@
 },
 {
 "pag": 19,
-"texto": "𝑄𝐷𝑀𝐸"
+"texto": "QDME"
 },
 {
 "pag": 19,
@@ -3061,7 +3053,7 @@
 },
 {
 "pag": 19,
-"texto": "𝑄𝐷𝐴𝐶 = 𝑄𝐷𝑀𝑇 −𝑄𝐷𝐿𝑈"
+"texto": "QDAC = QDMT −QDLU"
 },
 {
 "pag": 19,
@@ -3069,7 +3061,7 @@
 },
 {
 "pag": 19,
-"texto": "𝑄𝐷𝐴𝐶"
+"texto": "QDAC"
 },
 {
 "pag": 19,
@@ -3077,7 +3069,7 @@
 },
 {
 "pag": 19,
-"texto": "𝑄𝐷𝑀𝑇"
+"texto": "QDMT"
 },
 {
 "pag": 19,
@@ -3085,7 +3077,7 @@
 },
 {
 "pag": 19,
-"texto": "𝑄𝐷𝐿𝑈"
+"texto": "QDLU"
 },
 {
 "pag": 19,
@@ -3193,11 +3185,11 @@
 },
 {
 "pag": 20,
-"texto": "𝑄𝐹= 𝑄𝐷𝑃−𝑄𝐷𝐷−𝑄𝑃𝑃"
+"texto": "QF= QDP−QDD−QPP"
 },
 {
 "pag": 20,
-"texto": "𝑃𝐹𝑆𝐷 = 𝑄𝐹× 100% × 𝑇𝑈𝑆𝐷"
+"texto": "PFSD = QF× 100% × TUSD"
 },
 {
 "pag": 20,
@@ -3229,11 +3221,11 @@
 },
 {
 "pag": 20,
-"texto": "𝑃𝐹𝑆𝐷 - PENALIDADE POR FALHA DE SERVIÇO, em cada DIA, em R$;"
+"texto": "PFSD - PENALIDADE POR FALHA DE SERVIÇO, em cada DIA, em R$;"
 },
 {
 "pag": 20,
-"texto": "𝑇𝑈𝑆𝐷 - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-"
+"texto": "TUSD - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-"
 },
 {
 "pag": 20,
@@ -3333,7 +3325,7 @@
 },
 {
 "pag": 21,
-"texto": "𝑃𝐸𝑋𝐷 = (𝑄𝐸𝑅𝐷 −110% × 𝑄𝐷𝑃) × 30% × 𝑇𝑈𝑆𝐷"
+"texto": "PEXD = (QERD −110% × QDP) × 30% × TUSD"
 },
 {
 "pag": 21,
@@ -3341,7 +3333,7 @@
 },
 {
 "pag": 21,
-"texto": "𝑃𝐸𝑋𝐷 - PENALIDADE POR CONSUMO EXCEDENTE DIÁRIO, em R$, sendo igual a zero se o"
+"texto": "PEXD - PENALIDADE POR CONSUMO EXCEDENTE DIÁRIO, em R$, sendo igual a zero se o"
 },
 {
 "pag": 21,
@@ -3349,7 +3341,7 @@
 },
 {
 "pag": 21,
-"texto": "𝑄𝐸𝑅𝐷 - QUANTIDADE EFETIVAMENTE RETIRADA NO DIA, em m³;"
+"texto": "QERD - QUANTIDADE EFETIVAMENTE RETIRADA NO DIA, em m³;"
 },
 {
 "pag": 21,
@@ -3357,7 +3349,7 @@
 },
 {
 "pag": 21,
-"texto": "𝑇𝑈𝑆𝐷 - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-"
+"texto": "TUSD - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-"
 },
 {
 "pag": 21,
@@ -3385,7 +3377,7 @@
 },
 {
 "pag": 21,
-"texto": "𝑃𝐼𝑁𝐷 = (90% × 𝑄𝐷𝑃−𝑄𝐸𝑅𝐷) × 30% × 𝑇𝑈𝑆𝐷"
+"texto": "PIND = (90% × QDP−QERD) × 30% × TUSD"
 },
 {
 "pag": 21,
@@ -3393,7 +3385,7 @@
 },
 {
 "pag": 21,
-"texto": "𝑃𝐼𝑁𝐷 - PENALIDADE POR CONSUMO INSUFICIENTE DIÁRIO, em R$, sendo igual a zero se"
+"texto": "PIND - PENALIDADE POR CONSUMO INSUFICIENTE DIÁRIO, em R$, sendo igual a zero se"
 },
 {
 "pag": 21,
@@ -3405,11 +3397,11 @@
 },
 {
 "pag": 21,
-"texto": "𝑄𝐸𝑅𝐷 - QUANTIDADE EFETIVAMENTE RETIRADA NO DIA, em m³;"
+"texto": "QERD - QUANTIDADE EFETIVAMENTE RETIRADA NO DIA, em m³;"
 },
 {
 "pag": 21,
-"texto": "𝑇𝑈𝑆𝐷 - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-"
+"texto": "TUSD - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-"
 },
 {
 "pag": 21,
@@ -3453,7 +3445,7 @@
 },
 {
 "pag": 21,
-"texto": "𝑃𝐶𝐺𝐶 = (𝑄𝐶𝐺𝐶) × 𝑊 × 𝑇𝐺𝐶"
+"texto": "PCGC = (QCGC) × W × TGC"
 },
 {
 "pag": 21,
@@ -3461,11 +3453,11 @@
 },
 {
 "pag": 21,
-"texto": "𝑃𝐶𝐺𝐶 - PENALIDADE POR CONSUMO DE GÁS DO MERCADO CATIVO, em R$;"
+"texto": "PCGC - PENALIDADE POR CONSUMO DE GÁS DO MERCADO CATIVO, em R$;"
 },
 {
 "pag": 21,
-"texto": "𝑄𝐶𝐺𝐶 - QUANTIDADE CONSUMIDA DE GÁS NO MERCADO CATIVO PELO USUÁRIO, em"
+"texto": "QCGC - QUANTIDADE CONSUMIDA DE GÁS NO MERCADO CATIVO PELO USUÁRIO, em"
 },
 {
 "pag": 21,
@@ -3473,7 +3465,7 @@
 },
 {
 "pag": 22,
-"texto": "𝑊 Fator W, que será igual a 1,30 caso a QCGC seja menor ou igual a 10% da"
+"texto": "W Fator W, que será igual a 1,30 caso a QCGC seja menor ou igual a 10% da"
 },
 {
 "pag": 22,
@@ -3485,7 +3477,7 @@
 },
 {
 "pag": 22,
-"texto": "𝑇𝐺𝐶 - TARIFA DE GÁS DO MERCADO CATIVO vigente na data de emissão do DOCUMENTO"
+"texto": "TGC - TARIFA DE GÁS DO MERCADO CATIVO vigente na data de emissão do DOCUMENTO"
 },
 {
 "pag": 22,
@@ -3565,7 +3557,7 @@
 },
 {
 "pag": 22,
-"texto": "𝐸𝐶𝑅= 𝐶𝑁𝑈𝑀 × 𝑇𝑈𝑆𝐷"
+"texto": "ECR= CNUM × TUSD"
 },
 {
 "pag": 22,
@@ -3573,7 +3565,7 @@
 },
 {
 "pag": 22,
-"texto": "𝐸𝐶𝑅 - É o valor a ser pago de ENCARGO DE CAPACIDADE RESERVADA (ECR) pelo"
+"texto": "ECR - É o valor a ser pago de ENCARGO DE CAPACIDADE RESERVADA (ECR) pelo"
 },
 {
 "pag": 22,
@@ -3589,11 +3581,11 @@
 },
 {
 "pag": 22,
-"texto": "𝐶𝑁𝑈𝑀 - CAPACIDADE NÃO UTILIZADA NO MÊS, apurada conforme item 6.1.3;"
+"texto": "CNUM - CAPACIDADE NÃO UTILIZADA NO MÊS, apurada conforme item 6.1.3;"
 },
 {
 "pag": 22,
-"texto": "𝑇𝑈𝑆𝐷 - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-GÁS)"
+"texto": "TUSD - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-GÁS)"
 },
 {
 "pag": 22,
@@ -3645,7 +3637,7 @@
 },
 {
 "pag": 22,
-"texto": "𝑅𝑒𝑚𝐸 = 𝐶𝐸𝑋𝑀 × 0,50 × 𝑇𝑈𝑆𝐷"
+"texto": "RemE = CEXM × 0,50 × TUSD"
 },
 {
 "pag": 22,
@@ -3653,7 +3645,7 @@
 },
 {
 "pag": 22,
-"texto": "𝑅𝑒𝑚𝐸 = Remuneração pelo uso de CAPACIDADE EXCEDENTE do SISTEMA DE DISTRIBUIÇÃO"
+"texto": "RemE = Remuneração pelo uso de CAPACIDADE EXCEDENTE do SISTEMA DE DISTRIBUIÇÃO"
 },
 {
 "pag": 22,
@@ -3661,11 +3653,11 @@
 },
 {
 "pag": 23,
-"texto": "𝐶𝐸𝑋𝑀 = Somatório das CAPACIDADES EXCEDENTES Diárias no MÊS, em m³;"
+"texto": "CEXM = Somatório das CAPACIDADES EXCEDENTES Diárias no MÊS, em m³;"
 },
 {
 "pag": 23,
-"texto": "𝑇𝑈𝑆𝐷 = TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-GÁS)"
+"texto": "TUSD = TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-GÁS)"
 },
 {
 "pag": 23,
@@ -3905,7 +3897,7 @@
 },
 {
 "pag": 24,
-"texto": "𝐷𝐸𝑆𝐷 = 𝑄𝐷𝑀𝑅 −𝑄𝐷𝑀𝑇"
+"texto": "DESD = QDMR −QDMT"
 },
 {
 "pag": 24,
@@ -3913,15 +3905,15 @@
 },
 {
 "pag": 24,
-"texto": "𝐷𝐸𝑆𝐷 - Desequilíbrio Diário do Sistema de Distribuição, em m³/dia;"
+"texto": "DESD - Desequilíbrio Diário do Sistema de Distribuição, em m³/dia;"
 },
 {
 "pag": 24,
-"texto": "𝑄𝐷𝑀𝑇 - QUANTIDADE DIÁRIA MEDIDA DE GÁS DO TRANSPORTADOR, em m³/dia;"
+"texto": "QDMT - QUANTIDADE DIÁRIA MEDIDA DE GÁS DO TRANSPORTADOR, em m³/dia;"
 },
 {
 "pag": 24,
-"texto": "𝑄𝐷𝑀𝑅 - QUANTIDADE DIÁRIA MEDIDA DE GÁS RECEBIDO, em m³/DIA."
+"texto": "QDMR - QUANTIDADE DIÁRIA MEDIDA DE GÁS RECEBIDO, em m³/DIA."
 },
 {
 "pag": 24,
@@ -3933,11 +3925,11 @@
 },
 {
 "pag": 24,
-"texto": "𝐷𝐸𝑆𝑀 = ∑𝐷𝐸𝑆𝐷"
+"texto": "DESM = ∑DESD"
 },
 {
 "pag": 24,
-"texto": "𝑁𝑀"
+"texto": "NM"
 },
 {
 "pag": 24,
@@ -3949,15 +3941,15 @@
 },
 {
 "pag": 24,
-"texto": "𝐷𝐸𝑆𝑀 - Desequilíbrio Mensal do Sistema de Distribuição, em m³;"
+"texto": "DESM - Desequilíbrio Mensal do Sistema de Distribuição, em m³;"
 },
 {
 "pag": 24,
-"texto": "𝐷𝐸𝑆𝐷 - Desequilíbrio Diário do Sistema de Distribuição, em m³/dia;"
+"texto": "DESD - Desequilíbrio Diário do Sistema de Distribuição, em m³/dia;"
 },
 {
 "pag": 24,
-"texto": "𝑁𝑀 - Número de DIAS do MÊS."
+"texto": "NM - Número de DIAS do MÊS."
 },
 {
 "pag": 24,
@@ -5041,7 +5033,7 @@
 },
 {
 "pag": 30,
-"texto": "𝑉𝐼𝑁= 𝐶𝐷𝐶× 𝐷𝐹× 𝑇𝑈𝑆𝐷"
+"texto": "VIN= CDC× DF× TUSD"
 },
 {
 "pag": 30,
@@ -5057,7 +5049,7 @@
 },
 {
 "pag": 30,
-"texto": "𝐶𝐷𝐶 - CAPACIDADE DIÁRIA CONTRATADA, em m³/dia;"
+"texto": "CDC - CAPACIDADE DIÁRIA CONTRATADA, em m³/dia;"
 },
 {
 "pag": 30,
@@ -5073,7 +5065,7 @@
 },
 {
 "pag": 30,
-"texto": "𝑇𝑈𝑆𝐷 - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-"
+"texto": "TUSD - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD-"
 },
 {
 "pag": 30,
@@ -5833,7 +5825,7 @@
 },
 {
 "pag": 34,
-"texto": "𝑉𝐶𝑜𝑛𝑡= 𝐶𝐷𝐶× 𝐷× TUSD"
+"texto": "VCont= CDC× D× TUSD"
 },
 {
 "pag": 34,
@@ -5849,7 +5841,7 @@
 },
 {
 "pag": 34,
-"texto": "𝐶𝐷𝐶 - É a CAPACIDADE DIÁRIA CONTRATADA (CDC), sendo considerado o valor médio,"
+"texto": "CDC - É a CAPACIDADE DIÁRIA CONTRATADA (CDC), sendo considerado o valor médio,"
 },
 {
 "pag": 34,

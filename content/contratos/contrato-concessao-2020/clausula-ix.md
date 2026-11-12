@@ -42,7 +42,9 @@ pagina_pdf: 13
 ---
 [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] · [PDF, pág. 13](../../pdf/contrato-concessao-2020.pdf#page=13)
 
-## Citado por (2)
+## Citado por (4)
 
 - [[contratos/contrato-concessao-2020/clausula-xii#^it12-15-inc2|Contrato de Concessão · Cláusula XII, 12.15, inciso II]] → Cláusula IX
+- [[resolucoes/res-arsp-084-2025/anexo-i-item-23#^cpt-inc2|Res. ARSP 084/2025 · Anexo I, item 23, inciso II]] → Cláusula IX
+- [[resolucoes/res-arsp-084-2025/anexo-i-item-26#^cpt|Res. ARSP 084/2025 · Anexo I, item 26]] → Cláusula IX, 9.3 *(vínculo inferido)*
 - [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025 · preâmbulo]] → Cláusula IX

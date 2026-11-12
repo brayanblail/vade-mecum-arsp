@@ -102,7 +102,7 @@ Marcelo Campos Antunes Diretor-Presidente Alexandre Careta Ventorim Diretor Admi
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-5|abrir Art. 5º]]</small>
 
-**Art. 6º** A concessionária deverá apurar mensalmente o indicador ICP, considerando o total de análises conformes em relação ao total de análises realizadas válidas, de acordo com a fórmula abaixo: 𝐈𝐂𝐏= (𝐓𝐀𝐂 𝐓𝐀𝐕) × 𝟏𝟎𝟎 onde: ICP: indicador de conformidade do produto (%). TAC: total de análises conformes, sendo consideradas conformes as análises nas quais todos os parâmetros estabelecidos no regulamento da ANP sejam atendidos. TAV: total de análises válidas, sendo consideradas válidas as análises em que o processo de cromatografia seja concluído sem erro.
+**Art. 6º** A concessionária deverá apurar mensalmente o indicador ICP, considerando o total de análises conformes em relação ao total de análises realizadas válidas, de acordo com a fórmula abaixo: ICP= (TAC TAV) × 100 onde: ICP: indicador de conformidade do produto (%). TAC: total de análises conformes, sendo consideradas conformes as análises nas quais todos os parâmetros estabelecidos no regulamento da ANP sejam atendidos. TAV: total de análises válidas, sendo consideradas válidas as análises em que o processo de cromatografia seja concluído sem erro.
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-6|abrir Art. 6º]]</small>
 
@@ -126,7 +126,7 @@ Marcelo Campos Antunes Diretor-Presidente Alexandre Careta Ventorim Diretor Admi
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-11|abrir Art. 11]]</small>
 
-**Art. 12** O valor da multa para o indicador ICP será calculado conforme fórmula abaixo: 𝐌𝐈𝐂𝐏𝐌Ê𝐒 = (𝐑𝐄𝐅𝐈𝐂𝐏 −𝐈𝐂𝐏) 𝐑𝐄𝐅𝐈𝐂𝐏 × 𝐌𝐌𝐀𝐗𝐈𝐂𝐏 𝟏𝟐 × 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐈𝐂𝐏𝐌Ê𝐒 onde: 𝐌𝐈𝐂𝐏𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador ICP (R\$); 𝐈𝐂𝐏: Valor do indicador ICP do respectivo mês (%); 𝐑𝐄𝐅𝐈𝐂𝐏: Valor de referência do indicador ICP (%); 𝐌𝐌𝐀𝐗𝐈𝐂𝐏: Valor da multa máxima do indicador ICP estabelecida no [[resolucoes/res-arsp-067-2023/anexo-i-art-38|Art. 38]] desta resolução (R\$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐈𝐂𝐏𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 01 (%).
+**Art. 12** O valor da multa para o indicador ICP será calculado conforme fórmula abaixo: MICPMÊS = (REFICP −ICP) REFICP × MMAXICP 12 × GRADAÇÃOICPMÊS onde: MICPMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador ICP (R\$); ICP: Valor do indicador ICP do respectivo mês (%); REFICP: Valor de referência do indicador ICP (%); MMAXICP: Valor da multa máxima do indicador ICP estabelecida no [[resolucoes/res-arsp-067-2023/anexo-i-art-38|Art. 38]] desta resolução (R\$); GRADAÇÃOICPMÊS: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 01 (%).
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-12|abrir Art. 12]]</small>
 
@@ -138,7 +138,7 @@ Marcelo Campos Antunes Diretor-Presidente Alexandre Careta Ventorim Diretor Admi
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-14|abrir Art. 14]] · citado 1×</small>
 
-**Art. 15** A concessionária deverá apurar mensalmente o indicador PRE considerando o número de casos em que a pressão fique fora dos limites definidos em contrato com o usuário, além das comunicações oficiais previamente realizadas e com anuência do usuário a respeito do tema, sendo que o indicador será calculado considerando o total de casos com limites de pressão dentro dos limites contratuais em relação ao total de usuários com contrato de fornecimento e contrato de uso do serviço de distribuição, de acordo com a fórmula abaixo: 𝐏𝐑𝐄= ( 𝐐𝐂𝐏 𝐓𝐎𝐓𝐩) × 𝟏𝟎𝟎 onde: PRE: indicador de entrega à pressão de referência (%). QCP: quantidades de casos com limites de pressão dentro dos limites contratuais. TOTp: total de usuários com contrato de fornecimento e contrato de uso do serviço de distribuição.
+**Art. 15** A concessionária deverá apurar mensalmente o indicador PRE considerando o número de casos em que a pressão fique fora dos limites definidos em contrato com o usuário, além das comunicações oficiais previamente realizadas e com anuência do usuário a respeito do tema, sendo que o indicador será calculado considerando o total de casos com limites de pressão dentro dos limites contratuais em relação ao total de usuários com contrato de fornecimento e contrato de uso do serviço de distribuição, de acordo com a fórmula abaixo: PRE= ( QCP TOTp) × 100 onde: PRE: indicador de entrega à pressão de referência (%). QCP: quantidades de casos com limites de pressão dentro dos limites contratuais. TOTp: total de usuários com contrato de fornecimento e contrato de uso do serviço de distribuição.
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-15|abrir Art. 15]]</small>
 
@@ -171,7 +171,7 @@ Marcelo Campos Antunes Diretor-Presidente Alexandre Careta Ventorim Diretor Admi
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-20|abrir Art. 20]]</small>
 
-**Art. 21** O valor da multa para o indicador PRE será calculado conforme fórmula abaixo: 𝐌𝐏𝐑𝐄𝐌Ê𝐒 = (𝐑𝐄𝐅𝐏𝐑𝐄 −𝐏𝐑𝐄) 𝐑𝐄𝐅𝐏𝐑𝐄 × 𝐌𝐌𝐀𝐗𝐏𝐑𝐄 𝟏𝟐 × 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐏𝐑𝐄𝐌Ê𝐒 onde: 𝐌𝐏𝐑𝐄𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador PRE (R\$); 𝐏𝐑𝐄: Valor do indicador PRE do respectivo mês (%); 𝐑𝐄𝐅𝐏𝐑𝐄: Valor de referência do indicador PRE (%); 𝐌𝐌𝐀𝐗𝐏𝐑𝐄: Valor da multa máxima do indicador PRE estabelecida no [[resolucoes/res-arsp-067-2023/anexo-i-art-38|Art. 38]] desta resolução (R\$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐏𝐑𝐄𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 02 (%).
+**Art. 21** O valor da multa para o indicador PRE será calculado conforme fórmula abaixo: MPREMÊS = (REFPRE −PRE) REFPRE × MMAXPRE 12 × GRADAÇÃOPREMÊS onde: MPREMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador PRE (R\$); PRE: Valor do indicador PRE do respectivo mês (%); REFPRE: Valor de referência do indicador PRE (%); MMAXPRE: Valor da multa máxima do indicador PRE estabelecida no [[resolucoes/res-arsp-067-2023/anexo-i-art-38|Art. 38]] desta resolução (R\$); GRADAÇÃOPREMÊS: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 02 (%).
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-21|abrir Art. 21]]</small>
 
@@ -187,7 +187,7 @@ Marcelo Campos Antunes Diretor-Presidente Alexandre Careta Ventorim Diretor Admi
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-24|abrir Art. 24]]</small>
 
-**Art. 25** A concessionária deverá calcular mensalmente o indicador DFG, conforme fórmula abaixo: 𝐃𝐅𝐆= ( 𝐅𝐆𝐏 𝐅𝐆𝐓) × 𝟏𝟎𝟎 onde: DFG: indicador de duração das faltas de gás canalizado por usuário. FGP: total de unidades usuárias com falta de gás canalizado não programada, ocasionada por falha no sistema de distribuição, não atendido no prazo. FGT: total de unidades usuárias com falta de gás canalizado não programada, ocasionada por falha no sistema de distribuição, bem como as ocorrências programadas para manutenção.
+**Art. 25** A concessionária deverá calcular mensalmente o indicador DFG, conforme fórmula abaixo: DFG= ( FGP FGT) × 100 onde: DFG: indicador de duração das faltas de gás canalizado por usuário. FGP: total de unidades usuárias com falta de gás canalizado não programada, ocasionada por falha no sistema de distribuição, não atendido no prazo. FGT: total de unidades usuárias com falta de gás canalizado não programada, ocasionada por falha no sistema de distribuição, bem como as ocorrências programadas para manutenção.
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-25|abrir Art. 25]]</small>
 
@@ -215,7 +215,7 @@ Marcelo Campos Antunes Diretor-Presidente Alexandre Careta Ventorim Diretor Admi
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-28|abrir Art. 28]]</small>
 
-**Art. 29** O valor da multa para o indicador DFG será calculado conforme fórmula abaixo: 𝐌𝐃𝐅𝐆𝐌Ê𝐒 = ((𝐃𝐅𝐆−𝐑𝐄𝐅𝐃𝐅𝐆) 𝐑𝐄𝐅𝐃𝐅𝐆 × 𝟎, 𝟎𝟒𝟓−𝟎, 𝟎𝟏𝟓) × 𝐌𝐌𝐀𝐗𝐃𝐅𝐆 𝟏𝟐 × 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐃𝐅𝐆𝐌Ê𝐒 𝐌𝐃𝐅𝐆𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador DFG (R\$); 𝐃𝐅𝐆: Valor do indicador DFG do respectivo mês (%); 𝐑𝐄𝐅𝐃𝐅𝐆: Valor de referência do Indicador DFG (%); 𝐌𝐌𝐀𝐗𝐃𝐅𝐆: Valor da multa máxima do indicador DFG estabelecida no [[resolucoes/res-arsp-067-2023/anexo-i-art-38|Art. 38]] desta resolução (R\$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐃𝐅𝐆𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 04 (%). Capítulo V – Indicador de Frequência das Faltas de Gás Canalizado por Unidade Usuária (FFG).
+**Art. 29** O valor da multa para o indicador DFG será calculado conforme fórmula abaixo: MDFGMÊS = ((DFG−REFDFG) REFDFG × 0, 045−0, 015) × MMAXDFG 12 × GRADAÇÃODFGMÊS MDFGMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador DFG (R\$); DFG: Valor do indicador DFG do respectivo mês (%); REFDFG: Valor de referência do Indicador DFG (%); MMAXDFG: Valor da multa máxima do indicador DFG estabelecida no [[resolucoes/res-arsp-067-2023/anexo-i-art-38|Art. 38]] desta resolução (R\$); GRADAÇÃODFGMÊS: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 04 (%). Capítulo V – Indicador de Frequência das Faltas de Gás Canalizado por Unidade Usuária (FFG).
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-29|abrir Art. 29]]</small>
 
@@ -223,7 +223,7 @@ Marcelo Campos Antunes Diretor-Presidente Alexandre Careta Ventorim Diretor Admi
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-30|abrir Art. 30]]</small>
 
-**Art. 31** A concessionária deverá calcular mensalmente o indicador FFG, conforme fórmula abaixo: 𝐅𝐅𝐆= 𝐅𝐆𝐓 𝐓𝐎𝐓 × 𝟏𝟎𝟎𝟎 onde: FFG: indicador de frequência das faltas de gás canalizado por mil unidades usuárias. FGT: total de unidades usuárias com falta de gás canalizado não programada, ocasionada por falha no sistema de distribuição, bem como as ocorrências programadas para manutenção. TOT: total de unidade usuárias.
+**Art. 31** A concessionária deverá calcular mensalmente o indicador FFG, conforme fórmula abaixo: FFG= FGT TOT × 1000 onde: FFG: indicador de frequência das faltas de gás canalizado por mil unidades usuárias. FGT: total de unidades usuárias com falta de gás canalizado não programada, ocasionada por falha no sistema de distribuição, bem como as ocorrências programadas para manutenção. TOT: total de unidade usuárias.
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-31|abrir Art. 31]]</small>
 
@@ -251,7 +251,7 @@ Marcelo Campos Antunes Diretor-Presidente Alexandre Careta Ventorim Diretor Admi
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-34|abrir Art. 34]]</small>
 
-**Art. 35** O valor da multa para o indicador FFG será calculado conforme fórmula abaixo: 𝐌𝐅𝐅𝐆𝐌Ê𝐒 = ((𝐅𝐅𝐆−𝐑𝐄𝐅𝐅𝐅𝐆) 𝐑𝐄𝐅𝐅𝐅𝐆 × 𝟎, 𝟎𝟑𝟑+ 𝟎, 𝟎𝟎𝟓) × 𝐌𝐌𝐀𝐗𝐅𝐅𝐆 𝟏𝟐 × 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐅𝐆𝐌Ê𝐒 onde: Baixo Médio-baixo Médio Médio-alto Alto 3,50 a 4,10 4,11 a 4,70 4,71 a 5,30 5,31 a 5,90 \>5,90 20,00% 40,00% 60,00% 80,00% 100,00% Valor do Indicador FFG do respectivo mês (por mil UU) 𝐌𝐅𝐅𝐆𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador FFG (R\$); 𝐅𝐅𝐆: Valor do indicador FFG do respectivo mês (%); 𝐑𝐄𝐅𝐅𝐅𝐆: Valor de referência do Indicador FFG (%); 𝐌𝐌𝐀𝐗𝐅𝐅𝐆: Valor da multa máxima do indicador FFG estabelecida no [[resolucoes/res-arsp-067-2023/anexo-i-art-38|Art. 38]] desta resolução (R\$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐅𝐆𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 05 (%).
+**Art. 35** O valor da multa para o indicador FFG será calculado conforme fórmula abaixo: MFFGMÊS = ((FFG−REFFFG) REFFFG × 0, 033+ 0, 005) × MMAXFFG 12 × GRADAÇÃOFFGMÊS onde: Baixo Médio-baixo Médio Médio-alto Alto 3,50 a 4,10 4,11 a 4,70 4,71 a 5,30 5,31 a 5,90 \>5,90 20,00% 40,00% 60,00% 80,00% 100,00% Valor do Indicador FFG do respectivo mês (por mil UU) MFFGMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador FFG (R\$); FFG: Valor do indicador FFG do respectivo mês (%); REFFFG: Valor de referência do Indicador FFG (%); MMAXFFG: Valor da multa máxima do indicador FFG estabelecida no [[resolucoes/res-arsp-067-2023/anexo-i-art-38|Art. 38]] desta resolução (R\$); GRADAÇÃOFFGMÊS: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 05 (%).
 
 <small>[[resolucoes/res-arsp-067-2023/anexo-i-art-35|abrir Art. 35]]</small>
 

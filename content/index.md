@@ -5,16 +5,16 @@ title: Normas de gás canalizado – ARSP/ES
 Resoluções, leis e consultas públicas da ARSP com **link direto para cada artigo, parágrafo, inciso e alínea**. Passe o mouse sobre uma remissão para ver o dispositivo; no fim de cada artigo aparece quem o cita.
 
 > [!warning] Piloto
-> 14 documentos, 315 remissões detectadas automaticamente em 12/11/2026. Em caso de dúvida, vale o PDF original. Veja [[revisao|o que conferir]].
+> 15 documentos, 340 remissões detectadas automaticamente em 12/11/2026. Em caso de dúvida, vale o PDF original. Veja [[revisao|o que conferir]].
 
 ## Leis
 
 - [[leis/lei-11173-2020/index|Lei 11.173/2020]] – Dispõe sobre normas para o mercado livre de gás canalizado no âmbito do Estado do Espírito Santo e dá outras providências. *(15 dispositivos, citado 5× por outros atos)*
-- [[leis/lc-827-2016/index|LC 827/2016]] – Cria a Agência de Regulação de Serviços Públicos - ARSP, em decorrência da fusão da ARSI e da ASPE, e dá outras providências. *(45 dispositivos, citado 13× por outros atos)*
+- [[leis/lc-827-2016/index|LC 827/2016]] – Cria a Agência de Regulação de Serviços Públicos - ARSP, em decorrência da fusão da ARSI e da ASPE, e dá outras providências. *(45 dispositivos, citado 14× por outros atos)*
 
 ## Contratos
 
-- [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] – Contrato de concessão para exploração do serviço público de distribuição de gás canalizado que entre si celebram o Estado do Espírito Santo  *(42 dispositivos, citado 73× por outros atos)*
+- [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] – Contrato de concessão para exploração do serviço público de distribuição de gás canalizado que entre si celebram o Estado do Espírito Santo  *(42 dispositivos, citado 94× por outros atos)*
 
 ## Resoluções
 
@@ -22,6 +22,7 @@ Resoluções, leis e consultas públicas da ARSP com **link direto para cada art
 - [[resolucoes/res-arsp-114-2026/index|Res. ARSP 114/2026]] – Dispõe sobre as Condições Gerais da Prestação dos Serviços Locais de Gás Canalizado no Estado do Espírito Santo. *(93 dispositivos)*
 - [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] – Reajuste tarifário de agosto de 2026 – ES Gás. *(6 dispositivos)*
 - [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] – Dispõe sobre os resultados da 1ª Revisão Tarifária Ordinária da Companhia de Gás do Espírito Santo – ES Gás e estabelece a estrutura tarifár *(8 dispositivos, citado 1× por outros atos)*
+- [[resolucoes/res-arsp-084-2025/index|Res. ARSP 084/2025]] – Estabelece a metodologia de revisão da margem média de distribuição aplicável à 1ª Revisão Tarifária Ordinária da Companhia de Gás do Espíri *(117 dispositivos, citado 1× por outros atos)*
 - [[resolucoes/res-arsp-067-2023/index|Res. ARSP 067/2023]] – Dispõe sobre os indicadores de qualidade do produto e do serviço público de distribuição de gás canalizado e dá outras providências. *(43 dispositivos)*
 - [[resolucoes/res-arsp-063-2023/index|Res. ARSP 063/2023]] – Dispõe sobre os indicadores de qualidade do atendimento comercial do serviço público de distribuição de gás canalizado e dá outras providênc *(24 dispositivos)*
 - [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] – Dispõe sobre procedimento de reajuste da tarifa do gás canalizado contemplando apuração e recuperação dos saldos provocados pelas variações  *(9 dispositivos, citado 8× por outros atos)*

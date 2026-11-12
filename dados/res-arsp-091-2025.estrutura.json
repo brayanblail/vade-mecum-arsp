@@ -107,9 +107,9 @@
        {
         "ini": 15,
         "fim": 41,
-        "externo": "Res. ARSP 084/2025",
-        "url": null,
-        "conf": "externo"
+        "doc": "res-arsp-084-2025",
+        "disp": null,
+        "conf": "documento"
        }
       ],
       "12": [

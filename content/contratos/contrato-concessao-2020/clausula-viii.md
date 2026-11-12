@@ -114,3 +114,7 @@ pagina_pdf: 9
 
 ---
 [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] · [PDF, pág. 9](../../pdf/contrato-concessao-2020.pdf#page=9)
+
+## Citado por (1)
+
+- [[resolucoes/res-arsp-084-2025/anexo-i-item-77#^cpt|Res. ARSP 084/2025 · Anexo I, item 77]] → Cláusula VIII, 8.25

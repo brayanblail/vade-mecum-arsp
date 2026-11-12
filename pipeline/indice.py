@@ -24,13 +24,15 @@ def nome_parte(pid):
 def arquivo_artigo(doc, parte_id, art):
     """Nome do arquivo .md (sem extensão) da nota do artigo."""
     if art.get("secao"):
-        base = "secao-" + art["num"].replace(".", "-")
+        base = "item-" + art["num"].replace(".", "-")
     elif art["rotulo"].startswith("Cláusula"):
         base = "clausula-" + art["rotulo"].split()[-1].lower()
+    elif not art["num"]:
+        base = ""               # anexo que é só uma lista de incisos (Res. 084/2025, Anexo II)
     else:
         base = "art-" + art["num"].lower()
     if parte_id != "corpo":
-        base = re.sub(r"[^a-z0-9]+", "-", nome_parte(parte_id).lower()) + "-" + base
+        base = re.sub(r"[^a-z0-9]+", "-", nome_parte(parte_id).lower()) + ("-" + base if base else "")
     return base
 
 
@@ -73,8 +75,10 @@ class Mapa:
 
     @staticmethod
     def rot_art(pid, b):
+        """'Art. 9º', 'Anexo I, Art. 49', 'Anexo I, item 23' (item de anexo ou seção de nota técnica),
+        'Anexo II' (anexo que é só uma lista de incisos)."""
         r = b["rotulo"] if not b.get("secao") else f"item {b['num']}"
-        return f"{nome_parte(pid)}, {r}" if pid != "corpo" else r
+        return Mapa.junta(nome_parte(pid), r) if pid != "corpo" else r
 
     @staticmethod
     def bloco(art_id, disp_id):

@@ -266,7 +266,8 @@ def contagens(rev=None):
         e = json.loads(t) if t else {"partes": [], "avisos": []}
         por_doc[d["id"]] = {
             "sigla": d["sigla"],
-            "artigos": sum(1 for p in e["partes"] for b in p["blocos"] if b["tipo"] == "artigo"),
+            # artigos, cláusulas e itens de anexo; o bloco de anexo que é só lista de incisos (num vazio) não conta
+            "artigos": sum(1 for p in e["partes"] for b in p["blocos"] if b["tipo"] == "artigo" and b["num"]),
             "avisos": len(e.get("avisos", [])),
             "saem": 0, "citado": 0,
         }

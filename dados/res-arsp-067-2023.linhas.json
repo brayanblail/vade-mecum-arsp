@@ -441,11 +441,11 @@
 },
 {
 "pag": 5,
-"texto": "𝐈𝐂𝐏= (𝐓𝐀𝐂"
+"texto": "ICP= (TAC"
 },
 {
 "pag": 5,
-"texto": "𝐓𝐀𝐕) × 𝟏𝟎𝟎"
+"texto": "TAV) × 100"
 },
 {
 "pag": 5,
@@ -613,23 +613,23 @@
 },
 {
 "pag": 7,
-"texto": "𝐌𝐈𝐂𝐏𝐌Ê𝐒 = (𝐑𝐄𝐅𝐈𝐂𝐏 −𝐈𝐂𝐏)"
+"texto": "MICPMÊS = (REFICP −ICP)"
 },
 {
 "pag": 7,
-"texto": "𝐑𝐄𝐅𝐈𝐂𝐏"
+"texto": "REFICP"
 },
 {
 "pag": 7,
-"texto": "× 𝐌𝐌𝐀𝐗𝐈𝐂𝐏"
+"texto": "× MMAXICP"
 },
 {
 "pag": 7,
-"texto": "𝟏𝟐"
+"texto": "12"
 },
 {
 "pag": 7,
-"texto": "× 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐈𝐂𝐏𝐌Ê𝐒"
+"texto": "× GRADAÇÃOICPMÊS"
 },
 {
 "pag": 7,
@@ -637,7 +637,7 @@
 },
 {
 "pag": 7,
-"texto": "𝐌𝐈𝐂𝐏𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador"
+"texto": "MICPMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador"
 },
 {
 "pag": 7,
@@ -645,15 +645,15 @@
 },
 {
 "pag": 7,
-"texto": "𝐈𝐂𝐏: Valor do indicador ICP do respectivo mês (%);"
+"texto": "ICP: Valor do indicador ICP do respectivo mês (%);"
 },
 {
 "pag": 7,
-"texto": "𝐑𝐄𝐅𝐈𝐂𝐏: Valor de referência do indicador ICP (%);"
+"texto": "REFICP: Valor de referência do indicador ICP (%);"
 },
 {
 "pag": 7,
-"texto": "𝐌𝐌𝐀𝐗𝐈𝐂𝐏: Valor da multa máxima do indicador ICP estabelecida no Art. 38"
+"texto": "MMAXICP: Valor da multa máxima do indicador ICP estabelecida no Art. 38"
 },
 {
 "pag": 7,
@@ -661,7 +661,7 @@
 },
 {
 "pag": 7,
-"texto": "𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐈𝐂𝐏𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis"
+"texto": "GRADAÇÃOICPMÊS: Gradação da multa a ser aplicada conforme níveis"
 },
 {
 "pag": 7,
@@ -785,15 +785,15 @@
 },
 {
 "pag": 8,
-"texto": "𝐏𝐑𝐄= ("
+"texto": "PRE= ("
 },
 {
 "pag": 8,
-"texto": "𝐐𝐂𝐏"
+"texto": "QCP"
 },
 {
 "pag": 8,
-"texto": "𝐓𝐎𝐓𝐩) × 𝟏𝟎𝟎"
+"texto": "TOTp) × 100"
 },
 {
 "pag": 8,
@@ -1101,23 +1101,23 @@
 },
 {
 "pag": 10,
-"texto": "𝐌𝐏𝐑𝐄𝐌Ê𝐒 = (𝐑𝐄𝐅𝐏𝐑𝐄 −𝐏𝐑𝐄)"
+"texto": "MPREMÊS = (REFPRE −PRE)"
 },
 {
 "pag": 10,
-"texto": "𝐑𝐄𝐅𝐏𝐑𝐄"
+"texto": "REFPRE"
 },
 {
 "pag": 10,
-"texto": "× 𝐌𝐌𝐀𝐗𝐏𝐑𝐄"
+"texto": "× MMAXPRE"
 },
 {
 "pag": 10,
-"texto": "𝟏𝟐"
+"texto": "12"
 },
 {
 "pag": 10,
-"texto": "× 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐏𝐑𝐄𝐌Ê𝐒"
+"texto": "× GRADAÇÃOPREMÊS"
 },
 {
 "pag": 10,
@@ -1125,7 +1125,7 @@
 },
 {
 "pag": 10,
-"texto": "𝐌𝐏𝐑𝐄𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador"
+"texto": "MPREMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador"
 },
 {
 "pag": 10,
@@ -1133,15 +1133,15 @@
 },
 {
 "pag": 11,
-"texto": "𝐏𝐑𝐄: Valor do indicador PRE do respectivo mês (%);"
+"texto": "PRE: Valor do indicador PRE do respectivo mês (%);"
 },
 {
 "pag": 11,
-"texto": "𝐑𝐄𝐅𝐏𝐑𝐄: Valor de referência do indicador PRE (%);"
+"texto": "REFPRE: Valor de referência do indicador PRE (%);"
 },
 {
 "pag": 11,
-"texto": "𝐌𝐌𝐀𝐗𝐏𝐑𝐄: Valor da multa máxima do indicador PRE estabelecida no Art."
+"texto": "MMAXPRE: Valor da multa máxima do indicador PRE estabelecida no Art."
 },
 {
 "pag": 11,
@@ -1149,7 +1149,7 @@
 },
 {
 "pag": 11,
-"texto": "𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐏𝐑𝐄𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis"
+"texto": "GRADAÇÃOPREMÊS: Gradação da multa a ser aplicada conforme níveis"
 },
 {
 "pag": 11,
@@ -1225,15 +1225,15 @@
 },
 {
 "pag": 11,
-"texto": "𝐃𝐅𝐆= ("
+"texto": "DFG= ("
 },
 {
 "pag": 11,
-"texto": "𝐅𝐆𝐏"
+"texto": "FGP"
 },
 {
 "pag": 11,
-"texto": "𝐅𝐆𝐓) × 𝟏𝟎𝟎"
+"texto": "FGT) × 100"
 },
 {
 "pag": 11,
@@ -1377,27 +1377,27 @@
 },
 {
 "pag": 13,
-"texto": "𝐌𝐃𝐅𝐆𝐌Ê𝐒 = ((𝐃𝐅𝐆−𝐑𝐄𝐅𝐃𝐅𝐆)"
+"texto": "MDFGMÊS = ((DFG−REFDFG)"
 },
 {
 "pag": 13,
-"texto": "𝐑𝐄𝐅𝐃𝐅𝐆"
+"texto": "REFDFG"
 },
 {
 "pag": 13,
-"texto": "× 𝟎, 𝟎𝟒𝟓−𝟎, 𝟎𝟏𝟓) × 𝐌𝐌𝐀𝐗𝐃𝐅𝐆"
+"texto": "× 0, 045−0, 015) × MMAXDFG"
 },
 {
 "pag": 13,
-"texto": "𝟏𝟐"
+"texto": "12"
 },
 {
 "pag": 13,
-"texto": "× 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐃𝐅𝐆𝐌Ê𝐒"
+"texto": "× GRADAÇÃODFGMÊS"
 },
 {
 "pag": 13,
-"texto": "𝐌𝐃𝐅𝐆𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador"
+"texto": "MDFGMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador"
 },
 {
 "pag": 13,
@@ -1405,15 +1405,15 @@
 },
 {
 "pag": 13,
-"texto": "𝐃𝐅𝐆: Valor do indicador DFG do respectivo mês (%);"
+"texto": "DFG: Valor do indicador DFG do respectivo mês (%);"
 },
 {
 "pag": 13,
-"texto": "𝐑𝐄𝐅𝐃𝐅𝐆: Valor de referência do Indicador DFG (%);"
+"texto": "REFDFG: Valor de referência do Indicador DFG (%);"
 },
 {
 "pag": 13,
-"texto": "𝐌𝐌𝐀𝐗𝐃𝐅𝐆: Valor da multa máxima do indicador DFG estabelecida no Art."
+"texto": "MMAXDFG: Valor da multa máxima do indicador DFG estabelecida no Art."
 },
 {
 "pag": 13,
@@ -1421,7 +1421,7 @@
 },
 {
 "pag": 13,
-"texto": "𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐃𝐅𝐆𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis"
+"texto": "GRADAÇÃODFGMÊS: Gradação da multa a ser aplicada conforme níveis"
 },
 {
 "pag": 13,
@@ -1509,11 +1509,11 @@
 },
 {
 "pag": 14,
-"texto": "𝐅𝐅𝐆= 𝐅𝐆𝐓"
+"texto": "FFG= FGT"
 },
 {
 "pag": 14,
-"texto": "𝐓𝐎𝐓 × 𝟏𝟎𝟎𝟎"
+"texto": "TOT × 1000"
 },
 {
 "pag": 14,
@@ -1657,23 +1657,23 @@
 },
 {
 "pag": 15,
-"texto": "𝐌𝐅𝐅𝐆𝐌Ê𝐒 = ((𝐅𝐅𝐆−𝐑𝐄𝐅𝐅𝐅𝐆)"
+"texto": "MFFGMÊS = ((FFG−REFFFG)"
 },
 {
 "pag": 15,
-"texto": "𝐑𝐄𝐅𝐅𝐅𝐆"
+"texto": "REFFFG"
 },
 {
 "pag": 15,
-"texto": "× 𝟎, 𝟎𝟑𝟑+ 𝟎, 𝟎𝟎𝟓) × 𝐌𝐌𝐀𝐗𝐅𝐅𝐆"
+"texto": "× 0, 033+ 0, 005) × MMAXFFG"
 },
 {
 "pag": 15,
-"texto": "𝟏𝟐"
+"texto": "12"
 },
 {
 "pag": 15,
-"texto": "× 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐅𝐆𝐌Ê𝐒"
+"texto": "× GRADAÇÃOFFGMÊS"
 },
 {
 "pag": 15,
@@ -1705,7 +1705,7 @@
 },
 {
 "pag": 16,
-"texto": "𝐌𝐅𝐅𝐆𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador"
+"texto": "MFFGMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador"
 },
 {
 "pag": 16,
@@ -1713,15 +1713,15 @@
 },
 {
 "pag": 16,
-"texto": "𝐅𝐅𝐆: Valor do indicador FFG do respectivo mês (%);"
+"texto": "FFG: Valor do indicador FFG do respectivo mês (%);"
 },
 {
 "pag": 16,
-"texto": "𝐑𝐄𝐅𝐅𝐅𝐆: Valor de referência do Indicador FFG (%);"
+"texto": "REFFFG: Valor de referência do Indicador FFG (%);"
 },
 {
 "pag": 16,
-"texto": "𝐌𝐌𝐀𝐗𝐅𝐅𝐆: Valor da multa máxima do indicador FFG estabelecida no Art."
+"texto": "MMAXFFG: Valor da multa máxima do indicador FFG estabelecida no Art."
 },
 {
 "pag": 16,
@@ -1729,7 +1729,7 @@
 },
 {
 "pag": 16,
-"texto": "𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐅𝐆𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis"
+"texto": "GRADAÇÃOFFGMÊS: Gradação da multa a ser aplicada conforme níveis"
 },
 {
 "pag": 16,

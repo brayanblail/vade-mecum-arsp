@@ -49,7 +49,7 @@ TOKENS = [
             rf"(?:\s*/\s*(?P<lei_ano>\d{{4}})|{DATA}(?P<lei_ano2>\d{{4}})|,?\s+de\s+(?P<lei_ano3>\d{{4}}))?)"),
     ("decreto", rf"(?P<decreto>Decreto(?:\s+(?:Federal|Estadual))?\s*(?:[Nn]\.?\s*[º°o]\.?\s*)?(?P<dc_num>\d{{1,2}}\.?\d{{3}}(?:-R)?)"
                 rf"(?:\s*/\s*(?P<dc_ano>\d{{4}})|{DATA}(?P<dc_ano2>\d{{4}})|,?\s+de\s+(?P<dc_ano3>\d{{4}}))?)"),
-    ("cf", r"(?P<cf>Constitui[çc][ãa]o\s+(?:Federal|da\s+Rep[úu]blica)|CF/88)"),
+    ("cf", r"(?P<cf>[Cc]onstitui[çc][ãa]o\s+(?:[Ff]ederal|da\s+Rep[úu]blica)|CF/88)"),
     ("ce", r"(?P<ce>Constitui[çc][ãa]o\s+(?:do\s+Estado|Estadual)(?:\s+do\s+Esp[íi]rito\s+Santo)?)"),
     ("cc", r"(?P<cc>C[óo]digo\s+Civil(?:\s+Brasileiro)?)"),
     ("cdc", r"(?P<cdc>C[óo]digo\s+de\s+Defesa\s+do\s+Consumidor)"),
@@ -73,12 +73,21 @@ TOKENS_CONTRATO = [
     ("item", rf"\b(?P<item>(?:[Ss]ub)?(?:[Ii]tem|[Ii]tens|ITEM|ITENS)\s+(?:{NUM_ITEM}|{ROM})(?:{LIG}(?:{NUM_ITEM}|{ROM}))*)"),
     ("anexo", rf"\b(?P<anexo>(?:[Aa]nexo|ANEXO)\s+(?P<anexo_n>{ROM}))"),
 ]
-RE_TOK = re.compile("|".join(f"(?P<T_{k}>{p})" for k, p in TOKENS))
-RE_TOK_CONTRATO = re.compile("|".join(f"(?P<T_{k}>{p})" for k, p in TOKENS_CONTRATO + TOKENS))
-NIVEL = {"art": 4, "par": 3, "inc": 2, "ali": 1, "caput": 3, "neste": 4, "anexo": 7, "cl": 6, "item": 3}
+# Itens numerados de anexo de resolução ("item 108", "item 46 da seção V do Anexo I": Res. 084/2025).
+# Só entram no texto de um ato que tem esses itens e nos trechos que citam um ato assim.
+TOKENS_ITEM = [
+    ("itm", r"\b(?P<itm>(?:[Ii]te(?:m|ns)|ITE(?:M|NS))\s+\d{1,3}(?![\d.,]\d)(?:\s*(?:,|e|a)\s*\d{1,3}(?![\d.,]\d))*)"),
+]
+RE_TOKS = {(c, i): re.compile("|".join(f"(?P<T_{k}>{p})" for k, p in (TOKENS_CONTRATO if c else [])
+                                       + (TOKENS_ITEM if i else []) + TOKENS))
+           for c in (False, True) for i in (False, True)}
+RE_TOK = RE_TOKS[(False, False)]
+NIVEL = {"art": 4, "par": 3, "inc": 2, "ali": 1, "caput": 3, "neste": 4, "anexo": 7, "cl": 6, "item": 3, "itm": 4}
 KINDS_CONTRATO = {"cl", "item", "anexo"}
 DOC_KINDS = {"self", "res", "dec", "lc", "lei", "decreto", "cf", "ce", "cc", "cdc", "concessao", "codigo"}
 RE_CITA_CONTRATO = re.compile(r"contrato\s+de\s+concess[ãa]o", re.I)
+# "Cláusula IX" num ato sem cláusulas próprias que cita o contrato em outro trecho (Res. 084/2025, item 26)
+RE_CLAUSULA_N = re.compile(r"\b[Cc][Ll][ÁáAa][Uu][Ss][Uu][Ll][Aa]\s+(?:[IVXLC]+\b|\d)")
 # Atos que falam de "contrato de concessão" em geral (todos os setores da ARSP), e não do contrato da ES Gás
 CONTRATO_GENERICO = {"lc-827-2016"}
 LIGA_CADEIA = re.compile(r"^(?:[\s,(]|\b(?:d[oa]s?|n[oa]s?|ao|à|e|ou|bem\s+como|combinado\s+com|c/c|em|seu|sua)\b)*$")
@@ -102,6 +111,8 @@ def nums_lista(s, tipo):
     if tipo == "art":
         vals = re.findall(r"(\d{1,3})(?:\s?[º°o])?(?:-([A-Z]))?", s)
         out = [n + (f"-{x}" if x else "") for n, x in vals]
+    elif tipo == "itm":
+        out = re.findall(r"\d{1,3}", s)
     elif tipo == "par":
         if re.search(r"[úu]nico", s):
             return ["único"]
@@ -113,7 +124,7 @@ def nums_lista(s, tipo):
     else:
         out = []
     # intervalos "37 a 39"
-    if tipo in ("art", "par") and re.search(r"\d\s*(?:a|até)\s*(?:[Aa]rt\.?\s*)?\d", s) and len(out) == 2 \
+    if tipo in ("art", "par", "itm") and re.search(r"\d\s*(?:a|até)\s*(?:[Aa]rt\.?\s*)?\d", s) and len(out) == 2 \
             and out[0].isdigit() and out[1].isdigit() and 0 < int(out[1]) - int(out[0]) < 15:
         out = [str(i) for i in range(int(out[0]), int(out[1]) + 1)]
     return out
@@ -138,9 +149,12 @@ class Indice:
                 self.por_chave[("lc", num)] = d["id"]
             elif d["tipo"] == "lei":
                 self.por_chave[("lei", num)] = d["id"]
-        # artigos por documento e parte (as cláusulas do contrato ficam à parte: "art. 9" não é a Cláusula IX)
+        # artigos por documento e parte (as cláusulas do contrato ficam à parte: "art. 9" não é a Cláusula IX;
+        # os itens de anexo também: "art. 2" não é o item 2)
         self.arts = {}
         self.cls = {}
+        self.itens = {}
+        com_clausulas = set()
         for d in docs:
             for p in d["partes"]:
                 for b in p["blocos"]:
@@ -148,11 +162,50 @@ class Indice:
                         continue
                     if d["tipo"] == "contrato":
                         self.cls.setdefault(d["id"], {}).setdefault(p["id"], {})[b["num"]] = b
-                    else:
+                    elif b.get("secao"):
+                        self.itens.setdefault(d["id"], {}).setdefault(p["id"], {})[b["num"]] = b
+                    elif b["num"]:      # bloco de anexo que é só lista de incisos (num vazio) não é artigo
                         self.arts.setdefault(d["id"], {}).setdefault(p["id"], {})[b["num"]] = b
+                    if b["rotulo"].startswith("Cláusula"):
+                        com_clausulas.add(d["id"])
+        # atos sem cláusulas próprias que citam o contrato de concessão: neles, "Cláusula IX" é do contrato
+        self.citam_contrato = {d["id"] for d in docs if self.contrato and d["id"] != self.contrato
+                               and d["id"] not in CONTRATO_GENERICO and d["id"] not in com_clausulas
+                               and any(RE_CITA_CONTRATO.search(texto_de(u, ch)) for _, _, u, ch in unidades(d))}
 
     def eh_contrato(self, doc_id):
         return doc_id is not None and doc_id in self.cls
+
+    def tem_itens(self, doc_id):
+        return doc_id is not None and doc_id in self.itens
+
+    def cita_ato_com_itens(self, texto):
+        """O trecho cita outro ato que tem itens de anexo ("item 46 do Anexo I da Resolução ARSP nº 84/2025")."""
+        for m in RE_TOK.finditer(texto):
+            kind = next(k[2:] for k, v in m.groupdict().items() if k.startswith("T_") and v)
+            if kind in DOC_KINDS and kind != "self" and self.tem_itens(self.doc_do_token(kind, m)[0]):
+                return True
+        return False
+
+    def achar_item(self, doc_id, parte_pref, item, inc=None, ali=None):
+        """Item de anexo > inciso > alínea. Procura na parte de origem e depois nas outras."""
+        partes = self.itens.get(doc_id, {})
+        ordem = ([parte_pref] if parte_pref in partes else []) + [p for p in partes if p != parte_pref]
+        b = next((partes[p][item] for p in ordem if item in partes[p]), None)
+        if b is None:
+            return None, None, None
+        alvo, cont = b["id"], b["caput"]
+        if inc:
+            ii = [x for x in cont["incisos"] if str(x["num"]) == inc]
+            if not ii:
+                return alvo, b["id"], "parcial"
+            cont, alvo = ii[0], ii[0]["id"]
+        if ali:
+            aa = [x for x in cont.get("alineas", []) if x["letra"] == ali]
+            if not aa:
+                return alvo, b["id"], "parcial"
+            alvo = aa[0]["id"]
+        return alvo, b["id"], "exato"
 
     def achar_clausula(self, doc_id, parte_pref, anexo, cl, item, inc, ali, origem=None):
         """Cláusula > item > inciso > alínea num contrato. Devolve (id_dispositivo, id_cláusula, confiança).
@@ -335,11 +388,12 @@ def mascarar(texto):
     return RE_NOTA.sub(lambda m: " " * len(m.group(0)), texto)
 
 
-def cadeias(texto, contrato=False):
+def cadeias(texto, contrato=False, itens=False):
     """Agrupa os tokens em cadeias ("§ 4º do art. 9") e grupos (cadeias ligadas ao mesmo ato).
-    contrato=True também reconhece cláusula, item e anexo (texto do contrato ou que o cita)."""
+    contrato=True também reconhece cláusula, item e anexo (texto do contrato ou que o cita);
+    itens=True, "item 108" (ato com itens de anexo ou trecho que cita um ato assim)."""
     toks = []
-    for m in (RE_TOK_CONTRATO if contrato else RE_TOK).finditer(mascarar(texto)):
+    for m in RE_TOKS[(contrato, itens)].finditer(mascarar(texto)):
         kind = next(k[2:] for k, v in m.groupdict().items() if k.startswith("T_") and v)
         toks.append((kind, m))
     grupos, atual, grupo = [], None, None
@@ -410,7 +464,10 @@ def posicoes_valores(kind, m):
     """Onde cada valor de uma lista aparece no texto: {'37': (ini, fim), '39': (...)}.
     Valores só implícitos num intervalo ("37 a 39" -> 38) não têm posição."""
     s, base, out = m.group(kind), m.start(kind), {}
-    if kind == "art":
+    if kind == "itm":
+        for mm in re.finditer(r"\d{1,3}", s):
+            out.setdefault(mm.group(0), (base + mm.start(), base + mm.end()))
+    elif kind == "art":
         for mm in re.finditer(r"(\d{1,3})(?:\s?[º°o](?!\w))?(?:-([A-Z])\b)?", s):
             v = mm.group(1) + (f"-{mm.group(2)}" if mm.group(2) else "")
             out.setdefault(v, (base + mm.start(), base + mm.end()))
@@ -512,11 +569,14 @@ def resolver_documento(idx, d, parte_id, art_origem, unidade, chave):
     texto = texto_de(unidade, chave)
     refs, arestas, pendentes = [], [], []
     eh_contrato = idx.eh_contrato(d["id"])
-    # trecho que cita o contrato de concessão: "cláusula", "item" e "anexo" passam a ser remissões
-    cita_contrato = bool(idx.contrato) and d["id"] not in CONTRATO_GENERICO and bool(RE_CITA_CONTRATO.search(texto))
+    # trecho que cita o contrato de concessão: "cláusula", "item" e "anexo" passam a ser remissões;
+    # num ato sem cláusulas próprias que cita o contrato, "Cláusula IX" sozinha também (vira inferido)
+    cita_contrato = bool(idx.contrato) and d["id"] not in CONTRATO_GENERICO and (
+        bool(RE_CITA_CONTRATO.search(texto)) or (d["id"] in idx.citam_contrato and bool(RE_CLAUSULA_N.search(texto))))
     # dentro de uma cláusula de outro ato (o CUSD), "Cláusula XVI" é dele, não do contrato de concessão
     em_clausula = art_origem is not None and art_origem["rotulo"].startswith("Cláusula")
-    for g in cadeias(texto, contrato=eh_contrato or cita_contrato):
+    com_itens = idx.tem_itens(d["id"]) or (bool(idx.itens) and idx.cita_ato_com_itens(texto))
+    for g in cadeias(texto, contrato=eh_contrato or cita_contrato, itens=com_itens):
         # documento alvo
         dtok = g["doc"] or g.get("doc_antes")
         alvo_doc, rot_ext, url_ext, mesmo = None, None, None, False
@@ -547,7 +607,7 @@ def resolver_documento(idx, d, parte_id, art_origem, unidade, chave):
             continue
 
         for cad in g["cadeias"]:
-            chaves = ("art", "par", "inc", "ali", "cl", "item", "item_inc", "anexo")
+            chaves = ("art", "par", "inc", "ali", "cl", "item", "item_inc", "anexo", "itm")
             vals = {k: [] for k in chaves}
             pos_val = {k: {} for k in chaves}   # valor -> posição no texto
             neste = caput = False
@@ -572,6 +632,25 @@ def resolver_documento(idx, d, parte_id, art_origem, unidade, chave):
                 refs.append({"ini": ini, "fim": fim, "externo": rot_ext, "url": url_ext, "conf": "externo"})
                 continue
             if alvo_doc is None:
+                continue
+
+            if vals["itm"]:
+                # "item 108", "item 46 da seção V do Anexo I": item de anexo de resolução (Res. 084/2025)
+                if not idx.tem_itens(alvo_doc) or vals["art"]:
+                    continue
+                parte_pref = parte_id if alvo_doc == d["id"] else None
+                alvos = []
+                for it in vals["itm"]:
+                    for i in vals["inc"] or [None]:
+                        for al in vals["ali"] or [None]:
+                            disp, aid, conf = idx.achar_item(alvo_doc, parte_pref, it, i, al)
+                            if disp:
+                                alvos.append((disp, aid, conf, {"itm": it, "inc": i, "ali": al}))
+                            else:
+                                pendentes.append({"doc": d["id"], "origem": unidade.get("id"), "texto": texto[ini:fim],
+                                                  "alvo_doc": alvo_doc, "art": f"item {it}", "par": None, "inc": i, "ali": al})
+                registrar(refs, arestas, d, art_origem, unidade, texto, ini, fim, alvo_doc, inferido,
+                          alvos, pos_val, ("itm", "inc", "ali"))
                 continue
 
             de_contrato = bool(vals["cl"] or vals["item"] or vals["item_inc"] or vals["anexo"])

@@ -421,11 +421,11 @@
 },
 {
 "pag": 5,
-"texto": "𝐒𝐂𝐏= 𝐌𝐒𝐏"
+"texto": "SCP= MSP"
 },
 {
 "pag": 5,
-"texto": "𝐌𝐀𝐓 × 𝟏𝟎𝟎"
+"texto": "MAT × 100"
 },
 {
 "pag": 5,
@@ -501,23 +501,23 @@
 },
 {
 "pag": 6,
-"texto": "𝐌𝐒𝐂𝐏𝐌Ê𝐒 = (𝐑𝐄𝐅𝐒𝐂𝐏 −𝐒𝐂𝐏"
+"texto": "MSCPMÊS = (REFSCP −SCP"
 },
 {
 "pag": 6,
-"texto": "𝐑𝐄𝐅𝐒𝐂𝐏"
+"texto": "REFSCP"
 },
 {
 "pag": 6,
-"texto": ") × 𝐌𝐌𝐀𝐗𝐒𝐂𝐏"
+"texto": ") × MMAXSCP"
 },
 {
 "pag": 6,
-"texto": "𝟏𝟐"
+"texto": "12"
 },
 {
 "pag": 6,
-"texto": "× 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐒𝐂𝐏𝐌Ê𝐒"
+"texto": "× GRADAÇÃOSCPMÊS"
 },
 {
 "pag": 6,
@@ -525,7 +525,7 @@
 },
 {
 "pag": 6,
-"texto": "𝐌𝐒𝐂𝐏𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador"
+"texto": "MSCPMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador"
 },
 {
 "pag": 6,
@@ -533,15 +533,15 @@
 },
 {
 "pag": 6,
-"texto": "𝐒𝐂𝐏: Valor do indicador SCP do respectivo mês (%);"
+"texto": "SCP: Valor do indicador SCP do respectivo mês (%);"
 },
 {
 "pag": 6,
-"texto": "𝐑𝐄𝐅𝐒𝐂𝐏: Valor de referência do indicador SCP (%);"
+"texto": "REFSCP: Valor de referência do indicador SCP (%);"
 },
 {
 "pag": 6,
-"texto": "𝐌𝐌𝐀𝐗𝐒𝐂𝐏: Valor da multa máxima do indicador SCP estabelecida no Art."
+"texto": "MMAXSCP: Valor da multa máxima do indicador SCP estabelecida no Art."
 },
 {
 "pag": 6,
@@ -549,7 +549,7 @@
 },
 {
 "pag": 6,
-"texto": "𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐒𝐂𝐏𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis"
+"texto": "GRADAÇÃOSCPMÊS: Gradação da multa a ser aplicada conforme níveis"
 },
 {
 "pag": 6,
@@ -637,15 +637,15 @@
 },
 {
 "pag": 7,
-"texto": "𝐅𝐄𝐑= 𝐑𝐞𝐜𝐥𝐚𝐦𝐚çõ𝐞𝐬 𝐏𝐫𝐨𝐜𝐞𝐝𝐞𝐧𝐭𝐞𝐬"
+"texto": "FER= Reclamações Procedentes"
 },
 {
 "pag": 7,
-"texto": "𝐍𝐮𝐬𝐮"
+"texto": "Nusu"
 },
 {
 "pag": 7,
-"texto": "× 𝟏𝟎𝟎𝟎"
+"texto": "× 1000"
 },
 {
 "pag": 7,
@@ -737,27 +737,27 @@
 },
 {
 "pag": 8,
-"texto": "𝐌𝐅𝐄𝐑𝐌Ê𝐒 = ("
+"texto": "MFERMÊS = ("
 },
 {
 "pag": 8,
-"texto": "(𝐅𝐄𝐑−𝐑𝐄𝐅𝐅𝐄𝐑)"
+"texto": "(FER−REFFER)"
 },
 {
 "pag": 8,
-"texto": "𝐑𝐄𝐅𝐅𝐄𝐑"
+"texto": "REFFER"
 },
 {
 "pag": 8,
-"texto": "× 𝟎, 𝟎𝟐+ 𝟎, 𝟎𝟎𝟐) × 𝐌𝐌𝐀𝐗𝐅𝐄𝐑"
+"texto": "× 0, 02+ 0, 002) × MMAXFER"
 },
 {
 "pag": 8,
-"texto": "𝟏𝟐"
+"texto": "12"
 },
 {
 "pag": 8,
-"texto": "× 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐄𝐑𝐌Ê𝐒"
+"texto": "× GRADAÇÃOFERMÊS"
 },
 {
 "pag": 8,
@@ -765,7 +765,7 @@
 },
 {
 "pag": 8,
-"texto": "𝐌𝐅𝐄𝐑𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador"
+"texto": "MFERMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador"
 },
 {
 "pag": 8,
@@ -773,15 +773,15 @@
 },
 {
 "pag": 8,
-"texto": "𝐅𝐄𝐑: Valor do indicador FER do respectivo mês;"
+"texto": "FER: Valor do indicador FER do respectivo mês;"
 },
 {
 "pag": 8,
-"texto": "𝐑𝐄𝐅𝐅𝐄𝐑: Valor de referência do indicador FER;"
+"texto": "REFFER: Valor de referência do indicador FER;"
 },
 {
 "pag": 8,
-"texto": "𝐌𝐌𝐀𝐗𝐅𝐄𝐑: Valor da multa máxima do indicador FER estabelecida no Art."
+"texto": "MMAXFER: Valor da multa máxima do indicador FER estabelecida no Art."
 },
 {
 "pag": 8,
@@ -789,7 +789,7 @@
 },
 {
 "pag": 8,
-"texto": "𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐄𝐑𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis"
+"texto": "GRADAÇÃOFERMÊS: Gradação da multa a ser aplicada conforme níveis"
 },
 {
 "pag": 8,

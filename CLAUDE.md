@@ -2,7 +2,7 @@
 
 Site com as normas da ARSP (gás canalizado, Espírito Santo) ligadas dispositivo a dispositivo: cada remissão ("§ 7º do art. 43 da Resolução ARSP nº 46/2021") vira link para o dispositivo exato, com caixinha de prévia, "citado por" e linhagem entre atos. Os documentos são públicos. O site é estático e tem no máximo 2 usuários simultâneos.
 
-O piloto foi construído numa conversa no app do Claude e validado com 15 documentos. Em 2026-11-10, as duas peças da CP 004/2026 (a minuta e a NT GGN 001/2026) saíram da base. Em 2026-11-12 entrou o Contrato de Concessão da ES Gás (2020). Desde então, a referência para detectar regressões é de 14 documentos: 481 artigos e cláusulas, 315 remissões (5 inferidas, 1 parcial) e 0 não resolvidas.
+O piloto foi construído numa conversa no app do Claude e validado com 15 documentos. Em 2026-11-10, as duas peças da CP 004/2026 (a minuta e a NT GGN 001/2026) saíram da base. Em 2026-11-12 entraram o Contrato de Concessão da ES Gás (2020) e a Res. ARSP 084/2025 (metodologia da margem, com anexo de itens numerados). Desde então, a referência para detectar regressões é de 15 documentos: 597 artigos, cláusulas e itens, 340 remissões (6 inferidas, 1 parcial) e 0 não resolvidas.
 
 ## Como rodar
 
@@ -41,6 +41,13 @@ Depois de qualquer mudança, confira `content/revisao.md` (parciais e inferidas)
 - Extração (`extrair.py`, `AJUSTES["contrato-concessao-2020"]`): `camada_ocr` agrupa as linhas da página inteira, descarta a rubrica da margem direita e corrige erros típicos (`corrigir_camada`). `corrigir` tem as correções pontuais, cada uma conferida no PDF (marcadores de inciso que o OCR perdeu). Assinaturas e cartório são omitidos; fórmulas e as tabelas dos Anexos III e IV viram "[Fórmula/Tabela: ver o PDF, p. N]".
 - Estrutura (`estruturar.py`, `tipo == "contrato"`): Cláusula (`cl12`) > item (`cl12_it12-12-1`) > inciso (`cl1_it1-1_inc37`) > alínea; anexos com prefixo (`anx1_cl4_it4-1-1`). Item com número repetido no original ganha sufixo `b` no endereço (`anx1_cl6_it6-5b`).
 - Remissões (`remissoes.py`): "cláusula", "item" e "anexo" só viram token no próprio contrato e nos trechos que citam o contrato de concessão. "Contrato de Concessão" liga ao contrato, exceto na LC 827 (`CONTRATO_GENERICO`: lá é qualquer contrato da ARSP). Item que não existe no corpo, mas existe num anexo ("cláusula 4.1.1 do contrato"), liga ao anexo como `inferido`. "Anexo II do contrato" sozinho liga ao ato (as partes não têm endereço).
+
+## Anexos com itens numerados (Res. 084/2025)
+
+- Estrutura (`estruturar.py`): um anexo de resolução que **começa** por itens "1.", "2.", "3." (ou por uma seção "I. DO OBJETO" seguida deles) tem cada item no lugar de um artigo: `anx1_it23` > `anx1_it23_cpt` > `_inc2` > `_ali-a`, rótulo "Anexo I, item 23" (bloco com `secao`, como a nota técnica). Seções "V. DO CUSTO DE CAPITAL" e subseções "VII.1 …" viram títulos. Um anexo que começa por uma lista de incisos (definições) vira um bloco com o id do anexo: `anx2` > `anx2_cpt_inc18`, rótulo "Anexo II, inciso XVIII". Lista ou itens no meio de um anexo (depois de uma tabela, como na LC 827) continuam texto.
+- Remissões (`remissoes.py`): "item 108" só vira token no ato que tem itens e nos trechos que citam um ato assim; procura o item na parte de origem e depois nas outras. Num ato sem cláusulas próprias que cita o contrato de concessão em algum trecho, "Cláusula IX" sozinha liga ao contrato como `inferido`.
+- Extração (`extrair.py`): `AJUSTES[...]["ver_pdf"]` troca fórmulas e tabelas que viram texto quebrado por "[Fórmula/Tabela: ver o PDF, p. N.]". As letras matemáticas do Word ("𝐂𝐍𝐔𝐌") viram letras comuns em todos os atos.
+- Assinaturas sem "Vitória/ES, data" antes (nome e, na linha seguinte, "Diretor…"/"Presidente") encerram o último artigo do corpo.
 
 ## Etapas do pipeline
 
@@ -82,9 +89,10 @@ Abra `site-piloto/index.html` no navegador (ou com Playwright). No painel do nav
 
 - CUSD (Res. 053/2021), cláusula 5.3.1: cita "§7º, art. 42" da Res. 046, que não existe. Pelo assunto, o certo parece ser o art. 43, § 7º. Aparece como `parcial`; a decisão é do usuário, na aba "A conferir".
 - Remissões a CLÁUSULAS do próprio CUSD ainda não viram link (as do contrato de concessão viram).
-- Contrato de concessão: 5 remissões `inferido` para conferir na aba "A conferir" (Res. 106/2026 e Decisão 007/2026: "cláusula I, item XXXVI e XXXVII", com o nome do contrato só no fim da frase, e "cláusula 4.1.1 do contrato", que só existe no Anexo I).
+- Contrato de concessão: 5 remissões `inferido` de outros atos para conferir na aba "A conferir" (Res. 106/2026 e Decisão 007/2026: "cláusula I, item XXXVI e XXXVII", com o nome do contrato só no fim da frase, e "cláusula 4.1.1 do contrato", que só existe no Anexo I).
 - Contrato de concessão, erros de numeração do próprio original (o texto não muda): Cláusula I, 1.1, o 50º inciso está impresso "XL" (tratado como o 50º, com o número impresso); itens 6.5 (Anexo I) e 4.3.5 (Anexo II) repetidos; faltam 15.2, 22.7 e 26.2.
 - Contrato de concessão: texto de OCR. Fórmulas e as tabelas dos Anexos III e IV não estão transcritas; vale o PDF.
+- Res. 084/2025, item 26: "item 9.3 da Cláusula IX" liga ao contrato como `inferido` (a frase não diz "contrato"); conferir na aba "A conferir". As equações 1 a 8, a Tabela 1 e a tabela do Anexo III não estão transcritas; vale o PDF. As Res. 031/2019 e 080/2024, citadas por ela, ainda estão fora do cadastro.
 - Res. 048/2021 vem de OCR: vale conferir com o PDF.
 - Tabelas de tarifas dos anexos saem como texto corrido.
 

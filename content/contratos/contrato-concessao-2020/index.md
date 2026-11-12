@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Citado por:** [[resolucoes/dec-arsp-dg-007-2026/index|Decisão ARSP/DG 007/2026]] (7) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (2) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (11) · [[resolucoes/res-arsp-048-2021/index|Res. ARSP 048/2021]] (18) · [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] (6) · [[resolucoes/res-arsp-059-2022/index|Res. ARSP 059/2022]] (4) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (7) · [[resolucoes/res-arsp-063-2023/index|Res. ARSP 063/2023]] (3) · [[resolucoes/res-arsp-067-2023/index|Res. ARSP 067/2023]] (3) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (2) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (7) · [[resolucoes/res-arsp-114-2026/index|Res. ARSP 114/2026]] (3)
+**Citado por:** [[resolucoes/dec-arsp-dg-007-2026/index|Decisão ARSP/DG 007/2026]] (7) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (2) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (11) · [[resolucoes/res-arsp-048-2021/index|Res. ARSP 048/2021]] (18) · [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] (6) · [[resolucoes/res-arsp-059-2022/index|Res. ARSP 059/2022]] (4) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (7) · [[resolucoes/res-arsp-063-2023/index|Res. ARSP 063/2023]] (3) · [[resolucoes/res-arsp-067-2023/index|Res. ARSP 067/2023]] (3) · [[resolucoes/res-arsp-084-2025/index|Res. ARSP 084/2025]] (21) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (2) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (7) · [[resolucoes/res-arsp-114-2026/index|Res. ARSP 114/2026]] (3)
 
 ## Texto
 
@@ -176,7 +176,7 @@ Pelo presente Contrato de Concessão de Serviços Públicos, o ESTADO DO ESPÍRI
 
 **5.8** O REGULADOR disciplinará em REGULAMENTO específico o procedimento para conexão dos AGENTES LIVRES DE MERCADO ao SISTEMA DE DISTRIBUIÇÃO e às FONTES DE SUPRIMENTO, bem como o detalhamento das regras do MERCADO LIVRE DE GÁS CANALIZADO, atendendo o disposto neste CONTRATO.
 
-<small>[[contratos/contrato-concessao-2020/clausula-v|abrir Cláusula V]] · citado 3×</small>
+<small>[[contratos/contrato-concessao-2020/clausula-v|abrir Cláusula V]] · citado 4×</small>
 
 **Cláusula VI – PRAZO DA CONCESSÃO**
 
@@ -305,7 +305,7 @@ Pelo presente Contrato de Concessão de Serviços Públicos, o ESTADO DO ESPÍRI
 
 **8.27** A CONCESSIONÁRIA estará sujeita a penalidades por violação ao sistema de gestão da qualidade, conforme disposto na [[contratos/contrato-concessao-2020/clausula-xxii|CLÁUSULA XXII]].
 
-<small>[[contratos/contrato-concessao-2020/clausula-viii|abrir Cláusula VIII]]</small>
+<small>[[contratos/contrato-concessao-2020/clausula-viii|abrir Cláusula VIII]] · citado 1×</small>
 
 **Cláusula IX – PLANO DE NEGÓCIOS**
 
@@ -339,7 +339,7 @@ Pelo presente Contrato de Concessão de Serviços Públicos, o ESTADO DO ESPÍRI
 
 **9.6.3** As novas instalações e as modificações das instalações existentes deverão obedecer ao disposto em REGULAMENTO, e serão incorporados à CONCESSÃO.
 
-<small>[[contratos/contrato-concessao-2020/clausula-ix|abrir Cláusula IX]] · citado 2×</small>
+<small>[[contratos/contrato-concessao-2020/clausula-ix|abrir Cláusula IX]] · citado 4×</small>
 
 **Cláusula X – BENS VINCULADOS À CONCESSÃO**
 

@@ -98,7 +98,7 @@ Marcelo Campos Antunes Diretor-Presidente Joana Moraes Resende Magella Diretora 
 
 <small>[[resolucoes/res-arsp-063-2023/anexo-i-art-5|abrir Art. 5º]]</small>
 
-**Art. 6º** A concessionária deverá apurar mensalmente o total de manifestações recebidas e aquelas que foram solucionadas no primeiro contato, de modo a calcular o indicador SCP, observada a fórmula abaixo: 𝐒𝐂𝐏= 𝐌𝐒𝐏 𝐌𝐀𝐓 × 𝟏𝟎𝟎 onde: SCP: indicador de solução da chamada em primeiro nível (%). MSP: quantidade de manifestações solucionadas em primeiro nível. MAT: quantidade de manifestações totais recebidas.
+**Art. 6º** A concessionária deverá apurar mensalmente o total de manifestações recebidas e aquelas que foram solucionadas no primeiro contato, de modo a calcular o indicador SCP, observada a fórmula abaixo: SCP= MSP MAT × 100 onde: SCP: indicador de solução da chamada em primeiro nível (%). MSP: quantidade de manifestações solucionadas em primeiro nível. MAT: quantidade de manifestações totais recebidas.
 
 <small>[[resolucoes/res-arsp-063-2023/anexo-i-art-6|abrir Art. 6º]]</small>
 
@@ -110,7 +110,7 @@ Marcelo Campos Antunes Diretor-Presidente Joana Moraes Resende Magella Diretora 
 
 <small>[[resolucoes/res-arsp-063-2023/anexo-i-art-8|abrir Art. 8º]]</small>
 
-**Art. 9º** O valor da multa para o indicador SCP será calculado conforme fórmula abaixo: 𝐌𝐒𝐂𝐏𝐌Ê𝐒 = (𝐑𝐄𝐅𝐒𝐂𝐏 −𝐒𝐂𝐏 𝐑𝐄𝐅𝐒𝐂𝐏 ) × 𝐌𝐌𝐀𝐗𝐒𝐂𝐏 𝟏𝟐 × 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐒𝐂𝐏𝐌Ê𝐒 onde: 𝐌𝐒𝐂𝐏𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador SCP (R\$); 𝐒𝐂𝐏: Valor do indicador SCP do respectivo mês (%); 𝐑𝐄𝐅𝐒𝐂𝐏: Valor de referência do indicador SCP (%); 𝐌𝐌𝐀𝐗𝐒𝐂𝐏: Valor da multa máxima do indicador SCP estabelecida no [[resolucoes/res-arsp-063-2023/anexo-i-art-19|Art. 19]] desta resolução (R\$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐒𝐂𝐏𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 1 (%). Capítulo III – Indicador de Frequência Equivalente de Reclamação (FER).
+**Art. 9º** O valor da multa para o indicador SCP será calculado conforme fórmula abaixo: MSCPMÊS = (REFSCP −SCP REFSCP ) × MMAXSCP 12 × GRADAÇÃOSCPMÊS onde: MSCPMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador SCP (R\$); SCP: Valor do indicador SCP do respectivo mês (%); REFSCP: Valor de referência do indicador SCP (%); MMAXSCP: Valor da multa máxima do indicador SCP estabelecida no [[resolucoes/res-arsp-063-2023/anexo-i-art-19|Art. 19]] desta resolução (R\$); GRADAÇÃOSCPMÊS: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 1 (%). Capítulo III – Indicador de Frequência Equivalente de Reclamação (FER).
 
 <small>[[resolucoes/res-arsp-063-2023/anexo-i-art-9|abrir Art. 9º]]</small>
 
@@ -118,7 +118,7 @@ Marcelo Campos Antunes Diretor-Presidente Joana Moraes Resende Magella Diretora 
 
 <small>[[resolucoes/res-arsp-063-2023/anexo-i-art-10|abrir Art. 10]]</small>
 
-**Art. 11** A concessionária deverá apurar mensalmente o indicador FER, considerando a quantidade de reclamações procedentes em relação ao total de número de unidades usuárias da concessionária, no final do período de apuração, observada a fórmula abaixo: 𝐅𝐄𝐑= 𝐑𝐞𝐜𝐥𝐚𝐦𝐚çõ𝐞𝐬 𝐏𝐫𝐨𝐜𝐞𝐝𝐞𝐧𝐭𝐞𝐬 𝐍𝐮𝐬𝐮 × 𝟏𝟎𝟎𝟎 onde: FER: indicador de frequência equivalente de reclamação. Reclamações Procedentes: total de reclamações procedentes no período de apuração. Nusu: número de unidades usuárias da concessionária, no final do período de apuração.
+**Art. 11** A concessionária deverá apurar mensalmente o indicador FER, considerando a quantidade de reclamações procedentes em relação ao total de número de unidades usuárias da concessionária, no final do período de apuração, observada a fórmula abaixo: FER= Reclamações Procedentes Nusu × 1000 onde: FER: indicador de frequência equivalente de reclamação. Reclamações Procedentes: total de reclamações procedentes no período de apuração. Nusu: número de unidades usuárias da concessionária, no final do período de apuração.
 
 <small>[[resolucoes/res-arsp-063-2023/anexo-i-art-11|abrir Art. 11]]</small>
 
@@ -134,7 +134,7 @@ Marcelo Campos Antunes Diretor-Presidente Joana Moraes Resende Magella Diretora 
 
 <small>[[resolucoes/res-arsp-063-2023/anexo-i-art-14|abrir Art. 14]] · citado 1×</small>
 
-**Art. 15** O valor da multa para o indicador FER será calculado conforme fórmula abaixo: 𝐌𝐅𝐄𝐑𝐌Ê𝐒 = ( (𝐅𝐄𝐑−𝐑𝐄𝐅𝐅𝐄𝐑) 𝐑𝐄𝐅𝐅𝐄𝐑 × 𝟎, 𝟎𝟐+ 𝟎, 𝟎𝟎𝟐) × 𝐌𝐌𝐀𝐗𝐅𝐄𝐑 𝟏𝟐 × 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐄𝐑𝐌Ê𝐒 onde: 𝐌𝐅𝐄𝐑𝐌Ê𝐒: Valor da multa a ser aplicada no respectivo mês para o indicador FER (R\$); 𝐅𝐄𝐑: Valor do indicador FER do respectivo mês; 𝐑𝐄𝐅𝐅𝐄𝐑: Valor de referência do indicador FER; 𝐌𝐌𝐀𝐗𝐅𝐄𝐑: Valor da multa máxima do indicador FER estabelecida no [[resolucoes/res-arsp-063-2023/anexo-i-art-19|Art. 19]] desta resolução (R\$); 𝐆𝐑𝐀𝐃𝐀ÇÃ𝐎𝐅𝐄𝐑𝐌Ê𝐒: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 2 (%).
+**Art. 15** O valor da multa para o indicador FER será calculado conforme fórmula abaixo: MFERMÊS = ( (FER−REFFER) REFFER × 0, 02+ 0, 002) × MMAXFER 12 × GRADAÇÃOFERMÊS onde: MFERMÊS: Valor da multa a ser aplicada no respectivo mês para o indicador FER (R\$); FER: Valor do indicador FER do respectivo mês; REFFER: Valor de referência do indicador FER; MMAXFER: Valor da multa máxima do indicador FER estabelecida no [[resolucoes/res-arsp-063-2023/anexo-i-art-19|Art. 19]] desta resolução (R\$); GRADAÇÃOFERMÊS: Gradação da multa a ser aplicada conforme níveis estabelecidos na tabela 2 (%).
 
 <small>[[resolucoes/res-arsp-063-2023/anexo-i-art-15|abrir Art. 15]]</small>
 

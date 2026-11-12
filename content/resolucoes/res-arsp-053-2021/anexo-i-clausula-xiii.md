@@ -11,9 +11,9 @@ pagina_pdf: 24
 
 **13.1** A CONCESSIONÁRIA realizará o balanço de volume no sistema de distribuição, apurando eventual DESEQUILÍBRIO sobre a QUANTIDADE DE GÁS recebida, medida pelo TRANSPORTADOR no PONTO DE RECEBIMENTO, e a QUANTIDADE DE GÁS medida pela CONCESSIONÁRIA no sistema de distribuição. ^it13-1
 
-**13.2** O desequilíbrio será apurado diariamente pela CONCESSIONÁRIA, sendo obtido pela diferença entre a QUANTIDADE DIÁRIA MEDIDA DE GÁS RECEBIDO (QDMR) e a QUANTIDADE DIÁRIA MEDIDA DE GÁS DO TRANSPORTADOR (QDMT), podendo ser positivo ou negativo. Portanto, o DESEQUILÍBRIO será apurado, diariamente, pela seguinte fórmula: 𝐷𝐸𝑆𝐷 = 𝑄𝐷𝑀𝑅 −𝑄𝐷𝑀𝑇 Onde: 𝐷𝐸𝑆𝐷 - Desequilíbrio Diário do Sistema de Distribuição, em m³/dia; 𝑄𝐷𝑀𝑇 - QUANTIDADE DIÁRIA MEDIDA DE GÁS DO TRANSPORTADOR, em m³/dia; 𝑄𝐷𝑀𝑅 - QUANTIDADE DIÁRIA MEDIDA DE GÁS RECEBIDO, em m³/DIA. ^it13-2
+**13.2** O desequilíbrio será apurado diariamente pela CONCESSIONÁRIA, sendo obtido pela diferença entre a QUANTIDADE DIÁRIA MEDIDA DE GÁS RECEBIDO (QDMR) e a QUANTIDADE DIÁRIA MEDIDA DE GÁS DO TRANSPORTADOR (QDMT), podendo ser positivo ou negativo. Portanto, o DESEQUILÍBRIO será apurado, diariamente, pela seguinte fórmula: DESD = QDMR −QDMT Onde: DESD - Desequilíbrio Diário do Sistema de Distribuição, em m³/dia; QDMT - QUANTIDADE DIÁRIA MEDIDA DE GÁS DO TRANSPORTADOR, em m³/dia; QDMR - QUANTIDADE DIÁRIA MEDIDA DE GÁS RECEBIDO, em m³/DIA. ^it13-2
 
-**13.3** Cada DESEQUILÍBRIO diário apurado será somado para se obter o DESEQUILÍBRIO MENSAL do SISTEMA DE DISTRIBUIÇÃO, conforme a seguinte fórmula: 𝐷𝐸𝑆𝑀 = ∑𝐷𝐸𝑆𝐷 𝑁𝑀 1 Onde: 𝐷𝐸𝑆𝑀 - Desequilíbrio Mensal do Sistema de Distribuição, em m³; 𝐷𝐸𝑆𝐷 - Desequilíbrio Diário do Sistema de Distribuição, em m³/dia; 𝑁𝑀 - Número de DIAS do MÊS. ^it13-3
+**13.3** Cada DESEQUILÍBRIO diário apurado será somado para se obter o DESEQUILÍBRIO MENSAL do SISTEMA DE DISTRIBUIÇÃO, conforme a seguinte fórmula: DESM = ∑DESD NM 1 Onde: DESM - Desequilíbrio Mensal do Sistema de Distribuição, em m³; DESD - Desequilíbrio Diário do Sistema de Distribuição, em m³/dia; NM - Número de DIAS do MÊS. ^it13-3
 
 **13.4** As seguintes regras serão aplicadas na apuração do desequilíbrio: ^it13-4
 
