@@ -93,7 +93,7 @@ Confira também `dados/nao_resolvidas.csv` e o que mudou em `content/revisao.md`
    - os problemas encontrados.
 2. Avise que ele pode abrir `site-piloto\index.html` no navegador para ver o resultado antes do envio.
 3. Pergunte se pode enviar ao GitHub, com as opções "Enviar" e "Ainda não". Só continue se a resposta for sim.
-4. Rode `git add -A` e depois `git status --short`. Confira que só entraram `pipeline/documentos.csv`, `content/`, `dados/`, `site-piloto/` e, se tiverem mudado, `CLAUDE.md` ou o pipeline.
+4. Rode `git add -A` e depois `git status --short`. Confira que só entraram `pipeline/documentos.csv`, `content/`, `dados/`, `site-piloto/`, `skill/` e, se tiverem mudado, `CLAUDE.md` ou o pipeline.
 5. Escreva a mensagem do commit num arquivo do scratchpad e use `git commit -F`.
    - Título: "Inclui a Res. ARSP NNN/AAAA (assunto curto)".
    - Corpo: as contagens totais antes → depois e as pendências.
@@ -113,4 +113,5 @@ Confira também `dados/nao_resolvidas.csv` e o que mudou em `content/revisao.md`
    - o endereço do ato no site;
    - o hash do commit;
    - as contagens antes → depois;
-   - o que ficou pendente.
+   - o que ficou pendente;
+   - que a skill de links para o Word (`skill/vade-mecum-arsp-links.zip`) foi atualizada: quem usa o Claude web reenvia o zip, a menos que o domínio do site esteja liberado na execução de código.

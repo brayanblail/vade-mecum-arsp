@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (6) · [[leis/lc-827-2016/index|LC 827/2016]] (2) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (9)
+**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (6) · [[leis/lc-827-2016/index|LC 827/2016]] (2) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (10)
 
 ## Texto
 
@@ -132,7 +132,7 @@ e condições a seguir estabelecidas:
 
 **Cláusula III – VIGÊNCIA**
 
-**3.1** O presente CONTRATO entrará em pleno vigor e efeito em \[XX/XX/XXXX\], possuindo vigência de XX (XXXX) meses, obrigando as PARTES e seus eventuais sucessores, a partir da referida data de início de vigência, observando o estabelecido na [[resolucoes/res-arsp-046-2021/index|Resolução ARSP 046/2021]] (§4º do artigo 9).
+**3.1** O presente CONTRATO entrará em pleno vigor e efeito em \[XX/XX/XXXX\], possuindo vigência de XX (XXXX) meses, obrigando as PARTES e seus eventuais sucessores, a partir da referida data de início de vigência, observando o estabelecido na [[resolucoes/res-arsp-046-2021/index|Resolução ARSP 046/2021]] ([[resolucoes/res-arsp-046-2021/art-9#^par4|§4º do artigo 9]]).
 
 **3.1.1** A vigência poderá ser alterada, conforme negociação entre as PARTES mediante aditivo contratual.
 

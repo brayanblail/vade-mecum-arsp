@@ -3,7 +3,7 @@
 Uso (na pasta do kit):
     python pipeline/construir.py --pdfs "D:\\Claude\\Resoluções ARSP"
 
-Etapas: extrair -> estruturar -> remissoes -> quartz -> piloto
+Etapas: extrair -> estruturar -> remissoes -> quartz -> piloto (site + skill de links para o Word)
   --so quartz            roda só a geração do content/ (usa dados/ já existentes)
   --desde remissoes      roda da etapa 3 até o fim (basta depois de mudar o revisoes.csv)
   --sem-piloto           não gera o site-piloto/index.html
@@ -19,6 +19,7 @@ import estruturar  # noqa: E402
 import extrair  # noqa: E402
 import gerar_piloto  # noqa: E402
 import gerar_quartz  # noqa: E402
+import gerar_skill  # noqa: E402
 import indice  # noqa: E402
 import remissoes  # noqa: E402
 import revisoes  # noqa: E402
@@ -64,8 +65,9 @@ def main():
             print("4/5 Gerando content/ para o Quartz e o Obsidian")
             gerar_quartz.executar(est, arestas, comum.RAIZ / "content", pdfs, rev)
         if "piloto" in etapas:
-            print("5/5 Gerando site-piloto/index.html")
+            print("5/5 Gerando site-piloto/index.html e a skill de links para o Word")
             gerar_piloto.executar(est, arestas, comum.RAIZ / "site-piloto", pdfs, rev)
+            gerar_skill.executar(est, comum.RAIZ / "skill", comum.RAIZ / "site-piloto")
     print("Pronto. Revise dados/nao_resolvidas.csv e content/revisao.md.")
 
 

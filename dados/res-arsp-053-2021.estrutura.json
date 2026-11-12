@@ -477,6 +477,14 @@
          "doc": "res-arsp-046-2021",
          "disp": null,
          "conf": "documento"
+        },
+        {
+         "ini": 260,
+         "fim": 275,
+         "doc": "res-arsp-046-2021",
+         "disp": "art9_par4",
+         "art": "art9",
+         "conf": "exato"
         }
        ]
       },

@@ -1580,6 +1580,18 @@
  },
  {
   "de_doc": "res-arsp-053-2021",
+  "de": "anx1_cl3_it3-1",
+  "de_art": "anx1_cl3",
+  "para_doc": "res-arsp-046-2021",
+  "para": "art9_par4",
+  "para_art": "art9",
+  "conf": "exato",
+  "tipo": "externa",
+  "trecho": "ncia, observando o estabelecido na Resolução ARSP 046/2021 (§4º do artigo 9).",
+  "citacao": "§4º do artigo 9"
+ },
+ {
+  "de_doc": "res-arsp-053-2021",
   "de": "anx1_cl5_it5-3-1",
   "de_art": "anx1_cl5",
   "para_doc": "res-arsp-046-2021",
@@ -2419,7 +2431,7 @@
   "conf": "exato",
   "tipo": "interna",
   "trecho": ": A aplicabilidade do risco tamanho observará o disposto no item 46 da seção V do Anexo I desta Resolução.",
-  "citacao": "item 46"
+  "citacao": "item 46 da seção V do Anexo I desta Resolução"
  },
  {
   "de_doc": "res-arsp-091-2025",

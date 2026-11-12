@@ -19,7 +19,7 @@ situacao: Vigente
 
 **Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (11) · [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1)
 
-**Citado por:** [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] (9) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (2) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (2) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (1)
+**Citado por:** [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] (10) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (2) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (2) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (1)
 
 ## Texto
 
@@ -181,7 +181,7 @@ RESOLVE:
 
 - **I –** O referido prazo poderá ser alterado, conforme negociação entre as partes.
 
-<small>[[resolucoes/res-arsp-046-2021/art-9|abrir Art. 9º]] · citado 2×</small>
+<small>[[resolucoes/res-arsp-046-2021/art-9|abrir Art. 9º]] · citado 3×</small>
 
 **Art. 10** Quando houver mais de um PONTO DE ENTREGA no atendimento de uma unidade usuária, poderá ser celebrado um único CONTRATO DE USO DO SERVIÇO DE DISTRIBUIÇÃO resultante da totalização das quantidades contratadas.
 

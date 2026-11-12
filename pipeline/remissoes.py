@@ -39,10 +39,10 @@ TOKENS = [
     ("neste", r"\b(?P<neste>(?:neste|deste|nesse|desse)\s+[Aa]rtigo)\b"),
     ("self", r"\b(?P<self>(?:desta|da\s+presente|nesta|na\s+presente|dessa|nessa)\s*(?:Resolu[çc][ãa]o|Lei(?:\s+Complementar)?|Decis[ãa]o|Norma|Minuta)"
              r"|(?:deste|neste|do\s+presente)\s+(?:Anexo|[Rr]egulamento|[Cc]ontrato|CONTRATO))\b"),
-    ("res", rf"(?P<res>Resolu[çc][ãa]o\s+(?:Normativa\s+)?(?P<res_org>[Aa][Rr][Ss][Pp]|[Aa][Ss][Pp][Ee])(?:\s*[/\-]\s*[A-Z]{{2,6}})?\s*"
+    ("res", rf"(?P<res>(?:Resolu[çc][ãa]o\s+|Res\.\s*)(?:Normativa\s+)?(?P<res_org>[Aa][Rr][Ss][Pp]|[Aa][Ss][Pp][Ee])(?:\s*[/\-]\s*[A-Z]{{2,6}})?\s*"
             rf"(?:N\s*[º°o]\.?|n\.?\s*[º°o]\.?|No\.?)?\s*0*(?P<res_num>\d{{1,3}})"
             rf"(?:\s*[/\-_]\s*(?P<res_ano>\d{{4}})|{DATA}(?P<res_ano2>\d{{4}}))?)"),
-    ("dec", r"(?P<dec>Decis[ãa]o\s+ARSP\s*/\s*DG\s*(?:N\s*[º°o]\s*)?0*(?P<dec_num>\d{1,3})\s*[/.]\s*(?P<dec_ano>\d{4}))"),
+    ("dec", r"(?P<dec>Decis[ãa]o\s+ARSP\s*/\s*DG\s*(?:[Nn]\.?\s*[º°o]\.?\s*)?0*(?P<dec_num>\d{1,3})\s*[/.]\s*(?P<dec_ano>\d{4}))"),
     ("lc", rf"(?P<lc>(?:Lei\s+Complementar|LC)(?:\s+(?:Estadual|Federal))?\s*(?:[Nn]\.?\s*[º°o]\.?\s*)?(?P<lc_num>\d{{1,2}}\.?\d{{3}}|\d{{3}})"
            rf"(?:\s*/\s*(?P<lc_ano>\d{{4}})|{DATA}(?P<lc_ano2>\d{{4}})|,?\s+de\s+(?P<lc_ano3>\d{{4}}))?)"),
     ("lei", rf"(?P<lei>Lei(?:\s+(?P<lei_esf>Estadual|Federal))?\s*(?:[Nn]\.?\s*[º°o]\.?\s*)?(?P<lei_num>\d{{1,2}}\.\d{{3}}|\d{{4,5}})"
@@ -91,6 +91,10 @@ RE_CLAUSULA_N = re.compile(r"\b[Cc][Ll][ÁáAa][Uu][Ss][Uu][Ll][Aa]\s+(?:[IVXLC]
 # Atos que falam de "contrato de concessão" em geral (todos os setores da ARSP), e não do contrato da ES Gás
 CONTRATO_GENERICO = {"lc-827-2016"}
 LIGA_CADEIA = re.compile(r"^(?:[\s,(]|\b(?:d[oa]s?|n[oa]s?|ao|à|e|ou|bem\s+como|combinado\s+com|c/c|em|seu|sua)\b)*$")
+# "item 23, inciso II, do Anexo I da Resolução ...", "art. 49 do Anexo I da Resolução ...": o anexo entre a cadeia e o
+# ato (fora do contrato, onde "anexo" já é token); a cadeia liga ao ato e procura primeiro nesse anexo
+LIGA_ANEXO = re.compile(r"^[\s,]*(?:d[oa]\s+se[çc][ãa]o\s+[IVXL]+\s*,?\s*)?d[oa]\s+[Aa]nexo\s+(?P<anx>[IVXLC]+|[ÚU]nico)\s*,?\s*"
+                        r"(?:d[oa]s?|n[oa]s?)?\s*$")
 LIGA_DOC = re.compile(r"^[\s,]*(?:e\s+(?:em\s+)?seu\s+par[áa]grafo\s+[úu]nico\s+)?(?:caput\s*,?\s*)?(?:d[oa]s?|n[oa]s?|,|\(|todos\s+d[oa]s?|ambos\s+d[oa]s?)?[\s,]*$")
 
 # Leis federais conhecidas (para link externo ao LexML)
@@ -164,7 +168,7 @@ class Indice:
                         self.cls.setdefault(d["id"], {}).setdefault(p["id"], {})[b["num"]] = b
                     elif b.get("secao"):
                         self.itens.setdefault(d["id"], {}).setdefault(p["id"], {})[b["num"]] = b
-                    elif b["num"]:      # bloco de anexo que é só lista de incisos (num vazio) não é artigo
+                    else:               # anexo que é só lista de incisos: fica com o número "" ("inciso XVIII do Anexo II")
                         self.arts.setdefault(d["id"], {}).setdefault(p["id"], {})[b["num"]] = b
                     if b["rotulo"].startswith("Cláusula"):
                         com_clausulas.add(d["id"])
@@ -408,9 +412,13 @@ def cadeias(texto, contrato=False, itens=False):
         prev_end = toks[i - 1][1].end() if i else None
         gap = texto[prev_end:m.start()] if prev_end is not None else None
         if kind in DOC_KINDS:
+            m_anx = LIGA_ANEXO.match(gap) if gap is not None and len(gap) <= 50 else None
             if grupo and (atual or grupo["cadeias"]) and grupo["doc"] is None and gap is not None \
-                    and len(gap) <= 30 and LIGA_DOC.match(gap):
+                    and ((len(gap) <= 30 and LIGA_DOC.match(gap)) or m_anx):
                 fecha()
+                if m_anx:
+                    a = m_anx.group("anx")
+                    grupo["anexo"] = "1" if a.upper() in ("ÚNICO", "UNICO") else str(romano_para_int(a))
                 grupo["doc"] = (kind, m)
                 grupo["fim"] = m.end()
                 grupos.append(grupo)
@@ -424,7 +432,13 @@ def cadeias(texto, contrato=False, itens=False):
             continue
         nv = NIVEL[kind]
         continua = gap is not None and len(gap) <= 18 and LIGA_CADEIA.match(gap) and grupo is not None
-        if not continua:
+        if continua and grupo.get("so_doc") and grupo["doc_antes"][0] != "self" and re.fullmatch(r"\s*[,(]\s*", gap):
+            # "Resolução ARSP nº 46/2021, art. 43": o ato fica com o link dele e o artigo é desse ato
+            fecha()
+            grupos.append(grupo)
+            grupo = {"cadeias": [], "doc": None, "doc_antes": grupo["doc_antes"], "ini": m.start(), "fim": m.end()}
+            atual = {"itens": [], "dir": None}
+        elif not continua:
             fecha()
             if grupo:
                 grupos.append(grupo)
@@ -637,8 +651,14 @@ def resolver_documento(idx, d, parte_id, art_origem, unidade, chave):
             if vals["itm"]:
                 # "item 108", "item 46 da seção V do Anexo I": item de anexo de resolução (Res. 084/2025)
                 if not idx.tem_itens(alvo_doc) or vals["art"]:
+                    if alvo_doc not in idx.docs:    # texto de fora (Word): "item 23" sem dizer o ato
+                        pendentes.append({"doc": d["id"], "origem": unidade.get("id"), "texto": texto[ini:fim],
+                                          "alvo_doc": alvo_doc, "art": f"item {vals['itm'][0]}", "par": None,
+                                          "inc": None, "ali": None})
                     continue
                 parte_pref = parte_id if alvo_doc == d["id"] else None
+                if g.get("anexo"):
+                    parte_pref = f"anx{g['anexo']}"
                 alvos = []
                 for it in vals["itm"]:
                     for i in vals["inc"] or [None]:
@@ -707,6 +727,8 @@ def resolver_documento(idx, d, parte_id, art_origem, unidade, chave):
                     elif vals["inc"] and not vals["par"] and ctx["par"] and not caput and not neste:
                         vals["par"] = [ctx["par"]]
                         tentar_sem = "par"
+                elif g.get("anexo") and vals["inc"] and not vals["par"]:
+                    arts = [""]     # "inciso XVIII do Anexo II da Resolução ...": anexo que é só lista de incisos
                 else:
                     continue
             par = vals["par"][0] if len(vals["par"]) == 1 else None
@@ -716,6 +738,8 @@ def resolver_documento(idx, d, parte_id, art_origem, unidade, chave):
             parte_pref = parte_id if alvo_doc == d["id"] else None
             if vals["anexo"]:
                 parte_pref = f"anx{vals['anexo'][0]}"     # "art. 49 do Anexo I" (trecho que cita o contrato)
+            elif g.get("anexo"):
+                parte_pref = f"anx{g['anexo']}"           # "art. 49 do Anexo I da Resolução ..."
             prefere_anexo = alvo_doc != d["id"]
             alvos = []
             for a in arts:

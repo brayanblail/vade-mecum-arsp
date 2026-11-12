@@ -39,7 +39,8 @@ pagina_pdf: 8
 ---
 [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] · [PDF, pág. 8](../../pdf/res-arsp-046-2021.pdf#page=8)
 
-## Citado por (2)
+## Citado por (3)
 
 - [[resolucoes/res-arsp-046-2021/art-11#^cpt|Res. ARSP 046/2021 · Art. 11]] → Art. 9º
 - [[resolucoes/res-arsp-053-2021/anexo-i-clausula-xxvii#^it27-2|Res. ARSP 053/2021 · Anexo I, Cláusula XXVII, 27.2]] → Art. 9º, inciso XIII
+- [[resolucoes/res-arsp-053-2021/anexo-i-clausula-iii#^it3-1|Res. ARSP 053/2021 · Anexo I, Cláusula III, 3.1]] → Art. 9º, § 4º

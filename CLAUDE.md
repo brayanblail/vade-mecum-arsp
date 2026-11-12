@@ -2,7 +2,7 @@
 
 Site com as normas da ARSP (gás canalizado, Espírito Santo) ligadas dispositivo a dispositivo: cada remissão ("§ 7º do art. 43 da Resolução ARSP nº 46/2021") vira link para o dispositivo exato, com caixinha de prévia, "citado por" e linhagem entre atos. Os documentos são públicos. O site é estático e tem no máximo 2 usuários simultâneos.
 
-O piloto foi construído numa conversa no app do Claude e validado com 15 documentos. Em 2026-11-10, as duas peças da CP 004/2026 (a minuta e a NT GGN 001/2026) saíram da base. Em 2026-11-12 entraram o Contrato de Concessão da ES Gás (2020) e a Res. ARSP 084/2025 (metodologia da margem, com anexo de itens numerados). Desde então, a referência para detectar regressões é de 15 documentos: 597 artigos, cláusulas e itens, 340 remissões (6 inferidas, 1 parcial) e 0 não resolvidas.
+O piloto foi construído numa conversa no app do Claude e validado com 15 documentos. Em 2026-11-10, as duas peças da CP 004/2026 (a minuta e a NT GGN 001/2026) saíram da base. Em 2026-11-12 entraram o Contrato de Concessão da ES Gás (2020) e a Res. ARSP 084/2025 (metodologia da margem, com anexo de itens numerados). Desde então, a referência para detectar regressões é de 15 documentos: 597 artigos, cláusulas e itens, 341 remissões (6 inferidas, 1 parcial) e 0 não resolvidas.
 
 ## Como rodar
 
@@ -15,6 +15,7 @@ python pipeline\construir.py --pdfs "D:\Claude\Resoluções ARSP" --desde remiss
 Saídas (todas regeneradas a cada execução; **nunca edite à mão**, mude o pipeline e rode de novo):
 
 - `site-piloto/index.html` + `site-piloto/pdf/`: site de página única com caixinha, janelas fixas, busca, mapa e aba "A conferir".
+- `skill/vade-mecum-arsp-links/` + `skill/vade-mecum-arsp-links.zip` (`gerar_skill.py`, junto com o site): skill para o Claude (claude.ai) que liga as citações de um .docx ao site, com dica de tela. Copia `comum.py`, `indice.py`, `remissoes.py` e `revisoes.py` e leva uma base enxuta dos dispositivos (`dados/base.json`); a mesma base sai em `site-piloto/vinculos.json` e o zip em `site-piloto/skill/`. Fontes: `pipeline/skill/vincular.py` e `pipeline/skill/SKILL.modelo.md`. Mudança no detector (`remissoes.py`) muda a skill também: teste com `python skill/vade-mecum-arsp-links/scripts/vincular.py --offline --texto "..."`.
 - `content/`: notas Markdown para Quartz v5 e Obsidian (uma nota por artigo, block refs `^par7`).
 - `dados/`: `*.estrutura.json`, `remissoes.json`, `nao_resolvidas.csv`, `revisoes_aplicadas.json`.
 

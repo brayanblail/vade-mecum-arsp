@@ -9,7 +9,7 @@ pagina_pdf: 11
 
 **Cláusula III – VIGÊNCIA** ^cpt
 
-**3.1** O presente CONTRATO entrará em pleno vigor e efeito em \[XX/XX/XXXX\], possuindo vigência de XX (XXXX) meses, obrigando as PARTES e seus eventuais sucessores, a partir da referida data de início de vigência, observando o estabelecido na [[resolucoes/res-arsp-046-2021/index|Resolução ARSP 046/2021]] (§4º do artigo 9). ^it3-1
+**3.1** O presente CONTRATO entrará em pleno vigor e efeito em \[XX/XX/XXXX\], possuindo vigência de XX (XXXX) meses, obrigando as PARTES e seus eventuais sucessores, a partir da referida data de início de vigência, observando o estabelecido na [[resolucoes/res-arsp-046-2021/index|Resolução ARSP 046/2021]] ([[resolucoes/res-arsp-046-2021/art-9#^par4|§4º do artigo 9]]). ^it3-1
 
 **3.1.1** A vigência poderá ser alterada, conforme negociação entre as PARTES mediante aditivo contratual. ^it3-1-1
 

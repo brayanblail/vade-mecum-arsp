@@ -5,7 +5,7 @@ title: Normas de gás canalizado – ARSP/ES
 Resoluções, leis e consultas públicas da ARSP com **link direto para cada artigo, parágrafo, inciso e alínea**. Passe o mouse sobre uma remissão para ver o dispositivo; no fim de cada artigo aparece quem o cita.
 
 > [!warning] Piloto
-> 15 documentos, 340 remissões detectadas automaticamente em 12/11/2026. Em caso de dúvida, vale o PDF original. Veja [[revisao|o que conferir]].
+> 15 documentos, 341 remissões detectadas automaticamente em 12/11/2026. Em caso de dúvida, vale o PDF original. Veja [[revisao|o que conferir]].
 
 ## Leis
 
@@ -29,7 +29,7 @@ Resoluções, leis e consultas públicas da ARSP com **link direto para cada art
 - [[resolucoes/res-arsp-059-2022/index|Res. ARSP 059/2022]] – Dispõe sobre os indicadores de segurança do serviço público de distribuição de gás canalizado, revoga a Resolução ASPE nº 004/2013 e dá outr *(56 dispositivos)*
 - [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] – Dispõe sobre o modelo do Contrato de Uso do Serviço de Distribuição – CUSD a ser celebrado entre a Concessionária e os Agentes Livres de Mer *(38 dispositivos)*
 - [[resolucoes/res-arsp-048-2021/index|Res. ARSP 048/2021]] – Define infrações, penalidades e as regras do processo sancionador à prestadora de serviços públicos de distribuição de gás canalizado no Est *(41 dispositivos, citado 6× por outros atos)*
-- [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] – Dispõe sobre as regras para o Mercado Livre de Gás Canalizado e as condições para a prestação do Serviço Público de Distribuição de Gás Cana *(56 dispositivos, citado 14× por outros atos)*
+- [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] – Dispõe sobre as regras para o Mercado Livre de Gás Canalizado e as condições para a prestação do Serviço Público de Distribuição de Gás Cana *(56 dispositivos, citado 15× por outros atos)*
 
 ## Como citar no Word
 

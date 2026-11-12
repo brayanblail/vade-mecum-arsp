@@ -32,6 +32,7 @@ O `construir.py` também gera um site num arquivo só, com o mesmo conteúdo. Ne
 | `pipeline/*.py` | As etapas (extrair, estruturar, remissoes, gerar_quartz, gerar_piloto) |
 | `ocr/` | Texto da Res. 048/2021 obtido por OCR (o PDF original tem a camada de texto corrompida) |
 | `content/` | **Saída pronta para o Quartz/Obsidian**: 15 atos, 598 notas de artigo, cláusula ou item, PDFs em `content/pdf/` |
+| `skill/` | **Skill para o Claude** (`vade-mecum-arsp-links.zip`): liga as citações de um Word ao site, com dica de tela. Veja abaixo |
 | `dados/` | Arquivos intermediários. Os dois que interessam: `remissoes.json` (todas as ligações) e `nao_resolvidas.csv` |
 
 ## 1. Rodar o pipeline (Windows)
@@ -111,6 +112,15 @@ Abra a pasta `content` como cofre ("Open folder as vault"). Os links são do tip
 
 - passar o mouse mostra a nota do artigo;
 - o painel de backlinks mostra quem cita.
+
+## Links do site num documento Word (skill para o Claude)
+
+A skill `skill/vade-mecum-arsp-links.zip` faz o Claude transformar as citações de um .docx ("art. 43, § 7º, da Resolução ARSP nº 46/2021", "Cláusula IX do Contrato de Concessão", "item 23 do Anexo I da Resolução ARSP nº 84/2025") em hyperlinks para o dispositivo no site. A dica de tela de cada link (ao passar o mouse no Word) mostra o rótulo e o texto do artigo, parágrafo, inciso, cláusula ou item, até 255 caracteres. O detector é o mesmo do site.
+
+- **Instalar no claude.ai:** Configurações > Capacidades: ative a execução de código e criação de arquivos; em Skills, envie o `vade-mecum-arsp-links.zip` (também em https://brayanblail.github.io/vade-mecum-arsp/skill/vade-mecum-arsp-links.zip).
+- **Usar:** peça ao Claude um documento Word que cite as normas, ou envie um .docx e peça "coloque os links do vade-mécum". Ele roda `scripts/vincular.py` e mostra os links criados, os inferidos e as citações sem link.
+- **Atualizar:** o pipeline regenera a skill a cada execução. A skill tenta baixar a base mais nova do site (`vinculos.json`); se o ambiente do Claude bloquear o domínio, usa a cópia do zip. Depois de incluir atos novos, reenvie o zip ou libere `brayanblail.github.io` nos domínios permitidos da execução de código.
+- **Testar aqui:** `python skill/vade-mecum-arsp-links/scripts/vincular.py entrada.docx saida.docx` ou `--texto "art. 43 da Resolução ARSP nº 46/2021"`.
 
 ## Endereço de cada dispositivo (para linkar no Word)
 
