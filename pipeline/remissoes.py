@@ -326,7 +326,9 @@ class Indice:
         ordem = list(partes)
         if parte_pref in partes:
             ordem = [parte_pref] + [p for p in ordem if p != parte_pref]
-        elif prefere_anexo:
+        elif prefere_anexo and len(partes.get("corpo", {})) <= 10:
+            # ato cujo regulamento está no anexo (corpo de poucos artigos): "art. 49 da Resolução X" é do anexo.
+            # Com o regulamento no corpo (Res. 080/2024: 90 artigos), "seu art. 19" é do corpo.
             ordem = [p for p in ordem if p != "corpo"] + (["corpo"] if "corpo" in partes else [])
         ordem = [p for p in ordem if partes[p]]  # partes sem artigos não servem
         b = None

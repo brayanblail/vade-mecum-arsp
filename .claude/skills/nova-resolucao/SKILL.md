@@ -27,6 +27,7 @@ Rotina: PDF na pasta → linha no CSV → pipeline → revisão → GitHub → s
 - **PDF fora da pasta principal** (como `Leis e Decretos/…` ou `Consulta Pública/…`): o `sugerir` não cobre esse caso. Preencha a linha à mão. O `arquivo` é o caminho relativo à pasta dos PDFs, com `/`.
 - **PDF escaneado que já tem camada de OCR** (como o contrato de concessão): não use `ocr=sim`. Crie uma entrada em `AJUSTES` no `extrair.py` com `camada_ocr` e confira no PDF cada marcador que o OCR perdeu (veja "Contrato de concessão" no `CLAUDE.md`).
 - **Anexo com itens numerados ou fórmulas** (como a Res. 084/2025): os itens "1." a "N." e uma lista de definições no começo do anexo já ganham endereço próprio (veja "Anexos com itens numerados" no `CLAUDE.md`). Fórmulas e tabelas que saem como texto quebrado: crie `AJUSTES[id]["ver_pdf"]` no `extrair.py`, um par de linhas (de, até) por fórmula ou tabela.
+- **Tabela importante que sai desmontada** (como a de tarifas da Res. 101/2026): transcreva-a, conferindo no PDF (renderize a página com PyMuPDF e veja a imagem), em `AJUSTES[id]["transcrever"]` no `extrair.py`, com colunas separadas por " | " e no lugar em que ela aparece no PDF (veja "Tabelas e texto corrido nos anexos" no `CLAUDE.md`).
 - **Contrato** (cláusulas em vez de artigos): `tipo=contrato`, grupo `Contratos`, `numero` vazio. O pipeline hoje supõe um contrato só no cadastro (`Indice.contrato` em `remissoes.py`).
 
 ## 2. Preencher a linha do CSV

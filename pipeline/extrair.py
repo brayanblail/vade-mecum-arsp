@@ -60,6 +60,9 @@ FIM_GERAL = re.compile(r"^(Documento original assinado eletronicamente|INFORMAÇ
 #   corrigir       [(regex, troca)]: correções pontuais conferidas no PDF (o OCR perdeu o marcador)
 #   ver_pdf        [(de, ate, tipo)]: mantém a linha `de` e troca as seguintes, até antes de `ate`, por
 #                  "[<tipo>: ver o PDF, p. N.]" (fórmulas e tabelas que viram texto quebrado)
+#   transcrever    [{"tirar": (de, ate|None), "depois_de": regex, "linhas": [...]}]: tira as linhas de `de`
+#                  até antes de `ate` (None: até o fim) e põe a transcrição depois da linha `depois_de`.
+#                  Tabela conferida no PDF, colunas separadas por " | " (o site mostra como tabela)
 AJUSTES = {
     "lei-11173-2020": {"inicio": r"^LEI N[º°] 11\.173", "fim": r"^(RENATO CASAGRANDE|JOSÉ RENATO CASAGRANDE)"},
     "res-arsp-053-2021": {"pular": r"\.{6,}\s*\d+\s*$"},  # linhas do índice com pontilhado
@@ -97,6 +100,17 @@ AJUSTES = {
                     (r"^Tabela 1: ", r"^99\. ", "Tabela"),                          # item 98
                     (r"^Equação 8: ", r"^100\. ", "Fórmula"),                       # item 99
                     (r"^ANEXO III ", r"^Nota: A aplicabilidade", "Tabela")],        # Anexo III, p. 16
+    },
+    "res-arsp-101-2026": {
+        # tabela do Anexo I (p. 2): sai no fim e desmontada; fica logo abaixo do título, como no PDF.
+        # A PUC (0,05) é uma célula só para as quatro classes.
+        "transcrever": [{"tirar": (r"^Classe$", None), "depois_de": r"^VÁLIDA A PARTIR DE 16/03/2026$",
+                         "linhas": ["Classe | CDC mínimo (m³/dia) | CDC máximo (m³/dia) | "
+                                    "Parcela de Reserva de Capacidade – PRC (R$/m³) | Parcela de Uso de Capacidade – PUC (R$/m³)",
+                                    "1 | - | 1.000.000 | 0,0200 | 0,05",
+                                    "2 | 1.000.001 | 2.000.000 | 0,0100 | 0,05",
+                                    "3 | 2.000.001 | 4.000.000 | 0,0085 | 0,05",
+                                    "4 | 4.000.001 | ∞ | 0,0050 | 0,05"]}],
     },
 }
 
@@ -354,7 +368,24 @@ def recortar(linhas, doc_id):
         out = _formulas(out)
     for de, ate, tipo in aj.get("ver_pdf", []):
         out = _trecho(out, de, ate, manter_inicio=True, aviso=f"[{tipo}: ver o PDF, {{pag}}.]")
+    for t in aj.get("transcrever", []):
+        out = _transcrever(out, t["tirar"], t["depois_de"], t["linhas"])
     return out
+
+
+def _transcrever(linhas, tirar, depois_de, novas):
+    de, ate = tirar
+    i = next((k for k, l in enumerate(linhas) if re.search(de, l["texto"])), None)
+    if i is None:
+        raise ValueError(f"AJUSTES: trecho a transcrever não encontrado: {de!r}")
+    j = len(linhas) if ate is None else next((k for k in range(i + 1, len(linhas)) if re.search(ate, linhas[k]["texto"])), None)
+    if j is None:
+        raise ValueError(f"AJUSTES: fim do trecho a transcrever não encontrado: {ate!r}")
+    linhas = linhas[:i] + linhas[j:]
+    k = next((k for k, l in enumerate(linhas) if re.search(depois_de, l["texto"])), None)
+    if k is None:
+        raise ValueError(f"AJUSTES: lugar da transcrição não encontrado: {depois_de!r}")
+    return linhas[:k + 1] + [{"pag": linhas[k]["pag"], "texto": t} for t in novas] + linhas[k + 1:]
 
 
 def _trecho(linhas, de, ate, manter_inicio=False, aviso=None):

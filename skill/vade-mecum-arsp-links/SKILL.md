@@ -50,10 +50,10 @@ python <pasta>/scripts/vincular.py --texto "art. 43, § 7º, da Resolução ARSP
 - Processa o corpo, as tabelas, as notas de rodapé e as notas de fim. Links que já existem não mudam, então o script pode rodar de novo sobre a saída. Texto dentro de revisões controladas ou de campos não vira link.
 - O link fica azul e sublinhado. A dica de tela tem o rótulo ("Res. ARSP 046/2021 · Art. 43, § 7º") e o texto do dispositivo, cortado com "…" no limite do Word (255 caracteres).
 - Num documento que cita o "contrato de concessão" em algum trecho, "Cláusula IX" sozinha liga ao contrato como inferido, como no site. Isso não vale no parágrafo que fala do CUSD.
-- Base: versão 75ffd2dc, com 15 atos. O script tenta baixar a base mais nova do site (`vinculos.json`). Se a rede do ambiente bloquear, usa esta cópia e avisa no relatório. Para liberar, inclua `brayanblail.github.io` nos domínios permitidos da execução de código.
+- Base: versão be65be27, com 17 atos. O script tenta baixar a base mais nova do site (`vinculos.json`). Se a rede do ambiente bloquear, usa esta cópia e avisa no relatório. Para liberar, inclua `brayanblail.github.io` nos domínios permitidos da execução de código.
 - As decisões da aba "A conferir" do site (link aceito, tirado ou corrigido) não valem aqui: o script liga o que o detector acha.
 
-## Atos da base (versão 75ffd2dc)
+## Atos da base (versão be65be27)
 
 | id | ato | situação | ementa |
 |---|---|---|---|
@@ -67,8 +67,10 @@ python <pasta>/scripts/vincular.py --texto "art. 43, § 7º, da Resolução ARSP
 | `res-arsp-061-2023` | Res. ARSP 061/2023 | Vigente | Dispõe sobre procedimento de reajuste da tarifa do gás canalizado contemplando apuração e recuperação dos saldos provocados pelas… |
 | `res-arsp-063-2023` | Res. ARSP 063/2023 | Vigente | Dispõe sobre os indicadores de qualidade do atendimento comercial do serviço público de distribuição de gás canalizado e dá outras… |
 | `res-arsp-067-2023` | Res. ARSP 067/2023 | Vigente | Dispõe sobre os indicadores de qualidade do produto e do serviço público de distribuição de gás canalizado e dá outras providências. |
+| `res-arsp-080-2024` | Res. ARSP 080/2024 | Vigente | Estabelece os critérios para a definição da base de remuneração regulatória aplicável às revisões tarifárias ordinárias da Companhia de… |
 | `res-arsp-084-2025` | Res. ARSP 084/2025 | Vigente | Estabelece a metodologia de revisão da margem média de distribuição aplicável à 1ª Revisão Tarifária Ordinária da Companhia de Gás do… |
 | `res-arsp-091-2025` | Res. ARSP 091/2025 | Vigente | Dispõe sobre os resultados da 1ª Revisão Tarifária Ordinária da Companhia de Gás do Espírito Santo – ES Gás e estabelece a estrutura… |
+| `res-arsp-101-2026` | Res. ARSP 101/2026 | Vigente | Define a tabela tarifária para o segmento termoelétrico no âmbito do Estado do Espírito Santo. |
 | `res-arsp-106-2026` | Res. ARSP 106/2026 | Vigente | Reajuste tarifário de agosto de 2026 – ES Gás. |
 | `res-arsp-114-2026` | Res. ARSP 114/2026 | Vigente | Dispõe sobre as Condições Gerais da Prestação dos Serviços Locais de Gás Canalizado no Estado do Espírito Santo. |
 | `dec-arsp-dg-007-2026` | Decisão ARSP/DG 007/2026 | Vigente | Homologa o reajuste tarifário em função da alteração do preço do gás canalizado, adotando Preço Médio do Gás, nos termos da Resolução ARSP… |

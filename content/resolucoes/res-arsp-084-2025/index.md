@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (21) · [[leis/lc-827-2016/index|LC 827/2016]] (1)
+**Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (21) · [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[resolucoes/res-arsp-080-2024/index|Res. ARSP 080/2024]] (4)
 
 **Citado por:** [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (1)
 
@@ -237,7 +237,7 @@ Alexandre Careta Ventorim Diretor-Geral Débora Cristina Niero Diretora de Gás 
 
 #### Seção IV – DA BASE DE REMUNERAÇÃO REGULATÓRIA
 
-**36.** A base de remuneração regulatória será definida nos termos da Resolução ARSP nº 080/2024.
+**36.** A base de remuneração regulatória será definida nos termos da [[resolucoes/res-arsp-080-2024/index|Resolução ARSP nº 080/2024]].
 
 <small>[[resolucoes/res-arsp-084-2025/anexo-i-item-36|abrir item 36]]</small>
 
@@ -587,8 +587,8 @@ Alexandre Careta Ventorim Diretor-Geral Débora Cristina Niero Diretora de Gás 
 ### Anexo II – DEFINIÇÕES
 
 - **I –** BASE DE ATIVOS REGULATÓRIOS (BAR): são os bens vinculados à concessão, compreendendo os bens materiais e imateriais, móveis ou imóveis, necessários à prestação adequada e contínua do serviço público de distribuição de gás canalizado;
-- **II –** BASE DE REMUNERAÇÃO REGULATÓRIA BRUTA (BRRB): ativo composto pelo valor da bar e pelo valor da outorga, considerando critérios de elegibilidade e índice de aproveitamento, não incluindo a participação financeira do usuário, doações, subvenções e ativos não onerosos, terrenos, as obras e conversões em andamento e o almoxarifado de materiais e equipamentos empregados em obras, exceto reserva técnica, conforme critérios estabelecidos no [[contratos/contrato-concessao-2020/index|contrato de concessão]] e na Resolução ARSP nº 080, de 05 de dezembro de 2024;
-- **III –** BASE DE REMUNERAÇÃO REGULATÓRIA LÍQUIDA (BRRL): valor da base de remuneração regulatória bruta (BRRB) deduzida da depreciação e amortização acumuladas e dos ativos totalmente depreciados, e acrescida de terrenos, conforme critérios estabelecidos no [[contratos/contrato-concessao-2020/index|contrato de concessão]] e na Resolução ARSP nº 080, de 05 de dezembro de 2024;
+- **II –** BASE DE REMUNERAÇÃO REGULATÓRIA BRUTA (BRRB): ativo composto pelo valor da bar e pelo valor da outorga, considerando critérios de elegibilidade e índice de aproveitamento, não incluindo a participação financeira do usuário, doações, subvenções e ativos não onerosos, terrenos, as obras e conversões em andamento e o almoxarifado de materiais e equipamentos empregados em obras, exceto reserva técnica, conforme critérios estabelecidos no [[contratos/contrato-concessao-2020/index|contrato de concessão]] e na [[resolucoes/res-arsp-080-2024/index|Resolução ARSP nº 080, de 05 de dezembro de 2024]];
+- **III –** BASE DE REMUNERAÇÃO REGULATÓRIA LÍQUIDA (BRRL): valor da base de remuneração regulatória bruta (BRRB) deduzida da depreciação e amortização acumuladas e dos ativos totalmente depreciados, e acrescida de terrenos, conforme critérios estabelecidos no [[contratos/contrato-concessao-2020/index|contrato de concessão]] e na [[resolucoes/res-arsp-080-2024/index|Resolução ARSP nº 080, de 05 de dezembro de 2024]];
 - **IV –** CICLO TARIFÁRIO: intervalo de tempo de 5 (cinco) anos revisões tarifárias;
 - **V –** COMERCIALIZAÇÃO DE GÁS CANALIZADO: atividade de compra e venda de gás canalizado, realizada por meio da celebração de contratos negociados entre os interessados e registrados na ANP, ressalvado o disposto no [§ 2º do art. 25 da constituição federal](https://www.lexml.gov.br/urn/urn:lex:br:federal:constituicao:1988-10-05;1988);
 - **VI –** CONCESSÃO: relação jurídica formada pela delegação, à concessionária, pelo poder concedente, da prestação do serviço público referida no [[contratos/contrato-concessao-2020/index|contrato de concessão]] e neste regulamento, que será remunerado mediante tarifa paga pelo usuário;
@@ -602,7 +602,7 @@ Alexandre Careta Ventorim Diretor-Geral Débora Cristina Niero Diretora de Gás 
 - **XIV –** GÁS: É o energético distribuído pela concessionária aos usuários, podendo ser gás natural, biometano ou similares conforme especificações da ANP;
 - **XV –** GÁS CANALIZADO: é o gás distribuído por meio de gasodutos, através de sistema de distribuição adequado;
 - **XVI –** GASTOS COM PESQUISA E DESENVOLVIMENTO: custos e despesas com projetos voltados a alocar recursos humanos e financeiros, visando à inovação e/ou ao aprimoramento dos produtos e da prestação de serviços, nos processos e usos finais do gás, de acordo com este regulamento;
-- **XVII –** JUROS SOBRE OBRAS EM ANDAMENTO (JOA): remuneração das conversões, observada a legislação e a Resolução ARSP nº 080, de 05 de dezembro de 2024, e das obras em andamento relativa ao WACC vigente no período de execução e considerando os prazos médios de construção de cada ativo, que são incorporados ao seu respectivo valor;
+- **XVII –** JUROS SOBRE OBRAS EM ANDAMENTO (JOA): remuneração das conversões, observada a legislação e a [[resolucoes/res-arsp-080-2024/index|Resolução ARSP nº 080, de 05 de dezembro de 2024]], e das obras em andamento relativa ao WACC vigente no período de execução e considerando os prazos médios de construção de cada ativo, que são incorporados ao seu respectivo valor;
 - **XVIII –** MARGEM MÉDIA DE DISTRIBUIÇÃO: valor expresso em R\$/m³, resultante da fórmula paramétrica contratual, a qual calcula o fluxo de caixa livre da concessão para o ciclo tarifário com valor presente líquido igual a zero, sendo este necessário para cobertura dos custos eficientes, da remuneração dos investimentos, do valor da outorga e do capital de giro necessário (NCG), dos encargos e de outras despesas previstos [[contratos/contrato-concessao-2020/index|contrato de concessão]], decorrentes da prestação do serviço público de distribuição de gás canalizado, cujos parâmetros e metodologias são definidos no [[contratos/contrato-concessao-2020/index|contrato de concessão]] e em nos regulamentos editados pela ARSP;
 - **XIX –** MERCADO LIVRE DE GÁS CANALIZADO: mercado onde há a comercialização direta de gás canalizado entre supridores e agentes livres de mercado nas condições estabelecidas em regulamento, observadas as regras do [[contratos/contrato-concessao-2020/index|contrato de concessão]];
 - **XX –** NECESSIDADE DE CAPITAL DE GIRO (NCG): reserva de recursos que serão utilizados para suprir as necessidades financeiras operacionais da concessionária;

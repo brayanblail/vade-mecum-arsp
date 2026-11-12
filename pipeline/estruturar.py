@@ -34,7 +34,8 @@ RE_ITEM = re.compile(r"^(\d{1,2}(?:\.\d{1,2}){1,3})\.?\s+(\S.*)$")
 RE_SECAO_NT = re.compile(r"^(\d{1,2}(?:\.\d{1,2}){0,2})\.?\s+([A-ZÁÉÍÓÚÂÊÔÃÕÇ][A-ZÁÉÍÓÚÂÊÔÃÕÇ0-9 \-–,/()º°ª]{2,})$")
 # Anexo de itens numerados (Res. 084/2025, Anexo I): seção "V. DO CUSTO DE CAPITAL",
 # subseção "VII.1 Avaliação Qualitativa" e itens "1." a "114." (numeração única no anexo)
-RE_ITEM_ANX = re.compile(r"^(\d{1,3})\.\s+(\S.*)$")
+RE_ITEM_ANX = re.compile(r"^(\d{1,3})\.(?:\s+|(?=[A-ZÁÉÍÓÚ]))(\S.*)$")    # "11.Tributos" (sem espaço) também
+RE_TABELA = re.compile(r" \| ")       # linha de tabela transcrita no extrair.py (colunas separadas por " | ")
 RE_SECAO_ANX = re.compile(r"^([IVXL]{1,6})\.\s+((?:D[AO]S?|DE)\s.+)$")
 RE_SUBSECAO_ANX = re.compile(r"^([IVXL]{1,6})\.(\d{1,2})\s+([A-ZÁÉÍÓÚ].{2,90})$")
 # Assinaturas sem a linha "Vitória/ES, data" antes (Res. 084/2025): nome e, na linha seguinte, o cargo
@@ -64,8 +65,13 @@ def juntar(a, b):
     if a.endswith("-") and b[:1] == "-":          # "matéria-" + "-prima"
         return a + b[1:]
     if a.endswith("-") and b[:1].islower() and not a.endswith(" -"):
-        return a[:-1] + b                         # "re-" + "gulamentação"
+        if RE_ENCLITICO.match(b) and not (b.startswith("se") and a[-2:-1] == "s"):
+            return a + b                          # "classificando-" + "as", "aplica-" + "se": hífen do pronome
+        return a[:-1] + b                         # "re-" + "gulamentação", "clas-" + "se"
     return a + " " + b
+
+
+RE_ENCLITICO = re.compile(r"(?:se|lo|la|los|las|lhe|lhes|nos|o|a|os|as)\b")
 
 
 class Construtor:
@@ -101,7 +107,7 @@ class Construtor:
     def add_texto_livre(self, t, pag):
         """Texto fora de artigo (preâmbulo, tabelas de anexo)."""
         blocos = self.parte["blocos"]
-        if blocos and blocos[-1]["tipo"] == "texto" and self.ultimo is blocos[-1]:
+        if blocos and blocos[-1]["tipo"] == "texto" and self.ultimo is blocos[-1] and not blocos[-1].get("tabela"):
             b = blocos[-1]
             ant = b["linhas"][-1]
             novo_par = (re.search(r"[.;:]$", ant) and re.match(r"[A-ZÁÉÍÓÚÂÊ\"“(]", t)) or \
@@ -113,6 +119,15 @@ class Construtor:
         else:
             b = self.bloco({"tipo": "texto", "linhas": [t], "pag": pag})
             self.ultimo = b
+
+    def add_linha_tabela(self, t, pag):
+        """Linha de tabela transcrita: fecha o artigo/item aberto e entra num bloco de tabela."""
+        self.art = self.cont = self.inc = None
+        b = self.parte["blocos"][-1] if self.parte["blocos"] else None
+        if b is not None and b.get("tabela") and self.ultimo is b:
+            b["linhas"].append(t)
+        else:
+            self.ultimo = self.bloco({"tipo": "texto", "linhas": [t], "pag": pag, "tabela": True})
 
     def add_titulo(self, nivel, num, texto, pag):
         b = self.bloco({"tipo": "titulo", "nivel": nivel, "rotulo": f"{nivel} {num}".strip(),
@@ -282,11 +297,18 @@ def estruturar_norma(meta, linhas):
             c.parte["rotulo"] += " " + t
             continue
 
+        if c.parte["id"] != "corpo" and RE_TABELA.search(t):
+            c.add_linha_tabela(t, pag)
+            continue
+
         if not contrato and c.parte["id"] != "corpo" and not em_clausulas:
             # anexo que começa por itens numerados (1., 2. e 3. a seguir) ou por uma lista de incisos;
             # uma lista depois de uma tabela (LC 827, Anexo II) segue como texto
             vazio = not c.parte["blocos"]
-            if c.modo == "itens" or (c.modo is None and vazio):
+            # itens: pode haver antes um subtítulo curto e tabelas transcritas ("VÁLIDA A PARTIR DE 16/03/2026")
+            inicio = all(b["tipo"] == "texto" for b in c.parte["blocos"]) and \
+                sum(len(b["linhas"]) for b in c.parte["blocos"] if not b.get("tabela")) <= 2
+            if c.modo == "itens" or (c.modo is None and inicio):
                 m = RE_SECAO_ANX.match(t)
                 if m and t.upper() == t and romano_para_int(m.group(1)) == c.ult_sec + 1 \
                         and (c.modo == "itens" or _seguem(linhas, k + 1, RE_ITEM_ANX, int)):
@@ -414,7 +436,8 @@ def estruturar_norma(meta, linhas):
             continue
 
         m = RE_TITULO.match(t)
-        if m and (m.group(1).isupper() or len(t) < 60):
+        # "Seção IV deste regulamento e na forma a seguir:" é fim de frase quebrada, não título
+        if m and (m.group(1).isupper() or len(t) < 60) and not re.match(r"[a-zà-ú]", m.group(3)):
             nivel = m.group(1).capitalize().replace("Capitulo", "Capítulo").replace("Titulo", "Título")
             c.add_titulo(nivel, m.group(2), m.group(3), pag)
             continue
@@ -460,7 +483,41 @@ def estruturar_norma(meta, linhas):
         p.pop("titulo_pendente", None)
         for b in p["blocos"]:
             b.pop("_titulo_aberto", None)
+            if p["id"] != "corpo" and b["tipo"] == "texto" and not b.get("fecho") and not b.get("tabela") \
+                    and eh_prosa(b["linhas"]):
+                b["linhas"] = em_paragrafos(b["linhas"])
+                b["prosa"] = True
     return partes, c.avisos
+
+
+RE_MARCA_PROSA = re.compile(r"^(?:[a-z]\)|\d{1,2}[.)]\s|[IVXLC]{1,7}\s*[-–.)]\s|[•▪◦-]\s|\(?[ivx]{1,4}\)\s)")
+
+
+def eh_prosa(linhas):
+    """Texto de anexo que é texto corrido (a maioria das linhas cheias), e não tabela (Res. 080/2024, Anexo V)."""
+    # tabelas dos anexos: média de até 48 caracteres e até 11% de linhas cheias; texto corrido: média de 50 ou mais
+    if len(linhas) < 4:
+        return False
+    cheias = sum(1 for t in linhas if len(t) >= 70) / len(linhas)
+    return cheias >= 0.3 and sum(map(len, linhas)) / len(linhas) >= 50
+
+
+def em_paragrafos(linhas):
+    """Junta as linhas quebradas pelo PDF. Uma linha começa parágrafo novo se tem marcador (a), 1., •),
+    se é um título em maiúsculas ou se a anterior é curta ou termina a frase; minúscula no começo continua."""
+    out, ant = [], None          # ant: a linha anterior do PDF (não o parágrafo já juntado)
+    for t in linhas:
+        if out:
+            titulo = t.upper() == t and len(t) < 80
+            continua = not RE_MARCA_PROSA.match(t) and not titulo and (
+                t[:1].islower() or (len(ant) >= 70 and not re.search(r"[.:;]$", ant)))
+            if continua and not (ant.upper() == ant and len(ant) < 80):
+                out[-1] = juntar(out[-1], t)
+                ant = t
+                continue
+        out.append(t)
+        ant = t
+    return out
 
 
 def estruturar_nota(meta, linhas):

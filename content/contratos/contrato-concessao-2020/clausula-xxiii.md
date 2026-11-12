@@ -45,7 +45,7 @@ pagina_pdf: 26
 
 **23.11** A assunção do serviço autoriza a ocupação das instalações e a utilização, pelo PODER CONCEDENTE, de todos os bens reversíveis. ^it23-11
 
-**23.12** Nos casos previstos nos [[contratos/contrato-concessao-2020/clausula-xxiii#^it23-4-inc1|incisos I]] e [[contratos/contrato-concessao-2020/clausula-xxiii#^it23-4-inc2|II do item 23.4]], o PODER CONCEDENTE, antecipandose à extinção da concessão, procederá aos levantamentos e avaliações necessários à determinação dos montantes da indenização que será devida à CONCESSIONÁRIA. ^it23-12
+**23.12** Nos casos previstos nos [[contratos/contrato-concessao-2020/clausula-xxiii#^it23-4-inc1|incisos I]] e [[contratos/contrato-concessao-2020/clausula-xxiii#^it23-4-inc2|II do item 23.4]], o PODER CONCEDENTE, antecipando-se à extinção da concessão, procederá aos levantamentos e avaliações necessários à determinação dos montantes da indenização que será devida à CONCESSIONÁRIA. ^it23-12
 
 **23.13** A reversão no advento do termo contratual far-se-á com a indenização das parcelas dos investimentos vinculados a bens reversíveis, ainda não amortizados ou depreciados, que tenham sido realizados com o objetivo de garantir a continuidade e atualidade do serviço concedido. ^it23-13
 

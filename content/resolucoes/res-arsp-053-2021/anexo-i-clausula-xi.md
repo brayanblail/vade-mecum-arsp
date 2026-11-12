@@ -13,7 +13,7 @@ pagina_pdf: 20
 
 **11.1.2** Caso haja FALHA DE SERVIÇO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS em determinado DIA, a CONCESSIONÁRIA pagará ao USUÁRIO uma penalidade diária, cujo valor será calculado pelas seguintes fórmulas: QF= QDP−QDD−QPP PFSD = QF× 100% × TUSD Onde: QF - QUANTIDADE FALTANTE DE GÁS em cada DIA, em m³, sendo igual a zero se o cálculo resultar negativo; QDP - QUANTIDADE DIÁRIA PROGRAMADA, em cada DIA, em m³; QDD - QUANTIDADE DIÁRIA DISPONIBILIZADA, em cada DIA, em m³; QPP - QUANTIDADE DE PARADA PROGRAMADA pela CONCESSIONÁRIA, em cada DIA, em m³; PFSD - PENALIDADE POR FALHA DE SERVIÇO, em cada DIA, em R\$; TUSD - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD- GÁS) vigente na data de emissão do DOCUMENTO DE COBRANÇA, considerando a QUANTIDADE DIÁRIA SOLICITADA (QDS), em R\$/m³. ^it11-1-2
 
-**11.1.3** A determinação da QUANTIDADE DIÁRIA DISPONIBILIZADA (QDD), no PONTO DE ENTREGA, farse-á do seguinte modo: ^it11-1-3
+**11.1.3** A determinação da QUANTIDADE DIÁRIA DISPONIBILIZADA (QDD), no PONTO DE ENTREGA, far-se-á do seguinte modo: ^it11-1-3
 
 **11.1.3.1** Quando houver restrição no fornecimento de GÁS por solicitação da CONCESSIONÁRIA, a QUANTIDADE DIÁRIA DISPONIBILIZADA (QDD) será igual à QUANTIDADE EFETIVAMENTE RETIRADA (QER); ^it11-1-3-1
 

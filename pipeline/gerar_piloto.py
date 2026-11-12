@@ -69,6 +69,10 @@ def bloco(b):
             o["RL"] = {k: [ref_compacta(r) for r in v] for k, v in b["refs_linhas"].items() if v}
         if b.get("fecho"):
             o["fecho"] = 1
+        if b.get("prosa"):
+            o["pr"] = 1         # texto corrido de anexo: um parágrafo por linha
+        if b.get("tabela"):
+            o["tb"] = 1         # tabela transcrita: colunas separadas por " | "
         return o
     o = {"k": "a", "id": b["id"], "r": b["rotulo"], "n": b["num"], "p": b["pag"],
          "C": unidade(b["caput"]), "P": [unidade(p) for p in b["paragrafos"]]}

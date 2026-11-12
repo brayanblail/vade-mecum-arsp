@@ -19,7 +19,7 @@ situacao: Vigente
 
 **Cita:** [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] (7) · [[leis/lc-827-2016/index|LC 827/2016]] (1) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (1) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (2)
 
-**Citado por:** [[resolucoes/dec-arsp-dg-007-2026/index|Decisão ARSP/DG 007/2026]] (3) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (1) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (4)
+**Citado por:** [[resolucoes/dec-arsp-dg-007-2026/index|Decisão ARSP/DG 007/2026]] (3) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (1) · [[resolucoes/res-arsp-101-2026/index|Res. ARSP 101/2026]] (1) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (4)
 
 ## Texto
 

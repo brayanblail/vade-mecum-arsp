@@ -348,7 +348,7 @@ e condições a seguir estabelecidas:
 
 **11.1.2** Caso haja FALHA DE SERVIÇO do SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS em determinado DIA, a CONCESSIONÁRIA pagará ao USUÁRIO uma penalidade diária, cujo valor será calculado pelas seguintes fórmulas: QF= QDP−QDD−QPP PFSD = QF× 100% × TUSD Onde: QF - QUANTIDADE FALTANTE DE GÁS em cada DIA, em m³, sendo igual a zero se o cálculo resultar negativo; QDP - QUANTIDADE DIÁRIA PROGRAMADA, em cada DIA, em m³; QDD - QUANTIDADE DIÁRIA DISPONIBILIZADA, em cada DIA, em m³; QPP - QUANTIDADE DE PARADA PROGRAMADA pela CONCESSIONÁRIA, em cada DIA, em m³; PFSD - PENALIDADE POR FALHA DE SERVIÇO, em cada DIA, em R\$; TUSD - TARIFA DE USO DO SISTEMA DE DISTRIBUIÇÃO DE GÁS CANALIZADO (TUSD- GÁS) vigente na data de emissão do DOCUMENTO DE COBRANÇA, considerando a QUANTIDADE DIÁRIA SOLICITADA (QDS), em R\$/m³.
 
-**11.1.3** A determinação da QUANTIDADE DIÁRIA DISPONIBILIZADA (QDD), no PONTO DE ENTREGA, farse-á do seguinte modo:
+**11.1.3** A determinação da QUANTIDADE DIÁRIA DISPONIBILIZADA (QDD), no PONTO DE ENTREGA, far-se-á do seguinte modo:
 
 **11.1.3.1** Quando houver restrição no fornecimento de GÁS por solicitação da CONCESSIONÁRIA, a QUANTIDADE DIÁRIA DISPONIBILIZADA (QDD) será igual à QUANTIDADE EFETIVAMENTE RETIRADA (QER);
 
@@ -630,7 +630,7 @@ e condições a seguir estabelecidas:
 
 **Cláusula XXIV – NOVAÇÃO**
 
-**24.1** Na eventualidade de uma das PARTES deixar de exigir o cumprimento de qualquer obrigação prevista neste CONTRATO, tal prática não constituirá novação ou renúncia expressa ou tácita ao direito de fazêlo em qualquer oportunidade. Qualquer renúncia ou novação a um direito estabelecido no CONTRATO só será considerada válida e eficaz mediante manifestação por escrito da PARTE renunciante.
+**24.1** Na eventualidade de uma das PARTES deixar de exigir o cumprimento de qualquer obrigação prevista neste CONTRATO, tal prática não constituirá novação ou renúncia expressa ou tácita ao direito de fazê-lo em qualquer oportunidade. Qualquer renúncia ou novação a um direito estabelecido no CONTRATO só será considerada válida e eficaz mediante manifestação por escrito da PARTE renunciante.
 
 **24.2** Os eventos abaixo especificados não serão considerados como precedentes capazes de novar ou alterar, tácita ou expressamente, a CAPACIDADE DIÁRIA CONTRATADA (CDC) adotada neste CONTRATO, permanecendo inalterados os direitos e obrigações estabelecidos neste Contrato: (a) A disponibilização, em base contínua ou alternada, pela CONCESSIONÁRIA ao USUÁRIO, de qualquer QUANTIDADE DE GÁS acima da CAPACIDADE DIÁRIA CONTRATADA (CDC); ou (b) A retirada em base contínua ou alternada, pelo USUÁRIO, de qualquer QUANTIDADE DE GÁS abaixo da CAPACIDADE DIÁRIA CONTRATADA (CDC).
 

@@ -60,3 +60,9 @@ pagina_pdf: 34
 
 ---
 [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] · [PDF, pág. 34](../../pdf/contrato-concessao-2020.pdf#page=34)
+
+## Citado por (3)
+
+- [[resolucoes/res-arsp-080-2024/index|Res. ARSP 080/2024 · preâmbulo]] → Anexo I, Cláusula II, 2.1, inciso VI, alínea a) *(vínculo inferido)*
+- [[resolucoes/res-arsp-080-2024/index|Res. ARSP 080/2024 · preâmbulo]] → Anexo I, Cláusula II, 2.1.3 *(vínculo inferido)*
+- [[resolucoes/res-arsp-080-2024/index|Res. ARSP 080/2024 · preâmbulo]] → Anexo I, Cláusula II, 2.2.1 *(vínculo inferido)*

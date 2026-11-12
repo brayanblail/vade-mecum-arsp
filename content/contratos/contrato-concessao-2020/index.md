@@ -17,7 +17,7 @@ situacao: Vigente
 
 ## Linhagem
 
-**Citado por:** [[resolucoes/dec-arsp-dg-007-2026/index|Decisão ARSP/DG 007/2026]] (7) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (2) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (11) · [[resolucoes/res-arsp-048-2021/index|Res. ARSP 048/2021]] (18) · [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] (6) · [[resolucoes/res-arsp-059-2022/index|Res. ARSP 059/2022]] (4) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (7) · [[resolucoes/res-arsp-063-2023/index|Res. ARSP 063/2023]] (3) · [[resolucoes/res-arsp-067-2023/index|Res. ARSP 067/2023]] (3) · [[resolucoes/res-arsp-084-2025/index|Res. ARSP 084/2025]] (21) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (2) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (7) · [[resolucoes/res-arsp-114-2026/index|Res. ARSP 114/2026]] (3)
+**Citado por:** [[resolucoes/dec-arsp-dg-007-2026/index|Decisão ARSP/DG 007/2026]] (7) · [[leis/lei-11173-2020/index|Lei 11.173/2020]] (2) · [[resolucoes/res-arsp-046-2021/index|Res. ARSP 046/2021]] (11) · [[resolucoes/res-arsp-048-2021/index|Res. ARSP 048/2021]] (18) · [[resolucoes/res-arsp-053-2021/index|Res. ARSP 053/2021]] (6) · [[resolucoes/res-arsp-059-2022/index|Res. ARSP 059/2022]] (4) · [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023]] (7) · [[resolucoes/res-arsp-063-2023/index|Res. ARSP 063/2023]] (3) · [[resolucoes/res-arsp-067-2023/index|Res. ARSP 067/2023]] (3) · [[resolucoes/res-arsp-080-2024/index|Res. ARSP 080/2024]] (15) · [[resolucoes/res-arsp-084-2025/index|Res. ARSP 084/2025]] (21) · [[resolucoes/res-arsp-091-2025/index|Res. ARSP 091/2025]] (2) · [[resolucoes/res-arsp-101-2026/index|Res. ARSP 101/2026]] (2) · [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026]] (7) · [[resolucoes/res-arsp-114-2026/index|Res. ARSP 114/2026]] (3)
 
 ## Texto
 
@@ -90,7 +90,7 @@ Pelo presente Contrato de Concessão de Serviços Públicos, o ESTADO DO ESPÍRI
 - **LVIII –** USUÁRIO: pessoa física ou jurídica que utiliza o SERVIÇO PÚBLICO DE DISTRIBUIÇÃO DE GÁS CANALIZADO; e
 - **LIX –** WEIGHTED A VERAGE COST OF CAPITAL (WACC): custo médio ponderado de capital, que expressa o cálculo da taxa de remuneração deste CONTRATO, nos termos do ANEXO I.
 
-<small>[[contratos/contrato-concessao-2020/clausula-i|abrir Cláusula I]] · citado 3×</small>
+<small>[[contratos/contrato-concessao-2020/clausula-i|abrir Cláusula I]] · citado 5×</small>
 
 **Cláusula II – ANEXOS**
 
@@ -400,7 +400,7 @@ Pelo presente Contrato de Concessão de Serviços Públicos, o ESTADO DO ESPÍRI
 
 **11.8** A CONCESSIONÁRIA receberá remuneração do capital multiplicando a BRRL e a NCG pelo WACC vigente.
 
-<small>[[contratos/contrato-concessao-2020/clausula-xi|abrir Cláusula XI]]</small>
+<small>[[contratos/contrato-concessao-2020/clausula-xi|abrir Cláusula XI]] · citado 1×</small>
 
 **Cláusula XII – TARIFAS, REAJUSTE E REVISÃO TARIFÁRIA ORDINÁRIA**
 
@@ -480,7 +480,7 @@ Pelo presente Contrato de Concessão de Serviços Públicos, o ESTADO DO ESPÍRI
 
 **12.19** Ao final de cada ano serão verificados os investimentos realizados e comparados aos investimentos aprovados, cujas diferenças verificadas serão aplicadas no CICLO TARIFÁRIO seguinte, conforme REGULAMENTO.
 
-<small>[[contratos/contrato-concessao-2020/clausula-xii|abrir Cláusula XII]] · citado 8×</small>
+<small>[[contratos/contrato-concessao-2020/clausula-xii|abrir Cláusula XII]] · citado 11×</small>
 
 **Cláusula XIII – REVISÃO TARIFÁRIA EXTRAORDINÁRIA E MANUTENÇÃO DO EQUILÍBRIO ECONÔMICO-FINANCEIRO DO CONTRATO**
 
@@ -736,7 +736,7 @@ Pelo presente Contrato de Concessão de Serviços Públicos, o ESTADO DO ESPÍRI
 
 **23.11** A assunção do serviço autoriza a ocupação das instalações e a utilização, pelo PODER CONCEDENTE, de todos os bens reversíveis.
 
-**23.12** Nos casos previstos nos [[contratos/contrato-concessao-2020/clausula-xxiii#^it23-4-inc1|incisos I]] e [[contratos/contrato-concessao-2020/clausula-xxiii#^it23-4-inc2|II do item 23.4]], o PODER CONCEDENTE, antecipandose à extinção da concessão, procederá aos levantamentos e avaliações necessários à determinação dos montantes da indenização que será devida à CONCESSIONÁRIA.
+**23.12** Nos casos previstos nos [[contratos/contrato-concessao-2020/clausula-xxiii#^it23-4-inc1|incisos I]] e [[contratos/contrato-concessao-2020/clausula-xxiii#^it23-4-inc2|II do item 23.4]], o PODER CONCEDENTE, antecipando-se à extinção da concessão, procederá aos levantamentos e avaliações necessários à determinação dos montantes da indenização que será devida à CONCESSIONÁRIA.
 
 **23.13** A reversão no advento do termo contratual far-se-á com a indenização das parcelas dos investimentos vinculados a bens reversíveis, ainda não amortizados ou depreciados, que tenham sido realizados com o objetivo de garantir a continuidade e atualidade do serviço concedido.
 
@@ -942,7 +942,7 @@ E por estarem assim justas e contratadas, firmam o presente em três vias de igu
 
 **2.6.1** A ESTRUTURA TARIFÁRIA será definida pelo REGULADOR.
 
-<small>[[contratos/contrato-concessao-2020/anexo-i-clausula-ii|abrir Cláusula II]]</small>
+<small>[[contratos/contrato-concessao-2020/anexo-i-clausula-ii|abrir Cláusula II]] · citado 3×</small>
 
 **Cláusula III – CRITÉRIOS PARA O CÁLCULO DO WACC**
 
@@ -1208,9 +1208,9 @@ NOVO DE REPOSIÇÃO - DEZEMBRO DE 2019
 
 ### Anexo IV – TABELA DE TARIFAS DO PRIMEIRO CICLO TARIFÁRIO - SEGMENTO NÃO TERMOELÉTRICO\*
 
-```text
-[Tabela: ver o PDF, pp. 50–51.]
-* Os valores serão aplicados conforme a legislação vigente e NÃO incluem ICMS, PIS e COFINS.
-Nota: O SEGMENTO TERMOELÉTRICO tem uma tabela específica, que segue metodologia
-própria.
-```
+\[Tabela: ver o PDF, pp. 50–51.\]
+
+\* Os valores serão aplicados conforme a legislação vigente e NÃO incluem ICMS, PIS e COFINS.
+
+Nota: O SEGMENTO TERMOELÉTRICO tem uma tabela específica, que segue metodologia própria.
+

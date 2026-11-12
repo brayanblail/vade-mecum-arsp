@@ -74,8 +74,10 @@ pagina_pdf: 1
 ---
 [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] · [PDF, pág. 1](../../pdf/contrato-concessao-2020.pdf#page=1)
 
-## Citado por (3)
+## Citado por (5)
 
 - [[resolucoes/dec-arsp-dg-007-2026/index|Decisão ARSP/DG 007/2026 · preâmbulo]] → Cláusula I, 1.1, inciso XXXVII *(vínculo inferido)*
+- [[resolucoes/res-arsp-080-2024/index|Res. ARSP 080/2024 · preâmbulo]] → Cláusula I, 1.1, inciso V *(vínculo inferido)*
+- [[resolucoes/res-arsp-080-2024/index|Res. ARSP 080/2024 · preâmbulo]] → Cláusula I, 1.1, inciso VI *(vínculo inferido)*
 - [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026 · preâmbulo]] → Cláusula I, 1.1, inciso XXXVI *(vínculo inferido)*
 - [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026 · preâmbulo]] → Cláusula I, 1.1, inciso XXXVII *(vínculo inferido)*

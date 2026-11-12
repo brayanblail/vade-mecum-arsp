@@ -1027,9 +1027,9 @@
        {
         "ini": 62,
         "fim": 88,
-        "externo": "Res. ARSP 080/2024",
-        "url": null,
-        "conf": "externo"
+        "doc": "res-arsp-080-2024",
+        "disp": null,
+        "conf": "documento"
        }
       ]
      },
@@ -2494,9 +2494,9 @@
          {
           "ini": 465,
           "fim": 513,
-          "externo": "Res. ARSP 080/2024",
-          "url": null,
-          "conf": "externo"
+          "doc": "res-arsp-080-2024",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        },
@@ -2518,9 +2518,9 @@
          {
           "ini": 276,
           "fim": 324,
-          "externo": "Res. ARSP 080/2024",
-          "url": null,
-          "conf": "externo"
+          "doc": "res-arsp-080-2024",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        },
@@ -2692,9 +2692,9 @@
          {
           "ini": 93,
           "fim": 141,
-          "externo": "Res. ARSP 080/2024",
-          "url": null,
-          "conf": "externo"
+          "doc": "res-arsp-080-2024",
+          "disp": null,
+          "conf": "documento"
          }
         ]
        },

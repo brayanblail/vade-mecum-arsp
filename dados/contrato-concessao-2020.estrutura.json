@@ -4475,7 +4475,7 @@
        "id": "cl23_it23-12",
        "rotulo": "23.12",
        "num": "23.12",
-       "texto": "Nos casos previstos nos incisos I e II do item 23.4, o PODER CONCEDENTE, antecipandose à extinção da concessão, procederá aos levantamentos e avaliações necessários à determinação dos montantes da indenização que será devida à CONCESSIONÁRIA.",
+       "texto": "Nos casos previstos nos incisos I e II do item 23.4, o PODER CONCEDENTE, antecipando-se à extinção da concessão, procederá aos levantamentos e avaliações necessários à determinação dos montantes da indenização que será devida à CONCESSIONÁRIA.",
        "incisos": [],
        "pag": 27,
        "nivel": 1,
@@ -7131,15 +7131,14 @@
      "linhas": [
       "[Tabela: ver o PDF, pp. 50–51.]",
       "* Os valores serão aplicados conforme a legislação vigente e NÃO incluem ICMS, PIS e COFINS.",
-      "Nota: O SEGMENTO TERMOELÉTRICO tem uma tabela específica, que segue metodologia",
-      "própria."
+      "Nota: O SEGMENTO TERMOELÉTRICO tem uma tabela específica, que segue metodologia própria."
      ],
      "pag": 50,
+     "prosa": true,
      "refs_linhas": {
       "0": [],
       "1": [],
-      "2": [],
-      "3": []
+      "2": []
      }
     }
    ]

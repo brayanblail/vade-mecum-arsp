@@ -1,0 +1,5426 @@
+[
+{
+"pag": 1,
+"texto": "RESOLUÇÃO ARSP Nº 080, DE 05 DE DEZEMBRO DE 2024"
+},
+{
+"pag": 1,
+"texto": "Estabelece os critérios para a definição da base de"
+},
+{
+"pag": 1,
+"texto": "remuneração regulatória aplicável às revisões tarifárias"
+},
+{
+"pag": 1,
+"texto": "ordinárias da Companhia de Gás do Espírito Santo – ES"
+},
+{
+"pag": 1,
+"texto": "Gás."
+},
+{
+"pag": 1,
+"texto": "A DIRETORIA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS PÚBLICOS DO ESPÍRITO"
+},
+{
+"pag": 1,
+"texto": "SANTO - ARSP, no uso de suas atribuições regimentais, à vista do disposto na Lei Complementar nº"
+},
+{
+"pag": 1,
+"texto": "827, de 30 de junho de 2016 e suas alterações; e"
+},
+{
+"pag": 1,
+"texto": "Considerando que compete à ARSP fixar as tarifas e outras formas de contraprestação dos serviços"
+},
+{
+"pag": 1,
+"texto": "regulados, bem como os reajustes anuais e as revisões, tendo por objetivo assegurar tanto o equilíbrio"
+},
+{
+"pag": 1,
+"texto": "econômico-financeiro da prestação do serviço como a modicidade tarifária, mediante mecanismos"
+},
+{
+"pag": 1,
+"texto": "que induzam à eficiência e eficácia dos serviços e que permitam a apropriação social dos ganhos de"
+},
+{
+"pag": 1,
+"texto": "produtividade, no que couber;"
+},
+{
+"pag": 1,
+"texto": "Considerando o disposto na Cláusula I, item 1.1, incisos V e VI; Cláusula XI; Cláusula XII, item 12.2,"
+},
+{
+"pag": 1,
+"texto": "inciso VI, alínea “a” e item 12.15, inciso I do Contrato de Concessão dos Serviços Públicos de"
+},
+{
+"pag": 1,
+"texto": "Distribuição de Gás Canalizado, assinado em 22 julho de 2020 (Registro n° 2020-XMH9X4);"
+},
+{
+"pag": 1,
+"texto": "Considerando o disposto na Cláusula II, item 2.1, inciso VI, alínea “a”, item 2.1.3, e item 2.2.1 do"
+},
+{
+"pag": 1,
+"texto": "Anexo I do referido contrato de concessão;"
+},
+{
+"pag": 1,
+"texto": "Considerando a previsão do segundo ciclo tarifário a partir de 01 de agosto de 2025;"
+},
+{
+"pag": 1,
+"texto": "Considerando que a ARSP, em Consulta Pública N° 05/2024, que esteve disponível de 01 a 17 de"
+},
+{
+"pag": 1,
+"texto": "novembro de 2024, submeteu à apreciação e contribuições da sociedade, a Nota Técnica"
+},
+{
+"pag": 1,
+"texto": "ARSP/DP/GET Nº 012/2024 e minuta de resolução;"
+},
+{
+"pag": 1,
+"texto": "RESOLVE:"
+},
+{
+"pag": 1,
+"texto": "CAPÍTULO I – DO OBJETO"
+},
+{
+"pag": 1,
+"texto": "Art. 1º Estabelecer os critérios para a definição da base de remuneração regulatória aplicável às"
+},
+{
+"pag": 1,
+"texto": "revisões tarifárias ordinárias da Companhia de Gás do Espírito Santo – ES Gás."
+},
+{
+"pag": 1,
+"texto": "Art. 2º As definições adotadas neste normativo constam do Anexo I deste regulamento."
+},
+{
+"pag": 1,
+"texto": "CAPÍTULO II – DA BASE DE REMUNERAÇÃO REGULATÓRIA"
+},
+{
+"pag": 1,
+"texto": "Art. 3º A base de remuneração regulatória, observados os critérios de elegibilidade e índice de"
+},
+{
+"pag": 2,
+"texto": "aproveitamento, é classificada em:"
+},
+{
+"pag": 2,
+"texto": "I. base de remuneração regulatória bruta - BRRB; e"
+},
+{
+"pag": 2,
+"texto": "II. base de remuneração regulatória líquida - BRRL."
+},
+{
+"pag": 2,
+"texto": "Art. 4º A BRRB resulta do somatório dos valores da BAR e da outorga, considerando critérios de"
+},
+{
+"pag": 2,
+"texto": "elegibilidade e o índice de aproveitamento, não incluindo:"
+},
+{
+"pag": 2,
+"texto": "I. as obras e conversões em andamento;"
+},
+{
+"pag": 2,
+"texto": "II. o almoxarifado de materiais e equipamentos empregados em obras, exceto os materiais e"
+},
+{
+"pag": 2,
+"texto": "equipamentos referentes à reserva técnica, nos termos deste regulamento;"
+},
+{
+"pag": 2,
+"texto": "III. a participação financeira do usuário, incluindo os investimentos realizados:"
+},
+{
+"pag": 2,
+"texto": "a) Por agentes livres de mercado na construção de ramais dedicados; e"
+},
+{
+"pag": 2,
+"texto": "b) Pela concessionária, na construção de ramais dedicados com recursos dos agentes livres de"
+},
+{
+"pag": 2,
+"texto": "mercado;"
+},
+{
+"pag": 2,
+"texto": "IV. as doações, subvenções e ativos não onerosos; e"
+},
+{
+"pag": 2,
+"texto": "V. terrenos."
+},
+{
+"pag": 2,
+"texto": "§ 1º. As conversões concluídas referentes ao primeiro e segundo ciclos tarifários serão consideradas"
+},
+{
+"pag": 2,
+"texto": "na BRRB, e as conversões a serem realizadas nos demais ciclos tarifários serão objeto de"
+},
+{
+"pag": 2,
+"texto": "regulamento específico."
+},
+{
+"pag": 2,
+"texto": "Art. 5º A BRRL corresponde à BRRB deduzida da depreciação e amortização acumuladas e dos"
+},
+{
+"pag": 2,
+"texto": "ativos totalmente depreciados, acrescida de terrenos, nos termos do contrato de concessão e deste"
+},
+{
+"pag": 2,
+"texto": "regulamento."
+},
+{
+"pag": 2,
+"texto": "Art. 6º Ao custo das obras e conversões em andamento serão incorporados JOA no período de sua"
+},
+{
+"pag": 2,
+"texto": "execução, nos termos deste regulamento, que disciplinará os tempos de execução por tipo de obras"
+},
+{
+"pag": 2,
+"texto": "rotineiramente realizadas pela concessionária."
+},
+{
+"pag": 2,
+"texto": "Art. 7º O valor atribuído à outorga não será reavaliado nas revisões tarifárias."
+},
+{
+"pag": 2,
+"texto": "Art. 8º A BRRB será atualizada monetariamente anualmente pelo Índice Geral de Preços - Mercado"
+},
+{
+"pag": 2,
+"texto": "– IGP-M."
+},
+{
+"pag": 2,
+"texto": "Art. 9º A BRRB será depreciada e amortizada nos termos deste regulamento."
+},
+{
+"pag": 2,
+"texto": "Parágrafo único. As taxas de depreciação e amortização estabelecidas observarão os prazos"
+},
+{
+"pag": 2,
+"texto": "máximos previstos no contrato de concessão."
+},
+{
+"pag": 2,
+"texto": "Art. 10. A BAR será avaliada periodicamente por ocasião das revisões tarifárias."
+},
+{
+"pag": 2,
+"texto": "Art. 11. Nas revisões tarifárias ordinárias, a BRRB e a BRRL serão projetadas anualmente,"
+},
+{
+"pag": 2,
+"texto": "considerando o acréscimo dos investimentos anuais previstos para o período e as datas de"
+},
+{
+"pag": 2,
+"texto": "incorporação na BAR, incluindo os juros sobre obras andamento."
+},
+{
+"pag": 2,
+"texto": "Art. 12. O valor da BAR será fornecido pela concessionária por meio de laudo de avaliação, elaborado"
+},
+{
+"pag": 2,
+"texto": "na forma deste regulamento, devendo ser por ela informado no plano de negócios submetido para"
+},
+{
+"pag": 2,
+"texto": "cada ciclo tarifário."
+},
+{
+"pag": 2,
+"texto": "CAPÍTULO III – DISPOSIÇÕES GERAIS"
+},
+{
+"pag": 2,
+"texto": "SEÇÃO I – DA BASE INCREMENTAL"
+},
+{
+"pag": 3,
+"texto": "Art. 13. Para a definição da BAR aplicável a cada ciclo tarifário, serão inventariados e avaliados os"
+},
+{
+"pag": 3,
+"texto": "ativos percententes à base incremental, nos termos deste regulamento."
+},
+{
+"pag": 3,
+"texto": "Art. 14. Serão avaliados para inclusão na base incremental os ativos vinculados à prestação do serviço"
+},
+{
+"pag": 3,
+"texto": "público de distribuição de gás canalizado que entraram em operação entre as datas-bases da RTO"
+},
+{
+"pag": 3,
+"texto": "anterior e da atual."
+},
+{
+"pag": 3,
+"texto": "SEÇÃO II – DA BASE BLINDADA"
+},
+{
+"pag": 3,
+"texto": "Art. 15. A base de remuneração aprovada na revisão tarifária anterior será blindada."
+},
+{
+"pag": 3,
+"texto": "Parágrafo único. Os ativos incluídos no valor inicial da BAR, conforme estabelecido no contrato de"
+},
+{
+"pag": 3,
+"texto": "concessão, constituem a base blindada inicial."
+},
+{
+"pag": 3,
+"texto": "Art. 16. A base blindada não será sujeita a alterações nas revisões tarifárias posteriores, com exceção"
+},
+{
+"pag": 3,
+"texto": "das seguintes movimentações:"
+},
+{
+"pag": 3,
+"texto": "I. baixa de ativos e/ou transferências de quantidades;"
+},
+{
+"pag": 3,
+"texto": "II. revisão dos índices de aproveitamento;"
+},
+{
+"pag": 3,
+"texto": "III. atualização do valor pelo índice de preço;"
+},
+{
+"pag": 3,
+"texto": "IV. depreciação destes ativos."
+},
+{
+"pag": 3,
+"texto": "§ 1º A revisão dos índices de aproveitamento não será aplicável aos ativos que compõem a base"
+},
+{
+"pag": 3,
+"texto": "blindada inicial."
+},
+{
+"pag": 3,
+"texto": "§ 2º A revisão dos índices de aproveitamento será aplicada a partir da segunda revisão tarifária"
+},
+{
+"pag": 3,
+"texto": "ordinária, com efeitos iniciais sobre a base blindada no primeiro ciclo tarifário."
+},
+{
+"pag": 3,
+"texto": "SEÇÃO III – DA EMPRESA AVALIADORA"
+},
+{
+"pag": 3,
+"texto": "Art. 17. O levantamento dos ativos e a conciliação com os registros contábeis, patrimoniais, de"
+},
+{
+"pag": 3,
+"texto": "engenharia e comercial devem ser realizados por empresa independente, especializada em avaliação"
+},
+{
+"pag": 3,
+"texto": "de ativos, contratada pela concessionária, de acordo com as condições de qualificação técnica"
+},
+{
+"pag": 3,
+"texto": "estabelecidas neste regulamento, a qual produzirá um laudo técnico que estará sujeito à validação"
+},
+{
+"pag": 3,
+"texto": "mediante fiscalização da Agência."
+},
+{
+"pag": 3,
+"texto": "§ 1º A concessionária é responsável pelo adequado cumprimento do procedimento de avaliação,"
+},
+{
+"pag": 3,
+"texto": "devendo apoiar a empresa avaliadora no atendimento aos critérios definidos neste regulamento,"
+},
+{
+"pag": 3,
+"texto": "respondendo por quaisquer prejuízos decorrentes das informações fornecidas."
+},
+{
+"pag": 3,
+"texto": "§ 2º A ARSP será responsável por homologar lista das empresas avaliadoras elegíveis à contratação"
+},
+{
+"pag": 3,
+"texto": "pela concessionária."
+},
+{
+"pag": 3,
+"texto": "Art. 18. As condições de qualificação técnica de que trata o art. 17º são as seguintes:"
+},
+{
+"pag": 3,
+"texto": "I. ser pessoa jurídica corresponsável pelo cumprimento desta Resolução, no que se refere à"
+},
+{
+"pag": 3,
+"texto": "conduta profissional, ao exercício da atividade e à emissão de laudos, pareceres e relatórios de"
+},
+{
+"pag": 3,
+"texto": "avaliação, pelos seus responsáveis técnicos;"
+},
+{
+"pag": 3,
+"texto": "II. possuir como objeto social a prestação de serviços profissionais de avaliação de ativos e demais"
+},
+{
+"pag": 3,
+"texto": "serviços inerentes às profissões de engenharia e arquitetura;"
+},
+{
+"pag": 3,
+"texto": "III. estar regularmente inscrita, bem como seus responsáveis técnicos, regularmente registrados,"
+},
+{
+"pag": 3,
+"texto": "em Conselho Regional de Engenharia e Arquitetura e/ou Conselho de Arquitetura e Urbanismo;"
+},
+{
+"pag": 3,
+"texto": "IV. garantir que todos os responsáveis técnicos estejam autorizados a emitir e assinar os"
+},
+{
+"pag": 4,
+"texto": "documentos produzidos em nome da sociedade, dentro do território nacional por período não inferior"
+},
+{
+"pag": 4,
+"texto": "a cinco anos, consecutivos ou não, contados a partir da data do registro no Conselho Regional de"
+},
+{
+"pag": 4,
+"texto": "Engenharia e Arquitetura e/ou Conselho de Arquitetura e Urbanismo;"
+},
+{
+"pag": 4,
+"texto": "V. manter escritório profissional legalizado em nome da sociedade, com instalações compatíveis"
+},
+{
+"pag": 4,
+"texto": "com o exercício da atividade de avaliação independente, em condições que garantam a guarda, a"
+},
+{
+"pag": 4,
+"texto": "segurança e o sigilo dos documentos e informações decorrentes dessa atividade, bem como a"
+},
+{
+"pag": 4,
+"texto": "privacidade no relacionamento com seus clientes; e"
+},
+{
+"pag": 4,
+"texto": "VI. manter quadro permanente de pessoal técnico adequado ao número e porte de seus clientes,"
+},
+{
+"pag": 4,
+"texto": "com conhecimento constantemente atualizado sobre o seu ramo de atividade, os negócios, as"
+},
+{
+"pag": 4,
+"texto": "práticas contábeis e operacionais."
+},
+{
+"pag": 4,
+"texto": "Art. 19. Os valores resultantes do processo de levantamento e conciliação estão sujeitos a ajustes,"
+},
+{
+"pag": 4,
+"texto": "decorrentes de procedimento de homologação realizada pelo regulador."
+},
+{
+"pag": 4,
+"texto": "SEÇÃO IV – DA CLASSIFICAÇÃO"
+},
+{
+"pag": 4,
+"texto": "Art. 20. Os ativos inventariados e conciliados com os registros contábeis deverão ser apresentados"
+},
+{
+"pag": 4,
+"texto": "no laudo de avaliação, classificados de acordo com as seguintes características:"
+},
+{
+"pag": 4,
+"texto": "I. Natureza: classificados entre tangíveis e intangíveis;"
+},
+{
+"pag": 4,
+"texto": "II. Elegibilidade: classificados entre elegíveis e não elegíveis;"
+},
+{
+"pag": 4,
+"texto": "III. Onerosidade: classificados entre onerosos, não onerosos ou parcialmente onerosos."
+},
+{
+"pag": 4,
+"texto": "Art. 21. São elegíveis para inclusão na base de remuneração regulatória os bens que,"
+},
+{
+"pag": 4,
+"texto": "concomitantemente:"
+},
+{
+"pag": 4,
+"texto": "I. Estejam vinculados à concessão, necessários à prestação adequada e contínua do serviço"
+},
+{
+"pag": 4,
+"texto": "público de distribuição de gás natural canalizado;"
+},
+{
+"pag": 4,
+"texto": "II. Encontrem-se registrados no patrimônio e na contabilidade da concessionária."
+},
+{
+"pag": 4,
+"texto": "§ 1º Na verificação dos critérios de elegibilidade, será efetuada uma análise qualificada da utilização"
+},
+{
+"pag": 4,
+"texto": "dos ativos, considerando sua necessidade e conveniência para a prestação do serviço público de gás"
+},
+{
+"pag": 4,
+"texto": "natural canalizado."
+},
+{
+"pag": 4,
+"texto": "§2º Os ativos que não estiverem em operação na data-base do laudo de avaliação serão"
+},
+{
+"pag": 4,
+"texto": "considerados como não elegíveis, com exceção dos seguintes casos:"
+},
+{
+"pag": 4,
+"texto": "I. dos equipamentos de reserva técnica; ou"
+},
+{
+"pag": 4,
+"texto": "II. dos ativos que estiverem em manutenção corretiva ou preventiva, desde que a data de"
+},
+{
+"pag": 4,
+"texto": "inatividade do ativo não ultrapasse o período de 60 (sessenta) dias da data-base do laudo de"
+},
+{
+"pag": 4,
+"texto": "avaliação, condição que deverá ser devidamente comprovada pela concessionária."
+},
+{
+"pag": 4,
+"texto": "§ 3º A concessionária deverá possuir documentação que comprove a titularidade dos imóveis"
+},
+{
+"pag": 4,
+"texto": "operacionais."
+},
+{
+"pag": 4,
+"texto": "§ 4º Os imóveis em processo de regularização poderão ser considerados na BAR desde que atendam"
+},
+{
+"pag": 4,
+"texto": "às condições descritas a seguir:"
+},
+{
+"pag": 4,
+"texto": "I. ser elegível;"
+},
+{
+"pag": 4,
+"texto": "II. estar registrado na contabilidade;"
+},
+{
+"pag": 4,
+"texto": "III. existir documentação comprobatória da aquisição pela concessionária; e"
+},
+{
+"pag": 4,
+"texto": "IV. existir documento comprobatório que o processo de registro de titularidade da propriedade tenha"
+},
+{
+"pag": 5,
+"texto": "sido iniciado até a data-base do laudo de avaliação."
+},
+{
+"pag": 5,
+"texto": "§ 5º. Os ativos de propriedade da concessionária que estejam localizados em imóveis de propriedade"
+},
+{
+"pag": 5,
+"texto": "de terceiros, uma vez cumpridos os critérios de elegibilidade, serão identificados e considerados"
+},
+{
+"pag": 5,
+"texto": "como elegíveis."
+},
+{
+"pag": 5,
+"texto": "Art. 22. Na hipótese da ausência de informações que estabeleçam a relação dos ativos vinculados a"
+},
+{
+"pag": 5,
+"texto": "investimentos não onerosos com os recursos efetivamente investidos, caberá à Concessionaria"
+},
+{
+"pag": 5,
+"texto": "pleitear e à entidade reguladora homologar o montante que será considerado para compor a BAR."
+},
+{
+"pag": 5,
+"texto": "Art. 23. Os ativos parcialmente onerosos terão seu índices de onerosidade calculado pela relação"
+},
+{
+"pag": 5,
+"texto": "percentual entre a participação financeira da concessionária na aquisição ou construção do ativo e o"
+},
+{
+"pag": 5,
+"texto": "seu valor original contábil."
+},
+{
+"pag": 5,
+"texto": "Parágrafo único. Os valores referentes à participação financeira da concessionária deverão ser"
+},
+{
+"pag": 5,
+"texto": "calculados com base nos valores originais de construção ou aquisição do ativo."
+},
+{
+"pag": 5,
+"texto": "Art. 24. Os ativos serão classificados de acordo com os seguintes grupos e sub-grupos:"
+},
+{
+"pag": 5,
+"texto": "I. Servidões;"
+},
+{
+"pag": 5,
+"texto": "II. Softwares e licenças;"
+},
+{
+"pag": 5,
+"texto": "III. Ativos de conversão;"
+},
+{
+"pag": 5,
+"texto": "IV. Terrenos"
+},
+{
+"pag": 5,
+"texto": "a) Terrenos – administração;"
+},
+{
+"pag": 5,
+"texto": "b) Terrenos – distribuição."
+},
+{
+"pag": 5,
+"texto": "V. Redes"
+},
+{
+"pag": 5,
+"texto": "a) Rede de Distribuição construída em Aço;"
+},
+{
+"pag": 5,
+"texto": "b) Rede de Distribuição construída em PEAD – polietileno."
+},
+{
+"pag": 5,
+"texto": "VI. Ramais de Serviços, exceto segmentos residencial e comercial;"
+},
+{
+"pag": 5,
+"texto": "VII. Estação de Controle de Pressão"
+},
+{
+"pag": 5,
+"texto": "VIII. Estação de Odorização"
+},
+{
+"pag": 5,
+"texto": "IX. Pontos de Recebimento"
+},
+{
+"pag": 5,
+"texto": "X. Conjunto de Regulagem e Medição – CRM, Medidores e Ramais"
+},
+{
+"pag": 5,
+"texto": "XI. Edificações, Obras Civis e Benfeitorias"
+},
+{
+"pag": 5,
+"texto": "a) Edificações, obras civis e benfeitorias – administração;"
+},
+{
+"pag": 5,
+"texto": "b) Edificações, obras civis e benfeitorias – distribuição."
+},
+{
+"pag": 5,
+"texto": "XII. Máquinas e Equipamentos Operacionais"
+},
+{
+"pag": 5,
+"texto": "a) Máquinas e equipamentos operacionais – administração;"
+},
+{
+"pag": 5,
+"texto": "b) Máquinas e equipamentos operacionais – distribuição."
+},
+{
+"pag": 5,
+"texto": "XIII. Veículos e Equipamentos de Transportes"
+},
+{
+"pag": 5,
+"texto": "a) Veículos – administração;"
+},
+{
+"pag": 5,
+"texto": "b) Veículos – distribuição."
+},
+{
+"pag": 5,
+"texto": "XIV. Equipamentos e Móveis Administrativos"
+},
+{
+"pag": 6,
+"texto": "a) Equipamentos e móveis administrativos – administração;"
+},
+{
+"pag": 6,
+"texto": "b) Equipamentos e móveis administrativos – distribuição"
+},
+{
+"pag": 6,
+"texto": "XV. Equipamentos de Processamento Eletrônico de Dados"
+},
+{
+"pag": 6,
+"texto": "a) Equipamentos de Processamento Eletrônico de Dados – administração;"
+},
+{
+"pag": 6,
+"texto": "b) Equipamentos de Processamento Eletrônico de Dados – distribuição."
+},
+{
+"pag": 6,
+"texto": "XVI. Outros."
+},
+{
+"pag": 6,
+"texto": "CAPÍTULO IV – DO LEVANTAMENTO FÍSICO"
+},
+{
+"pag": 6,
+"texto": "SEÇÃO I – DOS CRITÉRIOS GERAIS"
+},
+{
+"pag": 6,
+"texto": "Art. 25. Os levantamentos de campo serão realizados através de inventário físico dos ativos da"
+},
+{
+"pag": 6,
+"texto": "concessionária, devendo ser verificadas suas características e condições operacionais."
+},
+{
+"pag": 6,
+"texto": "Art. 26. Fica estabelecida como data-base para verificação da situação dos ativos o dia 31 de julho"
+},
+{
+"pag": 6,
+"texto": "do ano anterior à revisão tarifária ordinária, a ser aplicada nos critérios para inclusão na BAR, cálculo"
+},
+{
+"pag": 6,
+"texto": "da amortização acumulada, conciliação físico-contábil, dentre outras informações que servirão de"
+},
+{
+"pag": 6,
+"texto": "base para elaboração do laudo de avaliação da base de remuneração regulatória."
+},
+{
+"pag": 6,
+"texto": "§ 1º As movimentações ocorridas no ativo após a data-base do laudo de avaliação serão apuradas e"
+},
+{
+"pag": 6,
+"texto": "consideradas no valor da BAR."
+},
+{
+"pag": 6,
+"texto": "Art. 27. Serão levantados individualmente, ou seja, em sua totalidade, os seguintes ativos:"
+},
+{
+"pag": 6,
+"texto": "I. Softwares e licenças;"
+},
+{
+"pag": 6,
+"texto": "II. Terrenos:"
+},
+{
+"pag": 6,
+"texto": "a) Terrenos – administração;"
+},
+{
+"pag": 6,
+"texto": "b) Terrenos – distribuição;"
+},
+{
+"pag": 6,
+"texto": "III. Ramais de Serviços, exceto segmentos residencial e comercial;"
+},
+{
+"pag": 6,
+"texto": "IV. Estação de Controle de Pressão;"
+},
+{
+"pag": 6,
+"texto": "V. Estação de Odorização;"
+},
+{
+"pag": 6,
+"texto": "VI. Pontos de Recebimento;"
+},
+{
+"pag": 6,
+"texto": "VII. Conjunto de Regulagem e Medição – CRM, Medidores, Ramais e conjuntos de medição (CM) para"
+},
+{
+"pag": 6,
+"texto": "atender aos usuários de todos os segmentos exceto comercial e residencial;"
+},
+{
+"pag": 6,
+"texto": "VIII. Edificações, Obras Civis e Benfeitorias:"
+},
+{
+"pag": 6,
+"texto": "a) Edificações, obras civis e benfeitorias – administração;"
+},
+{
+"pag": 6,
+"texto": "b) Edificações, obras civis e benfeitorias – distribuição;"
+},
+{
+"pag": 6,
+"texto": "IX. Máquinas e Equipamentos Operacionais:"
+},
+{
+"pag": 6,
+"texto": "a) Máquinas e equipamentos operacionais – administração;"
+},
+{
+"pag": 6,
+"texto": "b) Máquinas e equipamentos operacionais – distribuição;"
+},
+{
+"pag": 6,
+"texto": "Art. 28. Os seguintes ativos serão levantados por critério amostral:"
+},
+{
+"pag": 7,
+"texto": "I. Redes:"
+},
+{
+"pag": 7,
+"texto": "a) Rede de Distribuição construída em Aço;"
+},
+{
+"pag": 7,
+"texto": "b) Rede de Distribuição construída em PEAD – polietileno;"
+},
+{
+"pag": 7,
+"texto": "II. Conjunto de Regulagem e Medição – CRM, Medidores e Ramais; conjuntos de regulagem (CR)"
+},
+{
+"pag": 7,
+"texto": "e conjuntos de medição (CM) para atender aos usuários dos segmentos residencial e comercial;"
+},
+{
+"pag": 7,
+"texto": "III. Equipamentos e Móveis Administrativos:"
+},
+{
+"pag": 7,
+"texto": "a) Equipamentos e móveis administrativos – administração;"
+},
+{
+"pag": 7,
+"texto": "b) Equipamentos e móveis administrativos – distribuição;"
+},
+{
+"pag": 7,
+"texto": "IV. Equipamentos de Processamento Eletrônico de Dados"
+},
+{
+"pag": 7,
+"texto": "a) Equipamentos de Processamento Eletrônico de Dados – administração;"
+},
+{
+"pag": 7,
+"texto": "b) Equipamentos de Processamento Eletrônico de Dados – distribuição."
+},
+{
+"pag": 7,
+"texto": "V. Almoxarifado de materiais e equipamentos (almoxarifado de operação)."
+},
+{
+"pag": 7,
+"texto": "VI. Veículos e Equipamentos de Transportes:"
+},
+{
+"pag": 7,
+"texto": "a) Veículos – administração;"
+},
+{
+"pag": 7,
+"texto": "b) Veículos – distribuição."
+},
+{
+"pag": 7,
+"texto": "§ 1º. O levantantamento por critério amostral deverá assegurar uma amostra representativa da"
+},
+{
+"pag": 7,
+"texto": "condição geral de acordo com as características de cada grupo de ativos, garantindo a adequada"
+},
+{
+"pag": 7,
+"texto": "robustez dos resultados."
+},
+{
+"pag": 7,
+"texto": "§ 2º O processo de amostragem terá como referência os critérios estabelecidos na norma técnica"
+},
+{
+"pag": 7,
+"texto": "NBR 5426 ou outra que vier a substituí-la."
+},
+{
+"pag": 7,
+"texto": "Art. 29. O laudo de avaliação deverá identificar:"
+},
+{
+"pag": 7,
+"texto": "I. Os bens doados total ou parcialmente para a Concessionária;"
+},
+{
+"pag": 7,
+"texto": "II. Os ativos da Concessionária instalados fora da sua área de concessão;"
+},
+{
+"pag": 7,
+"texto": "III. Ativos da Concessionária em operação compartilhada com outras concessionárias; devendo ser"
+},
+{
+"pag": 7,
+"texto": "informados os procedimentos adotados para sua identificação."
+},
+{
+"pag": 7,
+"texto": "Art. 30. A etapa de planejamento do levantamento deverá ser subsidiada pelas informações dos"
+},
+{
+"pag": 7,
+"texto": "cadastros contábil, técnico, comercial e patrimonial, incluindo relatórios de engenharia, endereços"
+},
+{
+"pag": 7,
+"texto": "das unidades e demais dados necessários."
+},
+{
+"pag": 7,
+"texto": "Art. 31. Os trabalhos de campo devem ser iniciados com o levantamento e a verificação física dos"
+},
+{
+"pag": 7,
+"texto": "bens, para sua identificação, caracterização, avaliação do estado e obtenção de suas características"
+},
+{
+"pag": 7,
+"texto": "técnicas, que serão objeto de conciliação físico-contábil."
+},
+{
+"pag": 7,
+"texto": "Art. 32. O Inventário físico deve envolver e relacionar todos os bens móveis e imóveis e demais"
+},
+{
+"pag": 7,
+"texto": "estruturas físicas pertencentes ou utilizados pela concessionária necessários à avaliação, o que"
+},
+{
+"pag": 7,
+"texto": "compreenderá a investigação e vistoria in loco, a análise de desenhos cadastrais, levantamento"
+},
+{
+"pag": 7,
+"texto": "documental, diligências, entrevistas, e demais procedimentos necessários à correta e completa"
+},
+{
+"pag": 7,
+"texto": "identificação das informações referentes aos bens patrimoniais, incluindo redes e tubulações"
+},
+{
+"pag": 7,
+"texto": "subterrâneas."
+},
+{
+"pag": 7,
+"texto": "Art. 33. A identificação dos ativos inventariados deve conter informações suficientes para permitir sua"
+},
+{
+"pag": 7,
+"texto": "identificação e conciliação com os registros contábeis, em sistema de controle patrimonial utilizado"
+},
+{
+"pag": 7,
+"texto": "pela concessionária, bem como a segregação por cidade, uso, função operacional ou administrativa,"
+},
+{
+"pag": 7,
+"texto": "bem como outras características necessárias à sua classificação."
+},
+{
+"pag": 8,
+"texto": "Art. 34. O laudo de avaliação deverá obrigatoriamente conter a data da vistoria in loco, as descrições"
+},
+{
+"pag": 8,
+"texto": "e os quantitativos apurados dos equipamentos, bem como o seu número de patrimônio."
+},
+{
+"pag": 8,
+"texto": "Art. 35. A empresa avaliadora contratada, ao elaborar o laudo de avaliação, deve gerar e incorporar"
+},
+{
+"pag": 8,
+"texto": "um arquivo eletrônico com informações sobre todos os ativos existentes na data-base do laudo,"
+},
+{
+"pag": 8,
+"texto": "incluindo dados georreferenciados para aqueles que possuírem esses registros."
+},
+{
+"pag": 8,
+"texto": "Parágrafo Único. O laudo de avaliação deverá ser entregue com antecedência mínima de 30 (trinta)"
+},
+{
+"pag": 8,
+"texto": "dias da data de entrega do plano de trabalho pela concessionária, de acordo com o cronograma de"
+},
+{
+"pag": 8,
+"texto": "eventos da RTO publicado pela entidade reguladora."
+},
+{
+"pag": 8,
+"texto": "Art. 36. Os ativos de propriedade de terceiros à serviço da Concessão não comporão a BAR, devendo"
+},
+{
+"pag": 8,
+"texto": "ser informados os procedimentos adotados para a identificação patrimonial e respectivo registro"
+},
+{
+"pag": 8,
+"texto": "contábil do uso desses bens, com a disponibilização de arquivo contendo sua relação específica,"
+},
+{
+"pag": 8,
+"texto": "devidamente conciliados com os controles da concessionária."
+},
+{
+"pag": 8,
+"texto": "Art. 37. A concessionária responderá por quaisquer erros ou danos decorrentes de inconsistências"
+},
+{
+"pag": 8,
+"texto": "nas informações fornecidas à empresa avaliadora, que prejudiquem a avaliação de que trata este"
+},
+{
+"pag": 8,
+"texto": "regulamento."
+},
+{
+"pag": 8,
+"texto": "Art. 38. A concessionária deverá fornecer relação com os bens totalmente depreciados ou"
+},
+{
+"pag": 8,
+"texto": "amortizados, para fins de verificação, avaliação e validação pela empresa contratada."
+},
+{
+"pag": 8,
+"texto": "SEÇÃO II – DOS CRITÉRIOS POR TIPO DE ATIVO"
+},
+{
+"pag": 8,
+"texto": "Art. 39. Os critérios para o levantamento físico para cada tipo de ativo estão detalhados no Anexo II."
+},
+{
+"pag": 8,
+"texto": "CAPÍTULO V - DA CONCILIAÇÃO FÍSICO-CONTÁBIL"
+},
+{
+"pag": 8,
+"texto": "Art. 40. Deverá ser realizada a conciliação físico-contábil de todos os ativos avaliados para a inclusão"
+},
+{
+"pag": 8,
+"texto": "na base incremental."
+},
+{
+"pag": 8,
+"texto": "Art. 41. A conciliação físico-contábil deve ser procedida em conjunto pela empresa avaliadora"
+},
+{
+"pag": 8,
+"texto": "contratada e a concessionária, observando-se a existência de bens que se encontram em fase de"
+},
+{
+"pag": 8,
+"texto": "transferência de obras em andamento para o ativo imobilizado em serviço."
+},
+{
+"pag": 8,
+"texto": "Art. 42. A conciliação terá por base os bens levantados fisicamente - individualmente ou por"
+},
+{
+"pag": 8,
+"texto": "amostragem, que serão analisados e conciliados com os registros de engenharia, operacionais,"
+},
+{
+"pag": 8,
+"texto": "comerciais, fiscais, contábeis e de controle patrimonial da Concessionária, os quais fornecerão as"
+},
+{
+"pag": 8,
+"texto": "datas de formação, entrada em operação e a transferência contábil da situação em andamento para"
+},
+{
+"pag": 8,
+"texto": "em serviço, bem como a depreciação e amortização acumuladas."
+},
+{
+"pag": 8,
+"texto": "Art. 43. Para a conciliação físico-contábil, os registros contábeis, patrimoniais e demais informações"
+},
+{
+"pag": 8,
+"texto": "produzidas no levantamento de campo devem estar, necessariamente, na mesma data-base."
+},
+{
+"pag": 8,
+"texto": "Art. 44. A concessionária deve, a partir dos resultados do levantamento de campo realizado pela"
+},
+{
+"pag": 8,
+"texto": "empresa avaliadora, proceder aos ajustes necessários em seus controles comerciais, de engenharia"
+},
+{
+"pag": 8,
+"texto": "e nos registros e controles patrimoniais e contábeis."
+},
+{
+"pag": 8,
+"texto": "Art. 45. As sobras físicas apuradas no processo de conciliação físico-contábil serão avaliadas e"
+},
+{
+"pag": 8,
+"texto": "identificadas no Laudo de Avaliação."
+},
+{
+"pag": 8,
+"texto": "§1º Somente serão aceitas para efeito de composição da BAR as sobras de bens identificáveis"
+},
+{
+"pag": 8,
+"texto": "mediante comprovação de aquisição por meio de notas fiscais e de sua respectiva contabilização."
+},
+{
+"pag": 8,
+"texto": "§2º As sobras físicas serão amortizadas a partir da data de entrada de operação do bem, de acordo"
+},
+{
+"pag": 8,
+"texto": "com a adequada documentação comprobatória."
+},
+{
+"pag": 9,
+"texto": "§3º Na ausência de documentação que comprove a data de entrada em operação do bem, e após"
+},
+{
+"pag": 9,
+"texto": "esgotar todos os meios disponíveis, a empresa avaliadora deve considerar:"
+},
+{
+"pag": 9,
+"texto": "I. para os bens individuais, atribuir a data de capitalização em que está localizada o bem;"
+},
+{
+"pag": 9,
+"texto": "II. para os bens de massa, atribuir a data do bem idêntico ao mais antigo da conta contábil."
+},
+{
+"pag": 9,
+"texto": "Art. 46. As sobras contábeis, após esgotadas todas as possibilidades de comprovação de existência"
+},
+{
+"pag": 9,
+"texto": "do bem, serão baixadas da BAR."
+},
+{
+"pag": 9,
+"texto": "Art. 47. deverá ser produzido um relatório de conciliação e tratamento das sobras para cada grupo"
+},
+{
+"pag": 9,
+"texto": "de ativos, que descreverá, no mínimo, o método operante utilizado, metodologias e critérios adotados,"
+},
+{
+"pag": 9,
+"texto": "bem como qualquer informação relevante para validação e fiscalização dos relatórios entregues."
+},
+{
+"pag": 9,
+"texto": "Art. 48. A concessionária é responsável pela administração, registro e inventário, operação, guarda,"
+},
+{
+"pag": 9,
+"texto": "utilização, manutenção, modernização e substituição, em adequadas condições operacionais, de"
+},
+{
+"pag": 9,
+"texto": "todos os bens vinculados à concessão."
+},
+{
+"pag": 9,
+"texto": "Art. 49. A concessionária deverá manter sistema de contabilidade patrimonial e regulatória para"
+},
+{
+"pag": 9,
+"texto": "registro dos bens vinculados à concessão, considerando a elegibilidade, a apropriação, a"
+},
+{
+"pag": 9,
+"texto": "contabilização, o controle físico-financeiro, os inventários, o índice de aproveitamento, os prazos de"
+},
+{
+"pag": 9,
+"texto": "obras para fins de cálculo de juros durante a construção."
+},
+{
+"pag": 9,
+"texto": "Art. 50. A empresa avaliadora deve atestar a adequação dos documentos que comprovam a situação"
+},
+{
+"pag": 9,
+"texto": "dos ativos vinculados à concessão, de acordo com as informações apresentadas pela concessionária"
+},
+{
+"pag": 9,
+"texto": "e produzidas ao longo do levantamento, atestando os valores, as datas de aquisição e de entrada do"
+},
+{
+"pag": 9,
+"texto": "bem em serviço, inclusive dos bens resultantes de sobras e faltas."
+},
+{
+"pag": 9,
+"texto": "CAPÍTULO VI – DA METODOLOGIA DE AVALIAÇÃO PATRIMONIAL"
+},
+{
+"pag": 9,
+"texto": "SEÇÃO I – DA VALORAÇÃO PELO VNR"
+},
+{
+"pag": 9,
+"texto": "Art. 51. A BAR será valorada pela metodologia do Valor Novo de Reposição - VNR, com exceção dos"
+},
+{
+"pag": 9,
+"texto": "seguintes grupos de ativos, que serão valorados pelo Valor Original Contábil – VOC:"
+},
+{
+"pag": 9,
+"texto": "I. Servidões;"
+},
+{
+"pag": 9,
+"texto": "II. Ativos de conversão;"
+},
+{
+"pag": 9,
+"texto": "III. Softwares e licenças."
+},
+{
+"pag": 9,
+"texto": "Art. 52. Ao valor novo de reposição de cada ativo, será deduzida a sua amortização ou depreciação,"
+},
+{
+"pag": 9,
+"texto": "tendo como base de cálculo o percentual de amortização ou depreciação contábil aplicável, após o"
+},
+{
+"pag": 9,
+"texto": "devido processo de conciliação dos registros contábeis."
+},
+{
+"pag": 9,
+"texto": "Art. 53. A composição do bens valorados pelo VNR considerará o somatório dos seguintes itens:"
+},
+{
+"pag": 9,
+"texto": "I. Equipamento principal - EP: corresponde ao valor do equipamento principal;"
+},
+{
+"pag": 9,
+"texto": "II. Custo Adicional de Instalação - CA: são os custos referentes ao conjunto de componentes"
+},
+{
+"pag": 9,
+"texto": "acessórios vinculados a um determinado equipamento principal, representados pelos serviços"
+},
+{
+"pag": 9,
+"texto": "ou materiais necessários para colocação do ativo em operação, não compreendidos nos"
+},
+{
+"pag": 9,
+"texto": "conceitos de equipamento principal;"
+},
+{
+"pag": 9,
+"texto": "III. Juros sobre Obras em Andamento - JOA: Os juros sobre obras em andamento são definidos"
+},
+{
+"pag": 9,
+"texto": "para fins regulatórios e calculados através da metodologia WACC após impostos, aplicáveis"
+},
+{
+"pag": 9,
+"texto": "aos ativos previstos neste regulamento."
+},
+{
+"pag": 9,
+"texto": "Art. 54. As metodologias de avaliação devem seguir as normas do IBAPE - Instituto Brasileiro de"
+},
+{
+"pag": 10,
+"texto": "Avaliações e Perícias de Engenharia, e da ABNT – Associação Brasileira de Normas Técnicas."
+},
+{
+"pag": 10,
+"texto": "Art. 55. Os valores determinados na avaliação devem levar em consideração os bens de forma"
+},
+{
+"pag": 10,
+"texto": "integrada ao processo produtivo em que estão inseridos."
+},
+{
+"pag": 10,
+"texto": "SEÇÃO II – DO BANCO DE PREÇOS PARA VALORAÇÃO PELO VNR"
+},
+{
+"pag": 10,
+"texto": "Art. 56. Na valoração dos bens por meio do VNR com a utilização de banco de preços deverá ser"
+},
+{
+"pag": 10,
+"texto": "observada a seguinte ordem para seleção da base:"
+},
+{
+"pag": 10,
+"texto": "I. Banco de preços médio da concessionária;"
+},
+{
+"pag": 10,
+"texto": "II. Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil – SINAPI;"
+},
+{
+"pag": 10,
+"texto": "III. SINDUSCON (Sindicato da Indústria da Construção Civil de São Paulo), TCPO (Tabela de"
+},
+{
+"pag": 10,
+"texto": "Composição de Preços para Orçamentos) da PINI, SANEAGO (Tabela de Composição de"
+},
+{
+"pag": 10,
+"texto": "Preços de obras civis no setor de água e saneamento) e SICRO (Sistema de Custos"
+},
+{
+"pag": 10,
+"texto": "Referenciais de Obra);"
+},
+{
+"pag": 10,
+"texto": "IV. Banco de preços de outras concessionárias brasileiras de distribuição de gás canalizado; e"
+},
+{
+"pag": 10,
+"texto": "V. Outros bancos ou sistemas de preços referenciais homologados após consulta à entidade"
+},
+{
+"pag": 10,
+"texto": "reguladora"
+},
+{
+"pag": 10,
+"texto": "§ 1º. Não havendo informações no banco de preços médio da concessionária, deverá ser utilizado os"
+},
+{
+"pag": 10,
+"texto": "preços constantes no Sistema Nacional de Pesquisa de Custos e Índices da Construção Civil –"
+},
+{
+"pag": 10,
+"texto": "SINAPI, devendo ser considerados os preços para o Espírito Santo constantes na pesquisa mais"
+},
+{
+"pag": 10,
+"texto": "recente disponível na data-base do banco de preços."
+},
+{
+"pag": 10,
+"texto": "§ 2º. Na impossibilidade da utilização das bases de que tratam os incisos I e II, serão utilizadas as"
+},
+{
+"pag": 10,
+"texto": "referências de que tratam os incisos III a V, nesta ordem, sendo que o banco de preços médios de"
+},
+{
+"pag": 10,
+"texto": "outras concessionárias de gás natural canalizado brasileiras deve estar homologado pelas"
+},
+{
+"pag": 10,
+"texto": "respectivas entidades reguladoras."
+},
+{
+"pag": 10,
+"texto": "§ 3º. Na impossibilidade de utilização de base única, será admitida a combinação de diferentes"
+},
+{
+"pag": 10,
+"texto": "bancos referenciais de preços."
+},
+{
+"pag": 10,
+"texto": "§ 4º. Os preços unitários utilizados nos estudos deverão estar na mesma data-base, através de"
+},
+{
+"pag": 10,
+"texto": "atualização monetária, considerando neste procedimento o período compreendido entre a data de"
+},
+{
+"pag": 10,
+"texto": "pagamento e a data-base do banco de preços."
+},
+{
+"pag": 10,
+"texto": "Art. 57. Os custos de equipamento principal e custos básico de instalação (CA) deverão"
+},
+{
+"pag": 10,
+"texto": "preferencialmente ser extraídos da mesma base de dados."
+},
+{
+"pag": 10,
+"texto": "Art. 58. Fica definida como a data-base do banco de preços o dia 31 de julho do ano anterior ao da"
+},
+{
+"pag": 10,
+"texto": "RTO, com a aplicação de atualização monetária."
+},
+{
+"pag": 10,
+"texto": "Art. 59. A validação da consistência do banco de preços será realizada por meio de amostragem de"
+},
+{
+"pag": 10,
+"texto": "documentos comprobatórios de aquisição dos bens ou serviços, devendo atender aos seguintes"
+},
+{
+"pag": 10,
+"texto": "requisitos:"
+},
+{
+"pag": 10,
+"texto": "I. coerência entre os valores dos bens ou serviços listados no banco de preços em relação aos"
+},
+{
+"pag": 10,
+"texto": "valores de notas fiscais;"
+},
+{
+"pag": 10,
+"texto": "II. coerência entre a descrição do material constante na nota fiscal;"
+},
+{
+"pag": 10,
+"texto": "III. coerência entre a data de emissão, data de pagamento e o número da nota fiscal;"
+},
+{
+"pag": 10,
+"texto": "IV. coerência na quantidade faturada na nota fiscal;"
+},
+{
+"pag": 10,
+"texto": "V. valor do frete;"
+},
+{
+"pag": 11,
+"texto": "VI. impostos recuperáveis que deveriam ser excluídos dos valores de cotação ou notas fiscais."
+},
+{
+"pag": 11,
+"texto": "Art. 60. A atualização dos preços utilizados no procedimento de valoração será realizada por meio os"
+},
+{
+"pag": 11,
+"texto": "índices relacionados a seguir:"
+},
+{
+"pag": 11,
+"texto": "I. edificações e serviços: o Índice será o CUB (Custo Unitário Básico) divulgado mensalmente pelo"
+},
+{
+"pag": 11,
+"texto": "Sinduscon de cada Estado;"
+},
+{
+"pag": 11,
+"texto": "II. máquinas e equipamentos: IPA-OG-DI-Máquinas e Equipamentos, código 1420877, apurado"
+},
+{
+"pag": 11,
+"texto": "pela Fundação Getúlio Vargas – FGV;"
+},
+{
+"pag": 11,
+"texto": "III. servidões: o Índice Geral de Preços de Mercado – IGP-M, apurado pela Fundação Getúlio Vargas"
+},
+{
+"pag": 11,
+"texto": "– FGV;"
+},
+{
+"pag": 11,
+"texto": "IV. demais itens do banco de preços: Índice Geral de Preços - Mercado IGP-M, apurado pela"
+},
+{
+"pag": 11,
+"texto": "Fundação Getúlio Vargas – FGV."
+},
+{
+"pag": 11,
+"texto": "Parágrafo único. Na hipótese de descontinuidade dos índices apresentados, serão adotados aqueles"
+},
+{
+"pag": 11,
+"texto": "que vierem a substituí-los."
+},
+{
+"pag": 11,
+"texto": "SEÇÃO III – DO EQUIPAMENTO PRINCIPAL"
+},
+{
+"pag": 11,
+"texto": "Art. 61. O valor do equipamento principal será determinado a partir do valor de um bem novo, idêntico"
+},
+{
+"pag": 11,
+"texto": "ou similar ao avaliado, obtido a partir de informações constantes em bancos de preços, considerando"
+},
+{
+"pag": 11,
+"texto": "custos de frete, impostos não recuperáveis e outros que representem a sua completa reposição."
+},
+{
+"pag": 11,
+"texto": "Parágrafo único. Os impostos recuperáveis, conforme legislação em vigor, serão excluídos dos"
+},
+{
+"pag": 11,
+"texto": "valores das compras."
+},
+{
+"pag": 11,
+"texto": "Art. 62. Para a determinação dos preços, serão considerados os valores praticados no mercado"
+},
+{
+"pag": 11,
+"texto": "específico de gás natural canalizado, os tipos e características técnicas dos equipamentos a serem"
+},
+{
+"pag": 11,
+"texto": "avaliados."
+},
+{
+"pag": 11,
+"texto": "Art. 63. A valoração do equipamento principal será realizada com base no preço médio ponderado,"
+},
+{
+"pag": 11,
+"texto": "considerando os preços unitários e os quantitativos dos bens adquiridos pela concessionária nos"
+},
+{
+"pag": 11,
+"texto": "últimos 60 (sessenta) meses anteriores à data-base do banco de preços."
+},
+{
+"pag": 11,
+"texto": "§ 1º. Na hipótese de indisponibilidade de dados de aquisição em períodos iguais ou superiores a 60"
+},
+{
+"pag": 11,
+"texto": "(sessenta) meses, a empresa avaliadora utilizará todo o período disponível para o cálculo do preço"
+},
+{
+"pag": 11,
+"texto": "médio."
+},
+{
+"pag": 11,
+"texto": "§ 2º Na impossibilidade de utilização do banco de preços da concessionária, os preços poderão ser"
+},
+{
+"pag": 11,
+"texto": "determinados por meio das demais alternativas referenciais de bancos de preços e preços de"
+},
+{
+"pag": 11,
+"texto": "mercado previstas neste regulamento."
+},
+{
+"pag": 11,
+"texto": "Art. 64. O avaliador deve levar em consideração, quando da cotação de preços junto aos fabricantes"
+},
+{
+"pag": 11,
+"texto": "e fornecedores, as condições específicas da máquina ou equipamento instalado, em particular no"
+},
+{
+"pag": 11,
+"texto": "que se refere a tratamentos e proteções, eventualmente existentes, contra condições particularmente"
+},
+{
+"pag": 11,
+"texto": "agressivas do meio ambiente local."
+},
+{
+"pag": 11,
+"texto": "Art 65. Quando forem utilizados dados de outros bancos de preços e essas referências fornecerem"
+},
+{
+"pag": 11,
+"texto": "informações sobre intervalos de preços unitários, será adotada a média ponderada dos valores."
+},
+{
+"pag": 11,
+"texto": "SEÇÃO IV – DOS CUSTOS ADICIONAIS DE INSTALAÇÃO"
+},
+{
+"pag": 11,
+"texto": "Art. 66. O custo adicional de instalação (CA) será baseado nos preços médios dos serviços ou"
+},
+{
+"pag": 11,
+"texto": "materiais utilizados pela concessionária nos seus projetos executados nos últimos 60 meses"
+},
+{
+"pag": 11,
+"texto": "anteriores à data-base do banco de preços."
+},
+{
+"pag": 12,
+"texto": "§ 1º Na hipótese de indisponibilidade de dados de aquisição em períodos iguais ou superiores a 60"
+},
+{
+"pag": 12,
+"texto": "(sessenta) meses, a empresa avaliadora utilizará todo o período disponível para o cálculo do preço"
+},
+{
+"pag": 12,
+"texto": "médio ou utilizará as referências previstas no art. 56 desta norma, de acordo com a ordem de"
+},
+{
+"pag": 12,
+"texto": "preferência estabelecida."
+},
+{
+"pag": 12,
+"texto": "§ 2º Quando houver diferenças nos custos de instalações em virtude de aspectos referentes às"
+},
+{
+"pag": 12,
+"texto": "características físicas do local da intervenção, o CA deverá levar em consideração essas"
+},
+{
+"pag": 12,
+"texto": "especificidades."
+},
+{
+"pag": 12,
+"texto": "Art. 67. A Concessionária deverá apresentar um estudo com os custos adicionais e seus respectivos"
+},
+{
+"pag": 12,
+"texto": "valores, pra cada tipo de instalação."
+},
+{
+"pag": 12,
+"texto": "SEÇÃO V – DOS JUROS SOBRE OBRAS EM ANDAMENTO"
+},
+{
+"pag": 12,
+"texto": "Art. 68. Os juros sobre obras em andamento serão incorporados ao custo das obras e conversões"
+},
+{
+"pag": 12,
+"texto": "dos ativos a seguir, de acordo com seus respectivos prazos de execução:"
+},
+{
+"pag": 12,
+"texto": "I. redes de distribuição: 12 meses;"
+},
+{
+"pag": 12,
+"texto": "II. estações: 12 meses."
+},
+{
+"pag": 12,
+"texto": "§ 1º Poderão ser acordados entre regulador e concessionária prazos específicos em função de"
+},
+{
+"pag": 12,
+"texto": "situações não previstas em regulamento."
+},
+{
+"pag": 12,
+"texto": "§ 2º Os juros sobre obras em andamento não são aplicáveis as conjuntos de regulagem e medição,"
+},
+{
+"pag": 12,
+"texto": "medidores e ramais."
+},
+{
+"pag": 12,
+"texto": "Art. 69. O fluxo financeiro será distribuído de forma homogênea, na forma a seguir:"
+},
+{
+"pag": 12,
+"texto": "I. 40% de desembolso ao longo da primeira metade do prazo de construção; e"
+},
+{
+"pag": 12,
+"texto": "II. 60% distribuídos de forma homogênea ao longo da segunda metade do prazo de construção."
+},
+{
+"pag": 12,
+"texto": "Art. 70. O cálculo dos juros sobre obras em andamento utilizará o custo de capital definido pela"
+},
+{
+"pag": 12,
+"texto": "metodologia WACC, proporcional ao período de sua execução."
+},
+{
+"pag": 12,
+"texto": "CAPÍTULO VII – DA VALORAÇÃO PELO VOC"
+},
+{
+"pag": 12,
+"texto": "Art. 71. Os ativos avaliados pela metodologia VOC terão seus valores contábeis atualizados pelo"
+},
+{
+"pag": 12,
+"texto": "Índice Geral de Preços do Mercado – IGP-M, calculado pela Fundação Getúlio Vargas – FGV."
+},
+{
+"pag": 12,
+"texto": "CAPÍTULO VIII – DO ÍNDICE DE APROVEITAMENTO"
+},
+{
+"pag": 12,
+"texto": "Art. 72. Os seguintes ativos sofrerão a aplicação de índice de aproveitamento (IA):"
+},
+{
+"pag": 12,
+"texto": "I. terrenos; e"
+},
+{
+"pag": 12,
+"texto": "II. estações."
+},
+{
+"pag": 12,
+"texto": "Art. 73. A determinação do índice de aproveitamento de terrenos obedecerá aos seguintes critérios:"
+},
+{
+"pag": 12,
+"texto": "I. Será objeto de remuneração o percentual de terreno efetivamente utilizado para a construção"
+},
+{
+"pag": 12,
+"texto": "de obras e/ou instalação de bens para o serviço público de gás natural canalizado,"
+},
+{
+"pag": 12,
+"texto": "considerando inclusas as áreas de segurança, manutenção, circulação, manobra para a"
+},
+{
+"pag": 12,
+"texto": "operação e estacionamento, aplicáveis, em função do tipo, porte e características da"
+},
+{
+"pag": 12,
+"texto": "edificação ou instalação existente;"
+},
+{
+"pag": 13,
+"texto": "II. no caso de terrenos de estações existentes e em serviço, quando a estação não ocupar toda"
+},
+{
+"pag": 13,
+"texto": "a área aproveitável do terreno e este não puder ser legalmente fracionado para fins de"
+},
+{
+"pag": 13,
+"texto": "alienação, pode ser considerada, ainda, como área aproveitável, a título de reserva"
+},
+{
+"pag": 13,
+"texto": "operacional, uma área adicional de até 20%, calculada sobre o total daquela apurada"
+},
+{
+"pag": 13,
+"texto": "conforme os critérios estipulados no item anterior; e"
+},
+{
+"pag": 13,
+"texto": "III. no caso de terrenos de edificações pode ser considerada, como área aproveitável, uma área"
+},
+{
+"pag": 13,
+"texto": "adicional de até 10% da área total do terreno para espaços verdes efetivamente existentes."
+},
+{
+"pag": 13,
+"texto": "Art. 74. O índice de aproveitamento das estações será calculado pela multiplicação do nível de"
+},
+{
+"pag": 13,
+"texto": "utilização da capacidade instalada do ativo pela taxa de expectativa de crescimento da demanda em"
+},
+{
+"pag": 13,
+"texto": "um horizonte de 30 (trinta) anos."
+},
+{
+"pag": 13,
+"texto": "§ 1º A utilização da capacidade instalada é dada pela razão entre a capacidade máxima histórica"
+},
+{
+"pag": 13,
+"texto": "verificada e a capacidade máxima do ativo."
+},
+{
+"pag": 13,
+"texto": "§ 2º A expectativa de crescimento da demanda no horizonte de 30 (trinta) anos deve ser compatível"
+},
+{
+"pag": 13,
+"texto": "com as metas de expansão e ampliação do serviço, de acordo com o plano de negócios."
+},
+{
+"pag": 13,
+"texto": "Art. 75. As máquinas ou equipamentos que se encontrem em manutenção preventiva ou corretiva na"
+},
+{
+"pag": 13,
+"texto": "data-base do laudo da avaliação terão seus índices de aproveitamento calculados, desde que não"
+},
+{
+"pag": 13,
+"texto": "comprovadamente ultrapassado o período de 60 (sessenta) dias entre a data de inativação do bem"
+},
+{
+"pag": 13,
+"texto": "e a data-base do laudo."
+},
+{
+"pag": 13,
+"texto": "Art. 76. Os índices de aproveitamento serão revisados a cada ciclo tarifário, observado o disposto no"
+},
+{
+"pag": 13,
+"texto": "art. 16, § 1º desta norma."
+},
+{
+"pag": 13,
+"texto": "CAPÍTULO IX – DO ALMOXARIFADO DE MATERIAIS E EQUIPAMENTOS"
+},
+{
+"pag": 13,
+"texto": "Art. 77. A valorização do almoxarifado de materiais e equipamentos (de operação) será feita a partir"
+},
+{
+"pag": 13,
+"texto": "dos saldos médios dos últimos 12 (doze) meses dos materiais em estoque."
+},
+{
+"pag": 13,
+"texto": "Art. 78. Os materiais do almoxarifado de operação a serem considerados são aqueles destinados à"
+},
+{
+"pag": 13,
+"texto": "operação e manutenção dos serviços concedidos."
+},
+{
+"pag": 13,
+"texto": "Art. 79. Não serão consideradas as sucatas, materiais inservíveis ou em recuperação."
+},
+{
+"pag": 13,
+"texto": "CAPÍTULO X – DAS TAXAS DE DEPRECIAÇÃO E AMORTIZAÇÃO"
+},
+{
+"pag": 13,
+"texto": "Art. 80. As taxas de depreciação para cada tipo de ativo serão aplicadas de forma linear, estando"
+},
+{
+"pag": 13,
+"texto": "apresentadas no Anexo III."
+},
+{
+"pag": 13,
+"texto": "§1º Na hipótese de previsão específica em aditivo(s) contratual(ais), as taxas de depreciação e"
+},
+{
+"pag": 13,
+"texto": "amortização poderão ser ajustadas nos termos por ele(s) estabelecidos."
+},
+{
+"pag": 13,
+"texto": "§ 2º A aplicação das taxas de amortização estabelecidas nesta resolução se dará a partir de 01 de"
+},
+{
+"pag": 13,
+"texto": "agosto de 2025, observado o disposto no art. 82."
+},
+{
+"pag": 13,
+"texto": "Art. 81. O valor da outorga será amortizado à taxa fixa de 4% (quatro por cento) ao ano, de forma que"
+},
+{
+"pag": 13,
+"texto": "ao final do prazo contratual de 25 (vinte e cinco) anos o seu valor residual seja igual a zero."
+},
+{
+"pag": 13,
+"texto": "Art. 82. As conversões concluídas até o segundo ciclo tarifário serão contabilizadas como ativos de"
+},
+{
+"pag": 13,
+"texto": "conversão, sendo amortizados no prazo de 05 (cinco) anos."
+},
+{
+"pag": 13,
+"texto": "Parágrafo único. O tratamento das conversões realizadas a partir do terceiro ciclo tarifário será objeto"
+},
+{
+"pag": 13,
+"texto": "de regulamento a ser posteriormente editado por esta entidade reguladora."
+},
+{
+"pag": 13,
+"texto": "Art. 83. O bem somente começa a ser amortizado quando entrar em operação para a prestação do"
+},
+{
+"pag": 14,
+"texto": "serviço público de gás canalizado, à exceção dos equipamentos de reserva técnica, que deverão ser"
+},
+{
+"pag": 14,
+"texto": "amortizados quando o bem estiver disponível para o uso."
+},
+{
+"pag": 14,
+"texto": "Art. 84. Caso seja necessário estimar a data de início de operação, será admitido o cruzamento de"
+},
+{
+"pag": 14,
+"texto": "informações contábeis, comerciais e de engenharia da concessionária, desde que existam"
+},
+{
+"pag": 14,
+"texto": "documentos ou registros contemporâneos em seus sistemas."
+},
+{
+"pag": 14,
+"texto": "Parágrafo único. Nesta hipótese, será considerado como data de início de operação do ativo a data"
+},
+{
+"pag": 14,
+"texto": "do documento ou registro mais antigo do bem."
+},
+{
+"pag": 14,
+"texto": "Art. 85. Os custos que não impactem a vida útil dos bens não poderão ser incorporados ao seu valor"
+},
+{
+"pag": 14,
+"texto": "contábil."
+},
+{
+"pag": 14,
+"texto": "Art. 86. A depreciação acumulada dos ativos da base incremental ocorrida será calculada"
+},
+{
+"pag": 14,
+"texto": "considerando o período entre a data de entrada em operação e a data-base da RTO."
+},
+{
+"pag": 14,
+"texto": "CAPÍTULO XI – DO LAUDO DE AVALIAÇÃO"
+},
+{
+"pag": 14,
+"texto": "Art. 87. As informações mínimas do laudo de avaliação de ativos estão apresentadas no Anexo V, devendo"
+},
+{
+"pag": 14,
+"texto": "observar, adicionalmente, as informações e documentos presentes nos Anexos VI, VII e VIII."
+},
+{
+"pag": 14,
+"texto": "Parágrafo único. Após a conclusão do processo de avaliação, o laudo de avaliação será publicado no"
+},
+{
+"pag": 14,
+"texto": "sítio eletrônico da ARSP."
+},
+{
+"pag": 14,
+"texto": "CAPÍTULO XII – DA CONSOLIDAÇÃO DAS INFORMAÇÕES"
+},
+{
+"pag": 14,
+"texto": "Art. 88. O conjunto documental referente à definição da BAR deverá ser encaminhado em forma"
+},
+{
+"pag": 14,
+"texto": "eletrônica, incluindo todas as informações necessárias para a comprovação dos resultados e do"
+},
+{
+"pag": 14,
+"texto": "atendimento aos critérios estabelecidos neste regulamento, com o maior nível de detalhamento"
+},
+{
+"pag": 14,
+"texto": "possível."
+},
+{
+"pag": 14,
+"texto": "Parágrafo único. O procedimento para o encaminhamento em forma eletrônica está apresentado no"
+},
+{
+"pag": 14,
+"texto": "Anexo IV deste regulamento."
+},
+{
+"pag": 14,
+"texto": "CAPÍTULO XIII - DISPOSIÇÕES FINAIS"
+},
+{
+"pag": 14,
+"texto": "Art. 89. Os casos não previstos neste regulamento serão objeto de análise da ARSP, por iniciativa"
+},
+{
+"pag": 14,
+"texto": "própria ou por solicitação de interessados."
+},
+{
+"pag": 14,
+"texto": "Art. 90. Esta Resolução entra em vigor na data de sua publicação."
+},
+{
+"pag": 14,
+"texto": "Vitória, 05 de dezembro de 2024."
+},
+{
+"pag": 14,
+"texto": "Alexandre Ventorim"
+},
+{
+"pag": 14,
+"texto": "Diretor-Geral"
+},
+{
+"pag": 14,
+"texto": "Débora Cristina Niero"
+},
+{
+"pag": 14,
+"texto": "Diretora Setorial - Gás Canalizado e Energia"
+},
+{
+"pag": 14,
+"texto": "Eduardo Calegari Fabris"
+},
+{
+"pag": 14,
+"texto": "Diretor Setorial - Administrativo e Financeiro"
+},
+{
+"pag": 15,
+"texto": "Mamoru Togawa Komatsu"
+},
+{
+"pag": 15,
+"texto": "Diretor Setorial - Saneamento Básico"
+},
+{
+"pag": 15,
+"texto": "Tatiana Santos de Oliveira"
+},
+{
+"pag": 15,
+"texto": "Diretora Setorial - Infraestrutura Viária e Mobilidade Urbana"
+},
+{
+"pag": 16,
+"texto": "ANEXO I - DEFINIÇÕES"
+},
+{
+"pag": 16,
+"texto": "I. Almoxarifado de Materiais e Equipamentos ou Almoxarifado de Operação: corresponde"
+},
+{
+"pag": 16,
+"texto": "aos equipamentos vinculados à operação e manutenção de máquinas, instalações e equipamentos"
+},
+{
+"pag": 16,
+"texto": "necessários à prestação dos serviços de gás natural canalizado, que tem como objetivo suprir a"
+},
+{
+"pag": 16,
+"texto": "necessidade de operação e manutenção da concessão;"
+},
+{
+"pag": 16,
+"texto": "II. Ativos de conversão: gastos contabilizados com conversões de instalações de unidades"
+},
+{
+"pag": 16,
+"texto": "consumidoras, apropriados como ativos;"
+},
+{
+"pag": 16,
+"texto": "III. Ativo imobilizado em serviço: conjunto de bens operacionais que integram o serviço público"
+},
+{
+"pag": 16,
+"texto": "de gás natural canalizado;"
+},
+{
+"pag": 16,
+"texto": "IV. Ativos não onerosos: todo e qualquer ativo vinculado à concessão proveniente de doação ou"
+},
+{
+"pag": 16,
+"texto": "qualquer outra forma não onerosa para a concessionária;"
+},
+{
+"pag": 16,
+"texto": "V. Ativos onerosos: aqueles adquiridos ou construídos com recursos próprios da concessionária,"
+},
+{
+"pag": 16,
+"texto": "vinculados à prestação do serviço público de gás natural canalizado;"
+},
+{
+"pag": 16,
+"texto": "VI. Ativos parcialmente onerosos: todos os ativos que forem construídos ou adquiridos com"
+},
+{
+"pag": 16,
+"texto": "recursos da concessionária e com participação financeira de fontes não onerosas;"
+},
+{
+"pag": 16,
+"texto": "VII. Base Blindada: é a BAR avaliada e homologada após a conclusão do processo de RTO."
+},
+{
+"pag": 16,
+"texto": "VIII. Base de Ativos Regulatórios (BAR): são os bens vinculados à concessão, compreendendo"
+},
+{
+"pag": 16,
+"texto": "os bens materiais e imateriais, móveis ou imóveis, necessários à prestação adequada e contínua do"
+},
+{
+"pag": 16,
+"texto": "serviço público de distribuição de gás canalizado;"
+},
+{
+"pag": 16,
+"texto": "IX. Base de remuneração regulatória: corresponde ao conjunto dos ativos, físicos ou intangíveis,"
+},
+{
+"pag": 16,
+"texto": "oriundos dos investimentos prudentes, necessários para a prestação do serviço público de gás natural"
+},
+{
+"pag": 16,
+"texto": "canalizado, podendo ser apresentada na forma da Base de Remuneração Regulatória Bruta (BRRB)"
+},
+{
+"pag": 16,
+"texto": "e Base de Remuneração Regulatória Líquida (BRRL);"
+},
+{
+"pag": 16,
+"texto": "X. Base de Remuneração Regulatória Bruta (BRRB): ativo composto pelo valor da BAR e pelo"
+},
+{
+"pag": 16,
+"texto": "valor da outorga, considerando critérios de elegibilidade e índice de aproveitamento, não incluindo a"
+},
+{
+"pag": 16,
+"texto": "participação financeira do usuário, doações, subvenções e ativos não onerosos, terrenos, as obras e"
+},
+{
+"pag": 16,
+"texto": "conversões em andamento e o almoxarifado de materiais e equipamentos empregados em obras,"
+},
+{
+"pag": 16,
+"texto": "exceto reserva técnica, conforme critérios estabelecidos no contrato de concessão e neste"
+},
+{
+"pag": 16,
+"texto": "regulamento;"
+},
+{
+"pag": 16,
+"texto": "XI. Base de Remuneração Regulatória Líquida (BRRL): valor da base de remuneração"
+},
+{
+"pag": 16,
+"texto": "regulatória bruta (BRRB) deduzida da depreciação e amortização acumuladas e dos ativos totalmente"
+},
+{
+"pag": 16,
+"texto": "depreciados, e acrescida de terrenos, conforme critérios estabelecidos no contrato de concessão e"
+},
+{
+"pag": 16,
+"texto": "neste regulamento;"
+},
+{
+"pag": 16,
+"texto": "XII. Base Incremental (BI): Base de Remuneração de Ativos do período incremental, ou seja, do"
+},
+{
+"pag": 16,
+"texto": "período entre a data de blindagem da base de ativos anterior até 31 de julho do ano anterior à revisão"
+},
+{
+"pag": 16,
+"texto": "em processamento. O período da Base Incremental é de cinco anos;"
+},
+{
+"pag": 16,
+"texto": "XIII. Bens de Massa: bens com maior nível de homogeneidade, construídos ou adquiridos em"
+},
+{
+"pag": 16,
+"texto": "grandes quantidades, como redes de distribuição e medidores;"
+},
+{
+"pag": 16,
+"texto": "XIV. Bens Individuais: bens com menor nível de homogeneidade, construídos ou adquiridos em"
+},
+{
+"pag": 16,
+"texto": "baixas quantidades, como estações;"
+},
+{
+"pag": 16,
+"texto": "XV. Conciliação físico-contábil: verificação dos registros físicos dos sistemas de engenharia e"
+},
+{
+"pag": 16,
+"texto": "comercial, a partir do inventário ou cadastro, com os registros contábeis e de controle patrimonial,"
+},
+{
+"pag": 16,
+"texto": "com o objetivo de garantir que as informações físicas, como quantidade, localização e estado dos"
+},
+{
+"pag": 16,
+"texto": "ativos, estejam de acordo com os valores e dados registrados na contabilidade;"
+},
+{
+"pag": 16,
+"texto": "XVI. Custo Adicional de Instalação (CA): é o custo dos serviços ou materiais necessários para"
+},
+{
+"pag": 17,
+"texto": "colocação do ativo em operação que não estejam compreendidos nos conceitos de equipamento"
+},
+{
+"pag": 17,
+"texto": "principal, tais como: componentes menores, custos de projetos, serviços de engenharia,"
+},
+{
+"pag": 17,
+"texto": "licenciamentos, montagem, gerenciamento e fiscalização da obra, georreferenciamento e outros"
+},
+{
+"pag": 17,
+"texto": "custos de materiais ou serviços necessários para colocação do ativo em condições de funcionamento;"
+},
+{
+"pag": 17,
+"texto": "XVII. Estações: Por estações, consideram-se as estações de transferência de custódia – ETC;"
+},
+{
+"pag": 17,
+"texto": "estações de controle (ou redução) de pressão (ECP ou ERP); e estações de odorização."
+},
+{
+"pag": 17,
+"texto": "XVIII. Índice de aproveitamento (IA): índice que indique o percentual de aproveitamento de ativos"
+},
+{
+"pag": 17,
+"texto": "na prestação do serviço público de gás canalizado, tendo por objetivo incentivar a concessionária a"
+},
+{
+"pag": 17,
+"texto": "realizar prudentemente os investimentos e evitar que os consumidores paguem indevidamente por"
+},
+{
+"pag": 17,
+"texto": "investimentos executados de maneira imprudente;"
+},
+{
+"pag": 17,
+"texto": "XIX. Juros sobre obras em andamento (JOA ou JOAReg): remuneração das conversões,"
+},
+{
+"pag": 17,
+"texto": "observada a legislação e este regulamento, e das obras em andamento relativa ao WACC vigente no"
+},
+{
+"pag": 17,
+"texto": "período de execução e considerando os prazos médios de construção de cada ativo, que são"
+},
+{
+"pag": 17,
+"texto": "incorporados ao seu respectivo valor;"
+},
+{
+"pag": 17,
+"texto": "XX. Obras em Andamento: contemplam os investimentos realizados, porém ainda não concluídos"
+},
+{
+"pag": 17,
+"texto": "na data-base de realização do inventário, incluindo materiais, equipamentos específicos e serviços"
+},
+{
+"pag": 17,
+"texto": "destinados para essa finalidade;"
+},
+{
+"pag": 17,
+"texto": "XXI. Reserva técnica: Entende-se por reserva técnica (ou imobilizada) o bem ou conjunto de bens"
+},
+{
+"pag": 17,
+"texto": "que, por razões de ordem técnica voltada à garantia e qualidade do sistema de distribuição, embora"
+},
+{
+"pag": 17,
+"texto": "não estando em serviço, esteja(m) à disposição e que poderá(ão) entrar em operação de imediato."
+},
+{
+"pag": 17,
+"texto": "Os equipamentos são considerados como reserva imobilizada se estiverem obrigatoriamente"
+},
+{
+"pag": 17,
+"texto": "registrados no mesmo grupo de conta que os ativos em serviço;"
+},
+{
+"pag": 17,
+"texto": "XXII. Valor Novo de Reposição (VNR): Método de valoração que estima o valor de cada ativo"
+},
+{
+"pag": 17,
+"texto": "existente com base nos custos necessários para sua completa reposição por ativos novos, os quais"
+},
+{
+"pag": 17,
+"texto": "desempenham as mesmas funções, possuem a mesma capacidade e oferecem um serviço de"
+},
+{
+"pag": 17,
+"texto": "mesma qualidade;"
+},
+{
+"pag": 17,
+"texto": "XXIII. Valor Original Contábil (VOC): metodologia que se baseia na informação contábil das"
+},
+{
+"pag": 17,
+"texto": "empresas para determinar o valor dos ativos envolvidos no negócio."
+},
+{
+"pag": 18,
+"texto": "ANEXO II – DOS CRITÉRIOS POR TIPO DE ATIVO"
+},
+{
+"pag": 18,
+"texto": "SEÇÃO I – OBJETO"
+},
+{
+"pag": 18,
+"texto": "Art. 1º Este Anexo apresenta os procedimentos mínimos para o inventário físico dos bens e"
+},
+{
+"pag": 18,
+"texto": "instalações do processo de avaliação, de acordo com o grupo de ativos."
+},
+{
+"pag": 18,
+"texto": "Art. 2º Devem ser descritos no laudo, os procedimentos e critérios utilizados para validação dos saldos"
+},
+{
+"pag": 18,
+"texto": "das contas contábeis para cada grupo de ativos."
+},
+{
+"pag": 18,
+"texto": "SEÇÃO II – TERRENOS"
+},
+{
+"pag": 18,
+"texto": "Art. 3º Os terrenos de instalações operacionais deverão ser avaliados conforme critérios"
+},
+{
+"pag": 18,
+"texto": "estabelecidos na NBR 14.653 - Partes 1 e 2 da ABNT – Associação Brasileira de Normas Técnicas,"
+},
+{
+"pag": 18,
+"texto": "ou outra que vier a substituí-la."
+},
+{
+"pag": 18,
+"texto": "Art. 4º Para terrenos operacionais de pequenas dimensões localizados em área rural, onde não é"
+},
+{
+"pag": 18,
+"texto": "possível obter elementos comparativos com áreas similares, deve-se avaliar o terreno pelo seu custo"
+},
+{
+"pag": 18,
+"texto": "de formação."
+},
+{
+"pag": 18,
+"texto": "Parágrafo único. Para o cálculo do custo de formação, deve-se levantar junto à concessionária os"
+},
+{
+"pag": 18,
+"texto": "custos praticados para desmembramento e regularização de pequenos lotes rurais, como despesas"
+},
+{
+"pag": 18,
+"texto": "de demarcação, topografia, documentação, dentre outros, somando o valor praticado na região do"
+},
+{
+"pag": 18,
+"texto": "imóvel por hectare."
+},
+{
+"pag": 18,
+"texto": "Art. 5º Para inclusão na BAR, deverá ser indicado o percentual considerado para o índice de"
+},
+{
+"pag": 18,
+"texto": "aproveitamento do terreno avaliado, a partir da verificação e análise qualificada do efetivo"
+},
+{
+"pag": 18,
+"texto": "aproveitamento do ativo no serviço público de gás natural canalizado, conforme estabelecido neste"
+},
+{
+"pag": 18,
+"texto": "regulamento."
+},
+{
+"pag": 18,
+"texto": "Art. 6º Os terrenos que não possuam documentação de titularidade de propriedade definitiva, em"
+},
+{
+"pag": 18,
+"texto": "nome da Concessionária, serão incluídos na Base de Remuneração Regulatória até a data-base do"
+},
+{
+"pag": 18,
+"texto": "laudo de avaliação da 3ª (terceira) RTO, desde que cumpram, obrigatoriamente, as seguintes"
+},
+{
+"pag": 18,
+"texto": "condições:"
+},
+{
+"pag": 18,
+"texto": "I. existir documentação que comprove a forma de aquisição do bem;"
+},
+{
+"pag": 18,
+"texto": "II. existir documento que comprove ter sido o ativo adquirido de forma onerosa para a"
+},
+{
+"pag": 18,
+"texto": "Concessionária (no caso de ativo oneroso);"
+},
+{
+"pag": 18,
+"texto": "III. a documentação de titularidade de propriedade encontrar-se em processo de regularização;"
+},
+{
+"pag": 18,
+"texto": "IV. haver registro do bem na contabilidade e no sistema patrimonial da Concessionária;"
+},
+{
+"pag": 18,
+"texto": "V. localizar-se dentro da área geográfica da concessão."
+},
+{
+"pag": 18,
+"texto": "§ 1º Considera-se em processo de regularização os bens para os quais a Concessionária comprove"
+},
+{
+"pag": 18,
+"texto": "haver processo judicial ou administrativo em andamento que verse sobre a regularização de sua"
+},
+{
+"pag": 18,
+"texto": "titularidade."
+},
+{
+"pag": 18,
+"texto": "§ 2º Os terrenos não regularizados até a 3ª revisão tarifária periódica serão retirados da Base de"
+},
+{
+"pag": 18,
+"texto": "Remuneração Regulatória."
+},
+{
+"pag": 18,
+"texto": "§ 3º Deverá ser apresentada a relação em separado dos imóveis que se encontrarem em processo"
+},
+{
+"pag": 18,
+"texto": "de regularização, fornecendo informações sobre a situação atual de cada bem, no que se refere à"
+},
+{
+"pag": 18,
+"texto": "posição em termos de documentação e destinação de uso pela Concessionária."
+},
+{
+"pag": 18,
+"texto": "Art. 7º O imóvel que não atender a qualquer uma das condições acima relacionadas não será incluído"
+},
+{
+"pag": 19,
+"texto": "na BAR."
+},
+{
+"pag": 19,
+"texto": "Art. 8º Para cada terreno operacional devem ser levantadas e apresentadas, obrigatoriamente, as"
+},
+{
+"pag": 19,
+"texto": "seguintes informações mínimas:"
+},
+{
+"pag": 19,
+"texto": "I. coordenadas geográficas do local;"
+},
+{
+"pag": 19,
+"texto": "II. localização (endereço completo, rua, avenida, número, bairro, município, estado, etc.);"
+},
+{
+"pag": 19,
+"texto": "III. utilização (destinação de uso do terreno – atividades executadas, descrever com nível de"
+},
+{
+"pag": 19,
+"texto": "detalhamento suficiente para clara identificação do uso do terreno, especialmente para os"
+},
+{
+"pag": 19,
+"texto": "casos de terrenos alagados, ou alagáveis, onde deverão ser especificados estes percentuais"
+},
+{
+"pag": 19,
+"texto": "em relação à área total de terreno);"
+},
+{
+"pag": 19,
+"texto": "IV. área total considerada (m² ou ha);"
+},
+{
+"pag": 19,
+"texto": "V. área(s) constante(s) do(s) título(s) aquisitivo(s) (matrícula, transcrição, etc.);"
+},
+{
+"pag": 19,
+"texto": "VI. área(s) obtida(s) por meio de levantamentos planimétricos eventualmente existentes;"
+},
+{
+"pag": 19,
+"texto": "VII. área(s) obtida(s) por meio de registros cadastrais de Prefeitura/Incra;"
+},
+{
+"pag": 19,
+"texto": "VIII. área considerada na contabilidade;"
+},
+{
+"pag": 19,
+"texto": "IX. número do título aquisitivo (matrícula/transcrição, entre outros) do terreno;"
+},
+{
+"pag": 19,
+"texto": "X. valores venais informados pelos respectivos órgãos responsáveis (Prefeitura, DF ou Incra);"
+},
+{
+"pag": 19,
+"texto": "XI. número de patrimônio – registro na contabilidade;"
+},
+{
+"pag": 19,
+"texto": "XII. data de incorporação do bem;"
+},
+{
+"pag": 19,
+"texto": "XIII. valor contábil original;"
+},
+{
+"pag": 19,
+"texto": "XIV. valor constante no laudo anterior;"
+},
+{
+"pag": 19,
+"texto": "XV. fator de atualização monetária acumulado;"
+},
+{
+"pag": 19,
+"texto": "XVI. valor atualizado."
+},
+{
+"pag": 19,
+"texto": "SEÇÃO III – SERVIDÕES"
+},
+{
+"pag": 19,
+"texto": "Art. 9º As servidões serão levantadas por meio de cadastro contábil, adotando as listagens"
+},
+{
+"pag": 19,
+"texto": "atualizadas utilizadas para viabilizar os pagamentos aos cessionários."
+},
+{
+"pag": 19,
+"texto": "Art. 10. Os terrenos referentes às servidões serão avaliados a partir da atualização de valores"
+},
+{
+"pag": 19,
+"texto": "contábeis, pelo Índice Geral de Preços do Mercado – IGP-M, calculado pela Fundação Getúlio Vargas"
+},
+{
+"pag": 19,
+"texto": "– FGV."
+},
+{
+"pag": 19,
+"texto": "Art. 11. As faixas de servidão referentes a aluguéis de uso não comporão a base de remuneração"
+},
+{
+"pag": 19,
+"texto": "regulatória, pois serão tratadas como custos operacionais."
+},
+{
+"pag": 19,
+"texto": "SEÇÃO IV – EDIFICAÇÕES, BENFEITORIAS E OBRAS CIVIS"
+},
+{
+"pag": 19,
+"texto": "Art. 12. As edificações, obras civis e benfeitorias deverão ser avaliados conforme critérios"
+},
+{
+"pag": 19,
+"texto": "estabelecidos na NBR 12.721 - Partes 1 e 2 da ABNT – Associação Brasileira de Normas Técnicas,"
+},
+{
+"pag": 19,
+"texto": "ou outra que vier a substituí-la."
+},
+{
+"pag": 19,
+"texto": "Parágrafo único. As benfeitorias e obras civis deverão ser avaliadas por meio de orçamentos"
+},
+{
+"pag": 19,
+"texto": "sintéticos, onde deverão constar os materiais e serviços necessários para o cálculo do VNR."
+},
+{
+"pag": 19,
+"texto": "Art. 13. Os trabalhos serão iniciados por inspeção física para a identificação e caracterização de todas"
+},
+{
+"pag": 20,
+"texto": "as edificações, obras civis e benfeitorias, observando-se os componentes estruturais, as"
+},
+{
+"pag": 20,
+"texto": "características técnicas, o uso efetivo do imóvel e o seu estado de conservação."
+},
+{
+"pag": 20,
+"texto": "Art. 14. O levantamento quantitativo dos insumos empregados nessas obras deve ser obtido a partir"
+},
+{
+"pag": 20,
+"texto": "da análise das seguintes documentações:"
+},
+{
+"pag": 20,
+"texto": "I. planta geral da unidade com localização de todas as edificações, indicando as respectivas"
+},
+{
+"pag": 20,
+"texto": "áreas construídas;"
+},
+{
+"pag": 20,
+"texto": "II. projetos de fundação, estrutura e arquitetura das principais edificações;"
+},
+{
+"pag": 20,
+"texto": "III. planilhas de medição de obra, contratos de construção e planilhas orçamentárias."
+},
+{
+"pag": 20,
+"texto": "IV. planta geral das redes externas de água pluvial, água potável, esgoto, incêndio e iluminação"
+},
+{
+"pag": 20,
+"texto": "pública, caso aplicável."
+},
+{
+"pag": 20,
+"texto": "Art. 15. As edificações, obras civis e benfeitorias de propriedade da Concessionária localizadas em"
+},
+{
+"pag": 20,
+"texto": "terrenos de propriedade de terceiros, desde que estejam vinculadas ao serviço público de distribuição"
+},
+{
+"pag": 20,
+"texto": "de gás canalizado e registradas na contabilidade, devem ser consideradas nos trabalhos de"
+},
+{
+"pag": 20,
+"texto": "levantamento e utilizados os mesmos critérios daquelas em terrenos próprios."
+},
+{
+"pag": 20,
+"texto": "Art. 16. Devem ser levantadas e apresentadas, obrigatoriamente, para cada edificação, obra civil e"
+},
+{
+"pag": 20,
+"texto": "benfeitoria, as seguintes informações:"
+},
+{
+"pag": 20,
+"texto": "I. data-base do levantamento;"
+},
+{
+"pag": 20,
+"texto": "II. nome da edificação, obra civil ou benfeitoria;"
+},
+{
+"pag": 20,
+"texto": "III. localização (endereço completo, rua, avenida, número, bairro, município, estado, CEP);"
+},
+{
+"pag": 20,
+"texto": "IV. utilização;"
+},
+{
+"pag": 20,
+"texto": "V. área total do terreno e construída (m2);"
+},
+{
+"pag": 20,
+"texto": "VI. área operacional (m2);"
+},
+{
+"pag": 20,
+"texto": "VII. acréscimos de áreas e respectivas datas de imobilização das reformas realizadas,"
+},
+{
+"pag": 20,
+"texto": "descrevendo que tipos de reformas;"
+},
+{
+"pag": 20,
+"texto": "VIII. descrição sumária (estrutura; acabamento externo – fachada, vidros, elevação do fechamento,"
+},
+{
+"pag": 20,
+"texto": "cobertura, pisos etc.; acabamentos internos – paredes, pisos, esquadrias, portas, forro, etc.); tipo de"
+},
+{
+"pag": 20,
+"texto": "fundação; entre outras informações relevantes;"
+},
+{
+"pag": 20,
+"texto": "IX. caracterização do fechamento/cercamento da área: tipo (muro, tela galvanizada com mourões,"
+},
+{
+"pag": 20,
+"texto": "entre outros); quantidade de metros lineares e altura ou área em m2;"
+},
+{
+"pag": 20,
+"texto": "X. caracterização das áreas de estacionamento, circulação, manobras existentes; tipo de"
+},
+{
+"pag": 20,
+"texto": "pavimentação; áreas totais (m2); número de vagas cobertas/descobertas; entre outras informações"
+},
+{
+"pag": 20,
+"texto": "relevantes;"
+},
+{
+"pag": 20,
+"texto": "XI. caracterização das áreas cobertas (tipo de cobertura, área total em m2);"
+},
+{
+"pag": 20,
+"texto": "XII. caracterização de outras áreas eventualmente existentes; e"
+},
+{
+"pag": 20,
+"texto": "XIII. estado das edificações, benfeitorias e obras civis."
+},
+{
+"pag": 20,
+"texto": "Art. 17. Deve ser verificado o índice de aproveitamento do terreno do imóvel para cálculo posterior do"
+},
+{
+"pag": 20,
+"texto": "índice de aproveitamento, que constará da avaliação, com a devida fundamentação."
+},
+{
+"pag": 20,
+"texto": "SEÇÃO V – PONTOS DE RECEBIMENTO, ESTAÇÕES DE CONTROLE DE PRESSÃO E"
+},
+{
+"pag": 20,
+"texto": "ODORIZAÇÃO"
+},
+{
+"pag": 20,
+"texto": "Art. 18. Os pontos de recebimento, estações de controle de pressão e odorização devem ser"
+},
+{
+"pag": 21,
+"texto": "levantados em campo, para análise de sua operacionalidade e identificação de suas características"
+},
+{
+"pag": 21,
+"texto": "técnicas."
+},
+{
+"pag": 21,
+"texto": "Art. 19. Devem ser analisados os registros e cadastros da engenharia, bem como coletadas"
+},
+{
+"pag": 21,
+"texto": "informações sobre as datas de entrada em operação e a depreciação acumulada, extraídas dos"
+},
+{
+"pag": 21,
+"texto": "registros contábeis."
+},
+{
+"pag": 21,
+"texto": "Art. 20. Após esse levantamento, os equipamentos devem ser relacionados, por subsistema, levando-"
+},
+{
+"pag": 21,
+"texto": "se em consideração a posição sequencial operativa."
+},
+{
+"pag": 21,
+"texto": "SEÇÃO VI – CONJUNTO DE REGULAGEM E MEDIÇÃO – CRM, MEDIDORES E RAMAIS"
+},
+{
+"pag": 21,
+"texto": "Art. 21. Os bens deste grupo de ativos serão avaliados de acordo com a metodologia do valor novo"
+},
+{
+"pag": 21,
+"texto": "de reposição – VNR, porém sem incorporar os juros sobre as obras em andamento, devido à sua"
+},
+{
+"pag": 21,
+"texto": "natureza."
+},
+{
+"pag": 21,
+"texto": "Art. 22. O Valor Novo de Reposição será obtido pela soma dos valores do equipamento principal e"
+},
+{
+"pag": 21,
+"texto": "do custo adicional de instalação."
+},
+{
+"pag": 21,
+"texto": "Art. 23. Todos os equipamentos de regulagem e medição (CRM tipo 1); medidores dos tipos"
+},
+{
+"pag": 21,
+"texto": "ultrassônico, turbina e rotativo; conjuntos de regulagem de calçada (CRC); conjuntos de medição"
+},
+{
+"pag": 21,
+"texto": "(CM) e ramais destinados a atender aos usuários dos segmentos industrial, GNV, cogeração e"
+},
+{
+"pag": 21,
+"texto": "climatização e matéria-prima, devem ser levantados em campo, para análise de sua operacionalidade"
+},
+{
+"pag": 21,
+"texto": "e identificação de suas características técnicas."
+},
+{
+"pag": 21,
+"texto": "Art. 24. Para os equipamentos de regulagem e medição (CRM tipo 2); medidores do tipo diafragma;"
+},
+{
+"pag": 21,
+"texto": "conjuntos de regulagem (CR); conjuntos de medição (CM) e ramais destinados a atender aos usuários"
+},
+{
+"pag": 21,
+"texto": "dos segmentos residencial e comercial, a validação das listas de controle patrimonial específicas"
+},
+{
+"pag": 21,
+"texto": "pode ser feita mediante realização de inspeções de campo por amostragem aleatória simples,"
+},
+{
+"pag": 21,
+"texto": "observando-se que os resultados obtidos possam ser estendidos ao universo de acordo com as"
+},
+{
+"pag": 21,
+"texto": "regras estatísticas."
+},
+{
+"pag": 21,
+"texto": "§ 1º A seleção de amostra deve ser documentada com apresentação das memórias dos cálculos"
+},
+{
+"pag": 21,
+"texto": "realizados, e utilizará como referência a norma técnica NBR 5426, ou outra que vier a substituí-la."
+},
+{
+"pag": 21,
+"texto": "§ 2º A concessionária deverá apresentar à ARSP, previamente, a proposta de seleção de amostra a"
+},
+{
+"pag": 21,
+"texto": "ser aplicada para o levantamento em campo e inspeção dos bens relacionados com ramais,"
+},
+{
+"pag": 21,
+"texto": "medidores e conjuntos de regulagem e medição, detalhados no item “b” desse tópico."
+},
+{
+"pag": 21,
+"texto": "§ 3º A proposta de seleção de amostra deverá abranger todos os tipos de equipamentos ou conjuntos,"
+},
+{
+"pag": 21,
+"texto": "separados por suas características e local de instalação."
+},
+{
+"pag": 21,
+"texto": "§ 4º A característica esperada para os ativos físicos efetivamente existentes a serem inspecionados"
+},
+{
+"pag": 21,
+"texto": "é a que corresponda, tanto em termos quantitativos, quanto qualitativos (referentes às especificações"
+},
+{
+"pag": 21,
+"texto": "técnicas do equipamento), aos ativos constantes no controle patrimonial e nos controles da área"
+},
+{
+"pag": 21,
+"texto": "comercial da concessionária."
+},
+{
+"pag": 21,
+"texto": "Art. 25. A inspeção destes ativos será realizada somente após análise e aprovação da proposta de"
+},
+{
+"pag": 21,
+"texto": "seleção de amostra pela ARSP."
+},
+{
+"pag": 21,
+"texto": "Parágrafo único. Caso a seleção de amostra apresentada não seja aprovada, a concessionária"
+},
+{
+"pag": 21,
+"texto": "deverá submeter nova proposta."
+},
+{
+"pag": 21,
+"texto": "Art. 26. No levantamento dos bens relacionados a ramais, medidores e conjuntos de regulagem e"
+},
+{
+"pag": 21,
+"texto": "medição pelo critério amostral, somente serão validadas as listas de controle patrimonial se as"
+},
+{
+"pag": 21,
+"texto": "diferenças encontradas nas inspeções e levantamentos em campo atenderem a um nível de"
+},
+{
+"pag": 21,
+"texto": "confiança e margem de erro máximo nos termos da norma técnica NBR 5426, ou outra que vier a"
+},
+{
+"pag": 21,
+"texto": "substituí-la."
+},
+{
+"pag": 22,
+"texto": "Parágrafo único. Se as diferenças encontradas ficarem fora dos limites pré-estabelecidos, a"
+},
+{
+"pag": 22,
+"texto": "concessionária deverá realizar o levantamento de todos os equipamentos de sua propriedade"
+},
+{
+"pag": 22,
+"texto": "(ramais; medidores e conjuntos de regulagem e medição, descritos no item “b”, desse tópico),"
+},
+{
+"pag": 22,
+"texto": "relacionados no controle patrimonial e no controle da área comercial."
+},
+{
+"pag": 22,
+"texto": "Art. 27. Deverão ser analisados os registros da engenharia, bem como devem ser coletadas"
+},
+{
+"pag": 22,
+"texto": "informações sobre as datas de entrada em operação e a depreciação acumulada, extraídas dos"
+},
+{
+"pag": 22,
+"texto": "registros contábeis e controles auxiliares da concessionária."
+},
+{
+"pag": 22,
+"texto": "SEÇÃO VII – REDES DE DISTRIBUIÇÃO E SISTEMAS"
+},
+{
+"pag": 22,
+"texto": "Art. 28. As redes de distribuição e sistemas incluem as redes de distribuição em aço e PEAD –"
+},
+{
+"pag": 22,
+"texto": "polietileno."
+},
+{
+"pag": 22,
+"texto": "Art. 29. Considera-se que os sistemas de proteção catódica e de supervisão e controle foram"
+},
+{
+"pag": 22,
+"texto": "construídos e ativados, contabilmente, no conjunto da rede, assim como no caso da rede em PEAD,"
+},
+{
+"pag": 22,
+"texto": "as válvulas de bloqueio e outros equipamentos também estão ativados no conjunto."
+},
+{
+"pag": 22,
+"texto": "Art. 30. Devem ser levantados e vistoriados, quanto às suas características técnicas cadastradas,"
+},
+{
+"pag": 22,
+"texto": "tubos, válvulas, reguladores de pressão, equipamentos do sistema de proteção catódica, do sistema"
+},
+{
+"pag": 22,
+"texto": "de supervisão e controle e outros equipamentos."
+},
+{
+"pag": 22,
+"texto": "Art. 31. As redes de distribuição serão subdivididas em duas categorias:"
+},
+{
+"pag": 22,
+"texto": "I. construídas em aço; e"
+},
+{
+"pag": 22,
+"texto": "II. construídas em polietileno (PEAD)."
+},
+{
+"pag": 22,
+"texto": "Art. 32. A validação dos quantitativos da engenharia pode ser realizada através de inspeções de"
+},
+{
+"pag": 22,
+"texto": "campo utilizando-se critério amostral."
+},
+{
+"pag": 22,
+"texto": "§ 1º Para fins de amostragem, à quilometragem de cada categoria de rede de distribuição deve ser"
+},
+{
+"pag": 22,
+"texto": "considerada um estrato."
+},
+{
+"pag": 22,
+"texto": "§ 2º Sobre cada estrato serão realizadas as seleções aleatórias de forma independente, observando"
+},
+{
+"pag": 22,
+"texto": "que os resultados obtidos possam ser estendidos ao conjunto de acordo com as regras estatísticas."
+},
+{
+"pag": 22,
+"texto": "Art. 33. A seleção de amostras deve ser documentada com apresentação das memórias dos cálculos"
+},
+{
+"pag": 22,
+"texto": "realizados, e utilizará como referência a norma técnica NBR 5426, ou outra que vier a substituí-la."
+},
+{
+"pag": 22,
+"texto": "§ 1º As amostras selecionadas deverão ser representativas do universo de cada tipo de bens e"
+},
+{
+"pag": 22,
+"texto": "equipamentos relacionados às redes de distribuição (tubulações, válvulas e reguladores de pressão,"
+},
+{
+"pag": 22,
+"texto": "entre outros), conforme suas características técnicas."
+},
+{
+"pag": 22,
+"texto": "§ 2º Todos os itens que compõem a amostra devem ser obrigatoriamente inspecionados."
+},
+{
+"pag": 22,
+"texto": "§ 3º Os sistemas de proteção catódica e de supervisão e controle que compõem a rede deverão ser"
+},
+{
+"pag": 22,
+"texto": "integralmente inspecionados."
+},
+{
+"pag": 22,
+"texto": "Art. 34. A inspeção destes ativos será realizada somente após análise e aprovação da proposta de"
+},
+{
+"pag": 22,
+"texto": "seleção de amostra de cada estrato pela ARSP."
+},
+{
+"pag": 22,
+"texto": "Parágrafo único. Caso a seleção de amostra apresentada não seja aprovada, a concessionária"
+},
+{
+"pag": 22,
+"texto": "deverá submeter nova proposta para aprovação da Agência."
+},
+{
+"pag": 22,
+"texto": "Art. 35. No levantamento dos bens relacionados às redes de distribuição e sistemas pelo critério"
+},
+{
+"pag": 22,
+"texto": "amostral, os quantitativos da engenharia somente serão validados se as diferenças encontradas nos"
+},
+{
+"pag": 22,
+"texto": "levantamentos em campo, para cada trecho definido na amostra, em campo atenderem a um nível"
+},
+{
+"pag": 22,
+"texto": "de confiança e margem de erro máximo nos termos da norma técnica NBR 5426, ou outra que vier a"
+},
+{
+"pag": 22,
+"texto": "substituí-la."
+},
+{
+"pag": 23,
+"texto": "Parágrafo único. Se as diferenças encontradas para a amostra, por estrato, estiverem fora dos limites"
+},
+{
+"pag": 23,
+"texto": "pré- estabelecidos, a concessionária deverá estender os levantamentos de campo referentes a redes"
+},
+{
+"pag": 23,
+"texto": "de distribuição e sistemas, inspecionando todo o estrato do qual a amostra foi extraída."
+},
+{
+"pag": 23,
+"texto": "Art. 36. Para a realização dos trabalhos devem ser utilizados os projetos e controles da engenharia,"
+},
+{
+"pag": 23,
+"texto": "por meio de mapas georreferenciados atualizados, elaborados e totalizados de acordo com os"
+},
+{
+"pag": 23,
+"texto": "registros contábeis e registros auxiliares e por categoria de redes de distribuição."
+},
+{
+"pag": 23,
+"texto": "Art. 37. Devem ser registrados e informados no laudo, para cada rede de distribuição, os qualitativos"
+},
+{
+"pag": 23,
+"texto": "e quantitativos finais, indicando as diferenças encontradas, bem como os cálculos realizados para o"
+},
+{
+"pag": 23,
+"texto": "processo de validação dos controles da concessionária."
+},
+{
+"pag": 23,
+"texto": "Art. 38. Os desenhos usados como papéis de trabalho referentes ao inventário físico/levantamentos"
+},
+{
+"pag": 23,
+"texto": "de campo de cada rede de distribuição vistoriadas devem ser documentados."
+},
+{
+"pag": 23,
+"texto": "Parágrafo único. A documentação deve obrigatoriamente conter a data do inventário, as descrições"
+},
+{
+"pag": 23,
+"texto": "e os quantitativos apurados dos equipamentos e a sequência do trecho considerado no trajeto em"
+},
+{
+"pag": 23,
+"texto": "que foram vistoriados."
+},
+{
+"pag": 23,
+"texto": "Art. 39. No levantamento dos bens relacionados com redes, os quantitativos serão validados com os"
+},
+{
+"pag": 23,
+"texto": "cadastros de engenharia e contábeis, devendo ser apontadas as diferenças encontradas nos"
+},
+{
+"pag": 23,
+"texto": "levantamentos em campo, para cada trecho, para fins de acertos pela concessionária."
+},
+{
+"pag": 23,
+"texto": "Art. 40. As informações sobre as datas de entrada em operação e a depreciação acumulada devem"
+},
+{
+"pag": 23,
+"texto": "ser coletadas, extraídas dos registros contábeis e controles auxiliares da concessionária."
+},
+{
+"pag": 23,
+"texto": "SEÇÃO VIII – MÁQUINAS E EQUIPAMENTOS OPERACIONAIS"
+},
+{
+"pag": 23,
+"texto": "Art. 41. Os bens relacionados a seguir são objeto do levantamento de máquinas e equipamentos"
+},
+{
+"pag": 23,
+"texto": "operacionais:"
+},
+{
+"pag": 23,
+"texto": "I. sistemas de telemetria;"
+},
+{
+"pag": 23,
+"texto": "II. sistema de proteção e combate a incêndio;"
+},
+{
+"pag": 23,
+"texto": "III. veículos técnicos;"
+},
+{
+"pag": 23,
+"texto": "IV. equipamentos de oficina;"
+},
+{
+"pag": 23,
+"texto": "V. equipamentos de laboratório."
+},
+{
+"pag": 23,
+"texto": "Art. 42. Os trabalhos serão iniciados por inspeção física para a identificação e caracterização de todas"
+},
+{
+"pag": 23,
+"texto": "as máquinas e equipamentos, observando-se as especificações técnicas e o uso efetivo do bem."
+},
+{
+"pag": 23,
+"texto": "Art. 43. Após a verificação física dos bens e validação dos controles da concessionária, deve-se"
+},
+{
+"pag": 23,
+"texto": "realizar a conciliação com os dados contábeis e de controle patrimonial, devendo ser apontadas as"
+},
+{
+"pag": 23,
+"texto": "diferenças encontradas nesse cruzamento, para cada bem, para fins de ajustes pela concessionária."
+},
+{
+"pag": 23,
+"texto": "Art. 44. Serão levantadas e apresentadas, obrigatoriamente, por ativo, as seguintes informações:"
+},
+{
+"pag": 23,
+"texto": "I. Foto;"
+},
+{
+"pag": 23,
+"texto": "II. Número do tombamento patrimonial;"
+},
+{
+"pag": 23,
+"texto": "III. Descrição analítica do bem;"
+},
+{
+"pag": 23,
+"texto": "IV. Fabricante;"
+},
+{
+"pag": 23,
+"texto": "V. Modelo;"
+},
+{
+"pag": 23,
+"texto": "VI. Localização; e"
+},
+{
+"pag": 23,
+"texto": "VII. Situação operacional: (i) em operação – OP ou (ii) em manutenção – MT."
+},
+{
+"pag": 24,
+"texto": "SEÇÃO IX - RESERVA TÉCNICA"
+},
+{
+"pag": 24,
+"texto": "Art. 45. A valoração dos bens de reserva técnica se dará pelo valor do referido equipamento."
+},
+{
+"pag": 24,
+"texto": "Art. 46. O valor do custo adicional de instalação só será agregado aos equipamentos de reserva"
+},
+{
+"pag": 24,
+"texto": "técnica que estiverem instalados e sejam de pronto uso em situações de emergência."
+},
+{
+"pag": 24,
+"texto": "Art. 47. Os equipamentos de reserva técnica devem ser levantados e considerados no sistema onde"
+},
+{
+"pag": 24,
+"texto": "estiverem alocados."
+},
+{
+"pag": 24,
+"texto": "Art. 48. Os trabalhos serão iniciados por inspeção física para a identificação e caracterização de todas"
+},
+{
+"pag": 24,
+"texto": "as máquinas e equipamentos, observando-se as especificações técnicas e o uso efetivo do bem."
+},
+{
+"pag": 24,
+"texto": "Art. 49. Serão levantadas e apresentadas, obrigatoriamente, para ativo, as seguintes informações:"
+},
+{
+"pag": 24,
+"texto": "I. Foto;"
+},
+{
+"pag": 24,
+"texto": "II. Número do tombamento patrimonial;"
+},
+{
+"pag": 24,
+"texto": "III. Descrição analítica do bem;"
+},
+{
+"pag": 24,
+"texto": "IV. Fabricante;"
+},
+{
+"pag": 24,
+"texto": "V. Modelo;"
+},
+{
+"pag": 24,
+"texto": "VI. Localização; e"
+},
+{
+"pag": 24,
+"texto": "VII. Situação operacional: reserva técnica – RT."
+},
+{
+"pag": 24,
+"texto": "SEÇÃO X – EQUIPAMENTOS DE TRANSPORTE"
+},
+{
+"pag": 24,
+"texto": "Art. 50. Os equipamentos de transporte objeto do levantamento são aqueles vinculados ao serviço"
+},
+{
+"pag": 24,
+"texto": "de distribuição de gás canalizado, relacionados à atividade de distribuição e à administração."
+},
+{
+"pag": 24,
+"texto": "Art. 51. Após a verificação física dos bens e validação dos controles da concessionária, deve-se"
+},
+{
+"pag": 24,
+"texto": "realizar a conciliação com os dados contábeis e de controle patrimonial, devendo ser apontadas as"
+},
+{
+"pag": 24,
+"texto": "diferenças encontradas nesse cruzamento, para cada bem, para fins de ajuste pela concessionária."
+},
+{
+"pag": 24,
+"texto": "SEÇÃO XI – MÓVEIS E UTENSÍLIOS, EQUIPAMENTOS EM GERAL, SISTEMA DE"
+},
+{
+"pag": 24,
+"texto": "COMUNICAÇÃO LOCAL E EQUIPAMENTOS DE TECNOLOGIA DA INFORMAÇÃO"
+},
+{
+"pag": 24,
+"texto": "Art. 52. Os móveis, utensílios, equipamentos em geral, sistema de comunicação local e equipamentos"
+},
+{
+"pag": 24,
+"texto": "de TI serão objeto de levantamento quando estiverem vinculados ao serviço de distribuição de gás"
+},
+{
+"pag": 24,
+"texto": "canalizado, relacionados às atividades de distribuição e à sua administração, identificando-se a sua"
+},
+{
+"pag": 24,
+"texto": "efetiva utilização e respectiva área/atividade, o estado de conservação, e para os equipamentos de"
+},
+{
+"pag": 24,
+"texto": "tecnologia da informação, deve ser incluída a avaliação de sua atualidade."
+},
+{
+"pag": 24,
+"texto": "Art. 53. Após a verificação física dos bens e validação dos controles da concessionária, deve-se"
+},
+{
+"pag": 24,
+"texto": "realizar a conciliação com os dados contábeis e de controle patrimonial, devendo ser apontadas as"
+},
+{
+"pag": 24,
+"texto": "diferenças encontradas nesse cruzamento, para cada bem, para fins de ajustes pela concessionária."
+},
+{
+"pag": 24,
+"texto": "Art. 54. A definição amostral dos bens obecerá aos mesmos critérios da estabelecida para os"
+},
+{
+"pag": 24,
+"texto": "conjuntos de regulação e medição."
+},
+{
+"pag": 24,
+"texto": "SEÇÃO XII – SOFTWARES E LICENÇAS"
+},
+{
+"pag": 24,
+"texto": "Art. 55. O levantamento dos softwares efetivamente utilizados pela concessionária deve contemplar"
+},
+{
+"pag": 25,
+"texto": "as seguintes características técnicas:"
+},
+{
+"pag": 25,
+"texto": "I. fabricante;"
+},
+{
+"pag": 25,
+"texto": "II. nome do software;"
+},
+{
+"pag": 25,
+"texto": "III. versão;"
+},
+{
+"pag": 25,
+"texto": "IV. módulos adquiridos/instalados;"
+},
+{
+"pag": 25,
+"texto": "V. empresa responsável pela implantação;"
+},
+{
+"pag": 25,
+"texto": "VI. função/utilização principal;"
+},
+{
+"pag": 25,
+"texto": "VII. outras necessárias à sua adequada identificação."
+},
+{
+"pag": 25,
+"texto": "Art. 56. O registro de cada software e sua eventual utilização por empresas pertencentes ao mesmo"
+},
+{
+"pag": 25,
+"texto": "grupo empresarial deverão ser identificados, definindo o critério de proporcionalidade do"
+},
+{
+"pag": 25,
+"texto": "direcionamento do valor e amortização para cada empresa."
+},
+{
+"pag": 25,
+"texto": "Art. 57. Os ativos relacionados com direitos sobre o uso do software (licenças), adquiridos pela"
+},
+{
+"pag": 25,
+"texto": "Concessionária devem ser objeto de levantamento."
+},
+{
+"pag": 25,
+"texto": "Art. 58. Será permitida a inclusão de softwares desenvolvidos pela própria concessionária, desde que"
+},
+{
+"pag": 25,
+"texto": "seja comprovada a abertura de ordens de serviço para o seu desenvolvimento."
+},
+{
+"pag": 25,
+"texto": "Art. 59. Após o levantamento dos bens e validação dos controles da concessionária, deve se realizar"
+},
+{
+"pag": 25,
+"texto": "a conciliação com os dados contábeis e de controle patrimonial, devendo ser apontadas as diferenças"
+},
+{
+"pag": 25,
+"texto": "encontradas nesse cruzamento, para cada bem, para fins de ajustes pela concessionária."
+},
+{
+"pag": 25,
+"texto": "SEÇÃO XIII – ALMOXARIFADO DE OPERAÇÃO"
+},
+{
+"pag": 25,
+"texto": "Art. 60. A definição amostral dos bens em almoxarifado de operação obecerá aos mesmos critérios"
+},
+{
+"pag": 25,
+"texto": "da estabelecida para os conjuntos de regulação e medição."
+},
+{
+"pag": 25,
+"texto": "SEÇÃO XIV – OUTROS ATIVOS E INSTALAÇÕES"
+},
+{
+"pag": 25,
+"texto": "Art. 61. Serão considerados outros ativos e instalações aqueles não classificados pelas seções"
+},
+{
+"pag": 25,
+"texto": "anteriores, inclusive os ativos e instalações de distribuição para atendimento ao segmento"
+},
+{
+"pag": 25,
+"texto": "termoelétrico."
+},
+{
+"pag": 26,
+"texto": "ANEXO III – TAXAS DE DEPRECIAÇÃO"
+},
+{
+"pag": 26,
+"texto": "As taxas de depreciação serão calculadas de forma linear, de acordo com os prazos apresentados a"
+},
+{
+"pag": 26,
+"texto": "seguir, por tipo de ativo:"
+},
+{
+"pag": 26,
+"texto": "Tipo de Ativo Prazo"
+},
+{
+"pag": 26,
+"texto": "Ativos de conversão 5 anos"
+},
+{
+"pag": 26,
+"texto": "Estações de Transferência de Custódia - ETC Vigência contratual"
+},
+{
+"pag": 26,
+"texto": "Estações de Controle de Pressão Vigência contratual"
+},
+{
+"pag": 26,
+"texto": "Estações de Odorização Vigência contratual"
+},
+{
+"pag": 26,
+"texto": "Edificações Vigência contratual"
+},
+{
+"pag": 26,
+"texto": "Linha principal do Sistema de Distribuição - LPD Vigência contratual"
+},
+{
+"pag": 26,
+"texto": "Rede de Distribuição - RD Vigência contratual"
+},
+{
+"pag": 26,
+"texto": "Ramais Vigência contratual"
+},
+{
+"pag": 26,
+"texto": "Medidores 10 anos"
+},
+{
+"pag": 26,
+"texto": "Conjunto de Regulagem e Medição - CRM 10 anos"
+},
+{
+"pag": 26,
+"texto": "Sistema de Proteção Catódica da Tubulação Vigência contratual"
+},
+{
+"pag": 26,
+"texto": "Sistema de Supervisão e Controle 5 anos"
+},
+{
+"pag": 26,
+"texto": "Sistema de Comunicação Local 10 anos"
+},
+{
+"pag": 26,
+"texto": "Direitos, Marcas e Patentes, excluindo outorga 0"
+},
+{
+"pag": 26,
+"texto": "Fibra ótica 10 anos"
+},
+{
+"pag": 26,
+"texto": "Móveis, Utensílios e Equipamentos em Geral 10 anos"
+},
+{
+"pag": 26,
+"texto": "Sistema de Proteção e Combate a Incêndio 10 anos"
+},
+{
+"pag": 26,
+"texto": "Terrenos 0"
+},
+{
+"pag": 26,
+"texto": "Urbanização e Benfeitorias Vigência contratual"
+},
+{
+"pag": 26,
+"texto": "Veículos e Equipamentos de Transporte 5 anos"
+},
+{
+"pag": 26,
+"texto": "Equipamentos de Oficina e Laboratório 10 anos"
+},
+{
+"pag": 26,
+"texto": "Equipamentos de TI e Softwares 5 anos"
+},
+{
+"pag": 27,
+"texto": "ANEXO IV – DA CONSOLIDAÇÃO E ENVIO DAS INFORMAÇÕES"
+},
+{
+"pag": 27,
+"texto": "Art. 1º Este Anexo apresenta o conteúdo mínimo do conjunto documental que deverá ser consolidado"
+},
+{
+"pag": 27,
+"texto": "e encaminhado de forma eletrônica, contendo as informações obtidas e produzidas no levantamento"
+},
+{
+"pag": 27,
+"texto": "de ativos."
+},
+{
+"pag": 27,
+"texto": "Art. 2º Todas as premissas e cálculos efetuados para a definição da BAR serão compilados em meio"
+},
+{
+"pag": 27,
+"texto": "magnético, na linguagem Excel ou outro sistema, com todas as informações e fórmulas necessárias"
+},
+{
+"pag": 27,
+"texto": "ao entendimento dos cálculos."
+},
+{
+"pag": 27,
+"texto": "Art. 3º Os arquivos a serem encaminhados devem trazer todas as informações solicitadas neste"
+},
+{
+"pag": 27,
+"texto": "documento, bem como aquelas necessárias ao adequado entendimento e caracterização, com o"
+},
+{
+"pag": 27,
+"texto": "máximo detalhamento dos trabalhos realizados."
+},
+{
+"pag": 27,
+"texto": "Art. 4º Os arquivos em meio eletrônico devem trazer, dentre outras, as seguintes informações:"
+},
+{
+"pag": 27,
+"texto": "I. Sumário Executivo;"
+},
+{
+"pag": 27,
+"texto": "II. Relação de Bens, devendo ser apresentadas por Grupo de Ativos, estabelecidos no Capítulo III,"
+},
+{
+"pag": 27,
+"texto": "Seção IV deste regulamento e na forma a seguir:"
+},
+{
+"pag": 27,
+"texto": "a) Terrenos: apresentar relação com todos os terrenos de propriedade da Concessionária, com"
+},
+{
+"pag": 27,
+"texto": "indicação da designação e endereço de cada imóvel, os dados de registros no Cartório de Imóveis,"
+},
+{
+"pag": 27,
+"texto": "destinação do uso do imóvel."
+},
+{
+"pag": 27,
+"texto": "b) laudos dos imóveis vistoriados, incluindo identificação, localização, estado de conservação, tipo"
+},
+{
+"pag": 27,
+"texto": "de utilização para a propriedade, com área total do terreno, área construída, tipo de construção, área"
+},
+{
+"pag": 27,
+"texto": "de estacionamento coberto e tipo de cobertura e área de estacionamento não coberto, área utilizada,"
+},
+{
+"pag": 27,
+"texto": "entre outros dados."
+},
+{
+"pag": 27,
+"texto": "c) relação para cada estação, indicando individualmente os equipamentos/materiais, datas de"
+},
+{
+"pag": 27,
+"texto": "entrada em operação, números de patrimônio, números de série, fabricante, modelo, e contas"
+},
+{
+"pag": 27,
+"texto": "contábeis onde se encontram registrados. Nestas relações, devem estar informados o tipo da estação,"
+},
+{
+"pag": 27,
+"texto": "sua localização no subsistema e endereço."
+},
+{
+"pag": 27,
+"texto": "d) relação resumida para cada estação contendo os valores contábeis históricos, depreciação e"
+},
+{
+"pag": 27,
+"texto": "amortização para os terrenos, edificações e benfeitorias;"
+},
+{
+"pag": 27,
+"texto": "e) relação para cada rede de aço, indicando individualmente os equipamentos/materiais, datas de"
+},
+{
+"pag": 27,
+"texto": "entrada em operação, números de patrimônio e contas contábeis onde se encontram registrados."
+},
+{
+"pag": 27,
+"texto": "Nestas relações devem estar informados a extensão, o material, diâmetro e pressão. Deve ser"
+},
+{
+"pag": 27,
+"texto": "elaborado um resumo com os valores apurados por rede de Aço do sistema de distribuição e"
+},
+{
+"pag": 27,
+"texto": "totalizando todas as redes."
+},
+{
+"pag": 27,
+"texto": "f) relação para cada conjunto de redes de PEAD - polietileno, indicando individualmente os"
+},
+{
+"pag": 27,
+"texto": "equipamentos/materiais, data de entrada em operação, números de patrimônio e contas contábeis"
+},
+{
+"pag": 27,
+"texto": "onde se encontram registrados. Nestas relações devem estar informados a extensão, o material,"
+},
+{
+"pag": 27,
+"texto": "diâmetro e pressão. Deve ser elaborado um resumo com os valores apurados por conjunto de redes"
+},
+{
+"pag": 27,
+"texto": "de distribuição e um resumo com os valores apurados por rede de PEAD totalizando todos os"
+},
+{
+"pag": 27,
+"texto": "conjuntos de redes de distribuição."
+},
+{
+"pag": 27,
+"texto": "g) relação com os equipamentos reserva indicando, para cada um, a estação e/ou instalação onde"
+},
+{
+"pag": 27,
+"texto": "está localizado, as datas de aquisição, números de patrimônio, números de séries, modelos,"
+},
+{
+"pag": 27,
+"texto": "fabricante, capacidade."
+},
+{
+"pag": 27,
+"texto": "h) relação dos medidores, por tipo, modelo, números de patrimônio e de série, com os respectivos"
+},
+{
+"pag": 27,
+"texto": "valores apurados."
+},
+{
+"pag": 27,
+"texto": "i) relação dos conjuntos de regulagem e medição, por tipo, modelo, números de patrimônio e de"
+},
+{
+"pag": 27,
+"texto": "série, data de entrada em operação, com os respectivos valores apurados."
+},
+{
+"pag": 28,
+"texto": "j) relação individualizada de máquinas e equipamentos operacionais com os respectivos valores"
+},
+{
+"pag": 28,
+"texto": "apurados, data de entrada em operação, números de patrimônio e de série, contas contábeis onde"
+},
+{
+"pag": 28,
+"texto": "se encontram registrados."
+},
+{
+"pag": 28,
+"texto": "k) relações detalhadas referentes ao processo de conciliação físico-contábil, indicando os bens"
+},
+{
+"pag": 28,
+"texto": "conciliados, as sobras contábeis e as faltas (sobras físicas)."
+},
+{
+"pag": 28,
+"texto": "l) Outros documentos e informações utilizadas no trabalho."
+},
+{
+"pag": 28,
+"texto": "III. Resumo da BAR, na forma do Anexo V deste regulamento."
+},
+{
+"pag": 28,
+"texto": "IV. Laudo sintético da BAR, na forma do Anexo VI deste regulamento."
+},
+{
+"pag": 28,
+"texto": "V. Apresentação de tabela resumo com os subtotais por grupo de bens (tipos de ativo), informando"
+},
+{
+"pag": 28,
+"texto": "para cada grupo (tipo) de ativo, minimamente:"
+},
+{
+"pag": 28,
+"texto": "a) o valor original contábil societário;"
+},
+{
+"pag": 28,
+"texto": "b) depreciação ou amortização contábeis;"
+},
+{
+"pag": 28,
+"texto": "c) o valor original contábil societário líquido de depreciação e amortização, dado pela operação de"
+},
+{
+"pag": 28,
+"texto": "subtração do item “a” menos o item “b”;"
+},
+{
+"pag": 28,
+"texto": "d) a relação entre a depreciação/amortização e o valor original contábil societário, dada pela razão"
+},
+{
+"pag": 28,
+"texto": "entre os itens “b” e “a”;"
+},
+{
+"pag": 28,
+"texto": "e) valor original contábil societário corrigido;"
+},
+{
+"pag": 28,
+"texto": "f) valor regulatório;"
+},
+{
+"pag": 28,
+"texto": "g) depreciação ou amortização regulatória; e"
+},
+{
+"pag": 28,
+"texto": "h) valor regulatório líquido de depreciação e amortização, dado pela operação de subtração do item"
+},
+{
+"pag": 28,
+"texto": "“e” menos o item “f”;"
+},
+{
+"pag": 28,
+"texto": "i) valor regulatório líquido de depreciação e amortização, corrigido."
+},
+{
+"pag": 29,
+"texto": "ANEXO V – INFORMAÇÕES MÍNIMAS DO LAUDO DE AVALIAÇÃO"
+},
+{
+"pag": 29,
+"texto": "INTRODUÇÃO"
+},
+{
+"pag": 29,
+"texto": "• Apresentar descrição sumária do trabalho realizado."
+},
+{
+"pag": 29,
+"texto": "CARACTERIZAÇÃO DA CONCESSÃO"
+},
+{
+"pag": 29,
+"texto": "a) Apresentar informações sobre a área da concessão (pontos de recebimento do gás;"
+},
+{
+"pag": 29,
+"texto": "quantidade de municípios atendidos; extensão de rede de distribuição e ramais; estações de"
+},
+{
+"pag": 29,
+"texto": "compressões e descompressões; área total da concessão em quilômetros quadrados e mapa"
+},
+{
+"pag": 29,
+"texto": "da área de concessão)."
+},
+{
+"pag": 29,
+"texto": "b) Informar o total de unidades usuárias atendidas na área de concessão avaliada, classificando-"
+},
+{
+"pag": 29,
+"texto": "as por segmento de usuários e municípios."
+},
+{
+"pag": 29,
+"texto": "c) Informar como a concessionária está organizada do ponto de vista da sua estrutura"
+},
+{
+"pag": 29,
+"texto": "operacional (quantas regionais a concessionária possui, como e onde estão distribuídas);"
+},
+{
+"pag": 29,
+"texto": "onde está localizada a sede administrativa da Concessionária; quantos postos e lojas de"
+},
+{
+"pag": 29,
+"texto": "atendimento a Concessionária possui e como estão distribuídos na área de concessão; como"
+},
+{
+"pag": 29,
+"texto": "está estruturado e localizado o atendimento telefônico comercial e de emergência e a"
+},
+{
+"pag": 29,
+"texto": "ouvidoria; quantos almoxarifados de operação e de obras a Concessionária possui e como"
+},
+{
+"pag": 29,
+"texto": "estão distribuídos; relacionar as principais unidades de apoio operacional que a"
+},
+{
+"pag": 29,
+"texto": "Concessionária possui e como estão distribuídas – oficinas, centros de manutenção,"
+},
+{
+"pag": 29,
+"texto": "laboratórios, centros operacionais, pátios de veículos, centros de treinamento, entre outros)."
+},
+{
+"pag": 29,
+"texto": "d) Informar as atividades realizadas por prestadores de serviços e respectivos contratos, período"
+},
+{
+"pag": 29,
+"texto": "de vigência e valores."
+},
+{
+"pag": 29,
+"texto": "CARACTERIZAÇÃO DO TRABALHO EXECUTADO"
+},
+{
+"pag": 29,
+"texto": "a) Avaliação das informações contidas no grupo de contas da Concessionária:"
+},
+{
+"pag": 29,
+"texto": "1. informar o saldo das rubricas contábeis na data-base do trabalho;"
+},
+{
+"pag": 29,
+"texto": "2. informar os registros auxiliares existentes na Concessionária que converta a base contábil"
+},
+{
+"pag": 29,
+"texto": "societária para a base contábil regulatória, isto é, referente aos ativos;"
+},
+{
+"pag": 29,
+"texto": "3. a relação dos bens levantados e conciliados com os registros da engenharia, comercial,"
+},
+{
+"pag": 29,
+"texto": "contábeis e patrimoniais deverão ser apresentados no laudo classificados nos grupos de"
+},
+{
+"pag": 29,
+"texto": "ativos especificados abaixo, letras b a j e seus subitens."
+},
+{
+"pag": 29,
+"texto": "4. os bens e instalações inventariados do serviço de distribuição de gás deverão ser"
+},
+{
+"pag": 29,
+"texto": "apresentados, também, segundo a origem dos recursos de investimentos com que foram"
+},
+{
+"pag": 29,
+"texto": "adquiridos, previsto na Cláusula 12 do Contrato de Concessão."
+},
+{
+"pag": 29,
+"texto": "b) Redes de Distribuição de Aço e PEAD – polietileno:"
+},
+{
+"pag": 29,
+"texto": "1. informar os totais de quilômetros de tubulações, por tipo de material, subsistema e de"
+},
+{
+"pag": 29,
+"texto": "acordo com os registros contábeis:"
+},
+{
+"pag": 30,
+"texto": "2. informar as extensões de tubulações desagregadas por subsistema e por nível de"
+},
+{
+"pag": 30,
+"texto": "pressão, material (aço e polietileno), diâmetro;"
+},
+{
+"pag": 30,
+"texto": "3. informar os quantitativos de válvulas desagregados por subsistema e por material e"
+},
+{
+"pag": 30,
+"texto": "diâmetro;"
+},
+{
+"pag": 30,
+"texto": "4. informar os quantitativos de Ramal de Serviço por subsistema, material e pressão de"
+},
+{
+"pag": 30,
+"texto": "fornecimento;"
+},
+{
+"pag": 30,
+"texto": "5. informar os equipamentos do sistema de proteção catódica da tubulação, quando existir,"
+},
+{
+"pag": 30,
+"texto": "e do sistema de supervisão e controle, desagregados por subsistema."
+},
+{
+"pag": 30,
+"texto": "c) Estações"
+},
+{
+"pag": 30,
+"texto": "1. Apresentar relação dos pontos de recebimento, estações de controle de pressão e"
+},
+{
+"pag": 30,
+"texto": "estações de odorização por subsistema da Concessionária indicando, para cada uma:"
+},
+{
+"pag": 30,
+"texto": "vazões nominais, nível de pressão de operação, tipo de rede onde estão ligadas e"
+},
+{
+"pag": 30,
+"texto": "localização."
+},
+{
+"pag": 30,
+"texto": "d) Conjunto de Regulagem e Medição – CRM, Medidores e Ramais:"
+},
+{
+"pag": 30,
+"texto": "1. nos segmentos residencial e comercial, a contabilização do ramal inclui os equipamentos,"
+},
+{
+"pag": 30,
+"texto": "medidores e conjunto de regulagem e medição; nos demais segmentos esses itens estão"
+},
+{
+"pag": 30,
+"texto": "contabilizados de forma segregada;"
+},
+{
+"pag": 30,
+"texto": "2. informar totais de conjuntos de regulagem e medição, conjuntos de regulagem e conjuntos"
+},
+{
+"pag": 30,
+"texto": "de medição por subsistema ou município indicando, para cada tipo a pressão e vazão de"
+},
+{
+"pag": 30,
+"texto": "fornecimento e características de composição dos equipamentos, de modo a serem"
+},
+{
+"pag": 30,
+"texto": "individualizados."
+},
+{
+"pag": 30,
+"texto": "3. informar totais de medidores por subsistema ou município indicando, para cada tipo de"
+},
+{
+"pag": 30,
+"texto": "medidor (turbina, rotativo, etc.), a pressão de fornecimento e vazão em m³/h, de modo a"
+},
+{
+"pag": 30,
+"texto": "serem individualizados."
+},
+{
+"pag": 30,
+"texto": "e) Terrenos, Edificações e Benfeitorias"
+},
+{
+"pag": 30,
+"texto": "1. apresentar relação com todos os imóveis de propriedade da Concessionária. A relação"
+},
+{
+"pag": 30,
+"texto": "deve indicar a designação e endereço de cada imóvel de forma a possibilitar sua clara"
+},
+{
+"pag": 30,
+"texto": "identificação;"
+},
+{
+"pag": 30,
+"texto": "2. devem ser informados os imóveis subdivididos em terrenos, edificações e benfeitorias. A"
+},
+{
+"pag": 30,
+"texto": "relação deve apresentar a destinação de uso do imóvel;"
+},
+{
+"pag": 30,
+"texto": "3. devem ser informados os imóveis não utilizados no serviço concedido, subdivididos em"
+},
+{
+"pag": 30,
+"texto": "terrenos, edificações e benfeitorias. A relação deve apresentar a destinação de uso do"
+},
+{
+"pag": 30,
+"texto": "imóvel, valores registrados na contabilidade; conta contábil onde o imóvel se encontra"
+},
+{
+"pag": 30,
+"texto": "registrado; número de registro patrimonial; e a razão da não utilização no serviço"
+},
+{
+"pag": 30,
+"texto": "concedido (imóvel alugado, imóvel cedido a terceiros, entre outras razões); e"
+},
+{
+"pag": 30,
+"texto": "4. apresentar relação das benfeitorias levantadas e que se encontrem erigidas em terrenos"
+},
+{
+"pag": 30,
+"texto": "de propriedade de terceiros. Deve ser informada para cada benfeitoria a destinação de"
+},
+{
+"pag": 30,
+"texto": "uso do imóvel."
+},
+{
+"pag": 31,
+"texto": "f) Equipamentos de Transporte"
+},
+{
+"pag": 31,
+"texto": "1. Informar se a Concessionária trabalha com frota própria de veículos ou terceirizada, bem"
+},
+{
+"pag": 31,
+"texto": "como o total de veículos da frota própria discriminando por tipo de veículo, com os"
+},
+{
+"pag": 31,
+"texto": "respectivos valores registrados na contabilidade."
+},
+{
+"pag": 31,
+"texto": "g) Software"
+},
+{
+"pag": 31,
+"texto": "1. Apresentar relação dos softwares levantados, indicando as características técnicas"
+},
+{
+"pag": 31,
+"texto": "(fabricante, nome do software, versão, módulos adquiridos/instalados, empresa"
+},
+{
+"pag": 31,
+"texto": "responsável pela implantação, entre outras), função/utilização principal e valores"
+},
+{
+"pag": 31,
+"texto": "registrados na contabilidade. Deve ser indicada a conta contábil onde cada software se"
+},
+{
+"pag": 31,
+"texto": "encontra registrado e se o software relacionado é utilizado por outras empresas"
+},
+{
+"pag": 31,
+"texto": "pertencentes ao mesmo grupo."
+},
+{
+"pag": 31,
+"texto": "h) Servidões de Passagens"
+},
+{
+"pag": 31,
+"texto": "1. Apresentar relação das faixas de servidão, com a sua identificação, áreas e extensões"
+},
+{
+"pag": 31,
+"texto": "totais e respectivos valores contábeis."
+},
+{
+"pag": 31,
+"texto": "i) Máquinas e Equipamentos Operacionais"
+},
+{
+"pag": 31,
+"texto": "1. Apresentar relação com os totais dos itens segregados por sistemas de telemetria,"
+},
+{
+"pag": 31,
+"texto": "sistema de proteção e combate a incêndio, veículos técnicos, equipamentos de oficina,"
+},
+{
+"pag": 31,
+"texto": "equipamentos de laboratório e respectivos valores registrados na contabilidade e registros"
+},
+{
+"pag": 31,
+"texto": "auxiliares da Concessionária."
+},
+{
+"pag": 31,
+"texto": "j) Móveis e Utensílios, Equipamentos em Geral, Sistema de Comunicação Local e"
+},
+{
+"pag": 31,
+"texto": "Equipamentos de Informática"
+},
+{
+"pag": 31,
+"texto": "1. Apresentar relação com os totais segregados e respectivos valores registrados na"
+},
+{
+"pag": 31,
+"texto": "contabilidade."
+},
+{
+"pag": 31,
+"texto": "METODOLOGIA APLICADA"
+},
+{
+"pag": 31,
+"texto": "Apresentar informações sobre os procedimentos, critérios e metodologias aplicadas na realização"
+},
+{
+"pag": 31,
+"texto": "do trabalho de levantamento e conciliação entre os cadastros de engenharia, comercial e contábil"
+},
+{
+"pag": 31,
+"texto": "a) Levantamentos de campo:"
+},
+{
+"pag": 31,
+"texto": "1. apresentar informações sobre a logística utilizada para realização dos levantamentos de"
+},
+{
+"pag": 31,
+"texto": "campo – imóveis, estações, redes e medidores;"
+},
+{
+"pag": 31,
+"texto": "2. apresentar informações sobre os procedimentos utilizados para realização dos"
+},
+{
+"pag": 31,
+"texto": "levantamentos de campo – imóveis, estações, redes e medidores;"
+},
+{
+"pag": 31,
+"texto": "3. apresentar informações sobre as equipes utilizadas nos levantamentos de campo"
+},
+{
+"pag": 31,
+"texto": "quantidades e perfis dos profissionais que participaram dos trabalhos de levantamento de"
+},
+{
+"pag": 31,
+"texto": "campo, incluindo os profissionais que participaram das atividades de"
+},
+{
+"pag": 31,
+"texto": "ordenação/gerenciamento - imóveis, estações, redes e medidores;"
+},
+{
+"pag": 32,
+"texto": "4. apresentar informações sobre o tempo gasto para realizar os levantamentos de campo"
+},
+{
+"pag": 32,
+"texto": "(datas de início e de conclusão) – imóveis, estações, redes e medidores;"
+},
+{
+"pag": 32,
+"texto": "5. Redes de distribuição: Indicar as OSIs relacionadas às vistorias e apresentar"
+},
+{
+"pag": 32,
+"texto": "considerações sobre as “não conformidades” verificadas por ocasião da realização dos"
+},
+{
+"pag": 32,
+"texto": "levantamentos de campo, apresentando um panorama geral sobre as divergências"
+},
+{
+"pag": 32,
+"texto": "verificadas em campo, bem como sobre a qualidade e confiabilidade dos controles"
+},
+{
+"pag": 32,
+"texto": "patrimonial e de engenharia da Concessionária, entre outras informações julgadas"
+},
+{
+"pag": 32,
+"texto": "relevantes."
+},
+{
+"pag": 32,
+"texto": "6. Estações: Apresentar considerações sobre a qualidade e confiabilidade dos controles"
+},
+{
+"pag": 32,
+"texto": "patrimonial e de engenharia da Concessionária, apresentando um panorama geral sobre"
+},
+{
+"pag": 32,
+"texto": "as divergências verificadas em campo, entre outras informações julgadas relevantes para"
+},
+{
+"pag": 32,
+"texto": "retratar a situação encontrada;"
+},
+{
+"pag": 32,
+"texto": "7. Imóveis: Apresentar considerações sobre a qualidade e confiabilidade dos controles"
+},
+{
+"pag": 32,
+"texto": "patrimonial e de engenharia da Concessionária (existência de plantas atualizadas,"
+},
+{
+"pag": 32,
+"texto": "documentos de propriedade etc.), apresentando um panorama geral sobre as"
+},
+{
+"pag": 32,
+"texto": "divergências verificadas em campo, entre outras informações julgadas relevantes para"
+},
+{
+"pag": 32,
+"texto": "retratar a situação encontrada; e"
+},
+{
+"pag": 32,
+"texto": "8. Medidores: Apresentar considerações sobre as “não conformidades” verificadas por"
+},
+{
+"pag": 32,
+"texto": "ocasião da realização dos levantamentos de campo, apresentando um panorama geral"
+},
+{
+"pag": 32,
+"texto": "sobre as divergências verificadas em campo, bem como sobre a qualidade e"
+},
+{
+"pag": 32,
+"texto": "confiabilidade dos controles patrimonial e comercial da Concessionária, entre outras"
+},
+{
+"pag": 32,
+"texto": "informações julgadas relevantes."
+},
+{
+"pag": 32,
+"texto": "b) Critérios adicionais utilizados para inclusão de ativos no laudo, se houver, ao estabelecido no"
+},
+{
+"pag": 32,
+"texto": "Capítulo III, Seção VI, Condições Específicas, I – Critérios para Inclusão de Ativos no Laudo"
+},
+{
+"pag": 32,
+"texto": "de Avaliação, letras “a”, “a-1” e “a-2” ."
+},
+{
+"pag": 32,
+"texto": "c) Procedimentos e critérios utilizados para validação dos controles da Concessionária para as"
+},
+{
+"pag": 32,
+"texto": "contas/grupos de ativos: medidores, conjuntos de regulagem e medição, máquinas e"
+},
+{
+"pag": 32,
+"texto": "equipamentos operacionais, equipamentos de transporte, móveis e utensílios, equipamentos"
+},
+{
+"pag": 32,
+"texto": "em geral, sistema de comunicação local, equipamentos de informática e softwares."
+},
+{
+"pag": 32,
+"texto": "d) Critérios utilizados para consideração das servidões: Explicitar os procedimentos e critérios"
+},
+{
+"pag": 32,
+"texto": "utilizados para considerar as servidões cujos direitos de uso foram adquiridos de forma"
+},
+{
+"pag": 32,
+"texto": "onerosa; as servidões cujos direitos de uso foram adquiridos de forma não onerosa e as"
+},
+{
+"pag": 32,
+"texto": "servidões cujos terrenos correspondentes foram adquiridos pela Concessionária com escritura"
+},
+{
+"pag": 32,
+"texto": "registrada em cartório de registro de imóveis."
+},
+{
+"pag": 32,
+"texto": "e) Critério utilizado para considerar os equipamentos de reserva técnica (reserva imobilizada) da"
+},
+{
+"pag": 32,
+"texto": "concessionária.."
+},
+{
+"pag": 32,
+"texto": "f) Critérios utilizados para associação dos ativos aos setores de distribuição."
+},
+{
+"pag": 32,
+"texto": "g) Informações sobre os demais procedimentos, critérios e referências, considerados."
+},
+{
+"pag": 32,
+"texto": "CONCILIAÇÃO FÍSICO-CONTÁBIL"
+},
+{
+"pag": 32,
+"texto": "a) Informar os procedimentos e critérios utilizados para realização do processo de conciliação"
+},
+{
+"pag": 32,
+"texto": "físico-contábil."
+},
+{
+"pag": 32,
+"texto": "b) Apresentar informação resumida das sobras e faltas apuradas, após a realização do processo"
+},
+{
+"pag": 33,
+"texto": "de conciliação entre o arquivo de controle patrimonial e a base física da Concessionária"
+},
+{
+"pag": 33,
+"texto": "(controles patrimonial e de engenharia), a serem ajustadas no sistema de controle patrimonial"
+},
+{
+"pag": 33,
+"texto": "da Concessionária."
+},
+{
+"pag": 33,
+"texto": "IMÓVEIS QUE SE ENCONTRAM EM PROCESSO DE REGULARIZAÇÃO"
+},
+{
+"pag": 33,
+"texto": "a) Apresentar relação dos imóveis que não possuem documentação de titularidade de"
+},
+{
+"pag": 33,
+"texto": "propriedade definitiva em nome da Concessionária e que se encontrem em processo de"
+},
+{
+"pag": 33,
+"texto": "regularização, fornecendo informações sobre a situação atual de cada um, no que se refere à"
+},
+{
+"pag": 33,
+"texto": "posição em termos de documentação e atividades atualmente exercidas pela Concessionária"
+},
+{
+"pag": 33,
+"texto": "no local. A relação em questão deve trazer, no mínimo, as seguintes informações: designação"
+},
+{
+"pag": 33,
+"texto": "do imóvel, endereço completo, referência do laudo de avaliação."
+},
+{
+"pag": 33,
+"texto": "b) Os bens e instalações da concessão em serviço ou em construção, em propriedades de"
+},
+{
+"pag": 33,
+"texto": "terceiros, devem ser relatados, com a identificação do tipo de propriedade, tamanho, sua"
+},
+{
+"pag": 33,
+"texto": "localização, o proprietário e o tipo de cessão de uso, se há ônus, prazo estabelecido e outras"
+},
+{
+"pag": 33,
+"texto": "informações julgadas relevantes."
+},
+{
+"pag": 33,
+"texto": "ALMOXARIFADO DE OPERAÇÃO"
+},
+{
+"pag": 33,
+"texto": "a) Indicar os critérios e procedimentos utilizados para apuração do valor da conta de"
+},
+{
+"pag": 33,
+"texto": "Almoxarifado de Operação."
+},
+{
+"pag": 33,
+"texto": "CONSIDERAÇÕES FINAIS"
+},
+{
+"pag": 33,
+"texto": "a) Indicar as eventuais inconsistências e/ou particularidades que mereçam ser destacadas,"
+},
+{
+"pag": 33,
+"texto": "verificadas no decorrer da realização dos trabalhos, apresentando as justificativas técnicas"
+},
+{
+"pag": 33,
+"texto": "cabíveis."
+},
+{
+"pag": 33,
+"texto": "b) Apresentar as considerações finais a respeito do trabalho desenvolvido."
+},
+{
+"pag": 34,
+"texto": "TABELA – INFORMAÇÕES MÍNIMAS DO LAUDO DE AVALIAÇÃO"
+},
+{
+"pag": 34,
+"texto": "Informações contábeis, de valores e dados físicos"
+},
+{
+"pag": 34,
+"texto": "Coluna"
+},
+{
+"pag": 34,
+"texto": "Título da"
+},
+{
+"pag": 34,
+"texto": "Coluna"
+},
+{
+"pag": 34,
+"texto": "Informações para o preenchimento da coluna"
+},
+{
+"pag": 34,
+"texto": "Informações contábeis e de valores"
+},
+{
+"pag": 34,
+"texto": "1 Grupo de Ativo Informar o grupo de ativo que o bem é classificado"
+},
+{
+"pag": 34,
+"texto": "2 Conta Contábil Informar a conta contábil do Grupo de Contas do Ativo"
+},
+{
+"pag": 34,
+"texto": "3 Origem dos Recursos Informar a origem dos recursos do investimento"
+},
+{
+"pag": 34,
+"texto": "4"
+},
+{
+"pag": 34,
+"texto": "Ordem de Serviço de Investimento-OSI"
+},
+{
+"pag": 34,
+"texto": "(ORIGEM)"
+},
+{
+"pag": 34,
+"texto": "Informar o número da OSI cadastrada na contabilidade na"
+},
+{
+"pag": 34,
+"texto": "origem"
+},
+{
+"pag": 34,
+"texto": "5 Código da Instalação Em Serviço"
+},
+{
+"pag": 34,
+"texto": "Informar o Código de Instalação do conjunto ou bem do"
+},
+{
+"pag": 34,
+"texto": "ativo em serviço"
+},
+{
+"pag": 34,
+"texto": "6 Número Patrimônio Informar o número patrimonial do bem do ativo"
+},
+{
+"pag": 34,
+"texto": "7 Descrição Contábil e Patrimonial do Bem Descrição do bem que compõe o bem na contabilidade"
+},
+{
+"pag": 34,
+"texto": "8"
+},
+{
+"pag": 34,
+"texto": "Data da Imobilização em Serviço"
+},
+{
+"pag": 34,
+"texto": "(dd/mm/aaaa)"
+},
+{
+"pag": 34,
+"texto": "Informar a data da imobilização (dd/mm/aaaa)"
+},
+{
+"pag": 34,
+"texto": "9 Valor Original Contábil - R$"
+},
+{
+"pag": 34,
+"texto": "Informar o valor original apurado do bem na contabilidade"
+},
+{
+"pag": 34,
+"texto": "(R$)"
+},
+{
+"pag": 34,
+"texto": "10"
+},
+{
+"pag": 34,
+"texto": "Taxa Anual da Depreciação-Amortização"
+},
+{
+"pag": 34,
+"texto": "Contábil %"
+},
+{
+"pag": 34,
+"texto": "Informar a taxa anual de depreciação/amortização contábil"
+},
+{
+"pag": 34,
+"texto": "para o bem contabilizado (%)"
+},
+{
+"pag": 34,
+"texto": "11"
+},
+{
+"pag": 34,
+"texto": "Taxa de Depreciação-Amortização"
+},
+{
+"pag": 34,
+"texto": "Contábil Acumulada - %"
+},
+{
+"pag": 34,
+"texto": "Informar a taxa de depreciação/amortização contábil"
+},
+{
+"pag": 34,
+"texto": "acumulada para o bem contabilizado (%)"
+},
+{
+"pag": 34,
+"texto": "12"
+},
+{
+"pag": 34,
+"texto": "Valor da Depreciação-Amortização"
+},
+{
+"pag": 34,
+"texto": "Contábil Acumulada - R$"
+},
+{
+"pag": 34,
+"texto": "Informar o valor da depreciação/amortização contábil"
+},
+{
+"pag": 34,
+"texto": "acumulada para o bem contabilizado (%)"
+},
+{
+"pag": 34,
+"texto": "13 Valor Original Contábil Líquido - R$"
+},
+{
+"pag": 34,
+"texto": "Informar o valor original contábil líquido do bem apurado na"
+},
+{
+"pag": 34,
+"texto": "contabilidade (R$)"
+},
+{
+"pag": 34,
+"texto": "14 Valor Regulatório Informar o valor regulatório do bem (R$)"
+},
+{
+"pag": 34,
+"texto": "15"
+},
+{
+"pag": 34,
+"texto": "Taxa Anual de Depreciação-Amortização"
+},
+{
+"pag": 34,
+"texto": "Regulatória- %"
+},
+{
+"pag": 34,
+"texto": "Informar a taxa anual depreciação-amortização regulatória"
+},
+{
+"pag": 34,
+"texto": "(%) aplicada ao bem do Ativo"
+},
+{
+"pag": 34,
+"texto": "16"
+},
+{
+"pag": 34,
+"texto": "Taxa de Depreciação-Amortização"
+},
+{
+"pag": 34,
+"texto": "Regulatória Acumulada - %"
+},
+{
+"pag": 34,
+"texto": "Informar a taxa de depreciação-amortização regulatória"
+},
+{
+"pag": 34,
+"texto": "acumulada para o bem contabilizado (%)"
+},
+{
+"pag": 34,
+"texto": "17"
+},
+{
+"pag": 34,
+"texto": "Valor da Depreciação-Amortização"
+},
+{
+"pag": 34,
+"texto": "Regulatória Acumulada - R$"
+},
+{
+"pag": 34,
+"texto": "Informar o valor da Depreciação-Amortização Regulatória"
+},
+{
+"pag": 34,
+"texto": "Acumulada - R$"
+},
+{
+"pag": 34,
+"texto": "18 Valor Regulatório Líquido - R$"
+},
+{
+"pag": 34,
+"texto": "Valor Original Contábil menos Depreciação-Amortização"
+},
+{
+"pag": 34,
+"texto": "Regulatória Acumulada"
+},
+{
+"pag": 34,
+"texto": "19 Data de Origem do Bem (dd/mm/aaaa)"
+},
+{
+"pag": 34,
+"texto": "Informar a data de origem do bem para fins de correção"
+},
+{
+"pag": 34,
+"texto": "monetária"
+},
+{
+"pag": 34,
+"texto": "20"
+},
+{
+"pag": 34,
+"texto": "Data Final para a Correção Monetária do"
+},
+{
+"pag": 34,
+"texto": "Bem (dd/mm/aaaa)"
+},
+{
+"pag": 34,
+"texto": "Informar a data final para apurar o período de correção"
+},
+{
+"pag": 34,
+"texto": "monetária"
+},
+{
+"pag": 34,
+"texto": "21"
+},
+{
+"pag": 34,
+"texto": "Valor do índice de correção monetária da"
+},
+{
+"pag": 34,
+"texto": "Origem"
+},
+{
+"pag": 34,
+"texto": "Informar o valor do índice de correção monetária da data"
+},
+{
+"pag": 34,
+"texto": "inicial a ser aplicado sobre o valor original"
+},
+{
+"pag": 34,
+"texto": "22"
+},
+{
+"pag": 34,
+"texto": "Valor do índice de correção monetária da"
+},
+{
+"pag": 34,
+"texto": "Data Final"
+},
+{
+"pag": 34,
+"texto": "Informar o valor do índice de correção monetária da data"
+},
+{
+"pag": 34,
+"texto": "final a ser aplicado sobre o valor original"
+},
+{
+"pag": 34,
+"texto": "23 Valor Original Contábil Corrigido - R$ Informar o valor corrigido monetariamente do bem"
+},
+{
+"pag": 34,
+"texto": "24"
+},
+{
+"pag": 34,
+"texto": "Valor da Depreciação-Amortização"
+},
+{
+"pag": 34,
+"texto": "Regulatória Acumulada"
+},
+{
+"pag": 34,
+"texto": "Informar o valor da depreciação corrigida monetariamente"
+},
+{
+"pag": 35,
+"texto": "Corrigido - R$"
+},
+{
+"pag": 35,
+"texto": "25 Valor Regulatório Líquido Corrigido - R$ Informar o valor líquido corrigido monetariamente do bem"
+},
+{
+"pag": 35,
+"texto": "Informações da base física"
+},
+{
+"pag": 35,
+"texto": "26 Descrição Técnica"
+},
+{
+"pag": 35,
+"texto": "Apresentar a descrição técnica do bem conforme projeto e"
+},
+{
+"pag": 35,
+"texto": "construção"
+},
+{
+"pag": 35,
+"texto": "27 Unidade Informar a unidade do bem levantado"
+},
+{
+"pag": 35,
+"texto": "28 Quantidade Informar a quantidade do bem apurada na contabilidade"
+},
+{
+"pag": 35,
+"texto": "29 Tipo de Conjunto Informar o tipo de conjunto levantado em campo"
+},
+{
+"pag": 35,
+"texto": "30 Localização Informar a localização do bem"
+},
+{
+"pag": 35,
+"texto": "31 Data de Início da Obra (dd/mm/aaaa) Informar a data de início da obra"
+},
+{
+"pag": 35,
+"texto": "32"
+},
+{
+"pag": 35,
+"texto": "Data de Entrada em Operação"
+},
+{
+"pag": 35,
+"texto": "(dd/mm/aaaa)"
+},
+{
+"pag": 35,
+"texto": "Informar a data de entrada em operação do bem"
+},
+{
+"pag": 35,
+"texto": "33 Pressão Informar a pressão de trabalho do bem levantado"
+},
+{
+"pag": 35,
+"texto": "34 Unidade da Pressão Informar a unidade da pressão informada do bem"
+},
+{
+"pag": 35,
+"texto": "35 Vazão Informar a vazão de trabalho do bem levantado"
+},
+{
+"pag": 35,
+"texto": "36 Unidade da Vazão Informar a unidade da vazão inforamada do bem"
+},
+{
+"pag": 35,
+"texto": "37 Nº de Série Informar o nº de série de fabricação do bem"
+},
+{
+"pag": 35,
+"texto": "38 Tipo de Material Informar o tipo de material do bem"
+},
+{
+"pag": 35,
+"texto": "39 Fabricante Informar o fabricante do bem"
+},
+{
+"pag": 35,
+"texto": "40 Modelo Informar o modelo do bem"
+},
+{
+"pag": 35,
+"texto": "41 Extensão Informar a extensão do bem"
+},
+{
+"pag": 35,
+"texto": "42 Unidade da Extensão Informar a unidade da extensão informada"
+},
+{
+"pag": 35,
+"texto": "43 Diâmetro Informar o diâmetro do bem"
+},
+{
+"pag": 35,
+"texto": "44 Unidade do Diâmetro Informar a unidade do diâmetro informado do bem"
+},
+{
+"pag": 35,
+"texto": "45 Reserva Informar se o bem se caracteriza como reserva técnica"
+},
+{
+"pag": 35,
+"texto": "46 Área do Terreno"
+},
+{
+"pag": 35,
+"texto": "Informar a área do terreno e, se for o caso, referente à"
+},
+{
+"pag": 35,
+"texto": "edificação, obra civil, ou benfeitoria em propriedade de"
+},
+{
+"pag": 35,
+"texto": "terceiros"
+},
+{
+"pag": 35,
+"texto": "47 Unidade de Medida da Área do Terreno Informar a unidade de medida do terreno"
+},
+{
+"pag": 35,
+"texto": "48 Área Construída"
+},
+{
+"pag": 35,
+"texto": "Informar a Área Construída de edificação própria, obra civil"
+},
+{
+"pag": 35,
+"texto": "ou em benfeitoria em propriedade de terceiros"
+},
+{
+"pag": 35,
+"texto": "49 Unidade de Medida da Área Construída Informar a unidade de medida da Área Construída"
+},
+{
+"pag": 35,
+"texto": "50 Área Operacional"
+},
+{
+"pag": 35,
+"texto": "Informar a área construída da Área Operacional de"
+},
+{
+"pag": 35,
+"texto": "edificação própria, obra civil ou em benfeitoria em"
+},
+{
+"pag": 35,
+"texto": "propriedade de terceiros"
+},
+{
+"pag": 35,
+"texto": "51 Unidade de Medida da Área Operacional Informar a unidade de medida da Área Operacional"
+},
+{
+"pag": 35,
+"texto": "52 Área Administrativa"
+},
+{
+"pag": 35,
+"texto": "Informar a área construída da Área Administrativa de"
+},
+{
+"pag": 35,
+"texto": "edificação própria, obra civil ou em benfeitoria em"
+},
+{
+"pag": 35,
+"texto": "propriedade de terceiros"
+},
+{
+"pag": 35,
+"texto": "53 Unidade de Medida da Área Operacional Informar a unidade de medida da Área Operacional"
+},
+{
+"pag": 35,
+"texto": "54 Data de Registro no Cartório de Imóveis"
+},
+{
+"pag": 35,
+"texto": "Informar a data de registro da escritura no Cartório de"
+},
+{
+"pag": 35,
+"texto": "Registro de Imóveis"
+},
+{
+"pag": 35,
+"texto": "55 Identificação do Cartório de Imóveis Informar identificação do Cartório de Registro de Imóveis"
+},
+{
+"pag": 35,
+"texto": "56"
+},
+{
+"pag": 35,
+"texto": "Número de Registro no Cartório de"
+},
+{
+"pag": 35,
+"texto": "Imóveis"
+},
+{
+"pag": 35,
+"texto": "Informar o número de registro da escritura no Cartório de"
+},
+{
+"pag": 35,
+"texto": "Registro de Imóveis"
+},
+{
+"pag": 36,
+"texto": "ANEXO VI – RESUMO DA BAR"
+},
+{
+"pag": 36,
+"texto": "1) Apresentação das contas de ativos reversíveis, em formato de tabela, de acordo com"
+},
+{
+"pag": 36,
+"texto": "modelo adotado pela concessionária em sua contabilidade societária."
+},
+{
+"pag": 36,
+"texto": "2) Apresentação dos resultados da BAR, considerando o critério regulatório:"
+},
+{
+"pag": 36,
+"texto": "BASE DE REMUNERAÇÃO REGULATÓRIA"
+},
+{
+"pag": 36,
+"texto": "Discriminação dos itens Valor (R$)"
+},
+{
+"pag": 36,
+"texto": "1 Ativos Imobilizados em Serviço"
+},
+{
+"pag": 36,
+"texto": "2 Índice de Aproveitamento Integral"
+},
+{
+"pag": 36,
+"texto": "3 Ativos Não Onerosos"
+},
+{
+"pag": 36,
+"texto": "4 Bens Totalmente Depreciados"
+},
+{
+"pag": 36,
+"texto": "5 Base de Remuneração Regulatória Bruta = ((1)-(2)-(3)-(4)"
+},
+{
+"pag": 36,
+"texto": "6 Depreciação Acumulada"
+},
+{
+"pag": 36,
+"texto": "7 AIS Líquido (Valor de Mercado em Uso) = (1) - (6)"
+},
+{
+"pag": 36,
+"texto": "8 Índice de Aproveitamento Depreciado"
+},
+{
+"pag": 36,
+"texto": "9 Valor da Base de Remuneração (VBR) = (7) - (8)"
+},
+{
+"pag": 36,
+"texto": "10 Almoxarifado em Operação"
+},
+{
+"pag": 36,
+"texto": "11 Ativos Não Onerosos Líquido"
+},
+{
+"pag": 36,
+"texto": "12 Terrenos e Servidões X IA"
+},
+{
+"pag": 36,
+"texto": "13 Base de Remuneração Líquida Total = (1)-(6)-(8)+(10)-(11)+(12)"
+},
+{
+"pag": 37,
+"texto": "ANEXO VII – LAUDO SINTÉTICO"
+},
+{
+"pag": 37,
+"texto": "Função N° Discriminação dos itens Valor R$"
+},
+{
+"pag": 37,
+"texto": "Operacional"
+},
+{
+"pag": 37,
+"texto": "1 Ativos Imobilizados em Serviço x IA"
+},
+{
+"pag": 37,
+"texto": "2 Ativos Terrenos e Servidões x IA"
+},
+{
+"pag": 37,
+"texto": "3 Ativos Totalmente Depreciados"
+},
+{
+"pag": 37,
+"texto": "4 Depreciação Acumulada"
+},
+{
+"pag": 37,
+"texto": "5 Ativos não onerosos"
+},
+{
+"pag": 37,
+"texto": "Subtotal"
+},
+{
+"pag": 37,
+"texto": "Administração"
+},
+{
+"pag": 37,
+"texto": "1 Ativos Imobilizados em Serviço x IA"
+},
+{
+"pag": 37,
+"texto": "2 Ativos Terrenos e Servidões x IA"
+},
+{
+"pag": 37,
+"texto": "3 Ativos Totalmente Depreciados"
+},
+{
+"pag": 37,
+"texto": "4 Depreciação Acumulada"
+},
+{
+"pag": 37,
+"texto": "5 Ativos não onerosos"
+},
+{
+"pag": 37,
+"texto": "Subtotal"
+},
+{
+"pag": 37,
+"texto": "TOTAL"
+}
+]

@@ -395,7 +395,7 @@ Vitória/ES, 18 de setembro de 2026 Alexandre Careta Ventorim Diretor-Geral Déb
 
 **§ 5º** Na impossibilidade de aplicação do disposto no [[resolucoes/res-arsp-114-2026/anexo-i-art-26#^par4|§ 4º deste Artigo]], o consumo será apurado por estimativa, com base na média dos últimos 6 (seis) meses apurados.
 
-**§ 6º** Quando for exercida mais de uma atividade na mesma Unidade Usuária, configurandose distintos Segmentos de Usuários, deve ser instalada medição individualizada para cada Segmento de Usuários, constituindo-se em Unidades Usuárias autônomas.
+**§ 6º** Quando for exercida mais de uma atividade na mesma Unidade Usuária, configurando-se distintos Segmentos de Usuários, deve ser instalada medição individualizada para cada Segmento de Usuários, constituindo-se em Unidades Usuárias autônomas.
 
 **§ 7º** Nos casos previstos no Parágrafo anterior e que seja tecnicamente inviável a instalação de medidor para cada atividade, será excepcionalmente permitida a instalação de um único sistema de medição, estabelecendo-se rateio de tal forma que o volume relativo a cada atividade seja classificado no respectivo Segmento de Usuários, para fins de aplicação tarifária e demais obrigações pertinentes a cada Segmento de Usuários.
 

@@ -146,6 +146,10 @@ main{min-width:0;padding:1.6rem 0 4rem 2.2rem}
 .estr small{display:block;font-weight:400;font-size:.88rem;color:var(--sub);letter-spacing:0}
 .pre{font-family:var(--f-texto);font-size:.95rem;line-height:1.6;margin:0 0 .6rem;color:var(--sub)}
 .pre.fecho{margin-top:1rem;font-style:italic}
+.tabela{overflow-x:auto;margin:.4rem 0 1rem}
+.tabela table{border-collapse:collapse;font-size:.84rem;font-variant-numeric:tabular-nums}
+.tabela th,.tabela td{border:1px solid var(--fio);padding:.35rem .6rem;text-align:left;vertical-align:top}
+.tabela th{background:var(--folha);font-weight:600}
 .tab{font-family:var(--f-mono);font-size:.74rem;line-height:1.45;background:var(--folha);border:1px solid var(--fio);border-radius:6px;padding:.7rem .8rem;overflow-x:auto;white-space:pre;margin:.4rem 0 1rem;color:var(--sub)}
 .art{display:grid;grid-template-columns:5.2rem minmax(0,1fr);gap:0 .9rem;padding:.7rem 0 .55rem;border-top:1px solid var(--fio);scroll-margin-top:calc(var(--topo) + 1.2rem)}
 .art-r{font-family:var(--f-ui);font-weight:600;font-size:.86rem;color:var(--tinta);padding-top:.2rem;text-align:right;line-height:1.3}
@@ -510,6 +514,12 @@ function desenharFios(){
 }
 addEventListener("resize", () => { desenharFios(); if (location.hash === "#mapa") mapa(); });
 
+// tabela transcrita no pipeline (colunas separadas por " | "): a primeira linha é o cabeçalho
+function tabelaHTML(b){
+  const [cab, ...linhas] = b.L.map(t => t.split(" | "));
+  return `<div class="tabela"><table><thead><tr>${cab.map(c => `<th scope="col">${esc(c)}</th>`).join("")}</tr></thead>`
+    + `<tbody>${linhas.map(r => `<tr>${r.map(c => `<td>${esc(c)}</td>`).join("")}</tr>`).join("")}</tbody></table></div>`;
+}
 function documento(id, disp){
   const d = DOCS.get(id);
   if (docAtual !== id){
@@ -524,7 +534,8 @@ function documento(id, disp){
       for (const b of p.B){
         if (b.k === "h") s += `<div class="estr">${esc(b.r)}${b.t ? `<small>${esc(b.t)}</small>` : ""}</div>`;
         else if (b.k === "x"){
-          if (p.id !== "corpo" && !b.fecho) s += `<pre class="tab">${b.L.map((t, i) => txt(t, b.RL && b.RL[i])).join("\n")}</pre>`;
+          if (b.tb) s += tabelaHTML(b);
+          else if (p.id !== "corpo" && !b.fecho && !b.pr) s += `<pre class="tab">${b.L.map((t, i) => txt(t, b.RL && b.RL[i])).join("\n")}</pre>`;
           else b.L.forEach((t, i) => { s += `<p class="pre${b.fecho ? " fecho" : ""}">${txt(t, b.RL && b.RL[i])}</p>`; });
         } else s += artHTML(d, b);
       }

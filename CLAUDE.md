@@ -2,7 +2,7 @@
 
 Site com as normas da ARSP (gás canalizado, Espírito Santo) ligadas dispositivo a dispositivo: cada remissão ("§ 7º do art. 43 da Resolução ARSP nº 46/2021") vira link para o dispositivo exato, com caixinha de prévia, "citado por" e linhagem entre atos. Os documentos são públicos. O site é estático e tem no máximo 2 usuários simultâneos.
 
-O piloto foi construído numa conversa no app do Claude e validado com 15 documentos. Em 2026-11-10, as duas peças da CP 004/2026 (a minuta e a NT GGN 001/2026) saíram da base. Em 2026-11-12 entraram o Contrato de Concessão da ES Gás (2020) e a Res. ARSP 084/2025 (metodologia da margem, com anexo de itens numerados). Desde então, a referência para detectar regressões é de 15 documentos: 597 artigos, cláusulas e itens, 341 remissões (6 inferidas, 1 parcial) e 0 não resolvidas.
+O piloto foi construído numa conversa no app do Claude e validado com 15 documentos. Em 2026-11-10, as duas peças da CP 004/2026 (a minuta e a NT GGN 001/2026) saíram da base. Em 2026-11-12 entraram o Contrato de Concessão da ES Gás (2020), a Res. ARSP 084/2025 (metodologia da margem, com anexo de itens numerados), a Res. ARSP 080/2024 (base de remuneração regulatória) e a Res. ARSP 101/2026 (tarifa do segmento termelétrico). Desde então, a referência para detectar regressões é de 17 documentos: 765 artigos, cláusulas e itens, 378 remissões (12 inferidas, 1 parcial) e 0 não resolvidas.
 
 ## Como rodar
 
@@ -49,6 +49,15 @@ Depois de qualquer mudança, confira `content/revisao.md` (parciais e inferidas)
 - Remissões (`remissoes.py`): "item 108" só vira token no ato que tem itens e nos trechos que citam um ato assim; procura o item na parte de origem e depois nas outras. Num ato sem cláusulas próprias que cita o contrato de concessão em algum trecho, "Cláusula IX" sozinha liga ao contrato como `inferido`.
 - Extração (`extrair.py`): `AJUSTES[...]["ver_pdf"]` troca fórmulas e tabelas que viram texto quebrado por "[Fórmula/Tabela: ver o PDF, p. N.]". As letras matemáticas do Word ("𝐂𝐍𝐔𝐌") viram letras comuns em todos os atos.
 - Assinaturas sem "Vitória/ES, data" antes (nome e, na linha seguinte, "Diretor…"/"Presidente") encerram o último artigo do corpo.
+- Itens de anexo também valem quando antes deles há só um subtítulo curto e tabelas transcritas (Res. 101/2026: "VÁLIDA A PARTIR DE 16/03/2026"), e "11.Tributos" sem espaço conta como item.
+
+## Tabelas e texto corrido nos anexos
+
+- Tabela transcrita (`extrair.py`, `AJUSTES[...]["transcrever"]`): troca as linhas desmontadas pela tabela conferida no PDF, com colunas separadas por " | ", no lugar em que ela aparece no PDF. A estrutura põe essas linhas num bloco `tabela` (fecha o artigo ou item aberto), o site mostra uma tabela HTML e o Quartz uma tabela Markdown. Hoje só a Res. 101/2026, Anexo I.
+- Texto corrido de anexo (`estruturar.py`, `eh_prosa`): bloco de texto de anexo com média de 50 caracteres por linha ou mais e pelo menos 30% de linhas cheias (as tabelas têm até 48 e 11%) tem as linhas do PDF juntadas em parágrafos (`em_paragrafos`) e vira `prosa`: o site mostra parágrafos com links, não o bloco de texto fixo. Ex.: Res. 080/2024, Anexo V.
+- Hífen no fim da linha seguido de pronome ("classificando-" + "as", "far-" + "se-á") fica; "clas-" + "se" e as outras divisões de sílaba juntam a palavra (`juntar`).
+- "Seção IV deste regulamento…" em começo de linha é fim de frase quebrada, não título.
+- "art. N da Resolução X", vindo de outro ato, procura primeiro nos anexos só quando o corpo de X tem até 10 artigos (regulamento no anexo); na Res. 080/2024 (90 artigos no corpo) "seu art. 19" é do corpo.
 
 ## Etapas do pipeline
 
@@ -94,6 +103,7 @@ Abra `site-piloto/index.html` no navegador (ou com Playwright). No painel do nav
 - Contrato de concessão, erros de numeração do próprio original (o texto não muda): Cláusula I, 1.1, o 50º inciso está impresso "XL" (tratado como o 50º, com o número impresso); itens 6.5 (Anexo I) e 4.3.5 (Anexo II) repetidos; faltam 15.2, 22.7 e 26.2.
 - Contrato de concessão: texto de OCR. Fórmulas e as tabelas dos Anexos III e IV não estão transcritas; vale o PDF.
 - Res. 084/2025, item 26: "item 9.3 da Cláusula IX" liga ao contrato como `inferido` (a frase não diz "contrato"); conferir na aba "A conferir". As equações 1 a 8, a Tabela 1 e a tabela do Anexo III não estão transcritas; vale o PDF. As Res. 031/2019 e 080/2024, citadas por ela, ainda estão fora do cadastro.
+- Res. 080/2024, preâmbulo: 6 remissões `inferido` ao contrato ("Cláusula I, item 1.1, incisos V e VI; Cláusula XI; …" e "Cláusula II, item 2.1… do Anexo I do referido contrato de concessão": o nome do contrato só aparece no fim da frase ou depois de "referido"); conferir na aba "A conferir". Os Anexos III, VI e VII são tabelas e saem como texto em bloco. No Anexo IV, art. 4º, os incisos III e IV citam o "Anexo V" e o "Anexo VI", mas o Resumo da BAR é o Anexo VI e o Laudo sintético o VII (erro do original; o texto não muda).
 - Res. 048/2021 vem de OCR: vale conferir com o PDF.
 - Tabelas de tarifas dos anexos saem como texto corrido.
 

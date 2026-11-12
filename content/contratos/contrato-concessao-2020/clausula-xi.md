@@ -48,3 +48,7 @@ pagina_pdf: 15
 
 ---
 [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] · [PDF, pág. 15](../../pdf/contrato-concessao-2020.pdf#page=15)
+
+## Citado por (1)
+
+- [[resolucoes/res-arsp-080-2024/index|Res. ARSP 080/2024 · preâmbulo]] → Cláusula XI *(vínculo inferido)*

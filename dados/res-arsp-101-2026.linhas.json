@@ -1,0 +1,298 @@
+[
+{
+"pag": 1,
+"texto": "RESOLUÇÃO ARSP Nº 101, de 16 de março de 2026"
+},
+{
+"pag": 1,
+"texto": "Define a tabela tarifária para o segmento"
+},
+{
+"pag": 1,
+"texto": "termoelétrico no âmbito do Estado do"
+},
+{
+"pag": 1,
+"texto": "Espírito Santo."
+},
+{
+"pag": 1,
+"texto": "A DIRETORIA COLEGIADA DA AGÊNCIA DE REGULAÇÃO DE SERVIÇOS"
+},
+{
+"pag": 1,
+"texto": "PÚBLICOS DO ESPÍRITO SANTO - ARSP, no uso de suas atribuições regimentais, a vista no"
+},
+{
+"pag": 1,
+"texto": "disposto na Lei Complementar nº 827, de 30 de junho de 2016,"
+},
+{
+"pag": 1,
+"texto": "Considerando que compete à ARSP fixar as tarifas e outras formas de contraprestação dos"
+},
+{
+"pag": 1,
+"texto": "serviços regulados, bem como os reajustes anuais e as revisões, tendo por objetivo assegurar"
+},
+{
+"pag": 1,
+"texto": "tanto o equilíbrio econômico-financeiro da prestação do serviço como a modicidade tarifária,"
+},
+{
+"pag": 1,
+"texto": "mediante mecanismos que induzam à eficiência e eficácia dos serviços e que permitam a"
+},
+{
+"pag": 1,
+"texto": "apropriação social dos ganhos de produtividade, no que couber;"
+},
+{
+"pag": 1,
+"texto": "Considerando que o Contrato de Concessão nos itens 2.6 e 2.6.1 determinou que a"
+},
+{
+"pag": 1,
+"texto": "concessionária deve apresentar as tabelas de tarifas de todos os segmentos de usuários para"
+},
+{
+"pag": 1,
+"texto": "aprovação do Regulador, que tem a função de defini-las."
+},
+{
+"pag": 1,
+"texto": "Considerando a NOTA TÉCNICA ARSP/GET Nº 002/2026 que apresenta análises e"
+},
+{
+"pag": 1,
+"texto": "considerações sobre a tabela tarifária para o segmento termoelétrico apresentada pela"
+},
+{
+"pag": 1,
+"texto": "concessionária ES Gás, por meio da Carta ES GAS/DAC/GREG Nº 133/2025 após a Tomada"
+},
+{
+"pag": 1,
+"texto": "de Subsídios ARSP 002/2025."
+},
+{
+"pag": 1,
+"texto": "Considerando a Tomada de Subsídios ARSP 002/2025 que colheu contribuições da"
+},
+{
+"pag": 1,
+"texto": "sociedade e dos agentes do setor sobre a adequação da estrutura tarifária e os critérios para"
+},
+{
+"pag": 1,
+"texto": "determinação das tarifas aplicáveis ao segmento termoelétrico;"
+},
+{
+"pag": 1,
+"texto": "RESOLVE:"
+},
+{
+"pag": 1,
+"texto": "Art. 1º Fica aprovado, na forma do anexo I, a tabela tarifária relativa aos serviços de"
+},
+{
+"pag": 1,
+"texto": "distribuição de gás, a ser aplicada para o segmento termoelétrico."
+},
+{
+"pag": 1,
+"texto": "Art. 2º Esta resolução entra em vigor na data de sua publicação substituindo outras que"
+},
+{
+"pag": 1,
+"texto": "disponham em contrário."
+},
+{
+"pag": 1,
+"texto": "Alexandre Careta Ventorim"
+},
+{
+"pag": 1,
+"texto": "Diretor–Geral"
+},
+{
+"pag": 1,
+"texto": "Débora Cristina Niero"
+},
+{
+"pag": 1,
+"texto": "Diretora de Gás Canalizado e Energia"
+},
+{
+"pag": 1,
+"texto": "Eduardo Calegari Fabris"
+},
+{
+"pag": 1,
+"texto": "Diretor Administrativo, Financeiro e"
+},
+{
+"pag": 1,
+"texto": "Tarifário"
+},
+{
+"pag": 1,
+"texto": "Mamoru Togawa Komatsu"
+},
+{
+"pag": 1,
+"texto": "Diretor de Saneamento Básico"
+},
+{
+"pag": 1,
+"texto": "Pedro Torraca Daemon"
+},
+{
+"pag": 1,
+"texto": "Diretor de Infraestrutura, Mobilidade e"
+},
+{
+"pag": 1,
+"texto": "Loteria"
+},
+{
+"pag": 2,
+"texto": "ANEXO I"
+},
+{
+"pag": 2,
+"texto": "TABELA DO SEGMENTO TERMOELÉTRICO"
+},
+{
+"pag": 2,
+"texto": "VÁLIDA A PARTIR DE 16/03/2026"
+},
+{
+"pag": 2,
+"texto": "Classe | CDC mínimo (m³/dia) | CDC máximo (m³/dia) | Parcela de Reserva de Capacidade – PRC (R$/m³) | Parcela de Uso de Capacidade – PUC (R$/m³)"
+},
+{
+"pag": 2,
+"texto": "1 | - | 1.000.000 | 0,0200 | 0,05"
+},
+{
+"pag": 2,
+"texto": "2 | 1.000.001 | 2.000.000 | 0,0100 | 0,05"
+},
+{
+"pag": 2,
+"texto": "3 | 2.000.001 | 4.000.000 | 0,0085 | 0,05"
+},
+{
+"pag": 2,
+"texto": "4 | 4.000.001 | ∞ | 0,0050 | 0,05"
+},
+{
+"pag": 2,
+"texto": "1. Tabela referente ao segmento termoelétrico com contratos firmes de capacidade e/ou"
+},
+{
+"pag": 2,
+"texto": "despacho com contrato regulado e/ou lastro (“termoelétricas firmes”)."
+},
+{
+"pag": 2,
+"texto": "2. Faturamento por classe, não sendo permitido o empilhamento entre projetos diferentes."
+},
+{
+"pag": 2,
+"texto": "3. Faturamento mensal corresponde ao somatório da Parcela de Reserva de Capacidade – PRC e"
+},
+{
+"pag": 2,
+"texto": "Parcela de Uso de Capacidade – PUC, calculados conforme itens 4 e 5, a seguir, além da aplicação"
+},
+{
+"pag": 2,
+"texto": "dos tributos vigentes."
+},
+{
+"pag": 2,
+"texto": "4. Parcela de Reserva de Capacidade - PRC: corresponde ao CDC x nº de dias do mês x PRC (em"
+},
+{
+"pag": 2,
+"texto": "R$/m³) da classe correspondente."
+},
+{
+"pag": 2,
+"texto": "5. Parcela de Uso de Capacidade - PUC: corresponde ao volume mensal distribuído x PUC (em"
+},
+{
+"pag": 2,
+"texto": "R$/m³)."
+},
+{
+"pag": 2,
+"texto": "6. Tabelas tarifárias sujeitas a reajustes anuais, válidos a partir de 1 ° de agosto de cada ano, pelo"
+},
+{
+"pag": 2,
+"texto": "Índice Geral de Preços do Mercado (IGPM), divulgado pela Fundação Getúlio Vargas (FGV),"
+},
+{
+"pag": 2,
+"texto": "conforme previsto no Contrato de Concessão. Excepcionalmente, o primeiro reajuste ocorrerá em"
+},
+{
+"pag": 2,
+"texto": "2027, considerando o período decorrido entre o mês de publicação desta tabela até o"
+},
+{
+"pag": 2,
+"texto": "antepenúltimo mês anterior ao reajuste, sendo o índice divulgado no penúltimo mês antes da"
+},
+{
+"pag": 2,
+"texto": "vigência do reajuste, ou, ocorrendo a descontinuidade, aquele que vier sucedê-lo. Os demais"
+},
+{
+"pag": 2,
+"texto": "reajustes considerarão 12 meses completos."
+},
+{
+"pag": 2,
+"texto": "7. As tabelas não estarão sujeitas às revisões tarifárias durante a vigência dos contratos assinados"
+},
+{
+"pag": 2,
+"texto": "com cada usuário, mas tão somente aos reajustes anuais conforme item 6."
+},
+{
+"pag": 2,
+"texto": "8. Os valores do PRC e PUC não incluem o Custo do Gás."
+},
+{
+"pag": 2,
+"texto": "9. Para o mercado cativo, o Custo do Gás será calculado e publicado pela Agência em conformidade"
+},
+{
+"pag": 2,
+"texto": "à Resolução ARSP 061, 29 de março de 2023, ou outras que venham a substituí-la e/ou alterá-la, e"
+},
+{
+"pag": 2,
+"texto": "somado à PUC."
+},
+{
+"pag": 2,
+"texto": "10. Para o mercado livre, o custo do gás é de responsabilidade do agente livre de mercado e a"
+},
+{
+"pag": 2,
+"texto": "TUSD-Gás é igual à margem de distribuição, calculada conforme tabela do segmento termoelétrico"
+},
+{
+"pag": 2,
+"texto": "que estiver em vigor."
+},
+{
+"pag": 2,
+"texto": "11.Tributos: serão aplicados conforme legislação vigente."
+}
+]

@@ -91,16 +91,17 @@
        {
         "ini": 15,
         "fim": 41,
-        "externo": "Res. ARSP 080/2024",
-        "url": null,
-        "conf": "externo"
+        "doc": "res-arsp-080-2024",
+        "disp": null,
+        "conf": "documento"
        },
        {
         "ini": 247,
         "fim": 254,
-        "externo": "Res. ARSP 080/2024",
-        "url": null,
-        "conf": "externo"
+        "doc": "res-arsp-080-2024",
+        "disp": "art19",
+        "art": "art19",
+        "conf": "exato"
        }
       ],
       "11": [

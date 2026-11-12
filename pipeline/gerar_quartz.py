@@ -216,7 +216,12 @@ class Gerador:
                     L.append("")
                 elif b["tipo"] == "texto":
                     refs_l = b.get("refs_linhas", {})
-                    if p["id"] != "corpo" and not b.get("fecho"):
+                    if b.get("tabela"):           # tabela transcrita: colunas separadas por " | "
+                        cols = [t.split(" | ") for t in b["linhas"]]
+                        L.append("| " + " | ".join(esc(c) for c in cols[0]) + " |")
+                        L.append("|" + "---|" * len(cols[0]))
+                        L += ["| " + " | ".join(esc(c) for c in r) + " |" for r in cols[1:]]
+                    elif p["id"] != "corpo" and not b.get("fecho") and not b.get("prosa"):
                         L.append("```text")
                         L += b["linhas"]
                         L.append("```")

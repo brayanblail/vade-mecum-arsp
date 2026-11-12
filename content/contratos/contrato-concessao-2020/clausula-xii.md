@@ -88,7 +88,7 @@ pagina_pdf: 16
 ---
 [[contratos/contrato-concessao-2020/index|Contrato de Concessão]] · [PDF, pág. 16](../../pdf/contrato-concessao-2020.pdf#page=16)
 
-## Citado por (8)
+## Citado por (11)
 
 - [[contratos/contrato-concessao-2020/anexo-i-clausula-vi#^it6-2-1|Contrato de Concessão · Anexo I, Cláusula VI, 6.2.1]] → Cláusula XII
 - [[contratos/contrato-concessao-2020/clausula-xi#^it11-6-2|Contrato de Concessão · Cláusula XI, 11.6.2]] → Cláusula XII
@@ -96,5 +96,8 @@ pagina_pdf: 16
 - [[resolucoes/dec-arsp-dg-007-2026/index|Decisão ARSP/DG 007/2026 · preâmbulo]] → Cláusula XII, 12.13
 - [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023 · preâmbulo]] → Cláusula XII, 12.12.1
 - [[resolucoes/res-arsp-061-2023/index|Res. ARSP 061/2023 · preâmbulo]] → Cláusula XII, 12.13
+- [[resolucoes/res-arsp-080-2024/index|Res. ARSP 080/2024 · preâmbulo]] → Cláusula XII
+- [[resolucoes/res-arsp-080-2024/index|Res. ARSP 080/2024 · preâmbulo]] → Cláusula XII, 12.2, inciso VI, alínea a)
+- [[resolucoes/res-arsp-080-2024/index|Res. ARSP 080/2024 · preâmbulo]] → Cláusula XII, 12.15, inciso I
 - [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026 · preâmbulo]] → Cláusula XII, 12.12.1
 - [[resolucoes/res-arsp-106-2026/index|Res. ARSP 106/2026 · preâmbulo]] → Cláusula XII, 12.13
