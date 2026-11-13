@@ -2,7 +2,7 @@
 
 Site com as normas da ARSP (gás canalizado, Espírito Santo) ligadas dispositivo a dispositivo: cada remissão ("§ 7º do art. 43 da Resolução ARSP nº 46/2021") vira link para o dispositivo exato, com caixinha de prévia, "citado por" e linhagem entre atos. Os documentos são públicos. O site é estático e tem no máximo 2 usuários simultâneos.
 
-O piloto foi construído numa conversa no app do Claude e validado com 15 documentos. Em 2026-11-10, as duas peças da CP 004/2026 (a minuta e a NT GGN 001/2026) saíram da base. Em 2026-11-12 entraram o Contrato de Concessão da ES Gás (2020), a Res. ARSP 084/2025 (metodologia da margem, com anexo de itens numerados), a Res. ARSP 080/2024 (base de remuneração regulatória) e a Res. ARSP 101/2026 (tarifa do segmento termelétrico). Desde então, a referência para detectar regressões é de 17 documentos: 765 artigos, cláusulas e itens, 378 remissões (12 inferidas, 1 parcial) e 0 não resolvidas.
+O piloto foi construído numa conversa no app do Claude e validado com 15 documentos. Em 2026-11-10, as duas peças da CP 004/2026 (a minuta e a NT GGN 001/2026) saíram da base. Em 2026-11-12 entraram o Contrato de Concessão da ES Gás (2020), a Res. ARSP 084/2025 (metodologia da margem, com anexo de itens numerados), a Res. ARSP 080/2024 (base de remuneração regulatória) e a Res. ARSP 101/2026 (tarifa do segmento termelétrico); em 2026-11-13, a Res. ARSP 099/2026 (aquisição de gás pela concessionária). Desde então, a referência para detectar regressões é de 18 documentos: 789 artigos, cláusulas e itens, 404 remissões (12 inferidas, 1 parcial) e 0 não resolvidas.
 
 ## Como rodar
 
@@ -57,6 +57,8 @@ Depois de qualquer mudança, confira `content/revisao.md` (parciais e inferidas)
 - Texto corrido de anexo (`estruturar.py`, `eh_prosa`): bloco de texto de anexo com média de 50 caracteres por linha ou mais e pelo menos 30% de linhas cheias (as tabelas têm até 48 e 11%) tem as linhas do PDF juntadas em parágrafos (`em_paragrafos`) e vira `prosa`: o site mostra parágrafos com links, não o bloco de texto fixo. Ex.: Res. 080/2024, Anexo V.
 - Hífen no fim da linha seguido de pronome ("classificando-" + "as", "far-" + "se-á") fica; "clas-" + "se" e as outras divisões de sílaba juntam a palavra (`juntar`).
 - "Seção IV deste regulamento…" em começo de linha é fim de frase quebrada, não título.
+- O detector reconhece "RESOLUÇÃO ARSP Nº 048" em maiúsculas e "Resolução ASPE – nº 08/2007" com travessão, e expande "§§ 2º a 9º" (intervalo com º) para todos os parágrafos.
+- O fecho de um anexo (local, data e assinaturas) junta as linhas num parágrafo, como no corpo.
 - "art. N da Resolução X", vindo de outro ato, procura primeiro nos anexos só quando o corpo de X tem até 10 artigos (regulamento no anexo); na Res. 080/2024 (90 artigos no corpo) "seu art. 19" é do corpo.
 
 ## Etapas do pipeline

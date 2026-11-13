@@ -834,27 +834,13 @@
      "tipo": "texto",
      "linhas": [
       "Vitória/ES, 26 de maio de 2023.",
-      "Marcelo Campos Antunes",
-      "Diretor Presidente",
-      "Joana Moraes Resende Magella",
-      "Diretora Administrativa e Financeira",
-      "Débora Cristina Niero",
-      "Diretora de Gás Canalizado e Energia – respondendo",
-      "Odylea Oliveira de Tassis",
-      "Diretora de Saneamento Básico e Infraestrutura Viária – respondendo"
+      "Marcelo Campos Antunes Diretor Presidente Joana Moraes Resende Magella Diretora Administrativa e Financeira Débora Cristina Niero Diretora de Gás Canalizado e Energia – respondendo Odylea Oliveira de Tassis Diretora de Saneamento Básico e Infraestrutura Viária – respondendo"
      ],
      "pag": 10,
      "fecho": true,
      "refs_linhas": {
       "0": [],
-      "1": [],
-      "2": [],
-      "3": [],
-      "4": [],
-      "5": [],
-      "6": [],
-      "7": [],
-      "8": []
+      "1": []
      }
     }
    ]

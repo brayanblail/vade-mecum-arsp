@@ -364,19 +364,5 @@ Distribuição
 
 Vitória/ES, 28 de dezembro de 2022.
 
-Joana Moraes Resende Magella
-
-Diretora Presidente
-
-Bárbara Carneiro Caniçali
-
-Diretora Administrativa e Financeira
-
-Débora Cristina Niero
-
-Diretora de Gás Canalizado e Energia – respondendo
-
-Kátia Muniz Côco
-
-Diretora de Saneamento Básico e Infraestrutura Viária
+Joana Moraes Resende Magella Diretora Presidente Bárbara Carneiro Caniçali Diretora Administrativa e Financeira Débora Cristina Niero Diretora de Gás Canalizado e Energia – respondendo Kátia Muniz Côco Diretora de Saneamento Básico e Infraestrutura Viária
 

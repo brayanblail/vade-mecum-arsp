@@ -199,19 +199,5 @@ Marcelo Campos Antunes Diretor-Presidente Joana Moraes Resende Magella Diretora 
 
 Vitória/ES, 26 de maio de 2023.
 
-Marcelo Campos Antunes
-
-Diretor Presidente
-
-Joana Moraes Resende Magella
-
-Diretora Administrativa e Financeira
-
-Débora Cristina Niero
-
-Diretora de Gás Canalizado e Energia – respondendo
-
-Odylea Oliveira de Tassis
-
-Diretora de Saneamento Básico e Infraestrutura Viária – respondendo
+Marcelo Campos Antunes Diretor Presidente Joana Moraes Resende Magella Diretora Administrativa e Financeira Débora Cristina Niero Diretora de Gás Canalizado e Energia – respondendo Odylea Oliveira de Tassis Diretora de Saneamento Básico e Infraestrutura Viária – respondendo
 

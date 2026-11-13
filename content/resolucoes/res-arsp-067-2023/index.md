@@ -289,19 +289,5 @@ Marcelo Campos Antunes Diretor-Presidente Alexandre Careta Ventorim Diretor Admi
 
 Vitória/ES, 21 de agosto de 2023.
 
-Marcelo Campos Antunes
-
-Diretor-Presidente
-
-Alexandre Careta Ventorim
-
-Diretor Administrativo e Financeiro
-
-Débora Cristina Niero
-
-Diretora de Gás Canalizado e Energia
-
-Joana Moraes Resende Magella
-
-Diretora de Saneamento Básico e Infraestrutura Viária
+Marcelo Campos Antunes Diretor-Presidente Alexandre Careta Ventorim Diretor Administrativo e Financeiro Débora Cristina Niero Diretora de Gás Canalizado e Energia Joana Moraes Resende Magella Diretora de Saneamento Básico e Infraestrutura Viária
 

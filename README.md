@@ -31,7 +31,7 @@ O `construir.py` também gera um site num arquivo só, com o mesmo conteúdo. Ne
 | `pipeline/construir.py` | Roda tudo: extrai, estrutura, liga remissões e gera as saídas |
 | `pipeline/*.py` | As etapas (extrair, estruturar, remissoes, gerar_quartz, gerar_piloto) |
 | `ocr/` | Texto da Res. 048/2021 obtido por OCR (o PDF original tem a camada de texto corrompida) |
-| `content/` | **Saída pronta para o Quartz/Obsidian**: 17 atos, 767 notas de artigo, cláusula ou item, PDFs em `content/pdf/` |
+| `content/` | **Saída pronta para o Quartz/Obsidian**: 18 atos, 791 notas de artigo, cláusula ou item, PDFs em `content/pdf/` |
 | `skill/` | **Skill para o Claude** (`vade-mecum-arsp-links.zip`): liga as citações de um Word ao site, com dica de tela. Veja abaixo |
 | `dados/` | Arquivos intermediários. Os dois que interessam: `remissoes.json` (todas as ligações) e `nao_resolvidas.csv` |
 
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 python pipeline\construir.py --pdfs "D:\Claude\Resoluções ARSP"
 ```
 
-Leva cerca de 1 minuto para os 17 documentos. Ao final, confira:
+Leva cerca de 1 minuto para os 18 documentos. Ao final, confira:
 
 - `content\revisao.md`: remissões **parciais** (o dispositivo citado não existe no destino) e **inferidas** (o texto não diz de qual ato é o artigo);
 - `dados\nao_resolvidas.csv`: citações que não viraram link.

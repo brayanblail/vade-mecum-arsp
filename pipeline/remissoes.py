@@ -39,8 +39,8 @@ TOKENS = [
     ("neste", r"\b(?P<neste>(?:neste|deste|nesse|desse)\s+[Aa]rtigo)\b"),
     ("self", r"\b(?P<self>(?:desta|da\s+presente|nesta|na\s+presente|dessa|nessa)\s*(?:Resolu[çc][ãa]o|Lei(?:\s+Complementar)?|Decis[ãa]o|Norma|Minuta)"
              r"|(?:deste|neste|do\s+presente)\s+(?:Anexo|[Rr]egulamento|[Cc]ontrato|CONTRATO))\b"),
-    ("res", rf"(?P<res>(?:Resolu[çc][ãa]o\s+|Res\.\s*)(?:Normativa\s+)?(?P<res_org>[Aa][Rr][Ss][Pp]|[Aa][Ss][Pp][Ee])(?:\s*[/\-]\s*[A-Z]{{2,6}})?\s*"
-            rf"(?:N\s*[º°o]\.?|n\.?\s*[º°o]\.?|No\.?)?\s*0*(?P<res_num>\d{{1,3}})"
+    ("res", rf"(?P<res>(?:Resolu[çc][ãa]o\s+|RESOLU[ÇC][ÃA]O\s+|Res\.\s*)(?:Normativa\s+)?(?P<res_org>[Aa][Rr][Ss][Pp]|[Aa][Ss][Pp][Ee])(?:\s*[/\-]\s*[A-Z]{{2,6}})?\s*"
+            rf"(?:[–—]\s*)?(?:N\s*[º°o]\.?|n\.?\s*[º°o]\.?|No\.?)?\s*0*(?P<res_num>\d{{1,3}})"
             rf"(?:\s*[/\-_]\s*(?P<res_ano>\d{{4}})|{DATA}(?P<res_ano2>\d{{4}}))?)"),
     ("dec", r"(?P<dec>Decis[ãa]o\s+ARSP\s*/\s*DG\s*(?:[Nn]\.?\s*[º°o]\.?\s*)?0*(?P<dec_num>\d{1,3})\s*[/.]\s*(?P<dec_ano>\d{4}))"),
     ("lc", rf"(?P<lc>(?:Lei\s+Complementar|LC)(?:\s+(?:Estadual|Federal))?\s*(?:[Nn]\.?\s*[º°o]\.?\s*)?(?P<lc_num>\d{{1,2}}\.?\d{{3}}|\d{{3}})"
@@ -127,8 +127,8 @@ def nums_lista(s, tipo):
         out = re.findall(r"(?<![a-zà-ú])([a-z])(?![a-zà-ú])", re.sub(r"^[Aa]l[íi]neas?\s+", "", s))
     else:
         out = []
-    # intervalos "37 a 39"
-    if tipo in ("art", "par", "itm") and re.search(r"\d\s*(?:a|até)\s*(?:[Aa]rt\.?\s*)?\d", s) and len(out) == 2 \
+    # intervalos "37 a 39", "§§ 2º a 9º"
+    if tipo in ("art", "par", "itm") and re.search(r"\d\s*[º°]?\s*(?:a|até)\s*(?:[Aa]rt\.?\s*)?\d", s) and len(out) == 2 \
             and out[0].isdigit() and out[1].isdigit() and 0 < int(out[1]) - int(out[0]) < 15:
         out = [str(i) for i in range(int(out[0]), int(out[1]) + 1)]
     return out

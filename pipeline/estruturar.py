@@ -112,7 +112,8 @@ class Construtor:
             ant = b["linhas"][-1]
             novo_par = (re.search(r"[.;:]$", ant) and re.match(r"[A-ZÁÉÍÓÚÂÊ\"“(]", t)) or \
                 re.match(r"(CONSIDERANDO|Considerando|RESOLVE|O GOVERNADOR|Faço saber|A DIRETORIA)", t)
-            if novo_par or self.parte["id"] != "corpo":
+            # nos anexos cada linha fica (tabelas), menos no fecho (local, data e assinaturas), que junta como no corpo
+            if novo_par or (self.parte["id"] != "corpo" and not b.get("fecho")):
                 b["linhas"].append(t)
             else:
                 b["linhas"][-1] = juntar(ant, t)

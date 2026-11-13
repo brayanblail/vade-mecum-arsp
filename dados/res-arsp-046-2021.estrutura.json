@@ -734,7 +734,15 @@
        "texto": "O contrato para aquisição de GÁS deverá ser submetido à aprovação do REGULADOR, em conformidade com o estabelecido pela RESOLUÇÃO ARSP Nº 025, DE 27 DE NOVEMBRO DE 2018 e suas alterações e/ou outra que vier a substituí-la.",
        "incisos": [],
        "pag": 8,
-       "refs": []
+       "refs": [
+        {
+         "ini": 120,
+         "fim": 141,
+         "externo": "Res. ARSP 025/?",
+         "url": null,
+         "conf": "externo"
+        }
+       ]
       },
       {
        "id": "art7_par3",
